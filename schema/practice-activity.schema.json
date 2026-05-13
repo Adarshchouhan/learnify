@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://learnify.local/schema/practice-activity.schema.json",
+  "title": "Learnify Practice Dataset",
+  "type": "object",
+  "required": ["version", "generatedBy", "source", "coverage", "activities"],
+  "properties": {
+    "version": { "type": "integer", "minimum": 1 },
+    "generatedBy": { "type": "string" },
+    "source": {
+      "type": "object",
+      "required": [
+        "root",
+        "pdfPath",
+        "classLevel",
+        "subject",
+        "book",
+        "chapter",
+        "chapterNumber",
+        "extractedCharacterCount",
+        "extractionPreview"
+      ]
+    },
+    "coverage": {
+      "type": "object",
+      "required": ["classes", "questionTypeCount", "answerBuilderModes", "activityCount"]
+    },
+    "activities": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "type",
+          "difficulty",
+          "classLevel",
+          "subject",
+          "book",
+          "chapter",
+          "chapterNumber",
+          "marks",
+          "question",
+          "instructions",
+          "structureHelp",
+          "sourceTextSummary",
+          "sourceChapter",
+          "sourcePdf",
+          "correctItems",
+          "distractors",
+          "answerSlots",
+          "answerKey",
+          "hints",
+          "modelAnswer",
+          "scoringRubric"
+        ],
+        "properties": {
+          "id": { "type": "string" },
+          "type": { "type": "string" },
+          "difficulty": { "type": "string" },
+          "classLevel": { "type": "integer" },
+          "subject": { "type": "string" },
+          "book": { "type": "string" },
+          "chapter": { "type": "string" },
+          "chapterNumber": { "type": "integer" },
+          "marks": { "type": "integer" },
+          "question": { "type": "string" },
+          "instructions": { "type": "string" },
+          "structureHelp": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "sourceTextSummary": { "type": "string" },
+          "sourceChapter": { "type": "string" },
+          "sourcePdf": { "type": "string" },
+          "correctItems": {
+            "type": "array",
+            "minItems": 1
+          },
+          "distractors": {
+            "type": "array"
+          },
+          "answerSlots": {
+            "type": "array",
+            "minItems": 1
+          },
+          "answerKey": {},
+          "correctSequence": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "hints": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "modelAnswer": { "type": "string" },
+          "scoringRubric": {
+            "type": "array",
+            "minItems": 1
+          }
+        }
+      }
+    }
+  }
+}

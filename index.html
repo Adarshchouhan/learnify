@@ -1,0 +1,331 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Learnify | Answer Writing Practice Platform</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <section id="landingView" class="landing-view">
+        <header class="landing-nav">
+          <div class="brand">
+            <div class="brand-mark">L</div>
+            <div>
+              <strong>Learnify</strong>
+              <span>Answer practice SaaS</span>
+            </div>
+          </div>
+          <nav class="landing-links" aria-label="Landing navigation">
+            <a href="#features">Features</a>
+            <a href="#formats">Question types</a>
+            <a href="#security">Security</a>
+          </nav>
+          <div class="landing-actions">
+            <button class="secondary-button" id="openLoginTop" type="button">Log in</button>
+            <button class="primary-button" id="openSignupTop" type="button">Start free</button>
+          </div>
+        </header>
+
+        <main>
+          <section class="hero-section">
+            <div class="hero-copy">
+              <span class="tag">Class 6-12 Practice Platform</span>
+              <h1>Students learn answer writing by building answers, not memorising them.</h1>
+              <p>
+                Learnify turns textbook chapters into drag-and-drop answer builders, sequence tasks,
+                assertion-reason practice, concept checks, and structured writing drills with instant feedback.
+              </p>
+              <div class="hero-actions">
+                <button class="primary-button" id="openSignupHero" type="button">Create student account</button>
+                <button class="secondary-button" id="openLoginHero" type="button">I already have an account</button>
+              </div>
+              <div class="hero-proof">
+                <span><strong>24</strong> pilot activities</span>
+                <span><strong>21</strong> question formats</span>
+                <span><strong>3</strong> answer-builder levels</span>
+              </div>
+            </div>
+
+            <div class="hero-product" aria-label="Product preview">
+              <div class="mini-browser">
+                <div class="browser-dots"><i></i><i></i><i></i></div>
+                <strong>Answer Builder</strong>
+                <span>Class 7 Science</span>
+              </div>
+              <div class="product-grid-preview">
+                <div class="preview-question">
+                  <span class="tag">Question</span>
+                  <h2>Build a correct answer explaining digestion in human beings.</h2>
+                  <p>Drag the best sentence blocks into the correct order.</p>
+                </div>
+                <div class="preview-slots">
+                  <div>1 <span>Food enters the mouth...</span></div>
+                  <div>2 <span>Saliva begins starch digestion...</span></div>
+                  <div>3 <span>Small intestine absorbs nutrients...</span></div>
+                </div>
+                <div class="preview-bank">
+                  <span class="mini-chip correct">Correct sentence</span>
+                  <span class="mini-chip correct">Useful key point</span>
+                  <span class="mini-chip wrong">Plausible distractor</span>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section id="features" class="landing-band">
+            <div class="section-heading">
+              <div>
+                <span class="tag">What It Does</span>
+                <h2>Everything is designed for answer construction.</h2>
+              </div>
+            </div>
+            <div class="feature-grid">
+              <article>
+                <strong>Easy mode</strong>
+                <p>Students arrange full sentences in the exact answer sequence.</p>
+              </article>
+              <article>
+                <strong>Moderate mode</strong>
+                <p>Half-sentence chunks train meaning, pairing, and order.</p>
+              </article>
+              <article>
+                <strong>Difficult mode</strong>
+                <p>Phrase-level construction builds real answer-writing fluency.</p>
+              </article>
+              <article>
+                <strong>Teacher-ready data</strong>
+                <p>Activities come from source PDFs with model answers and scoring keys.</p>
+              </article>
+            </div>
+          </section>
+
+          <section id="formats" class="landing-band split-band">
+            <div>
+              <span class="tag">Formats</span>
+              <h2>From explain questions to assertion-reason.</h2>
+              <p>
+                The platform supports the full practice grid: sequencing, compare/contrast,
+                cause/effect, fill blanks, data interpretation, paragraph structure, and more.
+              </p>
+            </div>
+            <div class="format-list">
+              <span>Explain</span><span>Compare</span><span>Cause/Effect</span><span>Process</span>
+              <span>Fill Blanks</span><span>Data/Table</span><span>Timeline</span><span>Assertion/Reason</span>
+            </div>
+          </section>
+
+          <section id="security" class="landing-band split-band">
+            <div>
+              <span class="tag">SaaS Foundation</span>
+              <h2>Auth, database, sessions, and progress tracking are included.</h2>
+              <p>
+                This local build includes signup/login validation, PBKDF2 password hashing,
+                HttpOnly sessions, CSRF protection for progress writes, SQLite persistence,
+                and security headers.
+              </p>
+            </div>
+            <form id="authForm" class="auth-card" novalidate>
+              <div class="auth-tabs">
+                <button class="auth-tab active" data-auth-mode="signup" type="button">Sign up</button>
+                <button class="auth-tab" data-auth-mode="login" type="button">Log in</button>
+              </div>
+              <label id="nameField">
+                Full name
+                <input id="nameInput" autocomplete="name" minlength="2" maxlength="80" required />
+              </label>
+              <label>
+                Email
+                <input id="emailInput" type="email" autocomplete="email" required />
+              </label>
+              <label>
+                Password
+                <input id="passwordInput" type="password" autocomplete="current-password" minlength="8" required />
+              </label>
+              <label id="classField">
+                Class
+                <select id="classInput">
+                  <option value="6">Class 6</option>
+                  <option value="7" selected>Class 7</option>
+                  <option value="8">Class 8</option>
+                  <option value="9">Class 9</option>
+                  <option value="10">Class 10</option>
+                  <option value="11">Class 11</option>
+                  <option value="12">Class 12</option>
+                </select>
+              </label>
+              <div id="authMessage" class="form-message" aria-live="polite"></div>
+              <button id="authSubmit" class="primary-button" type="submit">Create account</button>
+            </form>
+          </section>
+        </main>
+      </section>
+
+      <section id="dashboardView" class="app-shell" hidden>
+        <aside class="sidebar" aria-label="Primary navigation">
+          <div class="brand">
+            <div class="brand-mark">L</div>
+            <div>
+              <strong>Learnify</strong>
+              <span>Practice Studio</span>
+            </div>
+          </div>
+
+          <nav class="nav-list">
+            <button class="nav-item active" data-view="practice"><span class="nav-icon">P</span>Practice</button>
+            <button class="nav-item" data-view="types"><span class="nav-icon">T</span>Question Types</button>
+            <button class="nav-item" data-view="progress"><span class="nav-icon">G</span>Progress</button>
+            <button class="nav-item" data-view="library"><span class="nav-icon">D</span>Library</button>
+          </nav>
+
+          <section class="sidebar-card">
+            <div class="mini-label">Daily Goal</div>
+            <div class="goal-row">
+              <div class="goal-ring"><span id="goalPercent">0%</span></div>
+              <div>
+                <strong id="attemptCount">0 attempts</strong>
+                <span>Keep building</span>
+              </div>
+            </div>
+          </section>
+
+          <section class="profile-card">
+            <div class="avatar" id="avatarText">A</div>
+            <div>
+              <strong id="profileName">Student</strong>
+              <span id="profileMeta">Class 7</span>
+            </div>
+          </section>
+        </aside>
+
+        <main class="main">
+          <header class="topbar">
+            <div class="title-lockup">
+              <button class="back-button" id="homeButton" aria-label="Home" type="button">L</button>
+              <div class="title-icon">A</div>
+              <div>
+                <h1>Answer Builder</h1>
+                <p>Build strong answers from sentences, half-sentences, and key phrases.</p>
+              </div>
+            </div>
+            <div class="top-actions">
+              <div class="metric">
+                <span>Progress</span>
+                <strong id="progressText">1 / 3</strong>
+                <div class="metric-bar"><i id="progressBar"></i></div>
+              </div>
+              <div class="pill"><span>Streak</span><strong id="streakText">5</strong></div>
+              <div class="pill"><span>Score</span><strong id="scoreText">0 / 5</strong></div>
+              <button id="resetButton" class="icon-button" type="button" title="Reset">R</button>
+              <button id="logoutButton" class="secondary-button compact-button" type="button">Log out</button>
+            </div>
+          </header>
+
+          <section id="practiceView" class="view active-view">
+            <section class="question-card">
+              <div>
+                <span class="tag">Question</span>
+                <h2 id="questionTitle">Loading...</h2>
+                <p id="questionMeta"></p>
+              </div>
+              <div class="mark-card">
+                <strong id="marksText">5</strong>
+                <span>Marks</span>
+              </div>
+            </section>
+
+            <section class="mode-strip" aria-label="Difficulty modes">
+              <button class="mode-tab active" data-mode="easy"><strong>Easy</strong><span>Full sentences</span></button>
+              <button class="mode-tab" data-mode="moderate"><strong>Moderate</strong><span>Half sentences</span></button>
+              <button class="mode-tab" data-mode="difficult"><strong>Difficult</strong><span>Key phrases</span></button>
+            </section>
+
+            <section class="work-layout">
+              <div class="builder-panel">
+                <div class="panel-heading">
+                  <div>
+                    <h3>Build Your Answer</h3>
+                    <p id="instructionsText"></p>
+                  </div>
+                  <span id="placedCount" class="counter">0 placed</span>
+                </div>
+
+                <div id="structureRail" class="structure-rail"></div>
+                <div id="answerSlots" class="answer-slots" aria-label="Answer slots"></div>
+
+              <div class="builder-actions">
+                <button id="clearButton" class="secondary-button" type="button">Clear All</button>
+                <button id="hintButton" class="secondary-button" type="button">Show Hint</button>
+                <div class="question-nav">
+                  <button id="prevQuestionButton" class="secondary-button nav-step-button" type="button">Previous</button>
+                  <span id="questionNavText">Question 1 / 1</span>
+                  <button id="nextQuestionButton" class="secondary-button nav-step-button" type="button">Next Question</button>
+                </div>
+                <button id="checkButton" class="primary-button" type="button">Check Answer</button>
+              </div>
+              </div>
+
+              <aside class="option-panel">
+                <div class="panel-heading">
+                  <div>
+                    <h3 id="optionTitle">Options</h3>
+                    <p>Drag items into the answer area.</p>
+                  </div>
+                  <div class="legend">
+                    <span class="legend-correct">Correct</span>
+                    <span class="legend-wrong">Distractor</span>
+                  </div>
+                </div>
+                <div id="optionBank" class="option-bank"></div>
+              </aside>
+            </section>
+
+            <section id="feedbackPanel" class="feedback-panel" hidden></section>
+
+            <section class="question-types-section">
+              <div class="section-heading">
+                <div>
+                  <span class="tag">All Formats</span>
+                  <h2>Question Type Practice</h2>
+                </div>
+                <button id="jumpTypesButton" class="secondary-button" type="button">View All</button>
+              </div>
+              <div id="typeGridPreview" class="type-grid compact"></div>
+            </section>
+          </section>
+
+          <section id="typesView" class="view">
+            <section class="section-heading standalone">
+              <div>
+                <span class="tag">Generated From Chapter</span>
+                <h2>All Question Types</h2>
+                <p id="typeSummary">Loading activity library...</p>
+              </div>
+            </section>
+            <div id="typeGrid" class="type-grid"></div>
+          </section>
+
+          <section id="progressView" class="view">
+            <section class="empty-state">
+              <div class="title-icon">G</div>
+              <h2>Progress Snapshot</h2>
+              <p id="progressSummary">Complete a check to see your score, accuracy, and next suggestion.</p>
+              <div id="progressEvents" class="progress-events"></div>
+            </section>
+          </section>
+
+          <section id="libraryView" class="view">
+            <section class="empty-state">
+              <div class="title-icon">D</div>
+              <h2>Content Library</h2>
+              <p id="librarySummary">The pilot dataset is loading from Class 7 Science, Chapter 9.</p>
+            </section>
+          </section>
+        </main>
+      </section>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
