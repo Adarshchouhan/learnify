@@ -38,17 +38,32 @@ Current app type:
 - SQLite-backed auth and progress tracking
 - frontend served by `server.py`
 - generated practice JSON served from `/api/practice-data`
+- only catalog-active datasets are student-facing by default
+- teacher/admin users can review generated content, create assignments and see attempt analytics
 
 ## Key Files
 
 - `server.py`: localhost server, static hosting, auth APIs, progress APIs, security headers
+- `server.py`: also exposes dataset discovery and teacher/admin review APIs
 - `index.html`: landing page, auth form, protected dashboard shell
 - `styles.css`: landing, SaaS dashboard and practice UI styling
 - `app.js`: auth flow, dashboard state, drag/drop, scoring, feedback, question navigation
 - `scripts/build_practice_data.py`: PDF extraction and practice JSON generation
+- `scripts/build_pdf_manifest.py`: scans class 6-12 PDFs into a generation manifest
+- `scripts/build_content_catalog.py`: combines manifest, generated JSON and active approvals into a catalog
+- `scripts/batch_generate_practice_data.py`: runs controlled manifest-based generation batches
+- `scripts/activate_dataset.py`: marks a reviewed generated JSON dataset as active
+- `scripts/content_status.py`: reports scanned/generated/active rollout status
 - `scripts/validate_practice_json.py`: JSON validation checks
+- `scripts/validate_all_practice_json.py`: validates every generated practice JSON file
+- `scripts/smoke_test.py`: local server smoke test for auth, dataset loading and progress writes
 - `schema/practice-activity.schema.json`: dataset schema
 - `data/practice/class-7/science-curiosity/life-processes-in-animals.json`: current pilot dataset
+- `data/catalog/active-datasets.json`: approved student-facing datasets
+- `data/catalog/content-catalog.json`: generated content status catalog
+- `docs/README.md`: documentation index
+- `docs/content-rollout-plan.md`: scanned to generated to active rollout process
+- `docs/quality-gate.md`: checklist before a chapter goes live
 - `docs/chapter-practice-generation-system.md`: repeatable chapter generation system
 
 ## Current Dataset
@@ -68,12 +83,18 @@ Class 7 > Science - Curiosity > Chapter 9 - Life Processes in Animals
 Current generated coverage:
 
 - 84 total activities
+- 1,440 draft datasets generated from source text
+- 1,441 generated datasets total
+- 1 active student-facing dataset
 - 20 chapter question groups
 - 10 textbook/exercise-style questions
 - 10 major in-chapter conceptual questions
 - 3 answer-builder modes per chapter question
 - 21 additional interactive question-type examples
 - 8 layout profiles
+- class 6-12 PDF manifest generated with 1,434 entries
+- content catalog distinguishes `scanned`, `generated`, `needs_revision` and `active`
+- all manifest entries currently have generated JSON; the previously corrupt Class 12 Chemistry `lech102.pdf` source was replaced and regenerated
 
 Layout profiles:
 
@@ -96,6 +117,7 @@ Layout profiles:
 - The Next Question control cycles through chapter question groups.
 - Difficulty tabs switch modes inside the current question.
 - Future chapters should follow `docs/chapter-practice-generation-system.md`.
+- Teachers/admins should review generated content before a chapter is treated as approved.
 
 ## Auth And Security
 
@@ -105,6 +127,10 @@ Implemented locally in `server.py`:
 - client and server validation
 - PBKDF2 password hashing with per-user salt
 - SQLite users, sessions and progress events
+- SQLite content review and dataset registry tables
+- SQLite assignment table and teacher analytics endpoint
+- student assignment inbox and assignment launch flow
+- roles: student, teacher, admin
 - HttpOnly SameSite session cookie
 - CSRF token required for progress writes
 - basic rate limiting for POST routes
@@ -123,9 +149,13 @@ Commands used:
 
 ```powershell
 python scripts/build_practice_data.py
+python scripts/build_pdf_manifest.py
+python scripts/build_content_catalog.py
 python scripts/validate_practice_json.py
-python -m py_compile server.py scripts/build_practice_data.py scripts/validate_practice_json.py
+python scripts/validate_all_practice_json.py
+python -m py_compile server.py scripts/build_practice_data.py scripts/build_pdf_manifest.py scripts/build_content_catalog.py scripts/batch_generate_practice_data.py scripts/activate_dataset.py scripts/validate_practice_json.py scripts/smoke_test.py
 node --check app.js
+python scripts/smoke_test.py
 ```
 
 Live server checks performed:
@@ -140,11 +170,10 @@ Live server checks performed:
 - logout works
 - login works after logout
 
-## Known Next Steps
+## Remaining Next Steps
 
-- Generalize `scripts/build_practice_data.py` to accept class/subject/chapter PDF arguments instead of the current pilot constants.
-- Add real layout rendering for non-answer-builder profiles such as compare table, experiment builder and data/table builder.
-- Add teacher/admin content review tools.
-- Add migrations if moving from SQLite local prototype to production database.
-- Add automated browser tests for drag/drop and exact sequence feedback.
-- Add all class 6-12 chapters once the pilot system is approved.
+- Replace heuristic/non-AI generic generation with chapter-specific reviewed question sets for every chapter.
+- Review generated class 6-12 draft datasets, then activate approved datasets.
+- Add full browser automation for drag/drop interactions and standard-format click interactions.
+- Expand classroom assignments into class groups and completion tracking.
+- Move the local SQLite prototype to a managed production database before deployment.

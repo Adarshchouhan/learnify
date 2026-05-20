@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+    "classLevel": 6,
+    "stream": null,
+    "subject": "Social Science",
+    "book": "Social Science - Exploring Society - India and Beyond",
+    "chapter": "Chapter 1094",
+    "chapterNumber": 1094,
+    "pageCount": null,
+    "extractedCharacterCount": 27568,
+    "extractionPreview": "209\nGlossary \nGlossary \nAbundance: A very large quantity of \nsomething.\nAccolade: An expression of praise or an \nacknowledgement of merit.\nAdaptation: How a living thing changes \nslightly over time to survive in a \nchanging environment.\nAfterlife: A life that begins after death.\nAllotment: The giving or sharing out of \nsomething.\nAltitude: The height of an object above \nsea level.\nAncient: Of or from a long time ago.\nArchaeologist: A person who studies \nhuman history and prehistory through \nthe "
+  },
+  "coverage": {
+    "classes": [
+      6
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 1094.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 1094.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 1094.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 1094 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 1094.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-6-social-science-chapter-1094-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "209 Glossary Glossary Abundance: A very large quantity of something.",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "Accolade: An expression of praise or an acknowledgement of merit.",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "Adaptation: How a living thing changes slightly over time to survive in a changing environment.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "Archaeologist: A person who studies human history and prehistory through the excavation of sites and the analysis of physical remains.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "209 Glossary Glossary Abundance: A very large quantity of something. Accolade: An expression of praise or an acknowledgement of merit. Adaptation: How a living thing changes slightly over time to survive in a changing environment. Archaeologist: A person who studies human history and prehistory through the excavation of sites and the analysis of physical remains.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "Ascetic: Someone who engages in rigorous spiritual practices to attain a higher consciousness.",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "Astronaut: A person who is trained to travel in a spacecraft into outer space.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "Attachment: The condition of having a bond with someone or something, usually through sentiment or habit.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "Auspicious: Favourable or bringing luck; for instance, 'an auspicious beginning'.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Ascetic: Someone who engages in rigorous spiritual practices to attain a higher consciousness. Astronaut: A person who is trained to travel in a spacecraft into outer space. Attachment: The condition of having a bond with someone or something, usually through sentiment or habit. Auspicious: Favourable or bringing luck; for instance, 'an auspicious beginning'.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "Avalanche: The sudden fall of snow, ice or rocks from a mountainside, often occurring when the snow starts melting.",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "Bay: A broad inlet of the sea where the land curves inwards.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "Bitumen: A black, sticky substance such as tar or asphalt.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "Bulldozer: A heavy vehicle with a large blade in front used to move soil or rocks.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Avalanche: The sudden fall of snow, ice or rocks from a mountainside, often occurring when the snow starts melting. Bay: A broad inlet of the sea where the land curves inwards. Bitumen: A black, sticky substance such as tar or asphalt. Bulldozer: A heavy vehicle with a large blade in front used to move soil or rocks.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 1094 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "Cardinal direction: One of the four main directions - north, south, east and west.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "Carve: To cut (a hard material) in order to produce an object, design.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "Chant: To sing, often loudly; rhythmically and repeatedly.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "Choke: To have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Cardinal direction: One of the four main directions - north, south, east and west. Carve: To cut (a hard material) in order to produce an object, design. Chant: To sing, often loudly; rhythmically and repeatedly. Choke: To have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "Collapse: To suddenly fall down or give way; such a fall.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "Commemorate: To mark the memory of someone or something, often through a ceremony.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "Reprint 2025-26 210 Conceive: To form a mental representation of something.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "Confiscate: When some authority seizes someone's property.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Collapse: To suddenly fall down or give way; such a fall. Commemorate: To mark the memory of someone or something, often through a ceremony. Reprint 2025-26 210 Conceive: To form a mental representation of something. Confiscate: When some authority seizes someone's property.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "Consciousness: The quality or state of being aware, for instance of something within oneself.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "Conservation: The prevention of wasteful use of a resource.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "Constellation: A group of stars forming a recognisable pattern in the sky.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "Constitution: A document that spells out the basic principles and laws of a nation.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Consciousness: The quality or state of being aware, for instance of something within oneself. Conservation: The prevention of wasteful use of a resource. Constellation: A group of stars forming a recognisable pattern in the sky. Constitution: A document that spells out the basic principles and laws of a nation.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "209 Glossary Glossary Abundance: A very large quantity of something.",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "Accolade: An expression of praise or an acknowledgement of merit.",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "Adaptation: How a living thing changes slightly over time to survive in a changing environment.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "Archaeologist: A person who studies human history and prehistory through the excavation of sites and the analysis of physical remains.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "209 Glossary Glossary Abundance: A very large quantity of something. Accolade: An expression of praise or an acknowledgement of merit. Adaptation: How a living thing changes slightly over time to survive in a changing environment. Archaeologist: A person who studies human history and prehistory through the excavation of sites and the analysis of physical remains.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "Ascetic: Someone who engages in rigorous spiritual practices to attain a higher consciousness.",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "Astronaut: A person who is trained to travel in a spacecraft into outer space.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "Attachment: The condition of having a bond with someone or something, usually through sentiment or habit.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "Auspicious: Favourable or bringing luck; for instance, 'an auspicious beginning'.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Ascetic: Someone who engages in rigorous spiritual practices to attain a higher consciousness. Astronaut: A person who is trained to travel in a spacecraft into outer space. Attachment: The condition of having a bond with someone or something, usually through sentiment or habit. Auspicious: Favourable or bringing luck; for instance, 'an auspicious beginning'.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "List key points from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "Avalanche: The sudden fall of snow, ice or rocks from a mountainside, often occurring when the snow starts melting.",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "Bay: A broad inlet of the sea where the land curves inwards.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "Bitumen: A black, sticky substance such as tar or asphalt.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "Bulldozer: A heavy vehicle with a large blade in front used to move soil or rocks.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Avalanche: The sudden fall of snow, ice or rocks from a mountainside, often occurring when the snow starts melting. Bay: A broad inlet of the sea where the land curves inwards. Bitumen: A black, sticky substance such as tar or asphalt. Bulldozer: A heavy vehicle with a large blade in front used to move soil or rocks.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "Cardinal direction: One of the four main directions - north, south, east and west.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "Carve: To cut (a hard material) in order to produce an object, design.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "Chant: To sing, often loudly; rhythmically and repeatedly.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "Choke: To have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Cardinal direction: One of the four main directions - north, south, east and west. Carve: To cut (a hard material) in order to produce an object, design. Chant: To sing, often loudly; rhythmically and repeatedly. Choke: To have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 1094 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "Collapse: To suddenly fall down or give way; such a fall.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "Commemorate: To mark the memory of someone or something, often through a ceremony.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "Reprint 2025-26 210 Conceive: To form a mental representation of something.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "Confiscate: When some authority seizes someone's property.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Collapse: To suddenly fall down or give way; such a fall. Commemorate: To mark the memory of someone or something, often through a ceremony. Reprint 2025-26 210 Conceive: To form a mental representation of something. Confiscate: When some authority seizes someone's property.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "Consciousness: The quality or state of being aware, for instance of something within oneself.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "Conservation: The prevention of wasteful use of a resource.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "Constellation: A group of stars forming a recognisable pattern in the sky.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "Constitution: A document that spells out the basic principles and laws of a nation.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "Consumption: Eating or drinking something; purchasing goods or services.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Consciousness: The quality or state of being aware, for instance of something within oneself. Conservation: The prevention of wasteful use of a resource. Constellation: A group of stars forming a recognisable pattern in the sky. Constitution: A document that spells out the basic principles and laws of a nation. Consumption: Eating or drinking something; purchasing goods or services.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Build a definition from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "209 Glossary Glossary Abundance: A very large quantity of something.",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "Accolade: An expression of praise or an acknowledgement of merit.",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "Adaptation: How a living thing changes slightly over time to survive in a changing environment.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "Archaeologist: A person who studies human history and prehistory through the excavation of sites and the analysis of physical remains.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "209 Glossary Glossary Abundance: A very large quantity of something. Accolade: An expression of praise or an acknowledgement of merit. Adaptation: How a living thing changes slightly over time to survive in a changing environment. Archaeologist: A person who studies human history and prehistory through the excavation of sites and the analysis of physical remains.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "Ascetic: Someone who engages in rigorous spiritual practices to attain a higher consciousness.",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "Astronaut: A person who is trained to travel in a spacecraft into outer space.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "Attachment: The condition of having a bond with someone or something, usually through sentiment or habit.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "Auspicious: Favourable or bringing luck; for instance, 'an auspicious beginning'.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "Avalanche: The sudden fall of snow, ice or rocks from a mountainside, often occurring when the snow starts melting.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Ascetic: Someone who engages in rigorous spiritual practices to attain a higher consciousness. Astronaut: A person who is trained to travel in a spacecraft into outer space. Attachment: The condition of having a bond with someone or something, usually through sentiment or habit. Auspicious: Favourable or bringing luck; for instance, 'an auspicious beginning'. Avalanche: The sudden fall of snow, ice or rocks from a mountainside, often occurring when the snow starts melting.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "Bay: A broad inlet of the sea where the land curves inwards.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "Bitumen: A black, sticky substance such as tar or asphalt.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "Bulldozer: A heavy vehicle with a large blade in front used to move soil or rocks.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Bay: A broad inlet of the sea where the land curves inwards. Bitumen: A black, sticky substance such as tar or asphalt. Bulldozer: A heavy vehicle with a large blade in front used to move soil or rocks.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "Cardinal direction: One of the four main directions - north, south, east and west.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "Carve: To cut (a hard material) in order to produce an object, design.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "Chant: To sing, often loudly; rhythmically and repeatedly.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Cardinal direction: One of the four main directions - north, south, east and west. Carve: To cut (a hard material) in order to produce an object, design. Chant: To sing, often loudly; rhythmically and repeatedly.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "Choke: To have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "Collapse: To suddenly fall down or give way; such a fall.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "Commemorate: To mark the memory of someone or something, often through a ceremony.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "Reprint 2025-26 210 Conceive: To form a mental representation of something.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Choke: To have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air. Collapse: To suddenly fall down or give way; such a fall. Commemorate: To mark the memory of someone or something, often through a ceremony. Reprint 2025-26 210 Conceive: To form a mental representation of something.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "Confiscate: When some authority seizes someone's property.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "Consciousness: The quality or state of being aware, for instance of something within oneself.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "Conservation: The prevention of wasteful use of a resource.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Confiscate: When some authority seizes someone's property. Consciousness: The quality or state of being aware, for instance of something within oneself. Conservation: The prevention of wasteful use of a resource.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "Constellation: A group of stars forming a recognisable pattern in the sky.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "Constitution: A document that spells out the basic principles and laws of a nation.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "Consumption: Eating or drinking something; purchasing goods or services.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "Context: The background or setting for an event, statement or idea, in terms of which it can be fully understood.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Constellation: A group of stars forming a recognisable pattern in the sky. Constitution: A document that spells out the basic principles and laws of a nation. Consumption: Eating or drinking something; purchasing goods or services. Context: The background or setting for an event, statement or idea, in terms of which it can be fully understood.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "Convention: A way in which something is usually done or agreed upon.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "Conventional: Based on or in accordance with a convention.",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Convention: A way in which something is usually done or agreed upon. Conventional: Based on or in accordance with a convention.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 1094.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "Convicted: Having been declared guilty, by a jury or a judge, of an offence.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "Cooperative: A group of people who voluntarily come together to meet their economic and social needs in a formal way.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "209 Glossary Glossary Abundance: A very large quantity of something.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 1094 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Convicted: Having been declared guilty, by a jury or a judge, of an offence. Cooperative: A group of people who voluntarily come together to meet their economic and social needs in a formal way. 209 Glossary Glossary Abundance: A very large quantity of something.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "209 Glossary Glossary Abundance: A very large quantity of something.",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "Accolade: An expression of praise or an acknowledgement of merit.",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "Adaptation: How a living thing changes slightly over time to survive in a changing environment.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "Archaeologist: A person who studies human history and prehistory through the excavation of sites and the analysis of physical remains.",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "209 Glossary Glossary Abundance: A very large quantity of something. Accolade: An expression of praise or an acknowledgement of merit. Adaptation: How a living thing changes slightly over time to survive in a changing environment. Archaeologist: A person who studies human history and prehistory through the excavation of sites and the analysis of physical remains.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "209 Glossary Glossary Abundance: A",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "very large quantity of something.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "Accolade: An expression of praise",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "or an acknowledgement of merit.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "Adaptation: How a living thing changes slightly",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "over time to survive in a changing environment.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "Archaeologist: A person who studies human history and prehistory through",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "the excavation of sites and the analysis of physical remains.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "209 Glossary Glossary Abundance: A very large quantity of something. Accolade: An expression of praise or an acknowledgement of merit. Adaptation: How a living thing changes slightly over time to survive in a changing environment. Archaeologist: A person who studies human history and prehistory through the excavation of sites and the analysis of physical remains.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "209",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "accolade:",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "209 Glossary Glossary Abundance: A very large quantity of something. Accolade: An expression of praise or an acknowledgement of merit. Adaptation: How a living thing changes slightly over time to survive in a changing environment. Archaeologist: A person who studies human history and prehistory through the excavation of sites and the analysis of physical remains.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "Ascetic: Someone who engages in rigorous spiritual practices to attain a higher consciousness.",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "Astronaut: A person who is trained to travel in a spacecraft into outer space.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "Attachment: The condition of having a bond with someone or something, usually through sentiment or habit.",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "Auspicious: Favourable or bringing luck; for instance, 'an auspicious beginning'.",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Ascetic: Someone who engages in rigorous spiritual practices to attain a higher consciousness. Astronaut: A person who is trained to travel in a spacecraft into outer space. Attachment: The condition of having a bond with someone or something, usually through sentiment or habit. Auspicious: Favourable or bringing luck; for instance, 'an auspicious beginning'.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "Ascetic: Someone who engages in rigorous",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "spiritual practices to attain a higher consciousness.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "Astronaut: A person who is trained to",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "travel in a spacecraft into outer space.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "Attachment: The condition of having a bond with",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "someone or something, usually through sentiment or habit.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "Auspicious: Favourable or bringing luck;",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "for instance, 'an auspicious beginning'.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Ascetic: Someone who engages in rigorous spiritual practices to attain a higher consciousness. Astronaut: A person who is trained to travel in a spacecraft into outer space. Attachment: The condition of having a bond with someone or something, usually through sentiment or habit. Auspicious: Favourable or bringing luck; for instance, 'an auspicious beginning'.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "ascetic:",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "astronaut:",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Ascetic: Someone who engages in rigorous spiritual practices to attain a higher consciousness. Astronaut: A person who is trained to travel in a spacecraft into outer space. Attachment: The condition of having a bond with someone or something, usually through sentiment or habit. Auspicious: Favourable or bringing luck; for instance, 'an auspicious beginning'.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "Avalanche: The sudden fall of snow, ice or rocks from a mountainside, often occurring when the snow starts melting.",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "Bay: A broad inlet of the sea where the land curves inwards.",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "Bitumen: A black, sticky substance such as tar or asphalt.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "Bulldozer: A heavy vehicle with a large blade in front used to move soil or rocks.",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Avalanche: The sudden fall of snow, ice or rocks from a mountainside, often occurring when the snow starts melting. Bay: A broad inlet of the sea where the land curves inwards. Bitumen: A black, sticky substance such as tar or asphalt. Bulldozer: A heavy vehicle with a large blade in front used to move soil or rocks.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "Avalanche: The sudden fall of snow, ice or rocks",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "from a mountainside, often occurring when the snow starts melting.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "Bay: A broad inlet of the",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "sea where the land curves inwards.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "Bitumen: A black, sticky substance",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "such as tar or asphalt.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "Bulldozer: A heavy vehicle with a large blade",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "in front used to move soil or rocks.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Avalanche: The sudden fall of snow, ice or rocks from a mountainside, often occurring when the snow starts melting. Bay: A broad inlet of the sea where the land curves inwards. Bitumen: A black, sticky substance such as tar or asphalt. Bulldozer: A heavy vehicle with a large blade in front used to move soil or rocks.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "avalanche:",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "bay:",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Avalanche: The sudden fall of snow, ice or rocks from a mountainside, often occurring when the snow starts melting. Bay: A broad inlet of the sea where the land curves inwards. Bitumen: A black, sticky substance such as tar or asphalt. Bulldozer: A heavy vehicle with a large blade in front used to move soil or rocks.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1094 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "Cardinal direction: One of the four main directions - north, south, east and west.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "Carve: To cut (a hard material) in order to produce an object, design.",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "Chant: To sing, often loudly; rhythmically and repeatedly.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "Choke: To have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Cardinal direction: One of the four main directions - north, south, east and west. Carve: To cut (a hard material) in order to produce an object, design. Chant: To sing, often loudly; rhythmically and repeatedly. Choke: To have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1094 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "Cardinal direction: One of the four main",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "directions - north, south, east and west.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "Carve: To cut (a hard material)",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "in order to produce an object, design.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "Chant: To sing, often",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "loudly; rhythmically and repeatedly.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "Choke: To have severe difficulty in breathing because of",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "a constricted or obstructed throat or a lack of air.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Cardinal direction: One of the four main directions - north, south, east and west. Carve: To cut (a hard material) in order to produce an object, design. Chant: To sing, often loudly; rhythmically and repeatedly. Choke: To have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1094 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "cardinal",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "carve:",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Cardinal direction: One of the four main directions - north, south, east and west. Carve: To cut (a hard material) in order to produce an object, design. Chant: To sing, often loudly; rhythmically and repeatedly. Choke: To have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "Collapse: To suddenly fall down or give way; such a fall.",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "Commemorate: To mark the memory of someone or something, often through a ceremony.",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "Reprint 2025-26 210 Conceive: To form a mental representation of something.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "Confiscate: When some authority seizes someone's property.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Collapse: To suddenly fall down or give way; such a fall. Commemorate: To mark the memory of someone or something, often through a ceremony. Reprint 2025-26 210 Conceive: To form a mental representation of something. Confiscate: When some authority seizes someone's property.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "Collapse: To suddenly fall down",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "or give way; such a fall.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "Commemorate: To mark the memory of",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "someone or something, often through a ceremony.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "Reprint 2025-26 210 Conceive: To",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "form a mental representation of something.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "Confiscate: When some",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "authority seizes someone's property.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Collapse: To suddenly fall down or give way; such a fall. Commemorate: To mark the memory of someone or something, often through a ceremony. Reprint 2025-26 210 Conceive: To form a mental representation of something. Confiscate: When some authority seizes someone's property.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-1094-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 1094",
+      "chapterNumber": 1094,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1094.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 1094.",
+      "sourceChapter": "Chapter 1094",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees1gl.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "collapse:",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "commemorate:",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 1094 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Collapse: To suddenly fall down or give way; such a fall. Commemorate: To mark the memory of someone or something, often through a ceremony. Reprint 2025-26 210 Conceive: To form a mental representation of something. Confiscate: When some authority seizes someone's property.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

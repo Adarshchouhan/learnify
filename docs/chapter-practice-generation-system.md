@@ -119,22 +119,62 @@ Examples:
 
 For a new chapter:
 
-1. Add or generate a list of question sets.
-2. Include both in-chapter major questions and textbook exercise questions.
-3. Keep each model answer factual and age-appropriate.
-4. Add plausible distractors based on common misconceptions.
-5. Run:
+1. Scan the source PDF folder into a manifest:
+
+```powershell
+python scripts/build_pdf_manifest.py
+```
+
+2. Generate one dataset from a manifest row:
+
+```powershell
+python scripts/batch_generate_practice_data.py --limit 1
+```
+
+3. Rebuild the content catalog:
+
+```powershell
+python scripts/build_content_catalog.py
+```
+
+4. Or generate a specific chapter directly:
+
+```powershell
+python scripts/build_practice_data.py `
+  --pdf "D:\LX\all class pdf\class 7\Science - Curiosity\gecu109.pdf" `
+  --class-level 7 `
+  --subject "Science" `
+  --book "Science - Curiosity" `
+  --chapter "Life Processes in Animals" `
+  --chapter-number 9
+```
+
+5. Add or generate a list of question sets.
+6. Include both in-chapter major questions and textbook exercise questions.
+7. Keep each model answer factual and age-appropriate.
+8. Add plausible distractors based on common misconceptions.
+9. Run:
 
 ```powershell
 python scripts/build_practice_data.py
 python scripts/validate_practice_json.py
 ```
 
-6. Open the app and verify:
+10. Open the app and verify:
    - Next Question cycles through all chapter questions
    - Easy and Moderate require exact sequence
    - Correct/distractor colors reveal only after submission
    - Layout identifiers appear in the JSON for every generated question
+
+## Scale Scripts
+
+- `scripts/build_pdf_manifest.py` scans `D:\LX\all class pdf` and writes `data/manifest/class-6-12-pdf-manifest.json`.
+- `scripts/build_content_catalog.py` combines the manifest, generated datasets and active approvals into `data/catalog/content-catalog.json`.
+- `scripts/batch_generate_practice_data.py` reads the manifest and runs chapter generation in controlled batches.
+- Use `--dry-run` to inspect generated commands before writing chapter JSON.
+- Use `--limit 0` only after the pilot format has been reviewed because it will attempt every manifest entry.
+
+Current manifest scan found 1,434 PDF entries in the local source folder.
 
 ## Current Pilot Coverage
 

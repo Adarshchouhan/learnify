@@ -17,6 +17,13 @@ const state = {
   csrfToken: null,
   authMode: "signup",
   progress: { events: [], attempts: 0, averagePercent: 0 },
+  datasets: [],
+  selectedDataset: null,
+  adminActivities: [],
+  assignments: [],
+  typeActivity: null,
+  typePlacements: {},
+  typeSubmitted: false,
 };
 
 const typeLabels = {
@@ -81,6 +88,16 @@ function cacheElements() {
     "progressSummary",
     "progressEvents",
     "librarySummary",
+    "datasetList",
+    "assignmentSummary",
+    "assignmentList",
+    "typeDetail",
+    "adminSummary",
+    "adminReviewList",
+    "assignmentForm",
+    "assignmentTitle",
+    "assignmentDueDate",
+    "teacherAnalytics",
     "profileName",
     "profileMeta",
     "avatarText",
@@ -168,6 +185,7 @@ function bindDashboardEvents() {
   document.getElementById("homeButton").addEventListener("click", () => switchView("practice"));
   els.prevQuestionButton.addEventListener("click", () => goToQuestion(state.questionIndex - 1));
   els.nextQuestionButton.addEventListener("click", () => goToQuestion(state.questionIndex + 1));
+  els.assignmentForm?.addEventListener("submit", createAssignment);
 }
 
 function setAuthMode(mode) {
@@ -236,15 +254,18 @@ function showAuthMessage(message, isError) {
 async function enterDashboard() {
   showDashboard();
   renderUser();
+  await loadDatasets();
   if (!state.dataset) {
-    state.dataset = await api(DATA_URL);
+    state.dataset = await loadPracticeData();
     buildAnswerGroups();
     state.activity = getModeActivity(state.mode);
   }
   await refreshProgress();
+  await refreshAssignments();
   resetActivity();
   renderTypeLibrary();
   renderDatasetSummary();
+  renderAdminTools();
 }
 
 function showLanding() {
@@ -260,8 +281,27 @@ function showDashboard() {
 function renderUser() {
   if (!state.user) return;
   els.profileName.textContent = state.user.name;
-  els.profileMeta.textContent = `Class ${state.user.classLevel}`;
+  els.profileMeta.textContent = `Class ${state.user.classLevel} - ${state.user.role || "student"}`;
   els.avatarText.textContent = state.user.name.slice(0, 1).toUpperCase();
+  document.querySelectorAll(".admin-only").forEach((element) => {
+    element.hidden = !["teacher", "admin"].includes(state.user.role);
+  });
+}
+
+async function loadDatasets() {
+  try {
+    const includeAll = ["teacher", "admin"].includes(state.user?.role) ? "?includeAll=1" : "";
+    const result = await api(`/api/datasets${includeAll}`);
+    state.datasets = result.datasets || [];
+    state.selectedDataset = state.selectedDataset || state.datasets[0]?.id || state.datasets[0]?.jsonPath || null;
+  } catch {
+    state.datasets = [];
+  }
+}
+
+async function loadPracticeData() {
+  const datasetQuery = state.selectedDataset ? `?dataset=${encodeURIComponent(state.selectedDataset)}` : "";
+  return api(`${DATA_URL}${datasetQuery}`);
 }
 
 function buildAnswerGroups() {
@@ -316,6 +356,61 @@ function renderProgressEvents() {
 function switchView(viewName) {
   document.querySelectorAll(".nav-item").forEach((button) => button.classList.toggle("active", button.dataset.view === viewName));
   document.querySelectorAll(".view").forEach((view) => view.classList.toggle("active-view", view.id === `${viewName}View`));
+  if (viewName === "assignments") refreshAssignments();
+}
+
+async function refreshAssignments() {
+  if (!els.assignmentList) return;
+  try {
+    const result = await api("/api/student/assignments");
+    state.assignments = result.assignments || [];
+  } catch {
+    state.assignments = [];
+  }
+  renderAssignments();
+}
+
+function renderAssignments() {
+  if (!els.assignmentList) return;
+  els.assignmentSummary.textContent = state.assignments.length
+    ? `${state.assignments.length} assignment(s) for Class ${state.user?.classLevel || ""}.`
+    : "No assignments yet. You can still practise from the Library.";
+  if (!state.assignments.length) {
+    els.assignmentList.innerHTML = `<div class="empty-state slim"><h3>No assigned work yet</h3><p>Use Practice or Library while your teacher prepares assignments.</p></div>`;
+    return;
+  }
+  els.assignmentList.innerHTML = state.assignments
+    .map((assignment) => {
+      const due = assignment.due_at ? new Date(Number(assignment.due_at) * 1000).toLocaleDateString() : "No due date";
+      return `
+        <article class="assignment-card">
+          <div>
+            <strong>${escapeHtml(assignment.title)}</strong>
+            <span>${escapeHtml(assignment.teacher_name || "Teacher")} - ${escapeHtml(due)}</span>
+          </div>
+          <button class="primary-button compact-button" data-assignment-dataset="${escapeHtml(assignment.dataset_path)}" type="button">Start</button>
+        </article>`;
+    })
+    .join("");
+  els.assignmentList.querySelectorAll("[data-assignment-dataset]").forEach((button) => {
+    button.addEventListener("click", async () => {
+      const datasetPath = button.dataset.assignmentDataset;
+      await openDataset(datasetPath);
+      switchView("practice");
+    });
+  });
+}
+
+async function openDataset(datasetIdOrPath) {
+  state.selectedDataset = datasetIdOrPath;
+  state.dataset = await loadPracticeData();
+  state.questionIndex = 0;
+  buildAnswerGroups();
+  state.activity = getModeActivity(state.mode);
+  resetActivity();
+  renderTypeLibrary();
+  renderDatasetSummary();
+  renderAdminTools();
 }
 
 function shuffle(items) {
@@ -629,6 +724,7 @@ function renderTypeLibrary() {
   els.typeSummary.textContent = `${standardActivities.length} generated question formats from ${state.dataset.source.chapter}.`;
   els.typeGrid.innerHTML = "";
   els.typeGridPreview.innerHTML = "";
+  if (els.typeDetail) els.typeDetail.hidden = true;
   standardActivities.forEach((activity, index) => {
     els.typeGrid.appendChild(createTypeCard(activity, index));
     if (index < 8) els.typeGridPreview.appendChild(createTypeCard(activity, index, true));
@@ -651,13 +747,301 @@ function createTypeCard(activity, index, compact = false) {
   card.addEventListener("click", () => {
     switchView("types");
     els.typeSummary.textContent = `${typeLabels[activity.type] || activity.type}: ${activity.modelAnswer}`;
+    renderTypeDetail(activity);
   });
   return card;
+}
+
+function renderTypeDetail(activity) {
+  if (!els.typeDetail) return;
+  state.typeActivity = activity;
+  state.typeSubmitted = false;
+  state.typePlacements = {};
+  activity.answerSlots.forEach((slot) => {
+    state.typePlacements[slot.id] = [];
+  });
+  renderTypePractice();
+}
+
+function renderTypePractice() {
+  const activity = state.typeActivity;
+  if (!els.typeDetail || !activity) return;
+  const renderer = layoutRenderer(activity);
+  const placedIds = Object.values(state.typePlacements).flat();
+  const available = getStandardItems(activity).filter((item) => !placedIds.includes(item.id));
+  els.typeDetail.hidden = false;
+  els.typeDetail.innerHTML = `
+    <div class="panel-heading">
+      <div>
+        <span class="tag">${escapeHtml(typeLabels[activity.type] || activity.type)}</span>
+        <h3>${escapeHtml(activity.question)}</h3>
+        <p>${escapeHtml(activity.instructions)}</p>
+      </div>
+      <span class="counter">${activity.marks} marks</span>
+    </div>
+    ${renderer}
+    <div class="standard-practice">
+      <div class="standard-slots">
+        ${activity.answerSlots
+          .map(
+            (slot) => `
+              <div class="standard-slot">
+                <strong>${escapeHtml(slot.label || slot.id)}</strong>
+                <div class="standard-slot-body" data-type-slot="${escapeHtml(slot.id)}">
+                  ${(state.typePlacements[slot.id] || []).map((itemId) => renderStandardChip(findStandardItem(activity, itemId), true, slot.id)).join("") || "<span>Click options to place them here</span>"}
+                </div>
+              </div>`
+          )
+          .join("")}
+      </div>
+      <div class="standard-bank">
+        ${available.map((item) => renderStandardChip(item, false, "")).join("")}
+      </div>
+      <div class="builder-actions">
+        <button class="secondary-button" id="typeResetButton" type="button">Reset Format</button>
+        <button class="primary-button" id="typeCheckButton" type="button">Check Format</button>
+      </div>
+      <div id="typeCheckResult" class="format-result"></div>
+    </div>
+    <div class="model-answer"><strong>Model answer</strong><p>${escapeHtml(activity.modelAnswer)}</p></div>
+  `;
+  els.typeDetail.querySelectorAll("[data-type-item]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const itemId = button.dataset.typeItem;
+      const placed = button.dataset.placed === "1";
+      if (placed) removeTypeItem(itemId);
+      else placeTypeItem(itemId);
+    });
+  });
+  els.typeDetail.querySelector("#typeResetButton")?.addEventListener("click", () => renderTypeDetail(activity));
+  els.typeDetail.querySelector("#typeCheckButton")?.addEventListener("click", checkTypePractice);
+}
+
+function getStandardItems(activity) {
+  return [...activity.correctItems.map((item) => ({ ...item, isCorrect: true })), ...activity.distractors.map((item) => ({ ...item, isCorrect: false }))];
+}
+
+function findStandardItem(activity, itemId) {
+  return getStandardItems(activity).find((item) => item.id === itemId);
+}
+
+function renderStandardChip(item, placed, slotId) {
+  if (!item) return "";
+  const correctness = state.typeSubmitted ? getStandardCorrectness(item, placed, slotId) : null;
+  const className = correctness === null ? "neutral" : correctness ? "correct" : "wrong";
+  return `<button class="standard-chip ${className}" data-type-item="${escapeHtml(item.id)}" data-placed="${placed ? "1" : "0"}" type="button">${escapeHtml(item.text)}</button>`;
+}
+
+function placeTypeItem(itemId) {
+  if (!state.typeActivity) return;
+  const slot = state.typeActivity.answerSlots.find((candidate) => (state.typePlacements[candidate.id] || []).length === 0) || state.typeActivity.answerSlots[0];
+  if (!slot) return;
+  removeTypeItem(itemId, false);
+  state.typePlacements[slot.id].push(itemId);
+  state.typeSubmitted = false;
+  renderTypePractice();
+}
+
+function removeTypeItem(itemId, rerender = true) {
+  Object.keys(state.typePlacements).forEach((slotId) => {
+    state.typePlacements[slotId] = state.typePlacements[slotId].filter((id) => id !== itemId);
+  });
+  state.typeSubmitted = false;
+  if (rerender) renderTypePractice();
+}
+
+function getStandardCorrectness(item, placed, slotId) {
+  if (!placed) return item.isCorrect;
+  if (!item.isCorrect) return false;
+  const activity = state.typeActivity;
+  const key = activity?.answerKey || {};
+  const ordered = activity?.answerKey?.orderedItemIds;
+  if (ordered) {
+    const slotIndex = activity.answerSlots.findIndex((slot) => slot.id === slotId);
+    return ordered[slotIndex] === item.id;
+  }
+  if (key[slotId]) return asArray(key[slotId]).includes(item.id);
+  if (key.pairs) return key.pairs.some((pair) => pair.includes(item.id));
+  if (key.acceptedItemIds) return key.acceptedItemIds.includes(item.id);
+  if (key.answers) return key.answers.includes(item.id);
+  const required = key.requiredItemIds || activity?.correctItems?.map((correct) => correct.id) || [];
+  return required.includes(item.id);
+}
+
+function checkTypePractice() {
+  const activity = state.typeActivity;
+  if (!activity) return;
+  state.typeSubmitted = true;
+  const selected = Object.values(state.typePlacements).flat();
+  const result = scoreStandardActivity(activity, selected);
+  const { correct, wrong, expected } = result;
+  const score = Math.max(0, Math.round(((correct - wrong) / expected) * activity.marks));
+  renderTypePractice();
+  const resultNode = els.typeDetail.querySelector("#typeCheckResult");
+  if (resultNode) {
+    resultNode.textContent = score === activity.marks ? `Correct: ${score}/${activity.marks}` : `Score: ${score}/${activity.marks}. Check order and remove distractors.`;
+  }
+}
+
+function scoreStandardActivity(activity, selected) {
+  const key = activity.answerKey || {};
+  if (key.orderedItemIds) {
+    let correct = 0;
+    let wrong = 0;
+    activity.answerSlots.forEach((slot, index) => {
+      const id = state.typePlacements[slot.id]?.[0];
+      if (!id) return;
+      if (id === key.orderedItemIds[index]) correct += 1;
+      else wrong += 1;
+    });
+    return { correct, wrong, expected: key.orderedItemIds.length };
+  }
+  if (key.pairs) {
+    const accepted = new Set(key.pairs.flat());
+    let correct = 0;
+    let wrong = 0;
+    selected.forEach((id) => (accepted.has(id) ? (correct += 1) : (wrong += 1)));
+    return { correct, wrong, expected: accepted.size };
+  }
+  const groupedKeys = Object.keys(key).filter((name) => Array.isArray(key[name]));
+  if (groupedKeys.length) {
+    let correct = 0;
+    let wrong = 0;
+    let expected = 0;
+    activity.answerSlots.forEach((slot) => {
+      const accepted = new Set(asArray(key[slot.id]));
+      if (accepted.size) expected += accepted.size;
+      (state.typePlacements[slot.id] || []).forEach((id) => (accepted.has(id) ? (correct += 1) : (wrong += 1)));
+    });
+    return { correct, wrong, expected: expected || activity.correctItems.length };
+  }
+  const acceptedIds = key.acceptedItemIds || key.answers || key.requiredItemIds || activity.correctItems.map((item) => item.id);
+  const accepted = new Set(acceptedIds);
+  let correct = 0;
+  let wrong = 0;
+  selected.forEach((id) => (accepted.has(id) ? (correct += 1) : (wrong += 1)));
+  return { correct, wrong, expected: key.minimumRequired || accepted.size || 1 };
+}
+
+function asArray(value) {
+  return Array.isArray(value) ? value : value ? [value] : [];
+}
+
+function layoutRenderer(activity) {
+  const correct = activity.correctItems || [];
+  const wrong = activity.distractors || [];
+  const chips = (items, className) => items.map((item) => `<span class="mini-chip ${className}">${escapeHtml(item.text)}</span>`).join("");
+  if (activity.type === "compare_contrast") {
+    return `<div class="special-layout two-col"><div><h4>Similarities</h4><div class="drop-preview">${chips(correct.slice(0, 2), "correct")}</div></div><div><h4>Differences</h4><div class="drop-preview">${chips(correct.slice(2), "correct")}${chips(wrong.slice(0, 1), "wrong")}</div></div></div>`;
+  }
+  if (activity.type === "cause_effect") {
+    return `<div class="special-layout pair-layout">${correct.map((item, index) => `<div>${index + 1}</div><div class="mini-chip correct">${escapeHtml(item.text)}</div><div class="arrow-cell">-></div><div class="mini-chip ${wrong[index] ? "wrong" : "correct"}">${escapeHtml((wrong[index] || item).text)}</div>`).join("")}</div>`;
+  }
+  if (activity.type.includes("sequence") || activity.type.includes("timeline")) {
+    return `<div class="special-layout sequence-preview">${correct.map((item, index) => `<div><span>${index + 1}</span>${escapeHtml(item.text)}</div>`).join("")}</div><div class="mini-answer">${chips(wrong, "wrong")}</div>`;
+  }
+  if (activity.type === "assertion_reason") {
+    return `<div class="special-layout assertion-layout"><div><h4>Assertion</h4>${chips(correct.slice(0, 1), "correct")}</div><div><h4>Reason</h4>${chips(correct.slice(1, 2), "correct")}</div><div><h4>Options</h4>${chips(correct.slice(2), "correct")}${chips(wrong, "wrong")}</div></div>`;
+  }
+  if (activity.type === "data_chart_table") {
+    return `<div class="special-layout data-layout"><table><tbody>${correct.slice(0, 4).map((item, index) => `<tr><th>Inference ${index + 1}</th><td>${escapeHtml(item.text)}</td></tr>`).join("")}</tbody></table><div>${chips(wrong, "wrong")}</div></div>`;
+  }
+  return `<div class="special-layout generic-layout"><div class="drop-preview">${chips(correct, "correct")}</div><div class="drop-preview">${chips(wrong, "wrong")}</div></div>`;
 }
 
 function renderDatasetSummary() {
   const source = state.dataset.source;
   els.librarySummary.textContent = `${source.book}, Chapter ${source.chapterNumber}: ${source.chapter}. ${state.dataset.coverage.activityCount} activities generated from ${source.pdfPath}.`;
+  renderDatasetList();
+}
+
+function renderDatasetList() {
+  if (!els.datasetList) return;
+  if (!state.datasets.length) {
+    els.datasetList.innerHTML = "<p>No generated datasets were discovered yet.</p>";
+    return;
+  }
+  els.datasetList.innerHTML = state.datasets
+    .map(
+      (dataset) => `
+        <button class="dataset-row ${state.selectedDataset === (dataset.id || dataset.jsonPath) ? "active" : ""}" data-dataset="${escapeHtml(dataset.id || dataset.jsonPath)}" type="button">
+          <strong>Class ${escapeHtml(dataset.classLevel)} ${escapeHtml(dataset.subject)} <em>${escapeHtml(dataset.status || "generated")}</em></strong>
+          <span>${escapeHtml(dataset.book)} - Chapter ${escapeHtml(dataset.chapterNumber)}: ${escapeHtml(dataset.chapter)}</span>
+        </button>`
+    )
+    .join("");
+  els.datasetList.querySelectorAll(".dataset-row").forEach((button) => {
+    button.addEventListener("click", async () => {
+      await openDataset(button.dataset.dataset);
+    });
+  });
+}
+
+async function renderAdminTools() {
+  if (!els.adminReviewList || !["teacher", "admin"].includes(state.user?.role)) return;
+  try {
+    const dataset = state.selectedDataset ? `?dataset=${encodeURIComponent(state.selectedDataset)}` : "";
+    const result = await api(`/api/admin/activities${dataset}`);
+    const analytics = await api("/api/teacher/analytics").catch(() => ({ rows: [], assignmentCount: 0 }));
+    state.adminActivities = result.activities || [];
+    els.adminSummary.textContent = `${state.adminActivities.length} activities ready for review from ${result.source?.chapter || "selected dataset"}. ${analytics.assignmentCount || 0} assignment(s) created.`;
+    els.adminReviewList.innerHTML = state.adminActivities
+      .slice(0, 24)
+      .map(
+        (activity) => `
+          <article class="review-card">
+            <div><strong>${escapeHtml(typeLabels[activity.type] || activity.type)}</strong><p>${escapeHtml(activity.question)}</p></div>
+            <select data-activity="${escapeHtml(activity.id)}" aria-label="Review status for ${escapeHtml(activity.id)}">
+              <option value="draft">Draft</option>
+              <option value="approved">Approved</option>
+              <option value="needs_revision">Needs revision</option>
+              <option value="rejected">Rejected</option>
+            </select>
+          </article>`
+      )
+      .join("");
+    els.adminReviewList.querySelectorAll("select").forEach((select) => {
+      select.addEventListener("change", () => saveReview(select.dataset.activity, select.value));
+    });
+    renderTeacherAnalytics(analytics.rows || []);
+  } catch (error) {
+    els.adminReviewList.innerHTML = `<p>${escapeHtml(error.message)}</p>`;
+  }
+}
+
+function renderTeacherAnalytics(rows) {
+  if (!els.teacherAnalytics) return;
+  if (!rows.length) {
+    els.teacherAnalytics.innerHTML = "<p>No student attempts yet.</p>";
+    return;
+  }
+  els.teacherAnalytics.innerHTML = rows
+    .slice(0, 8)
+    .map((row) => `<div class="analytics-row"><strong>${escapeHtml(typeLabels[row.activity_type] || row.activity_type)}</strong><span>${row.attempts} attempts - ${row.average_percent || 0}% avg</span></div>`)
+    .join("");
+}
+
+async function createAssignment(event) {
+  event.preventDefault();
+  const title = els.assignmentTitle.value.trim() || `${state.dataset?.source?.chapter || "Practice"} assignment`;
+  const dueAt = els.assignmentDueDate.value ? Math.floor(new Date(`${els.assignmentDueDate.value}T23:59:59`).getTime() / 1000) : null;
+  const datasetPath = state.datasets.find((item) => (item.id || item.jsonPath) === state.selectedDataset)?.jsonPath || state.selectedDataset || "";
+  await api("/api/teacher/assignments", {
+    method: "POST",
+    body: JSON.stringify({ title, datasetPath, classLevel: state.dataset?.source?.classLevel || 7, dueAt }),
+  });
+  els.assignmentTitle.value = "";
+  els.assignmentDueDate.value = "";
+  await renderAdminTools();
+  await refreshAssignments();
+}
+
+async function saveReview(activityId, status) {
+  const datasetPath = state.datasets.find((item) => (item.id || item.jsonPath) === state.selectedDataset)?.jsonPath || state.selectedDataset || "";
+  await api("/api/admin/reviews", {
+    method: "POST",
+    body: JSON.stringify({ datasetPath, activityId, status, notes: "" }),
+  }).catch(() => {});
 }
 
 function escapeHtml(value) {

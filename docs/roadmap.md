@@ -5,7 +5,7 @@
 - Local Python server
 - Landing page
 - Signup/login
-- SQLite user/session/progress storage
+- SQLite user/session/progress/review storage
 - Security headers
 - CSRF-protected progress writes
 - Practice dashboard
@@ -18,33 +18,37 @@
 - 84 generated pilot activities
 - Question identifier and layout profile system
 - Repeatable chapter-generation documentation
+- CLI generation arguments for class, subject, chapter, PDF and output path
+- Class 6-12 PDF manifest scanner
+- Manifest batch generation runner
+- Dataset discovery API and library switching
+- Active dataset catalog so scanned/generated content is not automatically live
+- Specialized question type detail layouts
+- Student/teacher/admin role support
+- Teacher/admin activity review API and UI
+- Teacher assignment creation
+- Teacher aggregate analytics
+- Student assignment inbox and due-date tracking
+- Class 6-12 draft dataset generation
+- All 1,441 generated practice JSON datasets validated
+- Corrupted Class 12 Chemistry `lech102.pdf` replaced from NCERT and regenerated
+- Local server smoke test
 
 ## Next
 
-- Make `scripts/build_practice_data.py` accept CLI arguments for class, subject, chapter and PDF path.
-- Generate a manifest for all class 6-12 PDFs.
-- Add real specialized layouts for:
-  - compare/contrast
-  - cause/effect
-  - experiment
-  - data/table
-  - assertion/reason
-  - definition
 - Add browser tests for:
-  - signup/login
   - drag/drop
   - swapped correct sentence is marked wrong
   - next question navigation
-  - progress saving
-- Add teacher/admin review workflow.
+- Review and enrich chapter-specific question sets before activation.
+- Activate approved generated chapters in batches.
 - Add import/export for generated chapter JSON.
+- Add teacher analytics for reviewed/approved content quality.
 
 ## Later
 
 - Move from local SQLite prototype to production database.
-- Add roles: student, teacher, admin.
-- Add classroom assignment flow.
-- Add analytics dashboard.
+- Add class groups and full classroom assignment flow.
+- Add deeper analytics dashboard.
 - Add AI-assisted generation and review.
-- Add class 6-12 batch generation.
 - Add deployment pipeline.

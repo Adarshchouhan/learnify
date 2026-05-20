@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+    "classLevel": 12,
+    "stream": "PCB",
+    "subject": "Physics",
+    "book": "Physics - Part 1",
+    "chapter": "Chapter 2",
+    "chapterNumber": 2,
+    "pageCount": null,
+    "extractedCharacterCount": 77629,
+    "extractionPreview": "2.1 I\n2.1 I\n2.1 I\n2.1 I\n2.1 INTRODUCTION\nNTRODUCTION\nNTRODUCTION\nNTRODUCTION\nNTRODUCTION\nIn Chapters 5 and 7 (Class XI), the notion of potential energy was\nintroduced. When an external force does work in taking a body from a\npoint to another against a force like spring force or gravitational force,\nthat work gets stored as potential energy of the body. When the external\nforce is removed, the body moves, gaining kinetic energy and losing\nan equal amount of potential energy. The sum of kinetic and"
+  },
+  "coverage": {
+    "classes": [
+      12
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 2.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 2.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 2.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 2 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 2.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-12-pcb-physics-chapter-2-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body.",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "When the external force is removed, the body moves, gaining kinetic energy and losing an equal amount of potential energy.",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "The sum of kinetic and potential energies is thus conserved.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "Spring force and gravitational force are examples of conservative forces.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body. When the external force is removed, the body moves, gaining kinetic energy and losing an equal amount of potential energy. The sum of kinetic and potential energies is thus conserved. Spring force and gravitational force are examples of conservative forces.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "Coulomb force between two (stationary) charges is also a conservative force.",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "Thus, like the potential energy of a mass in a gravitational field, we can define electrostatic potential energy of a charge in an electrostatic field.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "Consider an electrostatic field E E E E E due to some charge configuration.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "First, for simplicity, consider the field E due to a charge Q placed at the origin.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Coulomb force between two (stationary) charges is also a conservative force. Thus, like the potential energy of a mass in a gravitational field, we can define electrostatic potential energy of a charge in an electrostatic field. Consider an electrostatic field E E E E E due to some charge configuration. First, for simplicity, consider the field E due to a charge Q placed at the origin.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "Now, imagine that we bring a test charge q from a point R to a point P against the repulsive force on it due to the charge Q.",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "2.1, this will happen if Q and q are both positive or both negative.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "Second, in bringing the charge q from R to P, we apply an external force Fext just enough to counter the repulsive electric force FE (i.e, Fext= -FE).",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "This means there is no net force on or acceleration of the charge q when it is brought from R to P, i.e., it is brought with infinitesimally slow constant speed.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Now, imagine that we bring a test charge q from a point R to a point P against the repulsive force on it due to the charge Q. 2.1, this will happen if Q and q are both positive or both negative. Second, in bringing the charge q from R to P, we apply an external force Fext just enough to counter the repulsive electric force FE (i.e, Fext= -FE). This means there is no net force on or acceleration of the charge q when it is brought from R to P, i.e., it is brought with infinitesimally slow constant speed.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 2 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "In this situation, work done by the external force is the negative of the work done by the electric force, and gets fully stored in the form of potential energy of the charge q.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "Thus, work done by external forces in moving a charge q from R to P is WRP = = - (2.1) This work done is against electrostatic repulsive force and gets stored as potential energy.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "Two important comments may be made at this stage: (i) The right side of Eq.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "(2.2) depends only on the initial and final positions of the charge.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In this situation, work done by the external force is the negative of the work done by the electric force, and gets fully stored in the form of potential energy of the charge q. Thus, work done by external forces in moving a charge q from R to P is WRP = = - (2.1) This work done is against electrostatic repulsive force and gets stored as potential energy. Two important comments may be made at this stage: (i) The right side of Eq. (2.2) depends only on the initial and final positions of the charge.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "This is the fundamental characteristic of a conservative force.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "The concept of the potential energy would not be meaningful if the work depended on the path.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "The path-independence of work done by an electrostatic field can be proved using the Coulomb's law.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "Reprint 2025-26 Electrostatic Potential and Capacitance 47 (ii) Equation (2.2) defines potential energy difference in terms of the physically meaningful quantity work.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "This is the fundamental characteristic of a conservative force. The concept of the potential energy would not be meaningful if the work depended on the path. The path-independence of work done by an electrostatic field can be proved using the Coulomb's law. Reprint 2025-26 Electrostatic Potential and Capacitance 47 (ii) Equation (2.2) defines potential energy difference in terms of the physically meaningful quantity work.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "A convenient choice is to have electrostatic potential energy zero at infinity.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "With this choice, if we take the point R at infinity, we get from Eq.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "(2.2) P P P W U U U ∞ ∞ = − = (2.3) Since the point P is arbitrary, Eq.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "(2.3) provides us with a definition of potential energy of a charge q at any point.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "A convenient choice is to have electrostatic potential energy zero at infinity. With this choice, if we take the point R at infinity, we get from Eq. (2.2) P P P W U U U ∞ ∞ = − = (2.3) Since the point P is arbitrary, Eq. (2.3) provides us with a definition of potential energy of a charge q at any point.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body.",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "When the external force is removed, the body moves, gaining kinetic energy and losing an equal amount of potential energy.",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "The sum of kinetic and potential energies is thus conserved.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "Spring force and gravitational force are examples of conservative forces.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body. When the external force is removed, the body moves, gaining kinetic energy and losing an equal amount of potential energy. The sum of kinetic and potential energies is thus conserved. Spring force and gravitational force are examples of conservative forces.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "Coulomb force between two (stationary) charges is also a conservative force.",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "Thus, like the potential energy of a mass in a gravitational field, we can define electrostatic potential energy of a charge in an electrostatic field.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "Consider an electrostatic field E E E E E due to some charge configuration.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "First, for simplicity, consider the field E due to a charge Q placed at the origin.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Coulomb force between two (stationary) charges is also a conservative force. Thus, like the potential energy of a mass in a gravitational field, we can define electrostatic potential energy of a charge in an electrostatic field. Consider an electrostatic field E E E E E due to some charge configuration. First, for simplicity, consider the field E due to a charge Q placed at the origin.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "List key points from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "Now, imagine that we bring a test charge q from a point R to a point P against the repulsive force on it due to the charge Q.",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "2.1, this will happen if Q and q are both positive or both negative.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "Second, in bringing the charge q from R to P, we apply an external force Fext just enough to counter the repulsive electric force FE (i.e, Fext= -FE).",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "This means there is no net force on or acceleration of the charge q when it is brought from R to P, i.e., it is brought with infinitesimally slow constant speed.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Now, imagine that we bring a test charge q from a point R to a point P against the repulsive force on it due to the charge Q. 2.1, this will happen if Q and q are both positive or both negative. Second, in bringing the charge q from R to P, we apply an external force Fext just enough to counter the repulsive electric force FE (i.e, Fext= -FE). This means there is no net force on or acceleration of the charge q when it is brought from R to P, i.e., it is brought with infinitesimally slow constant speed.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "In this situation, work done by the external force is the negative of the work done by the electric force, and gets fully stored in the form of potential energy of the charge q.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "Thus, work done by external forces in moving a charge q from R to P is WRP = = - (2.1) This work done is against electrostatic repulsive force and gets stored as potential energy.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "Two important comments may be made at this stage: (i) The right side of Eq.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "(2.2) depends only on the initial and final positions of the charge.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In this situation, work done by the external force is the negative of the work done by the electric force, and gets fully stored in the form of potential energy of the charge q. Thus, work done by external forces in moving a charge q from R to P is WRP = = - (2.1) This work done is against electrostatic repulsive force and gets stored as potential energy. Two important comments may be made at this stage: (i) The right side of Eq. (2.2) depends only on the initial and final positions of the charge.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 2 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "This is the fundamental characteristic of a conservative force.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "The concept of the potential energy would not be meaningful if the work depended on the path.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "The path-independence of work done by an electrostatic field can be proved using the Coulomb's law.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "Reprint 2025-26 Electrostatic Potential and Capacitance 47 (ii) Equation (2.2) defines potential energy difference in terms of the physically meaningful quantity work.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "This is the fundamental characteristic of a conservative force. The concept of the potential energy would not be meaningful if the work depended on the path. The path-independence of work done by an electrostatic field can be proved using the Coulomb's law. Reprint 2025-26 Electrostatic Potential and Capacitance 47 (ii) Equation (2.2) defines potential energy difference in terms of the physically meaningful quantity work.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "A convenient choice is to have electrostatic potential energy zero at infinity.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "With this choice, if we take the point R at infinity, we get from Eq.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "(2.2) P P P W U U U ∞ ∞ = − = (2.3) Since the point P is arbitrary, Eq.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "(2.3) provides us with a definition of potential energy of a charge q at any point.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "2.2 ELECTROSTATIC POTENTIAL Consider any general static charge configuration.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "A convenient choice is to have electrostatic potential energy zero at infinity. With this choice, if we take the point R at infinity, we get from Eq. (2.2) P P P W U U U ∞ ∞ = − = (2.3) Since the point P is arbitrary, Eq. (2.3) provides us with a definition of potential energy of a charge q at any point. 2.2 ELECTROSTATIC POTENTIAL Consider any general static charge configuration.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Build a definition from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body.",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "When the external force is removed, the body moves, gaining kinetic energy and losing an equal amount of potential energy.",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "The sum of kinetic and potential energies is thus conserved.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "Spring force and gravitational force are examples of conservative forces.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body. When the external force is removed, the body moves, gaining kinetic energy and losing an equal amount of potential energy. The sum of kinetic and potential energies is thus conserved. Spring force and gravitational force are examples of conservative forces.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "Coulomb force between two (stationary) charges is also a conservative force.",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "Thus, like the potential energy of a mass in a gravitational field, we can define electrostatic potential energy of a charge in an electrostatic field.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "Consider an electrostatic field E E E E E due to some charge configuration.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "First, for simplicity, consider the field E due to a charge Q placed at the origin.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "Now, imagine that we bring a test charge q from a point R to a point P against the repulsive force on it due to the charge Q.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Coulomb force between two (stationary) charges is also a conservative force. Thus, like the potential energy of a mass in a gravitational field, we can define electrostatic potential energy of a charge in an electrostatic field. Consider an electrostatic field E E E E E due to some charge configuration. First, for simplicity, consider the field E due to a charge Q placed at the origin. Now, imagine that we bring a test charge q from a point R to a point P against the repulsive force on it due to the charge Q.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "2.1, this will happen if Q and q are both positive or both negative.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "Second, in bringing the charge q from R to P, we apply an external force Fext just enough to counter the repulsive electric force FE (i.e, Fext= -FE).",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "This means there is no net force on or acceleration of the charge q when it is brought from R to P, i.e., it is brought with infinitesimally slow constant speed.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "2.1, this will happen if Q and q are both positive or both negative. Second, in bringing the charge q from R to P, we apply an external force Fext just enough to counter the repulsive electric force FE (i.e, Fext= -FE). This means there is no net force on or acceleration of the charge q when it is brought from R to P, i.e., it is brought with infinitesimally slow constant speed.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "In this situation, work done by the external force is the negative of the work done by the electric force, and gets fully stored in the form of potential energy of the charge q.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "Thus, work done by external forces in moving a charge q from R to P is WRP = = - (2.1) This work done is against electrostatic repulsive force and gets stored as potential energy.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "Two important comments may be made at this stage: (i) The right side of Eq.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In this situation, work done by the external force is the negative of the work done by the electric force, and gets fully stored in the form of potential energy of the charge q. Thus, work done by external forces in moving a charge q from R to P is WRP = = - (2.1) This work done is against electrostatic repulsive force and gets stored as potential energy. Two important comments may be made at this stage: (i) The right side of Eq.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "(2.2) depends only on the initial and final positions of the charge.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "This is the fundamental characteristic of a conservative force.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "The concept of the potential energy would not be meaningful if the work depended on the path.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "The path-independence of work done by an electrostatic field can be proved using the Coulomb's law.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "(2.2) depends only on the initial and final positions of the charge. This is the fundamental characteristic of a conservative force. The concept of the potential energy would not be meaningful if the work depended on the path. The path-independence of work done by an electrostatic field can be proved using the Coulomb's law.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "Reprint 2025-26 Electrostatic Potential and Capacitance 47 (ii) Equation (2.2) defines potential energy difference in terms of the physically meaningful quantity work.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "A convenient choice is to have electrostatic potential energy zero at infinity.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "With this choice, if we take the point R at infinity, we get from Eq.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Reprint 2025-26 Electrostatic Potential and Capacitance 47 (ii) Equation (2.2) defines potential energy difference in terms of the physically meaningful quantity work. A convenient choice is to have electrostatic potential energy zero at infinity. With this choice, if we take the point R at infinity, we get from Eq.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "(2.2) P P P W U U U ∞ ∞ = − = (2.3) Since the point P is arbitrary, Eq.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "(2.3) provides us with a definition of potential energy of a charge q at any point.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "2.2 ELECTROSTATIC POTENTIAL Consider any general static charge configuration.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "We define potential energy of a test charge q in terms of the work done on the charge q.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "(2.2) P P P W U U U ∞ ∞ = − = (2.3) Since the point P is arbitrary, Eq. (2.3) provides us with a definition of potential energy of a charge q at any point. 2.2 ELECTROSTATIC POTENTIAL Consider any general static charge configuration. We define potential energy of a test charge q in terms of the work done on the charge q.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "This work is obviously proportional to q, since the force at any point is qE, where E is the electric field at that point due to the given charge configuration.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "It is, therefore, convenient to divide the work by the amount of charge q, so that the resulting quantity is independent of q.",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "This work is obviously proportional to q, since the force at any point is qE, where E is the electric field at that point due to the given charge configuration. It is, therefore, convenient to divide the work by the amount of charge q, so that the resulting quantity is independent of q.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 2.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "In other words, work done per unit test charge is characteristic of the electric field associated with the charge configuration.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "This leads to the idea of electrostatic potential V due to a given charge configuration.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 2 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In other words, work done per unit test charge is characteristic of the electric field associated with the charge configuration. This leads to the idea of electrostatic potential V due to a given charge configuration. When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body.",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "When the external force is removed, the body moves, gaining kinetic energy and losing an equal amount of potential energy.",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "The sum of kinetic and potential energies is thus conserved.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "Spring force and gravitational force are examples of conservative forces.",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body. When the external force is removed, the body moves, gaining kinetic energy and losing an equal amount of potential energy. The sum of kinetic and potential energies is thus conserved. Spring force and gravitational force are examples of conservative forces.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "When an external force does work in taking a body from a point to another against a",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "force like spring force or gravitational force, that work gets stored as potential energy of the body.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "When the external force is removed, the body moves, gaining",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "kinetic energy and losing an equal amount of potential energy.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "The sum of kinetic and",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "potential energies is thus conserved.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "Spring force and gravitational force",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "are examples of conservative forces.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body. When the external force is removed, the body moves, gaining kinetic energy and losing an equal amount of potential energy. The sum of kinetic and potential energies is thus conserved. Spring force and gravitational force are examples of conservative forces.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "when",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "when",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "When an external force does work in taking a body from a point to another against a force like spring force or gravitational force, that work gets stored as potential energy of the body. When the external force is removed, the body moves, gaining kinetic energy and losing an equal amount of potential energy. The sum of kinetic and potential energies is thus conserved. Spring force and gravitational force are examples of conservative forces.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "Coulomb force between two (stationary) charges is also a conservative force.",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "Thus, like the potential energy of a mass in a gravitational field, we can define electrostatic potential energy of a charge in an electrostatic field.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "Consider an electrostatic field E E E E E due to some charge configuration.",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "First, for simplicity, consider the field E due to a charge Q placed at the origin.",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Coulomb force between two (stationary) charges is also a conservative force. Thus, like the potential energy of a mass in a gravitational field, we can define electrostatic potential energy of a charge in an electrostatic field. Consider an electrostatic field E E E E E due to some charge configuration. First, for simplicity, consider the field E due to a charge Q placed at the origin.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "Coulomb force between two (stationary)",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "charges is also a conservative force.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "Thus, like the potential energy of a mass in a gravitational field,",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "we can define electrostatic potential energy of a charge in an electrostatic field.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "Consider an electrostatic field E E E",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "E E due to some charge configuration.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "First, for simplicity, consider the field E due",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "to a charge Q placed at the origin.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Coulomb force between two (stationary) charges is also a conservative force. Thus, like the potential energy of a mass in a gravitational field, we can define electrostatic potential energy of a charge in an electrostatic field. Consider an electrostatic field E E E E E due to some charge configuration. First, for simplicity, consider the field E due to a charge Q placed at the origin.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "coulomb",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "thus,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Coulomb force between two (stationary) charges is also a conservative force. Thus, like the potential energy of a mass in a gravitational field, we can define electrostatic potential energy of a charge in an electrostatic field. Consider an electrostatic field E E E E E due to some charge configuration. First, for simplicity, consider the field E due to a charge Q placed at the origin.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "Now, imagine that we bring a test charge q from a point R to a point P against the repulsive force on it due to the charge Q.",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "2.1, this will happen if Q and q are both positive or both negative.",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "Second, in bringing the charge q from R to P, we apply an external force Fext just enough to counter the repulsive electric force FE (i.e, Fext= -FE).",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "This means there is no net force on or acceleration of the charge q when it is brought from R to P, i.e., it is brought with infinitesimally slow constant speed.",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Now, imagine that we bring a test charge q from a point R to a point P against the repulsive force on it due to the charge Q. 2.1, this will happen if Q and q are both positive or both negative. Second, in bringing the charge q from R to P, we apply an external force Fext just enough to counter the repulsive electric force FE (i.e, Fext= -FE). This means there is no net force on or acceleration of the charge q when it is brought from R to P, i.e., it is brought with infinitesimally slow constant speed.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "Now, imagine that we bring a test charge q from a point R to",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "a point P against the repulsive force on it due to the charge Q.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "2.1, this will happen if Q and",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "q are both positive or both negative.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "Second, in bringing the charge q from R to P, we apply an external",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "force Fext just enough to counter the repulsive electric force FE (i.e, Fext= -FE).",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "This means there is no net force on or acceleration of the charge q when",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "it is brought from R to P, i.e., it is brought with infinitesimally slow constant speed.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Now, imagine that we bring a test charge q from a point R to a point P against the repulsive force on it due to the charge Q. 2.1, this will happen if Q and q are both positive or both negative. Second, in bringing the charge q from R to P, we apply an external force Fext just enough to counter the repulsive electric force FE (i.e, Fext= -FE). This means there is no net force on or acceleration of the charge q when it is brought from R to P, i.e., it is brought with infinitesimally slow constant speed.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "now,",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "2.1,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Now, imagine that we bring a test charge q from a point R to a point P against the repulsive force on it due to the charge Q. 2.1, this will happen if Q and q are both positive or both negative. Second, in bringing the charge q from R to P, we apply an external force Fext just enough to counter the repulsive electric force FE (i.e, Fext= -FE). This means there is no net force on or acceleration of the charge q when it is brought from R to P, i.e., it is brought with infinitesimally slow constant speed.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Define an important term from Chapter 2 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "In this situation, work done by the external force is the negative of the work done by the electric force, and gets fully stored in the form of potential energy of the charge q.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "Thus, work done by external forces in moving a charge q from R to P is WRP = = - (2.1) This work done is against electrostatic repulsive force and gets stored as potential energy.",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "Two important comments may be made at this stage: (i) The right side of Eq.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "(2.2) depends only on the initial and final positions of the charge.",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "In this situation, work done by the external force is the negative of the work done by the electric force, and gets fully stored in the form of potential energy of the charge q. Thus, work done by external forces in moving a charge q from R to P is WRP = = - (2.1) This work done is against electrostatic repulsive force and gets stored as potential energy. Two important comments may be made at this stage: (i) The right side of Eq. (2.2) depends only on the initial and final positions of the charge.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Define an important term from Chapter 2 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "In this situation, work done by the external force is the negative of the work done by",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "the electric force, and gets fully stored in the form of potential energy of the charge q.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "Thus, work done by external forces in moving a charge q from R to P is WRP",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "= = - (2.1) This work done is against electrostatic repulsive force and gets stored as potential energy.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "Two important comments may be made at",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "this stage: (i) The right side of Eq.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "(2.2) depends only on the initial",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "and final positions of the charge.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "In this situation, work done by the external force is the negative of the work done by the electric force, and gets fully stored in the form of potential energy of the charge q. Thus, work done by external forces in moving a charge q from R to P is WRP = = - (2.1) This work done is against electrostatic repulsive force and gets stored as potential energy. Two important comments may be made at this stage: (i) The right side of Eq. (2.2) depends only on the initial and final positions of the charge.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Define an important term from Chapter 2 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "in",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "thus,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "In this situation, work done by the external force is the negative of the work done by the electric force, and gets fully stored in the form of potential energy of the charge q. Thus, work done by external forces in moving a charge q from R to P is WRP = = - (2.1) This work done is against electrostatic repulsive force and gets stored as potential energy. Two important comments may be made at this stage: (i) The right side of Eq. (2.2) depends only on the initial and final positions of the charge.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "This is the fundamental characteristic of a conservative force.",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "The concept of the potential energy would not be meaningful if the work depended on the path.",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "The path-independence of work done by an electrostatic field can be proved using the Coulomb's law.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "Reprint 2025-26 Electrostatic Potential and Capacitance 47 (ii) Equation (2.2) defines potential energy difference in terms of the physically meaningful quantity work.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "This is the fundamental characteristic of a conservative force. The concept of the potential energy would not be meaningful if the work depended on the path. The path-independence of work done by an electrostatic field can be proved using the Coulomb's law. Reprint 2025-26 Electrostatic Potential and Capacitance 47 (ii) Equation (2.2) defines potential energy difference in terms of the physically meaningful quantity work.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "This is the fundamental",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "characteristic of a conservative force.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "The concept of the potential energy would not",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "be meaningful if the work depended on the path.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "The path-independence of work done by an electrostatic",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "field can be proved using the Coulomb's law.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "Reprint 2025-26 Electrostatic Potential and Capacitance 47 (ii) Equation (2.2) defines",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "potential energy difference in terms of the physically meaningful quantity work.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "This is the fundamental characteristic of a conservative force. The concept of the potential energy would not be meaningful if the work depended on the path. The path-independence of work done by an electrostatic field can be proved using the Coulomb's law. Reprint 2025-26 Electrostatic Potential and Capacitance 47 (ii) Equation (2.2) defines potential energy difference in terms of the physically meaningful quantity work.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-pcb-physics-chapter-2-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Physics",
+      "book": "Physics - Part 1",
+      "chapter": "Chapter 2",
+      "chapterNumber": 2,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 2.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Physics - Part 1, Chapter Chapter 2.",
+      "sourceChapter": "Chapter 2",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Physics - Part 1\\leph102.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "this",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "the",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 2 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "This is the fundamental characteristic of a conservative force. The concept of the potential energy would not be meaningful if the work depended on the path. The path-independence of work done by an electrostatic field can be proved using the Coulomb's law. Reprint 2025-26 Electrostatic Potential and Capacitance 47 (ii) Equation (2.2) defines potential energy difference in terms of the physically meaningful quantity work.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

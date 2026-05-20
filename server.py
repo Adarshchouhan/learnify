@@ -12,17 +12,30 @@ import time
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
-from urllib.parse import unquote, urlparse
+from urllib.parse import parse_qs, unquote, urlparse
 
 
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
-DB_PATH = DATA_DIR / "learnify.sqlite3"
+DATABASE_URL = os.environ.get("LEARNIFY_DATABASE_URL", "sqlite:///data/learnify.sqlite3")
+if DATABASE_URL.startswith("sqlite:///"):
+    configured_db = Path(DATABASE_URL.removeprefix("sqlite:///"))
+    DB_PATH = configured_db if configured_db.is_absolute() else ROOT / configured_db
+else:
+    DB_PATH = DATA_DIR / "learnify.sqlite3"
 PRACTICE_JSON = DATA_DIR / "practice" / "class-7" / "science-curiosity" / "life-processes-in-animals.json"
-HOST = "127.0.0.1"
+MANIFEST_JSON = DATA_DIR / "manifest" / "class-6-12-pdf-manifest.json"
+CATALOG_JSON = DATA_DIR / "catalog" / "content-catalog.json"
+ACTIVE_DATASETS_JSON = DATA_DIR / "catalog" / "active-datasets.json"
+HOST = os.environ.get("LEARNIFY_HOST", "127.0.0.1")
 PORT = int(os.environ.get("LEARNIFY_PORT", "5173"))
-SESSION_TTL_SECONDS = 60 * 60 * 24 * 7
+SESSION_TTL_SECONDS = int(os.environ.get("LEARNIFY_SESSION_TTL_SECONDS", str(60 * 60 * 24 * 7)))
 MAX_BODY_BYTES = 128 * 1024
+STUDENT_CATALOG_STATUSES = {
+    status.strip()
+    for status in os.environ.get("LEARNIFY_STUDENT_CATALOG_STATUSES", "active,generated").split(",")
+    if status.strip()
+}
 
 RATE_LIMIT: dict[tuple[str, str], list[float]] = {}
 
@@ -53,6 +66,7 @@ def init_db() -> None:
             )
             """
         )
+        ensure_column(conn, "users", "role", "TEXT NOT NULL DEFAULT 'student'")
         conn.execute(
             """
             CREATE TABLE IF NOT EXISTS sessions (
@@ -61,6 +75,50 @@ def init_db() -> None:
               csrf_token TEXT NOT NULL,
               created_at INTEGER NOT NULL,
               expires_at INTEGER NOT NULL
+            )
+            """
+        )
+        conn.execute(
+            """
+            CREATE TABLE IF NOT EXISTS content_reviews (
+              id INTEGER PRIMARY KEY AUTOINCREMENT,
+              reviewer_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+              dataset_path TEXT NOT NULL,
+              activity_id TEXT NOT NULL,
+              status TEXT NOT NULL CHECK(status IN ('draft', 'approved', 'needs_revision', 'rejected')),
+              notes TEXT NOT NULL DEFAULT '',
+              updated_at INTEGER NOT NULL,
+              UNIQUE(dataset_path, activity_id, reviewer_id)
+            )
+            """
+        )
+        conn.execute(
+            """
+            CREATE TABLE IF NOT EXISTS content_datasets (
+              id TEXT PRIMARY KEY,
+              class_level INTEGER NOT NULL,
+              stream TEXT,
+              subject TEXT NOT NULL,
+              book TEXT NOT NULL,
+              chapter TEXT NOT NULL,
+              chapter_number INTEGER NOT NULL,
+              json_path TEXT NOT NULL UNIQUE,
+              source_pdf TEXT NOT NULL,
+              status TEXT NOT NULL DEFAULT 'generated',
+              updated_at INTEGER NOT NULL
+            )
+            """
+        )
+        conn.execute(
+            """
+            CREATE TABLE IF NOT EXISTS assignments (
+              id INTEGER PRIMARY KEY AUTOINCREMENT,
+              teacher_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+              title TEXT NOT NULL,
+              dataset_path TEXT NOT NULL,
+              class_level INTEGER NOT NULL,
+              due_at INTEGER,
+              created_at INTEGER NOT NULL
             )
             """
         )
@@ -79,6 +137,12 @@ def init_db() -> None:
             )
             """
         )
+
+
+def ensure_column(conn: sqlite3.Connection, table: str, column: str, declaration: str) -> None:
+    columns = {row[1] for row in conn.execute(f"PRAGMA table_info({table})").fetchall()}
+    if column not in columns:
+        conn.execute(f"ALTER TABLE {table} ADD COLUMN {column} {declaration}")
 
 
 def db() -> sqlite3.Connection:
@@ -143,7 +207,74 @@ def user_payload(row: sqlite3.Row) -> dict[str, object]:
         "name": row["name"],
         "email": row["email"],
         "classLevel": row["class_level"],
+        "role": row["role"],
     }
+
+
+def load_active_paths() -> set[str]:
+    if not ACTIVE_DATASETS_JSON.exists():
+        return {str(PRACTICE_JSON.relative_to(ROOT)).replace("\\", "/")}
+    payload = json.loads(ACTIVE_DATASETS_JSON.read_text(encoding="utf-8"))
+    return {str(item.get("jsonPath", "")).replace("\\", "/") for item in payload.get("activeDatasets", [])}
+
+
+def discover_datasets(include_all: bool = False) -> list[dict[str, object]]:
+    if CATALOG_JSON.exists():
+        catalog = json.loads(CATALOG_JSON.read_text(encoding="utf-8"))
+        datasets = [dict(item) for item in catalog.get("datasets", [])]
+        if not include_all:
+            datasets = [item for item in datasets if item.get("status") in STUDENT_CATALOG_STATUSES and item.get("hasJson")]
+        return datasets
+
+    entries: list[dict[str, object]] = []
+    active_paths = load_active_paths()
+    if MANIFEST_JSON.exists():
+        manifest = json.loads(MANIFEST_JSON.read_text(encoding="utf-8"))
+        for entry in manifest.get("entries", []):
+            json_path = ROOT / str(entry.get("outputPath", ""))
+            json_rel = str(json_path.relative_to(ROOT)).replace("\\", "/") if ROOT in json_path.resolve().parents else str(entry.get("outputPath", ""))
+            if json_path.exists() and (include_all or json_rel in active_paths or "generated" in STUDENT_CATALOG_STATUSES):
+                status = "active" if json_rel in active_paths else "generated"
+                entries.append({**entry, "jsonPath": json_rel, "status": status, "hasJson": True})
+    for path in sorted((DATA_DIR / "practice").rglob("*.json")):
+        relative = str(path.relative_to(ROOT)).replace("\\", "/")
+        if any(entry.get("jsonPath") == relative for entry in entries):
+            continue
+        status = "active" if relative in active_paths else "generated"
+        if not include_all and status not in STUDENT_CATALOG_STATUSES:
+            continue
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+            source = payload.get("source", {})
+            entries.append(
+                {
+                    "id": relative.replace("\\", "/").removesuffix(".json"),
+                    "classLevel": source.get("classLevel"),
+                    "stream": source.get("stream"),
+                    "subject": source.get("subject"),
+                    "book": source.get("book"),
+                    "chapter": source.get("chapter"),
+                    "chapterNumber": source.get("chapterNumber"),
+                    "pdfPath": source.get("pdfPath"),
+                    "jsonPath": relative,
+                    "status": status,
+                    "hasJson": True,
+                }
+            )
+        except (json.JSONDecodeError, OSError):
+            continue
+    return entries
+
+
+def resolve_dataset_path(dataset: str | None) -> Path | None:
+    if not dataset:
+        return PRACTICE_JSON
+    for entry in discover_datasets(include_all=True):
+        if dataset in {str(entry.get("id")), str(entry.get("jsonPath"))}:
+            candidate = (ROOT / str(entry.get("jsonPath"))).resolve()
+            if ROOT in candidate.parents and candidate.exists():
+                return candidate
+    return None
 
 
 class LearnifyHandler(BaseHTTPRequestHandler):
@@ -167,10 +298,24 @@ class LearnifyHandler(BaseHTTPRequestHandler):
         parsed = urlparse(self.path)
         if parsed.path == "/api/session":
             return self.handle_session()
+        if parsed.path == "/api/status":
+            return self.handle_status()
+        if parsed.path == "/api/datasets":
+            return self.handle_datasets(parsed)
         if parsed.path == "/api/practice-data":
-            return self.handle_practice_data()
+            return self.handle_practice_data(parsed)
         if parsed.path == "/api/progress":
             return self.handle_progress()
+        if parsed.path == "/api/student/assignments":
+            return self.handle_student_assignments()
+        if parsed.path == "/api/admin/activities":
+            return self.handle_admin_activities(parsed)
+        if parsed.path == "/api/admin/reviews":
+            return self.handle_admin_reviews(parsed)
+        if parsed.path == "/api/teacher/analytics":
+            return self.handle_teacher_analytics()
+        if parsed.path == "/api/teacher/assignments":
+            return self.handle_assignments()
         return self.serve_static(parsed.path)
 
     def do_POST(self) -> None:
@@ -185,6 +330,10 @@ class LearnifyHandler(BaseHTTPRequestHandler):
             return self.handle_logout()
         if parsed.path == "/api/progress":
             return self.handle_save_progress()
+        if parsed.path == "/api/admin/reviews":
+            return self.handle_save_review()
+        if parsed.path == "/api/teacher/assignments":
+            return self.handle_create_assignment()
         return self.send_json({"error": "Not found"}, HTTPStatus.NOT_FOUND)
 
     def check_rate_limit(self, path: str) -> bool:
@@ -201,7 +350,11 @@ class LearnifyHandler(BaseHTTPRequestHandler):
         if not length_header:
             self.send_json({"error": "Missing request body."}, HTTPStatus.BAD_REQUEST)
             return None
-        length = int(length_header)
+        try:
+            length = int(length_header)
+        except ValueError:
+            self.send_json({"error": "Invalid Content-Length."}, HTTPStatus.BAD_REQUEST)
+            return None
         if length > MAX_BODY_BYTES:
             self.send_json({"error": "Request body too large."}, HTTPStatus.REQUEST_ENTITY_TOO_LARGE)
             return None
@@ -248,12 +401,52 @@ class LearnifyHandler(BaseHTTPRequestHandler):
             return False
         return True
 
+    def require_reviewer(self) -> tuple[sqlite3.Row, sqlite3.Row] | None:
+        auth = self.require_auth()
+        if not auth:
+            return None
+        user, session = auth
+        if user["role"] not in {"teacher", "admin"}:
+            self.send_json({"error": "Teacher or admin access required."}, HTTPStatus.FORBIDDEN)
+            return None
+        return user, session
+
     def handle_session(self) -> None:
         auth = self.current_user()
         if not auth:
             return self.send_json({"authenticated": False, "user": None, "csrfToken": None})
         user, session = auth
         return self.send_json({"authenticated": True, "user": user_payload(user), "csrfToken": session["csrf_token"]})
+
+    def handle_status(self) -> None:
+        catalog = {}
+        if CATALOG_JSON.exists():
+            catalog = json.loads(CATALOG_JSON.read_text(encoding="utf-8"))
+        with db() as conn:
+            user_count = conn.execute("SELECT COUNT(*) FROM users").fetchone()[0]
+            attempt_count = conn.execute("SELECT COUNT(*) FROM progress_events").fetchone()[0]
+            assignment_count = conn.execute("SELECT COUNT(*) FROM assignments").fetchone()[0]
+        return self.send_json(
+            {
+                "ok": True,
+                "server": "LearnifyLocal/1.0",
+                "catalog": catalog.get("totals", {}),
+                "studentCatalogStatuses": sorted(STUDENT_CATALOG_STATUSES),
+                "database": {
+                    "users": user_count,
+                    "attempts": attempt_count,
+                    "assignments": assignment_count,
+                },
+            }
+        )
+
+    def handle_datasets(self, parsed) -> None:
+        query = parse_qs(parsed.query)
+        include_all = query.get("includeAll", ["0"])[0] == "1"
+        if include_all:
+            auth = self.current_user()
+            include_all = bool(auth and auth[0]["role"] in {"teacher", "admin"})
+        self.send_json({"datasets": discover_datasets(include_all=include_all)})
 
     def handle_signup(self) -> None:
         body = self.read_json_body()
@@ -263,6 +456,7 @@ class LearnifyHandler(BaseHTTPRequestHandler):
         email = str(body.get("email", "")).strip().lower()
         password = str(body.get("password", ""))
         class_level = int(body.get("classLevel", 7) or 7)
+        requested_role = str(body.get("role", "student")).strip().lower()
 
         errors: dict[str, object] = {}
         if len(name) < 2 or len(name) > 80:
@@ -280,9 +474,11 @@ class LearnifyHandler(BaseHTTPRequestHandler):
         password_hash, salt = hash_password(password)
         try:
             with db() as conn:
+                user_count = int(conn.execute("SELECT COUNT(*) FROM users").fetchone()[0])
+                role = "admin" if user_count == 0 else ("teacher" if requested_role == "teacher" else "student")
                 cursor = conn.execute(
-                    "INSERT INTO users (name, email, class_level, password_hash, salt, created_at) VALUES (?, ?, ?, ?, ?, ?)",
-                    (name, email, class_level, password_hash, salt, now()),
+                    "INSERT INTO users (name, email, class_level, password_hash, salt, created_at, role) VALUES (?, ?, ?, ?, ?, ?, ?)",
+                    (name, email, class_level, password_hash, salt, now(), role),
                 )
                 user_id = int(cursor.lastrowid)
         except sqlite3.IntegrityError:
@@ -290,7 +486,11 @@ class LearnifyHandler(BaseHTTPRequestHandler):
 
         token, csrf = create_session(user_id)
         return self.send_json(
-            {"authenticated": True, "csrfToken": csrf, "user": {"id": user_id, "name": name, "email": email, "classLevel": class_level}},
+            {
+                "authenticated": True,
+                "csrfToken": csrf,
+                "user": {"id": user_id, "name": name, "email": email, "classLevel": class_level, "role": role},
+            },
             HTTPStatus.CREATED,
             cookies=[self.session_cookie(token)],
         )
@@ -314,11 +514,170 @@ class LearnifyHandler(BaseHTTPRequestHandler):
             delete_session(token)
         return self.send_json({"ok": True}, cookies=["learnify_session=; Path=/; HttpOnly; SameSite=Lax; Max-Age=0"])
 
-    def handle_practice_data(self) -> None:
-        if not PRACTICE_JSON.exists():
+    def handle_practice_data(self, parsed) -> None:
+        query = parse_qs(parsed.query)
+        dataset_path = resolve_dataset_path(query.get("dataset", [None])[0])
+        if not dataset_path or not dataset_path.exists():
             return self.send_json({"error": "Practice JSON has not been generated."}, HTTPStatus.NOT_FOUND)
-        payload = json.loads(PRACTICE_JSON.read_text(encoding="utf-8"))
+        payload = json.loads(dataset_path.read_text(encoding="utf-8"))
         return self.send_json(payload)
+
+    def handle_admin_activities(self, parsed) -> None:
+        auth = self.require_reviewer()
+        if not auth:
+            return
+        query = parse_qs(parsed.query)
+        dataset_path = resolve_dataset_path(query.get("dataset", [None])[0])
+        if not dataset_path or not dataset_path.exists():
+            return self.send_json({"error": "Dataset not found."}, HTTPStatus.NOT_FOUND)
+        payload = json.loads(dataset_path.read_text(encoding="utf-8"))
+        activities = payload.get("activities", [])
+        return self.send_json(
+            {
+                "dataset": str(dataset_path.relative_to(ROOT)),
+                "source": payload.get("source"),
+                "activities": [
+                    {
+                        "id": activity.get("id"),
+                        "type": activity.get("type"),
+                        "difficulty": activity.get("difficulty"),
+                        "question": activity.get("question"),
+                        "questionIdentifier": activity.get("questionIdentifier"),
+                    }
+                    for activity in activities
+                ],
+            }
+        )
+
+    def handle_admin_reviews(self, parsed) -> None:
+        auth = self.require_reviewer()
+        if not auth:
+            return
+        query = parse_qs(parsed.query)
+        dataset = query.get("dataset", [""])[0]
+        with db() as conn:
+            rows = conn.execute(
+                """
+                SELECT r.id, r.dataset_path, r.activity_id, r.status, r.notes, r.updated_at,
+                       u.name AS reviewer_name
+                FROM content_reviews r
+                JOIN users u ON u.id = r.reviewer_id
+                WHERE (? = '' OR r.dataset_path = ?)
+                ORDER BY r.updated_at DESC
+                LIMIT 100
+                """,
+                (dataset, dataset),
+            ).fetchall()
+        return self.send_json({"reviews": [dict(row) for row in rows]})
+
+    def handle_teacher_analytics(self) -> None:
+        auth = self.require_reviewer()
+        if not auth:
+            return
+        with db() as conn:
+            rows = conn.execute(
+                """
+                SELECT activity_type, difficulty, COUNT(*) AS attempts,
+                       ROUND(AVG(CAST(score AS REAL) / marks) * 100) AS average_percent
+                FROM progress_events
+                GROUP BY activity_type, difficulty
+                ORDER BY attempts DESC
+                LIMIT 20
+                """
+            ).fetchall()
+            assignment_count = conn.execute("SELECT COUNT(*) FROM assignments").fetchone()[0]
+        return self.send_json({"rows": [dict(row) for row in rows], "assignmentCount": assignment_count})
+
+    def handle_assignments(self) -> None:
+        auth = self.require_reviewer()
+        if not auth:
+            return
+        with db() as conn:
+            rows = conn.execute(
+                """
+                SELECT id, title, dataset_path, class_level, due_at, created_at
+                FROM assignments
+                ORDER BY created_at DESC
+                LIMIT 50
+                """
+            ).fetchall()
+        return self.send_json({"assignments": [dict(row) for row in rows]})
+
+    def handle_student_assignments(self) -> None:
+        auth = self.require_auth()
+        if not auth:
+            return
+        user, _session = auth
+        with db() as conn:
+            rows = conn.execute(
+                """
+                SELECT a.id, a.title, a.dataset_path, a.class_level, a.due_at, a.created_at,
+                       u.name AS teacher_name
+                FROM assignments a
+                JOIN users u ON u.id = a.teacher_id
+                WHERE a.class_level = ?
+                ORDER BY COALESCE(a.due_at, a.created_at) ASC, a.created_at DESC
+                LIMIT 50
+                """,
+                (user["class_level"],),
+            ).fetchall()
+        return self.send_json({"assignments": [dict(row) for row in rows]})
+
+    def handle_create_assignment(self) -> None:
+        auth = self.require_reviewer()
+        if not auth:
+            return
+        user, session = auth
+        if not self.require_csrf(session):
+            return
+        body = self.read_json_body()
+        if body is None:
+            return
+        title = str(body.get("title", "")).strip()[:140]
+        dataset_path = str(body.get("datasetPath", "")).strip()[:240]
+        class_level = int(body.get("classLevel", 7) or 7)
+        due_at = body.get("dueAt")
+        if not title or not dataset_path or class_level < 6 or class_level > 12:
+            return self.send_json({"error": "Invalid assignment payload."}, HTTPStatus.BAD_REQUEST)
+        if not resolve_dataset_path(dataset_path):
+            return self.send_json({"error": "Dataset not found."}, HTTPStatus.BAD_REQUEST)
+        with db() as conn:
+            cursor = conn.execute(
+                """
+                INSERT INTO assignments (teacher_id, title, dataset_path, class_level, due_at, created_at)
+                VALUES (?, ?, ?, ?, ?, ?)
+                """,
+                (user["id"], title, dataset_path, class_level, int(due_at) if due_at else None, now()),
+            )
+        return self.send_json({"ok": True, "id": cursor.lastrowid}, HTTPStatus.CREATED)
+
+    def handle_save_review(self) -> None:
+        auth = self.require_reviewer()
+        if not auth:
+            return
+        user, session = auth
+        if not self.require_csrf(session):
+            return
+        body = self.read_json_body()
+        if body is None:
+            return
+        dataset_path = str(body.get("datasetPath", ""))[:240]
+        activity_id = str(body.get("activityId", ""))[:180]
+        status = str(body.get("status", "draft")).strip()
+        notes = str(body.get("notes", ""))[:2000]
+        if status not in {"draft", "approved", "needs_revision", "rejected"} or not dataset_path or not activity_id:
+            return self.send_json({"error": "Invalid review payload."}, HTTPStatus.BAD_REQUEST)
+        with db() as conn:
+            conn.execute(
+                """
+                INSERT INTO content_reviews (reviewer_id, dataset_path, activity_id, status, notes, updated_at)
+                VALUES (?, ?, ?, ?, ?, ?)
+                ON CONFLICT(dataset_path, activity_id, reviewer_id)
+                DO UPDATE SET status = excluded.status, notes = excluded.notes, updated_at = excluded.updated_at
+                """,
+                (user["id"], dataset_path, activity_id, status, notes, now()),
+            )
+        return self.send_json({"ok": True})
 
     def handle_progress(self) -> None:
         auth = self.require_auth()

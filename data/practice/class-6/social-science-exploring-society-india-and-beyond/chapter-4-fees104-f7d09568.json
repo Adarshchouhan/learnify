@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+    "classLevel": 6,
+    "stream": null,
+    "subject": "Social Science",
+    "book": "Social Science - Exploring Society - India and Beyond",
+    "chapter": "Chapter 4",
+    "chapterNumber": 4,
+    "pageCount": null,
+    "extractedCharacterCount": 19336,
+    "extractionPreview": "59\n4 ― Timeline and Sources of History\nTimeline and \nSources of History\nCHAPTER\n4 \nHistory is \"an unending dialogue between the present and the past \n... between the society of today and the society of yesterday. ... \nWe can fully understand the present only in the light of the past.\"\n- E.H. Carr\nNational Museum, New Delhi. Such museums preserve objects from \nthe past, such as statues, coins and ornaments, all of which help us \nunderstand our history.\n1. \nHow do we measure historical \ntime?\n2. \n"
+  },
+  "coverage": {
+    "classes": [
+      6
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 4.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 4.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 4.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 4 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 4.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-6-social-science-chapter-4-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "between the society of today and the society of yesterday.",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "We can fully understand the present only in the light of the past.\" - E.H.",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "Such museums preserve objects from the past, such as statues, coins and ornaments, all of which help us understand our history.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "The Big Questions Reprint 2025-26 60 Exploring Society: India and Beyond Tapestry of the Past History: The study of the human past.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "between the society of today and the society of yesterday. We can fully understand the present only in the light of the past.\" - E.H. Such museums preserve objects from the past, such as statues, coins and ornaments, all of which help us understand our history. The Big Questions Reprint 2025-26 60 Exploring Society: India and Beyond Tapestry of the Past History: The study of the human past.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "THINK ABOUT IT  What is the earliest memory you can recollect?",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "Those memories together are a part of your past, maybe going five or six years back.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": " How do you think understanding the past will help us understand the present world?",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "You will discover in Science that the Earth has a very, very long history, of which we humans occupy only a tiny part - the most recent one.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "THINK ABOUT IT  What is the earliest memory you can recollect? Those memories together are a part of your past, maybe going five or six years back.  How do you think understanding the past will help us understand the present world? You will discover in Science that the Earth has a very, very long history, of which we humans occupy only a tiny part - the most recent one.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "Timeline of a few important stages in the evolution of life on Earth.",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "Reprint 2025-26 61 4 ― Timeline and Sources of History Many people study the history of the Earth.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "Some of them are trained to uncover the secrets left beneath the Earth's surface and help us learn about its past - and also our past.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "Observe these four pictures and the activities involved.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Timeline of a few important stages in the evolution of life on Earth. Reprint 2025-26 61 4 ― Timeline and Sources of History Many people study the history of the Earth. Some of them are trained to uncover the secrets left beneath the Earth's surface and help us learn about its past - and also our past. Observe these four pictures and the activities involved.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 4 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "4.2.1) study the physical features of the Earth, like the soil, stones, hills, mountains, rivers, seas, oceans and other such parts of the Earth.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "4.2.2) study the remains of plants, animals and humans from millions of years ago in the form of fossils.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "4.2.3) study human societies and cultures from the oldest times to the present.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "Each society and culture has had its own ways of measuring time.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "4.2.1) study the physical features of the Earth, like the soil, stones, hills, mountains, rivers, seas, oceans and other such parts of the Earth. 4.2.2) study the remains of plants, animals and humans from millions of years ago in the form of fossils. 4.2.3) study human societies and cultures from the oldest times to the present. Each society and culture has had its own ways of measuring time.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "Major events, such as the birth of an important person or the start of a ruler's reign, have often marked the beginning of a new era.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "4.2.4: Archaeologists Fossils: Impressions of footprints, or parts of plants or animals that are found preserved within layers of soil or rocks.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "In the West, the conventional year for Jesus Christ's birth has generally been taken to be the starting point for this calendar.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "Years are counted forward from this point and used to be marked with 'AD' (an abbreviation for a Latin phrase that refers to the years after Jesus' birth).",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Major events, such as the birth of an important person or the start of a ruler's reign, have often marked the beginning of a new era. 4.2.4: Archaeologists Fossils: Impressions of footprints, or parts of plants or animals that are found preserved within layers of soil or rocks. In the West, the conventional year for Jesus Christ's birth has generally been taken to be the starting point for this calendar. Years are counted forward from this point and used to be marked with 'AD' (an abbreviation for a Latin phrase that refers to the years after Jesus' birth).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "However, this is now called the Common Era or CE across the world.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "For example, 1947, the year India gained independence, can be written as 1947 AD (sometimes AD 1947) or 1947 CE.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "Similarly, the years before the conventional date for the birth of Jesus are counted backward and used to be marked with BC (or Before Christ).",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "However, century years - for example, 1800, 1900, 2000 - are leap years only if they are multiples of 400; so in the three centenary years above, only 2000 is a leap year.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "However, this is now called the Common Era or CE across the world. For example, 1947, the year India gained independence, can be written as 1947 AD (sometimes AD 1947) or 1947 CE. Similarly, the years before the conventional date for the birth of Jesus are counted backward and used to be marked with BC (or Before Christ). However, century years - for example, 1800, 1900, 2000 - are leap years only if they are multiples of 400; so in the three centenary years above, only 2000 is a leap year.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "between the society of today and the society of yesterday.",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "We can fully understand the present only in the light of the past.\" - E.H.",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "Such museums preserve objects from the past, such as statues, coins and ornaments, all of which help us understand our history.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "The Big Questions Reprint 2025-26 60 Exploring Society: India and Beyond Tapestry of the Past History: The study of the human past.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "between the society of today and the society of yesterday. We can fully understand the present only in the light of the past.\" - E.H. Such museums preserve objects from the past, such as statues, coins and ornaments, all of which help us understand our history. The Big Questions Reprint 2025-26 60 Exploring Society: India and Beyond Tapestry of the Past History: The study of the human past.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "THINK ABOUT IT  What is the earliest memory you can recollect?",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "Those memories together are a part of your past, maybe going five or six years back.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": " How do you think understanding the past will help us understand the present world?",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "You will discover in Science that the Earth has a very, very long history, of which we humans occupy only a tiny part - the most recent one.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "THINK ABOUT IT  What is the earliest memory you can recollect? Those memories together are a part of your past, maybe going five or six years back.  How do you think understanding the past will help us understand the present world? You will discover in Science that the Earth has a very, very long history, of which we humans occupy only a tiny part - the most recent one.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "List key points from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "Timeline of a few important stages in the evolution of life on Earth.",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "Reprint 2025-26 61 4 ― Timeline and Sources of History Many people study the history of the Earth.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "Some of them are trained to uncover the secrets left beneath the Earth's surface and help us learn about its past - and also our past.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "Observe these four pictures and the activities involved.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Timeline of a few important stages in the evolution of life on Earth. Reprint 2025-26 61 4 ― Timeline and Sources of History Many people study the history of the Earth. Some of them are trained to uncover the secrets left beneath the Earth's surface and help us learn about its past - and also our past. Observe these four pictures and the activities involved.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "4.2.1) study the physical features of the Earth, like the soil, stones, hills, mountains, rivers, seas, oceans and other such parts of the Earth.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "4.2.2) study the remains of plants, animals and humans from millions of years ago in the form of fossils.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "4.2.3) study human societies and cultures from the oldest times to the present.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "Each society and culture has had its own ways of measuring time.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "4.2.1) study the physical features of the Earth, like the soil, stones, hills, mountains, rivers, seas, oceans and other such parts of the Earth. 4.2.2) study the remains of plants, animals and humans from millions of years ago in the form of fossils. 4.2.3) study human societies and cultures from the oldest times to the present. Each society and culture has had its own ways of measuring time.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 4 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "Major events, such as the birth of an important person or the start of a ruler's reign, have often marked the beginning of a new era.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "4.2.4: Archaeologists Fossils: Impressions of footprints, or parts of plants or animals that are found preserved within layers of soil or rocks.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "In the West, the conventional year for Jesus Christ's birth has generally been taken to be the starting point for this calendar.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "Years are counted forward from this point and used to be marked with 'AD' (an abbreviation for a Latin phrase that refers to the years after Jesus' birth).",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Major events, such as the birth of an important person or the start of a ruler's reign, have often marked the beginning of a new era. 4.2.4: Archaeologists Fossils: Impressions of footprints, or parts of plants or animals that are found preserved within layers of soil or rocks. In the West, the conventional year for Jesus Christ's birth has generally been taken to be the starting point for this calendar. Years are counted forward from this point and used to be marked with 'AD' (an abbreviation for a Latin phrase that refers to the years after Jesus' birth).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "However, this is now called the Common Era or CE across the world.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "For example, 1947, the year India gained independence, can be written as 1947 AD (sometimes AD 1947) or 1947 CE.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "Similarly, the years before the conventional date for the birth of Jesus are counted backward and used to be marked with BC (or Before Christ).",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "However, century years - for example, 1800, 1900, 2000 - are leap years only if they are multiples of 400; so in the three centenary years above, only 2000 is a leap year.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "Auspicious: favourable or bringing luck; for instance, 'an auspicious beginning'.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "However, this is now called the Common Era or CE across the world. For example, 1947, the year India gained independence, can be written as 1947 AD (sometimes AD 1947) or 1947 CE. Similarly, the years before the conventional date for the birth of Jesus are counted backward and used to be marked with BC (or Before Christ). However, century years - for example, 1800, 1900, 2000 - are leap years only if they are multiples of 400; so in the three centenary years above, only 2000 is a leap year. Auspicious: favourable or bringing luck; for instance, 'an auspicious beginning'.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Build a definition from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "between the society of today and the society of yesterday.",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "We can fully understand the present only in the light of the past.\" - E.H.",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "Such museums preserve objects from the past, such as statues, coins and ornaments, all of which help us understand our history.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "The Big Questions Reprint 2025-26 60 Exploring Society: India and Beyond Tapestry of the Past History: The study of the human past.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "between the society of today and the society of yesterday. We can fully understand the present only in the light of the past.\" - E.H. Such museums preserve objects from the past, such as statues, coins and ornaments, all of which help us understand our history. The Big Questions Reprint 2025-26 60 Exploring Society: India and Beyond Tapestry of the Past History: The study of the human past.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "THINK ABOUT IT  What is the earliest memory you can recollect?",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "Those memories together are a part of your past, maybe going five or six years back.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": " How do you think understanding the past will help us understand the present world?",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "You will discover in Science that the Earth has a very, very long history, of which we humans occupy only a tiny part - the most recent one.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "Timeline of a few important stages in the evolution of life on Earth.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "THINK ABOUT IT  What is the earliest memory you can recollect? Those memories together are a part of your past, maybe going five or six years back.  How do you think understanding the past will help us understand the present world? You will discover in Science that the Earth has a very, very long history, of which we humans occupy only a tiny part - the most recent one. Timeline of a few important stages in the evolution of life on Earth.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "Reprint 2025-26 61 4 ― Timeline and Sources of History Many people study the history of the Earth.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "Some of them are trained to uncover the secrets left beneath the Earth's surface and help us learn about its past - and also our past.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "Observe these four pictures and the activities involved.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Reprint 2025-26 61 4 ― Timeline and Sources of History Many people study the history of the Earth. Some of them are trained to uncover the secrets left beneath the Earth's surface and help us learn about its past - and also our past. Observe these four pictures and the activities involved.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "4.2.1) study the physical features of the Earth, like the soil, stones, hills, mountains, rivers, seas, oceans and other such parts of the Earth.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "4.2.2) study the remains of plants, animals and humans from millions of years ago in the form of fossils.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "4.2.3) study human societies and cultures from the oldest times to the present.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "4.2.1) study the physical features of the Earth, like the soil, stones, hills, mountains, rivers, seas, oceans and other such parts of the Earth. 4.2.2) study the remains of plants, animals and humans from millions of years ago in the form of fossils. 4.2.3) study human societies and cultures from the oldest times to the present.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "Each society and culture has had its own ways of measuring time.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "Major events, such as the birth of an important person or the start of a ruler's reign, have often marked the beginning of a new era.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "4.2.4: Archaeologists Fossils: Impressions of footprints, or parts of plants or animals that are found preserved within layers of soil or rocks.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "In the West, the conventional year for Jesus Christ's birth has generally been taken to be the starting point for this calendar.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Each society and culture has had its own ways of measuring time. Major events, such as the birth of an important person or the start of a ruler's reign, have often marked the beginning of a new era. 4.2.4: Archaeologists Fossils: Impressions of footprints, or parts of plants or animals that are found preserved within layers of soil or rocks. In the West, the conventional year for Jesus Christ's birth has generally been taken to be the starting point for this calendar.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "Years are counted forward from this point and used to be marked with 'AD' (an abbreviation for a Latin phrase that refers to the years after Jesus' birth).",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "However, this is now called the Common Era or CE across the world.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "For example, 1947, the year India gained independence, can be written as 1947 AD (sometimes AD 1947) or 1947 CE.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Years are counted forward from this point and used to be marked with 'AD' (an abbreviation for a Latin phrase that refers to the years after Jesus' birth). However, this is now called the Common Era or CE across the world. For example, 1947, the year India gained independence, can be written as 1947 AD (sometimes AD 1947) or 1947 CE.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "Similarly, the years before the conventional date for the birth of Jesus are counted backward and used to be marked with BC (or Before Christ).",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "However, century years - for example, 1800, 1900, 2000 - are leap years only if they are multiples of 400; so in the three centenary years above, only 2000 is a leap year.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "Auspicious: favourable or bringing luck; for instance, 'an auspicious beginning'.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "First examples of rock art in the world Ice Age 40,000 BCE 14,000 BCE 300,000 BCE Fig.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Similarly, the years before the conventional date for the birth of Jesus are counted backward and used to be marked with BC (or Before Christ). However, century years - for example, 1800, 1900, 2000 - are leap years only if they are multiples of 400; so in the three centenary years above, only 2000 is a leap year. Auspicious: favourable or bringing luck; for instance, 'an auspicious beginning'. First examples of rock art in the world Ice Age 40,000 BCE 14,000 BCE 300,000 BCE Fig.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "LET'S EXPLORE Æ Such calculations are simple, but there is a catch.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "Draw a simple timeline marking every year from 2 BCE to 2 CE; you will see that because of the absence of a year zero, only 3 years have passed between those two dates.",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "LET'S EXPLORE Æ Such calculations are simple, but there is a catch. Draw a simple timeline marking every year from 2 BCE to 2 CE; you will see that because of the absence of a year zero, only 3 years have passed between those two dates.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 4.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "Æ So to calculate the number of years between a BCE date and a CE date, you should add them but subtract 1 - in the above case, 2 + 2 - 1 = 3.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "For example, to return to the question about the Buddha, suppose we are now in the year 2024 CE, then the Buddha was born 560 + 2024 - 1 = 2,583 years ago.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "between the society of today and the society of yesterday.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 4 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Æ So to calculate the number of years between a BCE date and a CE date, you should add them but subtract 1 - in the above case, 2 + 2 - 1 = 3. For example, to return to the question about the Buddha, suppose we are now in the year 2024 CE, then the Buddha was born 560 + 2024 - 1 = 2,583 years ago. between the society of today and the society of yesterday.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-4-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "between the society of today and the society of yesterday.",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "We can fully understand the present only in the light of the past.\" - E.H.",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "Such museums preserve objects from the past, such as statues, coins and ornaments, all of which help us understand our history.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "The Big Questions Reprint 2025-26 60 Exploring Society: India and Beyond Tapestry of the Past History: The study of the human past.",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "between the society of today and the society of yesterday. We can fully understand the present only in the light of the past.\" - E.H. Such museums preserve objects from the past, such as statues, coins and ornaments, all of which help us understand our history. The Big Questions Reprint 2025-26 60 Exploring Society: India and Beyond Tapestry of the Past History: The study of the human past.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "between the society of today",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "and the society of yesterday.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "We can fully understand the present only",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "in the light of the past.\" - E.H.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "Such museums preserve objects from the past, such as statues,",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "coins and ornaments, all of which help us understand our history.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "The Big Questions Reprint 2025-26 60 Exploring Society: India and Beyond",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "Tapestry of the Past History: The study of the human past.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "between the society of today and the society of yesterday. We can fully understand the present only in the light of the past.\" - E.H. Such museums preserve objects from the past, such as statues, coins and ornaments, all of which help us understand our history. The Big Questions Reprint 2025-26 60 Exploring Society: India and Beyond Tapestry of the Past History: The study of the human past.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "between",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "we",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "between the society of today and the society of yesterday. We can fully understand the present only in the light of the past.\" - E.H. Such museums preserve objects from the past, such as statues, coins and ornaments, all of which help us understand our history. The Big Questions Reprint 2025-26 60 Exploring Society: India and Beyond Tapestry of the Past History: The study of the human past.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "THINK ABOUT IT  What is the earliest memory you can recollect?",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "Those memories together are a part of your past, maybe going five or six years back.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": " How do you think understanding the past will help us understand the present world?",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "You will discover in Science that the Earth has a very, very long history, of which we humans occupy only a tiny part - the most recent one.",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "THINK ABOUT IT  What is the earliest memory you can recollect? Those memories together are a part of your past, maybe going five or six years back.  How do you think understanding the past will help us understand the present world? You will discover in Science that the Earth has a very, very long history, of which we humans occupy only a tiny part - the most recent one.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "THINK ABOUT IT  What is",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "the earliest memory you can recollect?",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "Those memories together are a part of your",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "past, maybe going five or six years back.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": " How do you think understanding the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "past will help us understand the present world?",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "You will discover in Science that the Earth has a very, very long history,",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "of which we humans occupy only a tiny part - the most recent one.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "THINK ABOUT IT  What is the earliest memory you can recollect? Those memories together are a part of your past, maybe going five or six years back.  How do you think understanding the past will help us understand the present world? You will discover in Science that the Earth has a very, very long history, of which we humans occupy only a tiny part - the most recent one.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "think",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "those",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "THINK ABOUT IT  What is the earliest memory you can recollect? Those memories together are a part of your past, maybe going five or six years back.  How do you think understanding the past will help us understand the present world? You will discover in Science that the Earth has a very, very long history, of which we humans occupy only a tiny part - the most recent one.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "Timeline of a few important stages in the evolution of life on Earth.",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "Reprint 2025-26 61 4 ― Timeline and Sources of History Many people study the history of the Earth.",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "Some of them are trained to uncover the secrets left beneath the Earth's surface and help us learn about its past - and also our past.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "Observe these four pictures and the activities involved.",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Timeline of a few important stages in the evolution of life on Earth. Reprint 2025-26 61 4 ― Timeline and Sources of History Many people study the history of the Earth. Some of them are trained to uncover the secrets left beneath the Earth's surface and help us learn about its past - and also our past. Observe these four pictures and the activities involved.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "Timeline of a few important stages",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "in the evolution of life on Earth.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "Reprint 2025-26 61 4 ― Timeline and Sources of",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "History Many people study the history of the Earth.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "Some of them are trained to uncover the secrets left beneath the Earth's",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "surface and help us learn about its past - and also our past.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "Observe these four pictures",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "and the activities involved.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Timeline of a few important stages in the evolution of life on Earth. Reprint 2025-26 61 4 ― Timeline and Sources of History Many people study the history of the Earth. Some of them are trained to uncover the secrets left beneath the Earth's surface and help us learn about its past - and also our past. Observe these four pictures and the activities involved.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "timeline",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "reprint",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Timeline of a few important stages in the evolution of life on Earth. Reprint 2025-26 61 4 ― Timeline and Sources of History Many people study the history of the Earth. Some of them are trained to uncover the secrets left beneath the Earth's surface and help us learn about its past - and also our past. Observe these four pictures and the activities involved.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Define an important term from Chapter 4 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "4.2.1) study the physical features of the Earth, like the soil, stones, hills, mountains, rivers, seas, oceans and other such parts of the Earth.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "4.2.2) study the remains of plants, animals and humans from millions of years ago in the form of fossils.",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "4.2.3) study human societies and cultures from the oldest times to the present.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "Each society and culture has had its own ways of measuring time.",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "4.2.1) study the physical features of the Earth, like the soil, stones, hills, mountains, rivers, seas, oceans and other such parts of the Earth. 4.2.2) study the remains of plants, animals and humans from millions of years ago in the form of fossils. 4.2.3) study human societies and cultures from the oldest times to the present. Each society and culture has had its own ways of measuring time.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Define an important term from Chapter 4 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "4.2.1) study the physical features of the Earth, like the soil, stones,",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "hills, mountains, rivers, seas, oceans and other such parts of the Earth.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "4.2.2) study the remains of plants, animals and humans",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "from millions of years ago in the form of fossils.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "4.2.3) study human societies and cultures",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "from the oldest times to the present.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "Each society and culture has had",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "its own ways of measuring time.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "4.2.1) study the physical features of the Earth, like the soil, stones, hills, mountains, rivers, seas, oceans and other such parts of the Earth. 4.2.2) study the remains of plants, animals and humans from millions of years ago in the form of fossils. 4.2.3) study human societies and cultures from the oldest times to the present. Each society and culture has had its own ways of measuring time.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Define an important term from Chapter 4 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "4.2.1)",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "4.2.2)",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "4.2.1) study the physical features of the Earth, like the soil, stones, hills, mountains, rivers, seas, oceans and other such parts of the Earth. 4.2.2) study the remains of plants, animals and humans from millions of years ago in the form of fossils. 4.2.3) study human societies and cultures from the oldest times to the present. Each society and culture has had its own ways of measuring time.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "Major events, such as the birth of an important person or the start of a ruler's reign, have often marked the beginning of a new era.",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "4.2.4: Archaeologists Fossils: Impressions of footprints, or parts of plants or animals that are found preserved within layers of soil or rocks.",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "In the West, the conventional year for Jesus Christ's birth has generally been taken to be the starting point for this calendar.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "Years are counted forward from this point and used to be marked with 'AD' (an abbreviation for a Latin phrase that refers to the years after Jesus' birth).",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Major events, such as the birth of an important person or the start of a ruler's reign, have often marked the beginning of a new era. 4.2.4: Archaeologists Fossils: Impressions of footprints, or parts of plants or animals that are found preserved within layers of soil or rocks. In the West, the conventional year for Jesus Christ's birth has generally been taken to be the starting point for this calendar. Years are counted forward from this point and used to be marked with 'AD' (an abbreviation for a Latin phrase that refers to the years after Jesus' birth).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "Major events, such as the birth of an important person or the start",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "of a ruler's reign, have often marked the beginning of a new era.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "4.2.4: Archaeologists Fossils: Impressions of footprints, or parts of plants or",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "animals that are found preserved within layers of soil or rocks.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "In the West, the conventional year for Jesus Christ's birth has",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "generally been taken to be the starting point for this calendar.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "Years are counted forward from this point and used to be marked with 'AD'",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "(an abbreviation for a Latin phrase that refers to the years after Jesus' birth).",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Major events, such as the birth of an important person or the start of a ruler's reign, have often marked the beginning of a new era. 4.2.4: Archaeologists Fossils: Impressions of footprints, or parts of plants or animals that are found preserved within layers of soil or rocks. In the West, the conventional year for Jesus Christ's birth has generally been taken to be the starting point for this calendar. Years are counted forward from this point and used to be marked with 'AD' (an abbreviation for a Latin phrase that refers to the years after Jesus' birth).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-4-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 4",
+      "chapterNumber": 4,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 4.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 4.",
+      "sourceChapter": "Chapter 4",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees104.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "major",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "4.2.4:",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 4 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Major events, such as the birth of an important person or the start of a ruler's reign, have often marked the beginning of a new era. 4.2.4: Archaeologists Fossils: Impressions of footprints, or parts of plants or animals that are found preserved within layers of soil or rocks. In the West, the conventional year for Jesus Christ's birth has generally been taken to be the starting point for this calendar. Years are counted forward from this point and used to be marked with 'AD' (an abbreviation for a Latin phrase that refers to the years after Jesus' birth).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

@@ -16,11 +16,25 @@ data/learnify.sqlite3
 
 Tables:
 
-- `users`: name, email, class level, password hash, salt, created time
+- `users`: name, email, class level, role, password hash, salt, created time
 - `sessions`: token, user id, CSRF token, expiry
 - `progress_events`: user id, activity id, type, difficulty, score, selected count
+- `content_reviews`: teacher/admin review state for generated activities
+- `content_datasets`: production-facing dataset registry table
+- `assignments`: teacher-created dataset assignments
 
 Runtime SQLite files are ignored by git.
+
+## Roles
+
+Roles are:
+
+- `student`
+- `teacher`
+- `admin`
+
+The first user created in a fresh SQLite database becomes `admin`.
+Later signups default to `student`; the local prototype also accepts `role: "teacher"` for review testing.
 
 ## Passwords
 
@@ -66,6 +80,7 @@ Protected route:
 
 ```text
 POST /api/progress
+POST /api/admin/reviews
 ```
 
 ## API Routes
@@ -75,8 +90,18 @@ POST /api/progress
 - `POST /api/logout`
 - `GET /api/session`
 - `GET /api/practice-data`
+- `GET /api/datasets`
 - `GET /api/progress`
 - `POST /api/progress`
+- `GET /api/admin/activities`
+- `GET /api/admin/reviews`
+- `POST /api/admin/reviews`
+- `GET /api/teacher/analytics`
+- `GET /api/teacher/assignments`
+- `POST /api/teacher/assignments`
+- `GET /api/student/assignments`
+
+Admin routes require a `teacher` or `admin` role.
 
 ## Security Headers
 
@@ -97,3 +122,4 @@ Verified manually:
 - login works
 - logout clears session
 - progress write requires authenticated session and CSRF
+- teacher/admin review writes require authenticated session, reviewer role and CSRF

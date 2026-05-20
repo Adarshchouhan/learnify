@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+    "classLevel": 8,
+    "stream": null,
+    "subject": "Science",
+    "book": "Science - Curiosity",
+    "chapter": "Chapter 1",
+    "chapterNumber": 1,
+    "pageCount": null,
+    "extractedCharacterCount": 12361,
+    "extractionPreview": "Chapter 1 - Exploring the Investigative World of Science\n1\nExploring the \nInvestigative \nWorld of Science\n1\nDear Young Scientists, \nWelcome back! On the first page of each chapter, you will find a set of questions. \nThese are not meant for any exam- they are unique invitations to spark your \ncuriosity to explore the world of science!\nWhy is one side of a puri thinner than the other?\nAre there more grains of sand on all the beaches and deserts of the world, or more \nstars in our galaxy?\nRight fro"
+  },
+  "coverage": {
+    "classes": [
+      8
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 1.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 1.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-8-science-chapter-1-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science!",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "Are there more grains of sand on all the beaches and deserts of the world, or more stars in our galaxy?",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "Right from Grade 6, we've observed the incredible diversity of plants and animals around us.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "From the different shapes of leaves to the many kinds of insects - why has nature created such a vast variety?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science! Are there more grains of sand on all the beaches and deserts of the world, or more stars in our galaxy? Right from Grade 6, we've observed the incredible diversity of plants and animals around us. From the different shapes of leaves to the many kinds of insects - why has nature created such a vast variety?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "Is there such a question that makes you curious about the world?",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "_________________________________ Probe and ponder 2 Curiosity - Textbook of Science for Grade 8 Our journey with Curiosity, into the world of science continues in Grade 8.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "We hope you bring along the spirit of adventure and exploration that has guided us so far.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "In Grade 6, we discovered how science begins with wonder, with simple \"Why?\" and \"How?\" questions about the world around us.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Is there such a question that makes you curious about the world? _________________________________ Probe and ponder 2 Curiosity - Textbook of Science for Grade 8 Our journey with Curiosity, into the world of science continues in Grade 8. We hope you bring along the spirit of adventure and exploration that has guided us so far. In Grade 6, we discovered how science begins with wonder, with simple \"Why?\" and \"How?\" questions about the world around us.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "In Grade 7, we learnt that science is always evolving - that each answer opens new questions, and how our ideas can slowly change as we explore deeper.",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "Now, in Grade 8, we take the next step: entering the Investigative World of Science, where wonder and evolution come together to form the heart of how science works.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "We don't want you to just learn new facts, we want you to learn how to find new facts.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "Investigation in science means more than just looking at something and asking only simple questions.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In Grade 7, we learnt that science is always evolving - that each answer opens new questions, and how our ideas can slowly change as we explore deeper. Now, in Grade 8, we take the next step: entering the Investigative World of Science, where wonder and evolution come together to form the heart of how science works. We don't want you to just learn new facts, we want you to learn how to find new facts. Investigation in science means more than just looking at something and asking only simple questions.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 1 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "Now you can ask more focused questions, and design ways to perhaps do simple experiments to answer those questions, and then use your observations to improve your understanding.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "Step by step, we will learn how to use questions as starting points to try to observe carefully, experiment thoughtfully, and explain clearly what we see.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "In doing so, each of you won't just be learners but also investigators, young scientists, exploring real-world puzzles.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "These may range from everyday life - like why does dough rise?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Now you can ask more focused questions, and design ways to perhaps do simple experiments to answer those questions, and then use your observations to improve your understanding. Step by step, we will learn how to use questions as starting points to try to observe carefully, experiment thoughtfully, and explain clearly what we see. In doing so, each of you won't just be learners but also investigators, young scientists, exploring real-world puzzles. These may range from everyday life - like why does dough rise?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "to the bigger mysteries of Earth and beyond like is the world getting warmer?",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "Together, these two symbols - the root and the kite - invite you to stay grounded in real observations, while allowing your ideas to soar towards new horizons.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "Remember, investigation in science works best only when we balance the solid ground of careful observation with the freedom of creative thinking.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "There are some hidden scientific thoughts in these as well.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "to the bigger mysteries of Earth and beyond like is the world getting warmer? Together, these two symbols - the root and the kite - invite you to stay grounded in real observations, while allowing your ideas to soar towards new horizons. Remember, investigation in science works best only when we balance the solid ground of careful observation with the freedom of creative thinking. There are some hidden scientific thoughts in these as well.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "Let us now take a brief look at the various stops on our journey this year, and see where our curiosity, supported by strong roots and lifted by soaring ideas, might take us!",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "We will start by examining something as small as a single drop of water, and uncover a hidden world of tiny organisms, unseen but deeply linked to us.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "Some of these are invisible helpers, that help us digest our food or produce medicines, while others can be harmful, causing infections.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "In today's world, science does play a major role in improving our lives.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Let us now take a brief look at the various stops on our journey this year, and see where our curiosity, supported by strong roots and lifted by soaring ideas, might take us! We will start by examining something as small as a single drop of water, and uncover a hidden world of tiny organisms, unseen but deeply linked to us. Some of these are invisible helpers, that help us digest our food or produce medicines, while others can be harmful, causing infections. In today's world, science does play a major role in improving our lives.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science!",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "Are there more grains of sand on all the beaches and deserts of the world, or more stars in our galaxy?",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "Right from Grade 6, we've observed the incredible diversity of plants and animals around us.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "From the different shapes of leaves to the many kinds of insects - why has nature created such a vast variety?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science! Are there more grains of sand on all the beaches and deserts of the world, or more stars in our galaxy? Right from Grade 6, we've observed the incredible diversity of plants and animals around us. From the different shapes of leaves to the many kinds of insects - why has nature created such a vast variety?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "Is there such a question that makes you curious about the world?",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "_________________________________ Probe and ponder 2 Curiosity - Textbook of Science for Grade 8 Our journey with Curiosity, into the world of science continues in Grade 8.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "We hope you bring along the spirit of adventure and exploration that has guided us so far.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "In Grade 6, we discovered how science begins with wonder, with simple \"Why?\" and \"How?\" questions about the world around us.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Is there such a question that makes you curious about the world? _________________________________ Probe and ponder 2 Curiosity - Textbook of Science for Grade 8 Our journey with Curiosity, into the world of science continues in Grade 8. We hope you bring along the spirit of adventure and exploration that has guided us so far. In Grade 6, we discovered how science begins with wonder, with simple \"Why?\" and \"How?\" questions about the world around us.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "List key points from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "In Grade 7, we learnt that science is always evolving - that each answer opens new questions, and how our ideas can slowly change as we explore deeper.",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "Now, in Grade 8, we take the next step: entering the Investigative World of Science, where wonder and evolution come together to form the heart of how science works.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "We don't want you to just learn new facts, we want you to learn how to find new facts.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "Investigation in science means more than just looking at something and asking only simple questions.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In Grade 7, we learnt that science is always evolving - that each answer opens new questions, and how our ideas can slowly change as we explore deeper. Now, in Grade 8, we take the next step: entering the Investigative World of Science, where wonder and evolution come together to form the heart of how science works. We don't want you to just learn new facts, we want you to learn how to find new facts. Investigation in science means more than just looking at something and asking only simple questions.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "Now you can ask more focused questions, and design ways to perhaps do simple experiments to answer those questions, and then use your observations to improve your understanding.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "Step by step, we will learn how to use questions as starting points to try to observe carefully, experiment thoughtfully, and explain clearly what we see.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "In doing so, each of you won't just be learners but also investigators, young scientists, exploring real-world puzzles.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "These may range from everyday life - like why does dough rise?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Now you can ask more focused questions, and design ways to perhaps do simple experiments to answer those questions, and then use your observations to improve your understanding. Step by step, we will learn how to use questions as starting points to try to observe carefully, experiment thoughtfully, and explain clearly what we see. In doing so, each of you won't just be learners but also investigators, young scientists, exploring real-world puzzles. These may range from everyday life - like why does dough rise?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 1 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "to the bigger mysteries of Earth and beyond like is the world getting warmer?",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "Together, these two symbols - the root and the kite - invite you to stay grounded in real observations, while allowing your ideas to soar towards new horizons.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "Remember, investigation in science works best only when we balance the solid ground of careful observation with the freedom of creative thinking.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "There are some hidden scientific thoughts in these as well.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "to the bigger mysteries of Earth and beyond like is the world getting warmer? Together, these two symbols - the root and the kite - invite you to stay grounded in real observations, while allowing your ideas to soar towards new horizons. Remember, investigation in science works best only when we balance the solid ground of careful observation with the freedom of creative thinking. There are some hidden scientific thoughts in these as well.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "Let us now take a brief look at the various stops on our journey this year, and see where our curiosity, supported by strong roots and lifted by soaring ideas, might take us!",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "We will start by examining something as small as a single drop of water, and uncover a hidden world of tiny organisms, unseen but deeply linked to us.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "Some of these are invisible helpers, that help us digest our food or produce medicines, while others can be harmful, causing infections.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "In today's world, science does play a major role in improving our lives.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "For example, we use electric current in many ways to help make our lives easier.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Let us now take a brief look at the various stops on our journey this year, and see where our curiosity, supported by strong roots and lifted by soaring ideas, might take us! We will start by examining something as small as a single drop of water, and uncover a hidden world of tiny organisms, unseen but deeply linked to us. Some of these are invisible helpers, that help us digest our food or produce medicines, while others can be harmful, causing infections. In today's world, science does play a major role in improving our lives. For example, we use electric current in many ways to help make our lives easier.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Build a definition from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science!",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "Are there more grains of sand on all the beaches and deserts of the world, or more stars in our galaxy?",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "Right from Grade 6, we've observed the incredible diversity of plants and animals around us.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "From the different shapes of leaves to the many kinds of insects - why has nature created such a vast variety?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science! Are there more grains of sand on all the beaches and deserts of the world, or more stars in our galaxy? Right from Grade 6, we've observed the incredible diversity of plants and animals around us. From the different shapes of leaves to the many kinds of insects - why has nature created such a vast variety?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "Is there such a question that makes you curious about the world?",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "_________________________________ Probe and ponder 2 Curiosity - Textbook of Science for Grade 8 Our journey with Curiosity, into the world of science continues in Grade 8.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "We hope you bring along the spirit of adventure and exploration that has guided us so far.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "In Grade 6, we discovered how science begins with wonder, with simple \"Why?\" and \"How?\" questions about the world around us.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "In Grade 7, we learnt that science is always evolving - that each answer opens new questions, and how our ideas can slowly change as we explore deeper.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Is there such a question that makes you curious about the world? _________________________________ Probe and ponder 2 Curiosity - Textbook of Science for Grade 8 Our journey with Curiosity, into the world of science continues in Grade 8. We hope you bring along the spirit of adventure and exploration that has guided us so far. In Grade 6, we discovered how science begins with wonder, with simple \"Why?\" and \"How?\" questions about the world around us. In Grade 7, we learnt that science is always evolving - that each answer opens new questions, and how our ideas can slowly change as we explore deeper.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "Now, in Grade 8, we take the next step: entering the Investigative World of Science, where wonder and evolution come together to form the heart of how science works.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "We don't want you to just learn new facts, we want you to learn how to find new facts.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "Investigation in science means more than just looking at something and asking only simple questions.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Now, in Grade 8, we take the next step: entering the Investigative World of Science, where wonder and evolution come together to form the heart of how science works. We don't want you to just learn new facts, we want you to learn how to find new facts. Investigation in science means more than just looking at something and asking only simple questions.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "Now you can ask more focused questions, and design ways to perhaps do simple experiments to answer those questions, and then use your observations to improve your understanding.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "Step by step, we will learn how to use questions as starting points to try to observe carefully, experiment thoughtfully, and explain clearly what we see.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "In doing so, each of you won't just be learners but also investigators, young scientists, exploring real-world puzzles.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Now you can ask more focused questions, and design ways to perhaps do simple experiments to answer those questions, and then use your observations to improve your understanding. Step by step, we will learn how to use questions as starting points to try to observe carefully, experiment thoughtfully, and explain clearly what we see. In doing so, each of you won't just be learners but also investigators, young scientists, exploring real-world puzzles.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "These may range from everyday life - like why does dough rise?",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "to the bigger mysteries of Earth and beyond like is the world getting warmer?",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "Together, these two symbols - the root and the kite - invite you to stay grounded in real observations, while allowing your ideas to soar towards new horizons.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "Remember, investigation in science works best only when we balance the solid ground of careful observation with the freedom of creative thinking.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "These may range from everyday life - like why does dough rise? to the bigger mysteries of Earth and beyond like is the world getting warmer? Together, these two symbols - the root and the kite - invite you to stay grounded in real observations, while allowing your ideas to soar towards new horizons. Remember, investigation in science works best only when we balance the solid ground of careful observation with the freedom of creative thinking.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "There are some hidden scientific thoughts in these as well.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "Let us now take a brief look at the various stops on our journey this year, and see where our curiosity, supported by strong roots and lifted by soaring ideas, might take us!",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "We will start by examining something as small as a single drop of water, and uncover a hidden world of tiny organisms, unseen but deeply linked to us.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "There are some hidden scientific thoughts in these as well. Let us now take a brief look at the various stops on our journey this year, and see where our curiosity, supported by strong roots and lifted by soaring ideas, might take us! We will start by examining something as small as a single drop of water, and uncover a hidden world of tiny organisms, unseen but deeply linked to us.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "Some of these are invisible helpers, that help us digest our food or produce medicines, while others can be harmful, causing infections.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "In today's world, science does play a major role in improving our lives.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "For example, we use electric current in many ways to help make our lives easier.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "We depend on the heating effect of electric current to keep us warm, while the magnetic effect helps motors run and machines function.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Some of these are invisible helpers, that help us digest our food or produce medicines, while others can be harmful, causing infections. In today's world, science does play a major role in improving our lives. For example, we use electric current in many ways to help make our lives easier. We depend on the heating effect of electric current to keep us warm, while the magnetic effect helps motors run and machines function.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "So after watching electricity do work, we move on to study these forces themselves, starting with those that make objects speed up, slow down, or change direction.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "Understanding forces helps explain why a ball thrown up in the air falls back to the ground, or why a car stops when the brakes are applied.",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "So after watching electricity do work, we move on to study these forces themselves, starting with those that make objects speed up, slow down, or change direction. Understanding forces helps explain why a ball thrown up in the air falls back to the ground, or why a car stops when the brakes are applied.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "This also leads us to the idea of pressure - how the force is distributed over an object.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "The same concepts of force and pressure also decide how air moves.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science!",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "This also leads us to the idea of pressure - how the force is distributed over an object. The same concepts of force and pressure also decide how air moves. These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-8-science-chapter-1-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science!",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "Are there more grains of sand on all the beaches and deserts of the world, or more stars in our galaxy?",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "Right from Grade 6, we've observed the incredible diversity of plants and animals around us.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "From the different shapes of leaves to the many kinds of insects - why has nature created such a vast variety?",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science! Are there more grains of sand on all the beaches and deserts of the world, or more stars in our galaxy? Right from Grade 6, we've observed the incredible diversity of plants and animals around us. From the different shapes of leaves to the many kinds of insects - why has nature created such a vast variety?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "These are not meant for any exam- they are unique",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "invitations to spark your curiosity to explore the world of science!",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "Are there more grains of sand on all the beaches",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "and deserts of the world, or more stars in our galaxy?",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "Right from Grade 6, we've observed the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "incredible diversity of plants and animals around us.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "From the different shapes of leaves to the many kinds",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "of insects - why has nature created such a vast variety?",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science! Are there more grains of sand on all the beaches and deserts of the world, or more stars in our galaxy? Right from Grade 6, we've observed the incredible diversity of plants and animals around us. From the different shapes of leaves to the many kinds of insects - why has nature created such a vast variety?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "these",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "are",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "These are not meant for any exam- they are unique invitations to spark your curiosity to explore the world of science! Are there more grains of sand on all the beaches and deserts of the world, or more stars in our galaxy? Right from Grade 6, we've observed the incredible diversity of plants and animals around us. From the different shapes of leaves to the many kinds of insects - why has nature created such a vast variety?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "Is there such a question that makes you curious about the world?",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "_________________________________ Probe and ponder 2 Curiosity - Textbook of Science for Grade 8 Our journey with Curiosity, into the world of science continues in Grade 8.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "We hope you bring along the spirit of adventure and exploration that has guided us so far.",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "In Grade 6, we discovered how science begins with wonder, with simple \"Why?\" and \"How?\" questions about the world around us.",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Is there such a question that makes you curious about the world? _________________________________ Probe and ponder 2 Curiosity - Textbook of Science for Grade 8 Our journey with Curiosity, into the world of science continues in Grade 8. We hope you bring along the spirit of adventure and exploration that has guided us so far. In Grade 6, we discovered how science begins with wonder, with simple \"Why?\" and \"How?\" questions about the world around us.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "Is there such a question that",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "makes you curious about the world?",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "_________________________________ Probe and ponder 2 Curiosity - Textbook of Science for Grade 8",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "Our journey with Curiosity, into the world of science continues in Grade 8.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "We hope you bring along the spirit of",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "adventure and exploration that has guided us so far.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "In Grade 6, we discovered how science begins with wonder,",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "with simple \"Why?\" and \"How?\" questions about the world around us.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Is there such a question that makes you curious about the world? _________________________________ Probe and ponder 2 Curiosity - Textbook of Science for Grade 8 Our journey with Curiosity, into the world of science continues in Grade 8. We hope you bring along the spirit of adventure and exploration that has guided us so far. In Grade 6, we discovered how science begins with wonder, with simple \"Why?\" and \"How?\" questions about the world around us.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "is",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "_________________________________",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Is there such a question that makes you curious about the world? _________________________________ Probe and ponder 2 Curiosity - Textbook of Science for Grade 8 Our journey with Curiosity, into the world of science continues in Grade 8. We hope you bring along the spirit of adventure and exploration that has guided us so far. In Grade 6, we discovered how science begins with wonder, with simple \"Why?\" and \"How?\" questions about the world around us.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "In Grade 7, we learnt that science is always evolving - that each answer opens new questions, and how our ideas can slowly change as we explore deeper.",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "Now, in Grade 8, we take the next step: entering the Investigative World of Science, where wonder and evolution come together to form the heart of how science works.",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "We don't want you to just learn new facts, we want you to learn how to find new facts.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "Investigation in science means more than just looking at something and asking only simple questions.",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "In Grade 7, we learnt that science is always evolving - that each answer opens new questions, and how our ideas can slowly change as we explore deeper. Now, in Grade 8, we take the next step: entering the Investigative World of Science, where wonder and evolution come together to form the heart of how science works. We don't want you to just learn new facts, we want you to learn how to find new facts. Investigation in science means more than just looking at something and asking only simple questions.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "In Grade 7, we learnt that science is always evolving - that each answer",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "opens new questions, and how our ideas can slowly change as we explore deeper.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "Now, in Grade 8, we take the next step: entering the Investigative World of",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "Science, where wonder and evolution come together to form the heart of how science works.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "We don't want you to just learn new facts,",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "we want you to learn how to find new facts.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "Investigation in science means more than just",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "looking at something and asking only simple questions.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "In Grade 7, we learnt that science is always evolving - that each answer opens new questions, and how our ideas can slowly change as we explore deeper. Now, in Grade 8, we take the next step: entering the Investigative World of Science, where wonder and evolution come together to form the heart of how science works. We don't want you to just learn new facts, we want you to learn how to find new facts. Investigation in science means more than just looking at something and asking only simple questions.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "in",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "now,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "In Grade 7, we learnt that science is always evolving - that each answer opens new questions, and how our ideas can slowly change as we explore deeper. Now, in Grade 8, we take the next step: entering the Investigative World of Science, where wonder and evolution come together to form the heart of how science works. We don't want you to just learn new facts, we want you to learn how to find new facts. Investigation in science means more than just looking at something and asking only simple questions.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "Now you can ask more focused questions, and design ways to perhaps do simple experiments to answer those questions, and then use your observations to improve your understanding.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "Step by step, we will learn how to use questions as starting points to try to observe carefully, experiment thoughtfully, and explain clearly what we see.",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "In doing so, each of you won't just be learners but also investigators, young scientists, exploring real-world puzzles.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "These may range from everyday life - like why does dough rise?",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Now you can ask more focused questions, and design ways to perhaps do simple experiments to answer those questions, and then use your observations to improve your understanding. Step by step, we will learn how to use questions as starting points to try to observe carefully, experiment thoughtfully, and explain clearly what we see. In doing so, each of you won't just be learners but also investigators, young scientists, exploring real-world puzzles. These may range from everyday life - like why does dough rise?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "Now you can ask more focused questions, and design ways to perhaps do simple",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "experiments to answer those questions, and then use your observations to improve your understanding.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "Step by step, we will learn how to use questions as starting points",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "to try to observe carefully, experiment thoughtfully, and explain clearly what we see.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "In doing so, each of you won't just be",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "learners but also investigators, young scientists, exploring real-world puzzles.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "These may range from everyday life",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "- like why does dough rise?",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Now you can ask more focused questions, and design ways to perhaps do simple experiments to answer those questions, and then use your observations to improve your understanding. Step by step, we will learn how to use questions as starting points to try to observe carefully, experiment thoughtfully, and explain clearly what we see. In doing so, each of you won't just be learners but also investigators, young scientists, exploring real-world puzzles. These may range from everyday life - like why does dough rise?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "now",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "step",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Now you can ask more focused questions, and design ways to perhaps do simple experiments to answer those questions, and then use your observations to improve your understanding. Step by step, we will learn how to use questions as starting points to try to observe carefully, experiment thoughtfully, and explain clearly what we see. In doing so, each of you won't just be learners but also investigators, young scientists, exploring real-world puzzles. These may range from everyday life - like why does dough rise?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "to the bigger mysteries of Earth and beyond like is the world getting warmer?",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "Together, these two symbols - the root and the kite - invite you to stay grounded in real observations, while allowing your ideas to soar towards new horizons.",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "Remember, investigation in science works best only when we balance the solid ground of careful observation with the freedom of creative thinking.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "There are some hidden scientific thoughts in these as well.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "to the bigger mysteries of Earth and beyond like is the world getting warmer? Together, these two symbols - the root and the kite - invite you to stay grounded in real observations, while allowing your ideas to soar towards new horizons. Remember, investigation in science works best only when we balance the solid ground of careful observation with the freedom of creative thinking. There are some hidden scientific thoughts in these as well.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "to the bigger mysteries of Earth and",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "beyond like is the world getting warmer?",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "Together, these two symbols - the root and the kite - invite you to",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "stay grounded in real observations, while allowing your ideas to soar towards new horizons.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "Remember, investigation in science works best only when we balance the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "solid ground of careful observation with the freedom of creative thinking.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "There are some hidden scientific",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "thoughts in these as well.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "to the bigger mysteries of Earth and beyond like is the world getting warmer? Together, these two symbols - the root and the kite - invite you to stay grounded in real observations, while allowing your ideas to soar towards new horizons. Remember, investigation in science works best only when we balance the solid ground of careful observation with the freedom of creative thinking. There are some hidden scientific thoughts in these as well.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-8-science-chapter-1-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 8,
+      "stream": null,
+      "subject": "Science",
+      "book": "Science - Curiosity",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "to",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "together,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "to the bigger mysteries of Earth and beyond like is the world getting warmer? Together, these two symbols - the root and the kite - invite you to stay grounded in real observations, while allowing your ideas to soar towards new horizons. Remember, investigation in science works best only when we balance the solid ground of careful observation with the freedom of creative thinking. There are some hidden scientific thoughts in these as well.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

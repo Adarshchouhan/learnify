@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+    "classLevel": 11,
+    "stream": "Arts",
+    "subject": "English",
+    "book": "English - Hornbill",
+    "chapter": "Chapter 3",
+    "chapterNumber": 3,
+    "pageCount": null,
+    "extractedCharacterCount": 18088,
+    "extractionPreview": "3. Discovering Tut: the Saga Continues\nA. R. Williams\nNotice these expressions in the text.\nInfer their meaning from the context.\n forensic reconstruction \n funerary treasures\n scudded across \n circumvented\n casket grey \n computed tomography\n resurrection \n eerie detail\nHe was just a teenager when he \ndied. The last heir of a powerful \nfamily that had ruled Egypt \nand its empire for centuries, \nhe was laid to rest laden with \ngold and eventually forgotten. \nSince the discovery of his tom"
+  },
+  "coverage": {
+    "classes": [
+      11
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 3.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 3.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-11-arts-english-chapter-3-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died.",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "The last heir of a powerful family that had ruled Egypt and its empire for centuries, he was laid to rest laden with gold and eventually forgotten.",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "Since the discovery of his tomb in 1922, the modern world has speculated about what happened to him, with murder being the most extreme possibility.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "Reprint 2025-26 22 Hornbill An angry wind stirred up ghostly dust devils as King Tut was taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died. The last heir of a powerful family that had ruled Egypt and its empire for centuries, he was laid to rest laden with gold and eventually forgotten. Since the discovery of his tomb in 1922, the modern world has speculated about what happened to him, with murder being the most extreme possibility. Reprint 2025-26 22 Hornbill An angry wind stirred up ghostly dust devils as King Tut was taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "Dark-bellied clouds had scudded across the desert sky all day and now were veiling the stars in casket grey.",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "All afternoon the usual line of tourists from around the world had descended into the cramped, rock-cut tomb some 26 feet underground to pay their respects.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "They gazed at the murals on the walls of the burial chamber and peered at Tut's gilded face, the most striking feature of his mummy-shaped outer coffin lid.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "Carter-Howard Carter, that is - was the British archaeologist who in 1922 discovered Tut's tomb after years of futile searching.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Dark-bellied clouds had scudded across the desert sky all day and now were veiling the stars in casket grey. All afternoon the usual line of tourists from around the world had descended into the cramped, rock-cut tomb some 26 feet underground to pay their respects. They gazed at the murals on the walls of the burial chamber and peered at Tut's gilded face, the most striking feature of his mummy-shaped outer coffin lid. Carter-Howard Carter, that is - was the British archaeologist who in 1922 discovered Tut's tomb after years of futile searching.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "Its contents, though hastily ransacked in antiquity, were surprisingly complete.",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "They remain the richest royal collection ever found and have become part of the pharaoh's legend.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "Stunning artefacts in gold, their eternal brilliance meant to guarantee resurrection, caused a sensation at the time of the discovery - and still get the most attention.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "But Tut was also buried with everyday things he'd want in the afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Its contents, though hastily ransacked in antiquity, were surprisingly complete. They remain the richest royal collection ever found and have become part of the pharaoh's legend. Stunning artefacts in gold, their eternal brilliance meant to guarantee resurrection, caused a sensation at the time of the discovery - and still get the most attention. But Tut was also buried with everyday things he'd want in the afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 3 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "After months of carefully recording the pharaoh's funerary treasures, Carter began investigating his three nested coffins.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "Opening the first, he found a shroud adorned with garlands of willow and olive leaves, wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "When he finally reached the mummy, though, he ran into trouble.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "The ritual resins had hardened, cementing Tut to the bottom of his solid gold coffin.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "After months of carefully recording the pharaoh's funerary treasures, Carter began investigating his three nested coffins. Opening the first, he found a shroud adorned with garlands of willow and olive leaves, wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April. When he finally reached the mummy, though, he ran into trouble. The ritual resins had hardened, cementing Tut to the bottom of his solid gold coffin.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "\"No amount of legitimate force could move them,\" Carter wrote later.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "\"What was to be done?\" The sun can beat down like a hammer this far south in Egypt, and Carter tried to use it to loosen the resins.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "If he hadn't cut the mummy free, thieves most certainly would have circumvented the guards and ripped it apart to remove the gold.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "In Tut's time the royals were fabulously wealthy, and they thought - or hoped - they could take their riches with them.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "\"No amount of legitimate force could move them,\" Carter wrote later. \"What was to be done?\" The sun can beat down like a hammer this far south in Egypt, and Carter tried to use it to loosen the resins. If he hadn't cut the mummy free, thieves most certainly would have circumvented the guards and ripped it apart to remove the gold. In Tut's time the royals were fabulously wealthy, and they thought - or hoped - they could take their riches with them.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "To separate Tut from his adornments, Carter's men removed the mummy's head and severed nearly every major joint.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "Once they had finished, they reassembled the remains on a layer of sand in a wooden box with padding that concealed the damage, the bed where Tut now rests.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "Archaeology has changed substantially in the intervening decades, focusing less on treasure and more on the fascinating details of life and intriguing mysteries of death.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "It also uses more sophisticated tools, including medical technology.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "To separate Tut from his adornments, Carter's men removed the mummy's head and severed nearly every major joint. Once they had finished, they reassembled the remains on a layer of sand in a wooden box with padding that concealed the damage, the bed where Tut now rests. Archaeology has changed substantially in the intervening decades, focusing less on treasure and more on the fascinating details of life and intriguing mysteries of death. It also uses more sophisticated tools, including medical technology.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died.",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "The last heir of a powerful family that had ruled Egypt and its empire for centuries, he was laid to rest laden with gold and eventually forgotten.",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "Since the discovery of his tomb in 1922, the modern world has speculated about what happened to him, with murder being the most extreme possibility.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "Reprint 2025-26 22 Hornbill An angry wind stirred up ghostly dust devils as King Tut was taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died. The last heir of a powerful family that had ruled Egypt and its empire for centuries, he was laid to rest laden with gold and eventually forgotten. Since the discovery of his tomb in 1922, the modern world has speculated about what happened to him, with murder being the most extreme possibility. Reprint 2025-26 22 Hornbill An angry wind stirred up ghostly dust devils as King Tut was taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "Dark-bellied clouds had scudded across the desert sky all day and now were veiling the stars in casket grey.",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "All afternoon the usual line of tourists from around the world had descended into the cramped, rock-cut tomb some 26 feet underground to pay their respects.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "They gazed at the murals on the walls of the burial chamber and peered at Tut's gilded face, the most striking feature of his mummy-shaped outer coffin lid.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "Carter-Howard Carter, that is - was the British archaeologist who in 1922 discovered Tut's tomb after years of futile searching.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Dark-bellied clouds had scudded across the desert sky all day and now were veiling the stars in casket grey. All afternoon the usual line of tourists from around the world had descended into the cramped, rock-cut tomb some 26 feet underground to pay their respects. They gazed at the murals on the walls of the burial chamber and peered at Tut's gilded face, the most striking feature of his mummy-shaped outer coffin lid. Carter-Howard Carter, that is - was the British archaeologist who in 1922 discovered Tut's tomb after years of futile searching.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "List key points from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "Its contents, though hastily ransacked in antiquity, were surprisingly complete.",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "They remain the richest royal collection ever found and have become part of the pharaoh's legend.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "Stunning artefacts in gold, their eternal brilliance meant to guarantee resurrection, caused a sensation at the time of the discovery - and still get the most attention.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "But Tut was also buried with everyday things he'd want in the afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Its contents, though hastily ransacked in antiquity, were surprisingly complete. They remain the richest royal collection ever found and have become part of the pharaoh's legend. Stunning artefacts in gold, their eternal brilliance meant to guarantee resurrection, caused a sensation at the time of the discovery - and still get the most attention. But Tut was also buried with everyday things he'd want in the afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "After months of carefully recording the pharaoh's funerary treasures, Carter began investigating his three nested coffins.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "Opening the first, he found a shroud adorned with garlands of willow and olive leaves, wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "When he finally reached the mummy, though, he ran into trouble.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "The ritual resins had hardened, cementing Tut to the bottom of his solid gold coffin.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "After months of carefully recording the pharaoh's funerary treasures, Carter began investigating his three nested coffins. Opening the first, he found a shroud adorned with garlands of willow and olive leaves, wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April. When he finally reached the mummy, though, he ran into trouble. The ritual resins had hardened, cementing Tut to the bottom of his solid gold coffin.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 3 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "\"No amount of legitimate force could move them,\" Carter wrote later.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "\"What was to be done?\" The sun can beat down like a hammer this far south in Egypt, and Carter tried to use it to loosen the resins.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "If he hadn't cut the mummy free, thieves most certainly would have circumvented the guards and ripped it apart to remove the gold.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "In Tut's time the royals were fabulously wealthy, and they thought - or hoped - they could take their riches with them.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "\"No amount of legitimate force could move them,\" Carter wrote later. \"What was to be done?\" The sun can beat down like a hammer this far south in Egypt, and Carter tried to use it to loosen the resins. If he hadn't cut the mummy free, thieves most certainly would have circumvented the guards and ripped it apart to remove the gold. In Tut's time the royals were fabulously wealthy, and they thought - or hoped - they could take their riches with them.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "To separate Tut from his adornments, Carter's men removed the mummy's head and severed nearly every major joint.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "Once they had finished, they reassembled the remains on a layer of sand in a wooden box with padding that concealed the damage, the bed where Tut now rests.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "Archaeology has changed substantially in the intervening decades, focusing less on treasure and more on the fascinating details of life and intriguing mysteries of death.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "It also uses more sophisticated tools, including medical technology.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "What more would a CT scan reveal of Tut than the X-ray?",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "To separate Tut from his adornments, Carter's men removed the mummy's head and severed nearly every major joint. Once they had finished, they reassembled the remains on a layer of sand in a wooden box with padding that concealed the damage, the bed where Tut now rests. Archaeology has changed substantially in the intervening decades, focusing less on treasure and more on the fascinating details of life and intriguing mysteries of death. It also uses more sophisticated tools, including medical technology. What more would a CT scan reveal of Tut than the X-ray?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Build a definition from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died.",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "The last heir of a powerful family that had ruled Egypt and its empire for centuries, he was laid to rest laden with gold and eventually forgotten.",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "Since the discovery of his tomb in 1922, the modern world has speculated about what happened to him, with murder being the most extreme possibility.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "Reprint 2025-26 22 Hornbill An angry wind stirred up ghostly dust devils as King Tut was taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died. The last heir of a powerful family that had ruled Egypt and its empire for centuries, he was laid to rest laden with gold and eventually forgotten. Since the discovery of his tomb in 1922, the modern world has speculated about what happened to him, with murder being the most extreme possibility. Reprint 2025-26 22 Hornbill An angry wind stirred up ghostly dust devils as King Tut was taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "Dark-bellied clouds had scudded across the desert sky all day and now were veiling the stars in casket grey.",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "All afternoon the usual line of tourists from around the world had descended into the cramped, rock-cut tomb some 26 feet underground to pay their respects.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "They gazed at the murals on the walls of the burial chamber and peered at Tut's gilded face, the most striking feature of his mummy-shaped outer coffin lid.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "Carter-Howard Carter, that is - was the British archaeologist who in 1922 discovered Tut's tomb after years of futile searching.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "Its contents, though hastily ransacked in antiquity, were surprisingly complete.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Dark-bellied clouds had scudded across the desert sky all day and now were veiling the stars in casket grey. All afternoon the usual line of tourists from around the world had descended into the cramped, rock-cut tomb some 26 feet underground to pay their respects. They gazed at the murals on the walls of the burial chamber and peered at Tut's gilded face, the most striking feature of his mummy-shaped outer coffin lid. Carter-Howard Carter, that is - was the British archaeologist who in 1922 discovered Tut's tomb after years of futile searching. Its contents, though hastily ransacked in antiquity, were surprisingly complete.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "They remain the richest royal collection ever found and have become part of the pharaoh's legend.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "Stunning artefacts in gold, their eternal brilliance meant to guarantee resurrection, caused a sensation at the time of the discovery - and still get the most attention.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "But Tut was also buried with everyday things he'd want in the afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "They remain the richest royal collection ever found and have become part of the pharaoh's legend. Stunning artefacts in gold, their eternal brilliance meant to guarantee resurrection, caused a sensation at the time of the discovery - and still get the most attention. But Tut was also buried with everyday things he'd want in the afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "After months of carefully recording the pharaoh's funerary treasures, Carter began investigating his three nested coffins.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "Opening the first, he found a shroud adorned with garlands of willow and olive leaves, wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "When he finally reached the mummy, though, he ran into trouble.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "After months of carefully recording the pharaoh's funerary treasures, Carter began investigating his three nested coffins. Opening the first, he found a shroud adorned with garlands of willow and olive leaves, wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April. When he finally reached the mummy, though, he ran into trouble.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "The ritual resins had hardened, cementing Tut to the bottom of his solid gold coffin.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "\"No amount of legitimate force could move them,\" Carter wrote later.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "\"What was to be done?\" The sun can beat down like a hammer this far south in Egypt, and Carter tried to use it to loosen the resins.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "If he hadn't cut the mummy free, thieves most certainly would have circumvented the guards and ripped it apart to remove the gold.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The ritual resins had hardened, cementing Tut to the bottom of his solid gold coffin. \"No amount of legitimate force could move them,\" Carter wrote later. \"What was to be done?\" The sun can beat down like a hammer this far south in Egypt, and Carter tried to use it to loosen the resins. If he hadn't cut the mummy free, thieves most certainly would have circumvented the guards and ripped it apart to remove the gold.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "In Tut's time the royals were fabulously wealthy, and they thought - or hoped - they could take their riches with them.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "To separate Tut from his adornments, Carter's men removed the mummy's head and severed nearly every major joint.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "Once they had finished, they reassembled the remains on a layer of sand in a wooden box with padding that concealed the damage, the bed where Tut now rests.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In Tut's time the royals were fabulously wealthy, and they thought - or hoped - they could take their riches with them. To separate Tut from his adornments, Carter's men removed the mummy's head and severed nearly every major joint. Once they had finished, they reassembled the remains on a layer of sand in a wooden box with padding that concealed the damage, the bed where Tut now rests.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "Archaeology has changed substantially in the intervening decades, focusing less on treasure and more on the fascinating details of life and intriguing mysteries of death.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "It also uses more sophisticated tools, including medical technology.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "What more would a CT scan reveal of Tut than the X-ray?",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "And could it answer two of the biggest questions still lingering about him - how did he die, and how old was he at the time of his death?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Archaeology has changed substantially in the intervening decades, focusing less on treasure and more on the fascinating details of life and intriguing mysteries of death. It also uses more sophisticated tools, including medical technology. What more would a CT scan reveal of Tut than the X-ray? And could it answer two of the biggest questions still lingering about him - how did he die, and how old was he at the time of his death?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "King Tut's demise was a big event, even by royal standards.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "He was the last of his family's line, and his funeral was the death rattle of a dynasty.",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "King Tut's demise was a big event, even by royal standards. He was the last of his family's line, and his funeral was the death rattle of a dynasty.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "But the particulars of his passing away and its aftermath are unclear.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "Amenhotep III - Tut's father or grandfather - was a powerful pharaoh who ruled for almost four decades at the height of the eighteenth dynasty's golden age.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "But the particulars of his passing away and its aftermath are unclear. Amenhotep III - Tut's father or grandfather - was a powerful pharaoh who ruled for almost four decades at the height of the eighteenth dynasty's golden age.  forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died.",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "The last heir of a powerful family that had ruled Egypt and its empire for centuries, he was laid to rest laden with gold and eventually forgotten.",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "Since the discovery of his tomb in 1922, the modern world has speculated about what happened to him, with murder being the most extreme possibility.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "Reprint 2025-26 22 Hornbill An angry wind stirred up ghostly dust devils as King Tut was taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*.",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died. The last heir of a powerful family that had ruled Egypt and its empire for centuries, he was laid to rest laden with gold and eventually forgotten. Since the discovery of his tomb in 1922, the modern world has speculated about what happened to him, with murder being the most extreme possibility. Reprint 2025-26 22 Hornbill An angry wind stirred up ghostly dust devils as King Tut was taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey ",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "computed tomography  resurrection  eerie detail He was just a teenager when he died.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "The last heir of a powerful family that had ruled Egypt and its",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "empire for centuries, he was laid to rest laden with gold and eventually forgotten.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "Since the discovery of his tomb in 1922, the modern world has",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "speculated about what happened to him, with murder being the most extreme possibility.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "Reprint 2025-26 22 Hornbill An angry wind stirred up ghostly dust devils as King Tut was",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died. The last heir of a powerful family that had ruled Egypt and its empire for centuries, he was laid to rest laden with gold and eventually forgotten. Since the discovery of his tomb in 1922, the modern world has speculated about what happened to him, with murder being the most extreme possibility. Reprint 2025-26 22 Hornbill An angry wind stirred up ghostly dust devils as King Tut was taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "the",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": " forensic reconstruction  funerary treasures  scudded across  circumvented  casket grey  computed tomography  resurrection  eerie detail He was just a teenager when he died. The last heir of a powerful family that had ruled Egypt and its empire for centuries, he was laid to rest laden with gold and eventually forgotten. Since the discovery of his tomb in 1922, the modern world has speculated about what happened to him, with murder being the most extreme possibility. Reprint 2025-26 22 Hornbill An angry wind stirred up ghostly dust devils as King Tut was taken from his resting place in the ancient Egyptian cemetery known as the Valley of the Kings*.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "Dark-bellied clouds had scudded across the desert sky all day and now were veiling the stars in casket grey.",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "All afternoon the usual line of tourists from around the world had descended into the cramped, rock-cut tomb some 26 feet underground to pay their respects.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "They gazed at the murals on the walls of the burial chamber and peered at Tut's gilded face, the most striking feature of his mummy-shaped outer coffin lid.",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "Carter-Howard Carter, that is - was the British archaeologist who in 1922 discovered Tut's tomb after years of futile searching.",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Dark-bellied clouds had scudded across the desert sky all day and now were veiling the stars in casket grey. All afternoon the usual line of tourists from around the world had descended into the cramped, rock-cut tomb some 26 feet underground to pay their respects. They gazed at the murals on the walls of the burial chamber and peered at Tut's gilded face, the most striking feature of his mummy-shaped outer coffin lid. Carter-Howard Carter, that is - was the British archaeologist who in 1922 discovered Tut's tomb after years of futile searching.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "Dark-bellied clouds had scudded across the desert sky all",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "day and now were veiling the stars in casket grey.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "All afternoon the usual line of tourists from around the world had descended",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "into the cramped, rock-cut tomb some 26 feet underground to pay their respects.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "They gazed at the murals on the walls of the burial chamber and peered",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "at Tut's gilded face, the most striking feature of his mummy-shaped outer coffin lid.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "Carter-Howard Carter, that is - was the British archaeologist who",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "in 1922 discovered Tut's tomb after years of futile searching.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Dark-bellied clouds had scudded across the desert sky all day and now were veiling the stars in casket grey. All afternoon the usual line of tourists from around the world had descended into the cramped, rock-cut tomb some 26 feet underground to pay their respects. They gazed at the murals on the walls of the burial chamber and peered at Tut's gilded face, the most striking feature of his mummy-shaped outer coffin lid. Carter-Howard Carter, that is - was the British archaeologist who in 1922 discovered Tut's tomb after years of futile searching.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "dark-bellied",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "all",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Dark-bellied clouds had scudded across the desert sky all day and now were veiling the stars in casket grey. All afternoon the usual line of tourists from around the world had descended into the cramped, rock-cut tomb some 26 feet underground to pay their respects. They gazed at the murals on the walls of the burial chamber and peered at Tut's gilded face, the most striking feature of his mummy-shaped outer coffin lid. Carter-Howard Carter, that is - was the British archaeologist who in 1922 discovered Tut's tomb after years of futile searching.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "Its contents, though hastily ransacked in antiquity, were surprisingly complete.",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "They remain the richest royal collection ever found and have become part of the pharaoh's legend.",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "Stunning artefacts in gold, their eternal brilliance meant to guarantee resurrection, caused a sensation at the time of the discovery - and still get the most attention.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "But Tut was also buried with everyday things he'd want in the afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Its contents, though hastily ransacked in antiquity, were surprisingly complete. They remain the richest royal collection ever found and have become part of the pharaoh's legend. Stunning artefacts in gold, their eternal brilliance meant to guarantee resurrection, caused a sensation at the time of the discovery - and still get the most attention. But Tut was also buried with everyday things he'd want in the afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "Its contents, though hastily ransacked",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "in antiquity, were surprisingly complete.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "They remain the richest royal collection ever found",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "and have become part of the pharaoh's legend.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "Stunning artefacts in gold, their eternal brilliance meant to guarantee resurrection, caused a",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "sensation at the time of the discovery - and still get the most attention.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "But Tut was also buried with everyday things he'd want in the",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Its contents, though hastily ransacked in antiquity, were surprisingly complete. They remain the richest royal collection ever found and have become part of the pharaoh's legend. Stunning artefacts in gold, their eternal brilliance meant to guarantee resurrection, caused a sensation at the time of the discovery - and still get the most attention. But Tut was also buried with everyday things he'd want in the afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "its",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "they",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Its contents, though hastily ransacked in antiquity, were surprisingly complete. They remain the richest royal collection ever found and have become part of the pharaoh's legend. Stunning artefacts in gold, their eternal brilliance meant to guarantee resurrection, caused a sensation at the time of the discovery - and still get the most attention. But Tut was also buried with everyday things he'd want in the afterlife: board games, a bronze razor, linen undergarments, cases of food and wine.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "After months of carefully recording the pharaoh's funerary treasures, Carter began investigating his three nested coffins.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "Opening the first, he found a shroud adorned with garlands of willow and olive leaves, wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April.",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "When he finally reached the mummy, though, he ran into trouble.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "The ritual resins had hardened, cementing Tut to the bottom of his solid gold coffin.",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "After months of carefully recording the pharaoh's funerary treasures, Carter began investigating his three nested coffins. Opening the first, he found a shroud adorned with garlands of willow and olive leaves, wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April. When he finally reached the mummy, though, he ran into trouble. The ritual resins had hardened, cementing Tut to the bottom of his solid gold coffin.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "After months of carefully recording the pharaoh's funerary",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "treasures, Carter began investigating his three nested coffins.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "Opening the first, he found a shroud adorned with garlands of willow and olive leaves,",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "When he finally reached the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "mummy, though, he ran into trouble.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "The ritual resins had hardened, cementing Tut",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "to the bottom of his solid gold coffin.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "After months of carefully recording the pharaoh's funerary treasures, Carter began investigating his three nested coffins. Opening the first, he found a shroud adorned with garlands of willow and olive leaves, wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April. When he finally reached the mummy, though, he ran into trouble. The ritual resins had hardened, cementing Tut to the bottom of his solid gold coffin.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "after",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "opening",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "After months of carefully recording the pharaoh's funerary treasures, Carter began investigating his three nested coffins. Opening the first, he found a shroud adorned with garlands of willow and olive leaves, wild celery, lotus petals, and cornflowers, the faded evidence of a burial in March or April. When he finally reached the mummy, though, he ran into trouble. The ritual resins had hardened, cementing Tut to the bottom of his solid gold coffin.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "\"No amount of legitimate force could move them,\" Carter wrote later.",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "\"What was to be done?\" The sun can beat down like a hammer this far south in Egypt, and Carter tried to use it to loosen the resins.",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "If he hadn't cut the mummy free, thieves most certainly would have circumvented the guards and ripped it apart to remove the gold.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "In Tut's time the royals were fabulously wealthy, and they thought - or hoped - they could take their riches with them.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "\"No amount of legitimate force could move them,\" Carter wrote later. \"What was to be done?\" The sun can beat down like a hammer this far south in Egypt, and Carter tried to use it to loosen the resins. If he hadn't cut the mummy free, thieves most certainly would have circumvented the guards and ripped it apart to remove the gold. In Tut's time the royals were fabulously wealthy, and they thought - or hoped - they could take their riches with them.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "\"No amount of legitimate force",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "could move them,\" Carter wrote later.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "\"What was to be done?\" The sun can beat down like a hammer this",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "far south in Egypt, and Carter tried to use it to loosen the resins.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "If he hadn't cut the mummy free, thieves most certainly would",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "have circumvented the guards and ripped it apart to remove the gold.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "In Tut's time the royals were fabulously wealthy, and they thought",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "- or hoped - they could take their riches with them.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "\"No amount of legitimate force could move them,\" Carter wrote later. \"What was to be done?\" The sun can beat down like a hammer this far south in Egypt, and Carter tried to use it to loosen the resins. If he hadn't cut the mummy free, thieves most certainly would have circumvented the guards and ripped it apart to remove the gold. In Tut's time the royals were fabulously wealthy, and they thought - or hoped - they could take their riches with them.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-english-chapter-3-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "English",
+      "book": "English - Hornbill",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from English - Hornbill, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\English - Hornbill\\kehb103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "\"no",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "\"what",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "\"No amount of legitimate force could move them,\" Carter wrote later. \"What was to be done?\" The sun can beat down like a hammer this far south in Egypt, and Carter tried to use it to loosen the resins. If he hadn't cut the mummy free, thieves most certainly would have circumvented the guards and ripped it apart to remove the gold. In Tut's time the royals were fabulously wealthy, and they thought - or hoped - they could take their riches with them.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

@@ -40,6 +40,7 @@ Dashboard sections:
 - Question Types
 - Progress
 - Library
+- Review, only for teacher/admin users
 
 Sidebar includes:
 
@@ -87,7 +88,7 @@ For full sentences and half-sentences:
 - placeholder order matters
 - swapping two correct sentences makes the answer wrong
 
-## Future Layout Behavior
+## Specialized Layout Behavior
 
 Use `questionIdentifier` to choose specialized layouts:
 
@@ -99,3 +100,42 @@ Use `questionIdentifier` to choose specialized layouts:
 - `definition`: definition parts
 - `assertion_reason`: assertion/reason truth and link checker
 - `explain`: structured answer builder
+
+Current implemented detail renderers:
+
+- compare/contrast cards use two columns
+- cause/effect cards use paired rows
+- process/timeline cards use ordered sequence blocks
+- assertion/reason cards use assertion, reason and option panels
+- data/table cards use an inference table
+- other formats fall back to a generic correct/distractor layout
+- all standard type detail views include click-to-place slots and a format checker
+
+## Review UI
+
+Teacher/admin review should be compact and fast:
+
+- show activity type, question and status control
+- save review status through the protected API
+- support `draft`, `approved`, `needs_revision` and `rejected`
+- do not expose review navigation to student users
+
+## Teacher UI
+
+Teacher/admin users can:
+
+- review generated activities
+- create an assignment from the current dataset
+- set a due date
+- view aggregate attempt analytics
+
+These controls should remain compact and work-focused.
+
+## Student Assignments
+
+Students can:
+
+- open the Assignments view
+- see class-level assignments
+- view teacher name and due date
+- launch the assigned dataset into Practice

@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+    "classLevel": 12,
+    "stream": "PCB",
+    "subject": "Biology",
+    "book": "Biology",
+    "chapter": "Chapter 13",
+    "chapterNumber": 13,
+    "pageCount": null,
+    "extractedCharacterCount": 29183,
+    "extractionPreview": "If an alien from a distant galaxy were to visit our planet\nEarth, the first thing that would amaze and baffle him\nwould most probably be the enormous diversity of life\nthat he would encounter. Even for humans, the rich variety\nof living organisms with which they share this planet never\nceases to astonish and fascinate us. The common man\nwould find it hard to believe that there are more than\n20,000 species of ants, 3,00,000 species of beetles, 28,000\nspecies of fishes and nearly 20,000 species of"
+  },
+  "coverage": {
+    "classes": [
+      12
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 13.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 13.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 13.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 13 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 13.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-12-pcb-biology-chapter-13-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us.",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "The common man would find it hard to believe that there are more than 20,000 species of ants, 3,00,000 species of beetles, 28,000 species of fishes and nearly 20,000 species of orchids.",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "Ecologists and evolutionary biologists have been trying to understand the significance of such diversity by asking important questions- Why are there so many species?",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "Did such great diversity exist throughout earth's history?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us. The common man would find it hard to believe that there are more than 20,000 species of ants, 3,00,000 species of beetles, 28,000 species of fishes and nearly 20,000 species of orchids. Ecologists and evolutionary biologists have been trying to understand the significance of such diversity by asking important questions- Why are there so many species? Did such great diversity exist throughout earth's history?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "How and why is this diversity important to the biosphere?",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "Would it function any differently if the diversity was much less?",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "The most important of them are- (i) Genetic diversity: A single species might show high diversity at the genetic level over its distributional range.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "India has more than 50,000 genetically different strains of rice, and 1,000 varieties of mango.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "How and why is this diversity important to the biosphere? Would it function any differently if the diversity was much less? The most important of them are- (i) Genetic diversity: A single species might show high diversity at the genetic level over its distributional range. India has more than 50,000 genetically different strains of rice, and 1,000 varieties of mango.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "(ii) Species diversity: The diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats.",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "13.1.1 How Many Species are there on Earth and How Many in India?",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "Estimates vary widely and many of them are only educated guesses.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "(ii) Species diversity: The diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats. 13.1.1 How Many Species are there on Earth and How Many in India? Estimates vary widely and many of them are only educated guesses. For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 13 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global species diversity at about 7 million.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "Reprint 2025-26 218 BIOLOGY Let us look at some interesting aspects about earth's biodiversity based on the currently available species inventories.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global species diversity at about 7 million. Reprint 2025-26 218 BIOLOGY Let us look at some interesting aspects about earth's biodiversity based on the currently available species inventories. More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total. Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "That means, out of every 10 animals on this planet, 7 are insects.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "Again, how do we explain this enormous diversification of insects?",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "Biologists are not sure about how many prokaryotic species there might be.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "That means, out of every 10 animals on this planet, 7 are insects. Again, how do we explain this enormous diversification of insects? The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals. Biologists are not sure about how many prokaryotic species there might be.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "The problem is that conventional taxonomic methods are not suitable for identifying microbial species and many species are simply not culturable under laboratory conditions.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "If we accept biochemical or molecular criteria for delineating species for this group, then their diversity alone might run into millions.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "Reprint 2025-26 219 BIODIVERSITY AND CONSERVATION Although India has only 2.4 per cent of the world's land area, its share of the global species diversity is an impressive 8.1 per cent.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "That is what makes our country one of the 12 mega diversity countries of the world.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The problem is that conventional taxonomic methods are not suitable for identifying microbial species and many species are simply not culturable under laboratory conditions. If we accept biochemical or molecular criteria for delineating species for this group, then their diversity alone might run into millions. Reprint 2025-26 219 BIODIVERSITY AND CONSERVATION Although India has only 2.4 per cent of the world's land area, its share of the global species diversity is an impressive 8.1 per cent. That is what makes our country one of the 12 mega diversity countries of the world.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us.",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "The common man would find it hard to believe that there are more than 20,000 species of ants, 3,00,000 species of beetles, 28,000 species of fishes and nearly 20,000 species of orchids.",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "Ecologists and evolutionary biologists have been trying to understand the significance of such diversity by asking important questions- Why are there so many species?",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "Did such great diversity exist throughout earth's history?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us. The common man would find it hard to believe that there are more than 20,000 species of ants, 3,00,000 species of beetles, 28,000 species of fishes and nearly 20,000 species of orchids. Ecologists and evolutionary biologists have been trying to understand the significance of such diversity by asking important questions- Why are there so many species? Did such great diversity exist throughout earth's history?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "How and why is this diversity important to the biosphere?",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "Would it function any differently if the diversity was much less?",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "The most important of them are- (i) Genetic diversity: A single species might show high diversity at the genetic level over its distributional range.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "India has more than 50,000 genetically different strains of rice, and 1,000 varieties of mango.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "How and why is this diversity important to the biosphere? Would it function any differently if the diversity was much less? The most important of them are- (i) Genetic diversity: A single species might show high diversity at the genetic level over its distributional range. India has more than 50,000 genetically different strains of rice, and 1,000 varieties of mango.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "List key points from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "(ii) Species diversity: The diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats.",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "13.1.1 How Many Species are there on Earth and How Many in India?",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "Estimates vary widely and many of them are only educated guesses.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "(ii) Species diversity: The diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats. 13.1.1 How Many Species are there on Earth and How Many in India? Estimates vary widely and many of them are only educated guesses. For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global species diversity at about 7 million.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "Reprint 2025-26 218 BIOLOGY Let us look at some interesting aspects about earth's biodiversity based on the currently available species inventories.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global species diversity at about 7 million. Reprint 2025-26 218 BIOLOGY Let us look at some interesting aspects about earth's biodiversity based on the currently available species inventories. More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total. Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 13 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "That means, out of every 10 animals on this planet, 7 are insects.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "Again, how do we explain this enormous diversification of insects?",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "Biologists are not sure about how many prokaryotic species there might be.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "That means, out of every 10 animals on this planet, 7 are insects. Again, how do we explain this enormous diversification of insects? The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals. Biologists are not sure about how many prokaryotic species there might be.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "The problem is that conventional taxonomic methods are not suitable for identifying microbial species and many species are simply not culturable under laboratory conditions.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "If we accept biochemical or molecular criteria for delineating species for this group, then their diversity alone might run into millions.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "Reprint 2025-26 219 BIODIVERSITY AND CONSERVATION Although India has only 2.4 per cent of the world's land area, its share of the global species diversity is an impressive 8.1 per cent.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "That is what makes our country one of the 12 mega diversity countries of the world.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "Nearly 45,000 species of plants and twice as many of animals have been recorded from India.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The problem is that conventional taxonomic methods are not suitable for identifying microbial species and many species are simply not culturable under laboratory conditions. If we accept biochemical or molecular criteria for delineating species for this group, then their diversity alone might run into millions. Reprint 2025-26 219 BIODIVERSITY AND CONSERVATION Although India has only 2.4 per cent of the world's land area, its share of the global species diversity is an impressive 8.1 per cent. That is what makes our country one of the 12 mega diversity countries of the world. Nearly 45,000 species of plants and twice as many of animals have been recorded from India.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Build a definition from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us.",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "The common man would find it hard to believe that there are more than 20,000 species of ants, 3,00,000 species of beetles, 28,000 species of fishes and nearly 20,000 species of orchids.",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "Ecologists and evolutionary biologists have been trying to understand the significance of such diversity by asking important questions- Why are there so many species?",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "Did such great diversity exist throughout earth's history?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us. The common man would find it hard to believe that there are more than 20,000 species of ants, 3,00,000 species of beetles, 28,000 species of fishes and nearly 20,000 species of orchids. Ecologists and evolutionary biologists have been trying to understand the significance of such diversity by asking important questions- Why are there so many species? Did such great diversity exist throughout earth's history?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "How and why is this diversity important to the biosphere?",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "Would it function any differently if the diversity was much less?",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "The most important of them are- (i) Genetic diversity: A single species might show high diversity at the genetic level over its distributional range.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "India has more than 50,000 genetically different strains of rice, and 1,000 varieties of mango.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "(ii) Species diversity: The diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "How and why is this diversity important to the biosphere? Would it function any differently if the diversity was much less? The most important of them are- (i) Genetic diversity: A single species might show high diversity at the genetic level over its distributional range. India has more than 50,000 genetically different strains of rice, and 1,000 varieties of mango. (ii) Species diversity: The diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "13.1.1 How Many Species are there on Earth and How Many in India?",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "Estimates vary widely and many of them are only educated guesses.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "13.1.1 How Many Species are there on Earth and How Many in India? Estimates vary widely and many of them are only educated guesses. For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global species diversity at about 7 million.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "Reprint 2025-26 218 BIOLOGY Let us look at some interesting aspects about earth's biodiversity based on the currently available species inventories.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global species diversity at about 7 million. Reprint 2025-26 218 BIOLOGY Let us look at some interesting aspects about earth's biodiversity based on the currently available species inventories. More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "That means, out of every 10 animals on this planet, 7 are insects.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "Again, how do we explain this enormous diversification of insects?",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total. That means, out of every 10 animals on this planet, 7 are insects. Again, how do we explain this enormous diversification of insects? The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "Biologists are not sure about how many prokaryotic species there might be.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "The problem is that conventional taxonomic methods are not suitable for identifying microbial species and many species are simply not culturable under laboratory conditions.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "If we accept biochemical or molecular criteria for delineating species for this group, then their diversity alone might run into millions.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Biologists are not sure about how many prokaryotic species there might be. The problem is that conventional taxonomic methods are not suitable for identifying microbial species and many species are simply not culturable under laboratory conditions. If we accept biochemical or molecular criteria for delineating species for this group, then their diversity alone might run into millions.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "Reprint 2025-26 219 BIODIVERSITY AND CONSERVATION Although India has only 2.4 per cent of the world's land area, its share of the global species diversity is an impressive 8.1 per cent.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "That is what makes our country one of the 12 mega diversity countries of the world.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "Nearly 45,000 species of plants and twice as many of animals have been recorded from India.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "How many living species are actually there waiting to be discovered and named?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Reprint 2025-26 219 BIODIVERSITY AND CONSERVATION Although India has only 2.4 per cent of the world's land area, its share of the global species diversity is an impressive 8.1 per cent. That is what makes our country one of the 12 mega diversity countries of the world. Nearly 45,000 species of plants and twice as many of animals have been recorded from India. How many living species are actually there waiting to be discovered and named?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "If we accept May's global estimates, only 22 per cent of the total species have been recorded so far.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "Would we ever be able to complete the inventory of the biological wealth of our country?",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "If we accept May's global estimates, only 22 per cent of the total species have been recorded so far. Would we ever be able to complete the inventory of the biological wealth of our country?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 13.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "Consider the immense trained manpower (taxonomists) and the time required to complete the job.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "The situation appears more hopeless when we realise that a large fraction of these species faces the threat of becoming extinct even before we discover them.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 13 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Consider the immense trained manpower (taxonomists) and the time required to complete the job. The situation appears more hopeless when we realise that a large fraction of these species faces the threat of becoming extinct even before we discover them. Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us.",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "The common man would find it hard to believe that there are more than 20,000 species of ants, 3,00,000 species of beetles, 28,000 species of fishes and nearly 20,000 species of orchids.",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "Ecologists and evolutionary biologists have been trying to understand the significance of such diversity by asking important questions- Why are there so many species?",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "Did such great diversity exist throughout earth's history?",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us. The common man would find it hard to believe that there are more than 20,000 species of ants, 3,00,000 species of beetles, 28,000 species of fishes and nearly 20,000 species of orchids. Ecologists and evolutionary biologists have been trying to understand the significance of such diversity by asking important questions- Why are there so many species? Did such great diversity exist throughout earth's history?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "Even for humans, the rich variety of living organisms with which",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "they share this planet never ceases to astonish and fascinate us.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "The common man would find it hard to believe that there are more than 20,000 species",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "of ants, 3,00,000 species of beetles, 28,000 species of fishes and nearly 20,000 species of orchids.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "Ecologists and evolutionary biologists have been trying to understand the significance of",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "such diversity by asking important questions- Why are there so many species?",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "Did such great diversity",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "exist throughout earth's history?",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us. The common man would find it hard to believe that there are more than 20,000 species of ants, 3,00,000 species of beetles, 28,000 species of fishes and nearly 20,000 species of orchids. Ecologists and evolutionary biologists have been trying to understand the significance of such diversity by asking important questions- Why are there so many species? Did such great diversity exist throughout earth's history?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "even",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "the",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Even for humans, the rich variety of living organisms with which they share this planet never ceases to astonish and fascinate us. The common man would find it hard to believe that there are more than 20,000 species of ants, 3,00,000 species of beetles, 28,000 species of fishes and nearly 20,000 species of orchids. Ecologists and evolutionary biologists have been trying to understand the significance of such diversity by asking important questions- Why are there so many species? Did such great diversity exist throughout earth's history?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "How and why is this diversity important to the biosphere?",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "Would it function any differently if the diversity was much less?",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "The most important of them are- (i) Genetic diversity: A single species might show high diversity at the genetic level over its distributional range.",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "India has more than 50,000 genetically different strains of rice, and 1,000 varieties of mango.",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "How and why is this diversity important to the biosphere? Would it function any differently if the diversity was much less? The most important of them are- (i) Genetic diversity: A single species might show high diversity at the genetic level over its distributional range. India has more than 50,000 genetically different strains of rice, and 1,000 varieties of mango.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "How and why is this",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "diversity important to the biosphere?",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "Would it function any differently",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "if the diversity was much less?",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "The most important of them are- (i) Genetic diversity: A single species",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "might show high diversity at the genetic level over its distributional range.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "India has more than 50,000 genetically different",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "strains of rice, and 1,000 varieties of mango.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "How and why is this diversity important to the biosphere? Would it function any differently if the diversity was much less? The most important of them are- (i) Genetic diversity: A single species might show high diversity at the genetic level over its distributional range. India has more than 50,000 genetically different strains of rice, and 1,000 varieties of mango.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "how",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "would",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "How and why is this diversity important to the biosphere? Would it function any differently if the diversity was much less? The most important of them are- (i) Genetic diversity: A single species might show high diversity at the genetic level over its distributional range. India has more than 50,000 genetically different strains of rice, and 1,000 varieties of mango.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "(ii) Species diversity: The diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats.",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "13.1.1 How Many Species are there on Earth and How Many in India?",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "Estimates vary widely and many of them are only educated guesses.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "(ii) Species diversity: The diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats. 13.1.1 How Many Species are there on Earth and How Many in India? Estimates vary widely and many of them are only educated guesses. For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "(ii) Species diversity: The diversity at the species level, for example, the",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "Western Ghats have a greater amphibian species diversity than the Eastern Ghats.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "13.1.1 How Many Species are there",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "on Earth and How Many in India?",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "Estimates vary widely and many",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "of them are only educated guesses.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "For many taxonomic groups, species inventories are",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "more complete in temperate than in tropical countries.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "(ii) Species diversity: The diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats. 13.1.1 How Many Species are there on Earth and How Many in India? Estimates vary widely and many of them are only educated guesses. For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "(ii)",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "13.1.1",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "(ii) Species diversity: The diversity at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats. 13.1.1 How Many Species are there on Earth and How Many in India? Estimates vary widely and many of them are only educated guesses. For many taxonomic groups, species inventories are more complete in temperate than in tropical countries.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Define an important term from Chapter 13 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global species diversity at about 7 million.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "Reprint 2025-26 218 BIOLOGY Let us look at some interesting aspects about earth's biodiversity based on the currently available species inventories.",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global species diversity at about 7 million. Reprint 2025-26 218 BIOLOGY Let us look at some interesting aspects about earth's biodiversity based on the currently available species inventories. More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total. Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Define an important term from Chapter 13 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "sound estimate made by Robert May places the global species diversity at about 7 million.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "Reprint 2025-26 218 BIOLOGY Let us look at some interesting",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "aspects about earth's biodiversity based on the currently available species inventories.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "More than 70 per cent of all the species recorded are animals, while plants (including",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "Among animals, insects are the most species-rich taxonomic group,",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "making up more than 70 per cent of the total.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global species diversity at about 7 million. Reprint 2025-26 218 BIOLOGY Let us look at some interesting aspects about earth's biodiversity based on the currently available species inventories. More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total. Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Define an important term from Chapter 13 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "some",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "reprint",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Some extreme estimates range from 20 to 50 million, but a more conservative and scientifically sound estimate made by Robert May places the global species diversity at about 7 million. Reprint 2025-26 218 BIOLOGY Let us look at some interesting aspects about earth's biodiversity based on the currently available species inventories. More than 70 per cent of all the species recorded are animals, while plants (including algae, fungi, bryophytes, gymnosperms and angiosperms) comprise no more than 22 per cent of the total. Among animals, insects are the most species-rich taxonomic group, making up more than 70 per cent of the total.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "That means, out of every 10 animals on this planet, 7 are insects.",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "Again, how do we explain this enormous diversification of insects?",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "Biologists are not sure about how many prokaryotic species there might be.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "That means, out of every 10 animals on this planet, 7 are insects. Again, how do we explain this enormous diversification of insects? The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals. Biologists are not sure about how many prokaryotic species there might be.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "That means, out of every 10",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "animals on this planet, 7 are insects.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "Again, how do we explain",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "this enormous diversification of insects?",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "The number of fungi species in the world is more than",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "the combined total of the species of fishes, amphibians, reptiles and mammals.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "Biologists are not sure about how",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "many prokaryotic species there might be.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "That means, out of every 10 animals on this planet, 7 are insects. Again, how do we explain this enormous diversification of insects? The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals. Biologists are not sure about how many prokaryotic species there might be.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-pcb-biology-chapter-13-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": "PCB",
+      "subject": "Biology",
+      "book": "Biology",
+      "chapter": "Chapter 13",
+      "chapterNumber": 13,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 13.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Biology, Chapter Chapter 13.",
+      "sourceChapter": "Chapter 13",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Biology\\lebo113.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "that",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "again,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 13 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "That means, out of every 10 animals on this planet, 7 are insects. Again, how do we explain this enormous diversification of insects? The number of fungi species in the world is more than the combined total of the species of fishes, amphibians, reptiles and mammals. Biologists are not sure about how many prokaryotic species there might be.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

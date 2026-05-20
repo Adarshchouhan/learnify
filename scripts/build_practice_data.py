@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import re
+import argparse
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -38,6 +39,8 @@ PILOT_META = ChapterMeta(
     chapter_number=9,
     pdf_path=PILOT_PDF,
 )
+
+ACTIVE_META = PILOT_META
 
 
 QUESTION_TYPES = [
@@ -125,6 +128,46 @@ SOURCE_SUMMARY = (
 )
 
 
+def slugify(value: str) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
+    return slug or "chapter"
+
+
+def activity_prefix() -> str:
+    meta = ACTIVE_META
+    if meta == PILOT_META:
+        return "c7-science-lpa"
+    parts = [
+        f"class-{meta.class_level}",
+        slugify(meta.stream) if meta.stream else None,
+        slugify(meta.subject),
+        slugify(meta.chapter),
+    ]
+    return "-".join(part for part in parts if part)
+
+
+def infer_output_path(meta: ChapterMeta) -> Path:
+    parts = [Path("data"), Path("practice"), Path(f"class-{meta.class_level}")]
+    if meta.stream:
+        parts.append(Path(slugify(meta.stream)))
+    parts.extend([Path(slugify(meta.book)), Path(f"{slugify(meta.chapter)}.json")])
+    path = parts[0]
+    for part in parts[1:]:
+        path /= part
+    return path
+
+
+def summarize_source(extracted_text: str) -> str:
+    if ACTIVE_META == PILOT_META:
+        return SOURCE_SUMMARY
+    cleaned = re.sub(r"\s+", " ", extracted_text).strip()
+    sentences = re.split(r"(?<=[.!?])\s+", cleaned)
+    selected = [sentence for sentence in sentences if 60 <= len(sentence) <= 220][:3]
+    if not selected:
+        return f"Generated from {ACTIVE_META.book}, Chapter {ACTIVE_META.chapter}."
+    return " ".join(selected)
+
+
 COMMON_RUBRIC = [
     {"criterion": "Correct facts", "marks": 2},
     {"criterion": "Logical structure or matching", "marks": 1},
@@ -200,22 +243,24 @@ def base_activity(
     correct_sequence: list[str] | None = None,
     marks: int = 5,
 ) -> dict[str, Any]:
+    meta = ACTIVE_META
     activity: dict[str, Any] = {
-        "id": f"c7-science-lpa-{index:02d}-{activity_type}-{difficulty}",
+        "id": f"{activity_prefix()}-{index:02d}-{activity_type}-{difficulty}",
         "type": activity_type,
         "difficulty": difficulty,
-        "classLevel": PILOT_META.class_level,
-        "subject": PILOT_META.subject,
-        "book": PILOT_META.book,
-        "chapter": PILOT_META.chapter,
-        "chapterNumber": PILOT_META.chapter_number,
+        "classLevel": meta.class_level,
+        "stream": meta.stream,
+        "subject": meta.subject,
+        "book": meta.book,
+        "chapter": meta.chapter,
+        "chapterNumber": meta.chapter_number,
         "marks": marks,
         "question": question,
         "instructions": instructions,
         "structureHelp": structure_help,
-        "sourceTextSummary": SOURCE_SUMMARY,
-        "sourceChapter": PILOT_META.chapter,
-        "sourcePdf": str(PILOT_META.pdf_path),
+        "sourceTextSummary": SOURCE_SUMMARY if meta == PILOT_META else f"Generated from {meta.book}, Chapter {meta.chapter}.",
+        "sourceChapter": meta.chapter,
+        "sourcePdf": str(meta.pdf_path),
         "correctItems": correct_items,
         "distractors": distractors,
         "answerSlots": answer_slots,
@@ -1140,6 +1185,122 @@ MAJOR_CHAPTER_QUESTION_SETS = [
 ALL_CHAPTER_QUESTION_SETS = CHAPTER_QUESTION_SETS + MAJOR_CHAPTER_QUESTION_SETS
 
 
+def extract_key_sentences(extracted_text: str, count: int = 12) -> list[str]:
+    cleaned = re.sub(r"\s+", " ", extracted_text)
+    sentences = re.split(r"(?<=[.!?])\s+", cleaned)
+    skip_patterns = re.compile(r"(copyright|isbn|rationalised|chapter|figure|activity|exercise|page)", re.IGNORECASE)
+    picked: list[str] = []
+    for sentence in sentences:
+        sentence = sentence.strip(" -")
+        if not (55 <= len(sentence) <= 190):
+            continue
+        if skip_patterns.search(sentence):
+            continue
+        if sentence in picked:
+            continue
+        picked.append(sentence)
+        if len(picked) >= count:
+            break
+    while len(picked) < count:
+        picked.append(f"{ACTIVE_META.chapter} includes an important idea from the chapter that students should explain clearly.")
+    return picked
+
+
+def generic_question_sets(extracted_text: str) -> list[dict[str, Any]]:
+    sentences = extract_key_sentences(extracted_text, 24)
+    groups: list[dict[str, Any]] = []
+    templates = [
+        ("chapter-overview", f"Explain the main ideas of {ACTIVE_META.chapter}.", ["Introduction", "Key idea 1", "Key idea 2", "Conclusion"], sentences[0:4]),
+        ("important-process", f"Arrange and explain an important process from {ACTIVE_META.chapter}.", ["First", "Next", "Then", "Finally"], sentences[4:8]),
+        ("cause-effect", f"Explain one cause-effect relationship from {ACTIVE_META.chapter}.", ["Cause", "Effect", "Reason", "Result"], sentences[8:12]),
+        ("definition-and-example", f"Define an important term from {ACTIVE_META.chapter} and support it with examples.", ["Term", "Meaning", "Example", "Use"], sentences[12:16]),
+        ("short-answer", f"Write a short answer using key points from {ACTIVE_META.chapter}.", ["Point 1", "Point 2", "Point 3", "Closing"], sentences[16:20]),
+    ]
+    for slug, question, structure, selected in templates:
+        groups.append(
+            {
+                "slug": slug,
+                "question": question,
+                "structure": structure,
+                "sentences": selected,
+                "wrong": [
+                    f"{ACTIVE_META.chapter} is unrelated to this subject.",
+                    "The answer should ignore the facts given in the chapter.",
+                    "Only one random word is enough for a complete answer.",
+                ],
+            }
+        )
+    return groups
+
+
+def generic_answer_builder_activities(start_index: int, question_sets: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    original_sets = ALL_CHAPTER_QUESTION_SETS
+    globals()["ALL_CHAPTER_QUESTION_SETS"] = question_sets
+    try:
+        return chapter_answer_builder_activities(start_index)
+    finally:
+        globals()["ALL_CHAPTER_QUESTION_SETS"] = original_sets
+
+
+def generic_core_activities(start_index: int, extracted_text: str) -> list[dict[str, Any]]:
+    sentences = extract_key_sentences(extracted_text, 30)
+    activities: list[dict[str, Any]] = []
+
+    def items(prefix: str, selected: list[str]) -> list[dict[str, Any]]:
+        return [chunk(f"{prefix}-{index}", text, index) for index, text in enumerate(selected, start=1)]
+
+    def wrong(prefix: str) -> list[dict[str, Any]]:
+        return [
+            distractor(f"{prefix}-x1", f"{ACTIVE_META.chapter} should be answered without using chapter facts.", "Rejects source evidence."),
+            distractor(f"{prefix}-x2", "An unrelated statement can replace a factual answer.", "Irrelevant distractor."),
+        ]
+
+    def add(activity_type: str, question: str, selected: list[str], structure: list[str], key: Any | None = None) -> None:
+        correct = items(activity_type, selected)
+        if key is None:
+            key = {"requiredItemIds": [item["id"] for item in correct]}
+        activities.append(
+            base_activity(
+                start_index + len(activities),
+                activity_type,
+                "standard",
+                question,
+                "Use the source-based options to complete this activity.",
+                structure,
+                correct,
+                wrong(activity_type),
+                [{"id": f"slot-{index}", "label": label} for index, label in enumerate(structure, start=1)],
+                key,
+                " ".join(selected),
+                ["Use only statements supported by the chapter.", "Ignore unrelated distractors."],
+                key.get("orderedItemIds") if isinstance(key, dict) and "orderedItemIds" in key else None,
+            )
+        )
+
+    add("explain", f"Explain the main idea of {ACTIVE_META.chapter}.", sentences[0:4], ["Opening", "Key point", "Support", "Conclusion"])
+    add("compare_contrast", f"Compare two important ideas from {ACTIVE_META.chapter}.", sentences[4:8], ["Idea A", "Idea B", "Similarity", "Difference"])
+    add("cause_effect", f"Connect causes and effects from {ACTIVE_META.chapter}.", sentences[8:12], ["Cause 1", "Effect 1", "Cause 2", "Effect 2"], {"pairs": [["cause_effect-1", "cause_effect-2"], ["cause_effect-3", "cause_effect-4"]]})
+    add("process_sequence", f"Arrange key steps or ideas from {ACTIVE_META.chapter} in order.", sentences[12:16], ["Step 1", "Step 2", "Step 3", "Step 4"], {"orderedItemIds": [f"process_sequence-{i}" for i in range(1, 5)]})
+    add("pros_cons", f"Sort useful and less useful statements about {ACTIVE_META.chapter}.", sentences[16:20], ["Useful", "Less useful"])
+    add("problem_solution", f"Identify a problem and solution connected to {ACTIVE_META.chapter}.", sentences[20:24], ["Problem", "Evidence", "Solution", "Result"])
+    add("fill_blanks", f"Complete a passage from {ACTIVE_META.chapter}.", sentences[0:4], ["Blank 1", "Blank 2", "Blank 3", "Blank 4"], {"orderedItemIds": [f"fill_blanks-{i}" for i in range(1, 5)]})
+    add("true_false_not_given", f"Classify statements based on {ACTIVE_META.chapter}.", sentences[4:8], ["True", "False", "Not Given"])
+    add("short_answer_key_points", f"List key points from {ACTIVE_META.chapter}.", sentences[8:12], ["Point 1", "Point 2", "Point 3"])
+    add("match_following", f"Match ideas and meanings from {ACTIVE_META.chapter}.", sentences[12:16], ["Match 1", "Match 2", "Match 3", "Match 4"])
+    add("data_chart_table", f"Use chapter information from {ACTIVE_META.chapter} to make inferences.", sentences[16:20], ["Data", "Inference 1", "Inference 2"])
+    add("paragraph_essay_structure", f"Arrange a paragraph about {ACTIVE_META.chapter}.", sentences[20:25], ["Topic", "Support 1", "Support 2", "Support 3", "Conclusion"], {"orderedItemIds": [f"paragraph_essay_structure-{i}" for i in range(1, 6)]})
+    add("definition_term", f"Build a definition from {ACTIVE_META.chapter}.", sentences[0:4], ["Term", "Meaning", "Example"])
+    add("timeline_chronological_order", f"Arrange chronological or logical ideas from {ACTIVE_META.chapter}.", sentences[4:9], ["1", "2", "3", "4", "5"], {"orderedItemIds": [f"timeline_chronological_order-{i}" for i in range(1, 6)]})
+    add("identify_main_idea", f"Identify the main idea of a passage from {ACTIVE_META.chapter}.", sentences[9:12], ["Main idea"])
+    add("evidence_support_statement", f"Choose evidence that supports a statement from {ACTIVE_META.chapter}.", sentences[12:15], ["Evidence"])
+    add("sequencing_steps_process", f"Sequence a process from {ACTIVE_META.chapter}.", sentences[15:19], ["Step 1", "Step 2", "Step 3", "Step 4"], {"orderedItemIds": [f"sequencing_steps_process-{i}" for i in range(1, 5)]})
+    add("choose_correct_ending", f"Choose the correct ending for an answer on {ACTIVE_META.chapter}.", sentences[19:22], ["Ending"])
+    add("multiple_correct_answers", f"Select all correct statements from {ACTIVE_META.chapter}.", sentences[22:26], ["Correct statements"])
+    add("formulate_question", f"Formulate a question for an answer from {ACTIVE_META.chapter}.", sentences[26:28], ["Question"])
+    add("assertion_reason", f"Build an assertion-reason answer from {ACTIVE_META.chapter}.", sentences[28:30] + sentences[0:1], ["Assertion", "Reason", "Relationship"])
+    return activities
+
+
 def split_sentence(sentence: str) -> tuple[str, str]:
     words = sentence.split()
     midpoint = max(2, len(words) // 2)
@@ -1200,36 +1361,44 @@ def chapter_answer_builder_activities(start_index: int) -> list[dict[str, Any]]:
     return activities
 
 
-def build_dataset() -> dict[str, Any]:
-    extracted_text = extract_pdf_text(PILOT_META.pdf_path)
-    seed_builders = answer_builder_variants(1)
-    for activity in seed_builders:
-        activity["questionGroupId"] = "chapter-q00-digestion-overview"
-        activity["chapterQuestionNumber"] = 0
-    activities = seed_builders + core_activities(4) + chapter_answer_builder_activities(25)
+def build_dataset(meta: ChapterMeta = PILOT_META) -> dict[str, Any]:
+    global ACTIVE_META
+    ACTIVE_META = meta
+    extracted_text = extract_pdf_text(meta.pdf_path)
+    if meta == PILOT_META:
+        question_sets = ALL_CHAPTER_QUESTION_SETS
+        seed_builders = answer_builder_variants(1)
+        for activity in seed_builders:
+            activity["questionGroupId"] = "chapter-q00-digestion-overview"
+            activity["chapterQuestionNumber"] = 0
+        activities = seed_builders + core_activities(4) + chapter_answer_builder_activities(25)
+    else:
+        question_sets = generic_question_sets(extracted_text)
+        activities = generic_core_activities(1, extracted_text) + generic_answer_builder_activities(22, question_sets)
     return {
         "version": 1,
         "generatedBy": "scripts/build_practice_data.py",
         "source": {
             "root": str(SOURCE_ROOT),
-            "pdfPath": str(PILOT_META.pdf_path),
-            "classLevel": PILOT_META.class_level,
-            "stream": PILOT_META.stream,
-            "subject": PILOT_META.subject,
-            "book": PILOT_META.book,
-            "chapter": PILOT_META.chapter,
-            "chapterNumber": PILOT_META.chapter_number,
+            "pdfPath": str(meta.pdf_path),
+            "classLevel": meta.class_level,
+            "stream": meta.stream,
+            "subject": meta.subject,
+            "book": meta.book,
+            "chapter": meta.chapter,
+            "chapterNumber": meta.chapter_number,
             "pageCount": None,
             "extractedCharacterCount": len(extracted_text),
             "extractionPreview": extracted_text[:500],
         },
         "coverage": {
-            "classes": [7],
+            "classes": [meta.class_level],
             "questionTypeCount": len(QUESTION_TYPES),
             "answerBuilderModes": ["easy", "moderate", "difficult"],
             "activityCount": len(activities),
-            "chapterQuestionCount": len(ALL_CHAPTER_QUESTION_SETS),
+            "chapterQuestionCount": len(question_sets),
             "layoutProfileCount": len(LAYOUT_PROFILES),
+            "generationMode": "pilot-reviewed" if meta == PILOT_META else "source-derived-draft",
         },
         "layoutProfiles": LAYOUT_PROFILES,
         "chapterQuestions": [
@@ -1239,17 +1408,38 @@ def build_dataset() -> dict[str, Any]:
                 "question": item["question"],
                 "questionIdentifier": identify_question_layout(item["question"], item["structure"]),
             }
-            for index, item in enumerate(ALL_CHAPTER_QUESTION_SETS, start=1)
+            for index, item in enumerate(question_sets, start=1)
         ],
         "activities": activities,
     }
 
 
 def main() -> None:
-    dataset = build_dataset()
-    OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT_PATH.write_text(json.dumps(dataset, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    print(f"Wrote {OUTPUT_PATH}")
+    parser = argparse.ArgumentParser(description="Generate Learnify practice JSON from a chapter PDF.")
+    parser.add_argument("--pdf", type=Path, default=PILOT_META.pdf_path)
+    parser.add_argument("--class-level", type=int, default=PILOT_META.class_level)
+    parser.add_argument("--stream", default=PILOT_META.stream)
+    parser.add_argument("--subject", default=PILOT_META.subject)
+    parser.add_argument("--book", default=PILOT_META.book)
+    parser.add_argument("--chapter", default=PILOT_META.chapter)
+    parser.add_argument("--chapter-number", type=int, default=PILOT_META.chapter_number)
+    parser.add_argument("--output", type=Path, default=None)
+    args = parser.parse_args()
+
+    meta = ChapterMeta(
+        class_level=args.class_level,
+        stream=args.stream,
+        subject=args.subject,
+        book=args.book,
+        chapter=args.chapter,
+        chapter_number=args.chapter_number,
+        pdf_path=args.pdf,
+    )
+    output_path = args.output or infer_output_path(meta)
+    dataset = build_dataset(meta)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(json.dumps(dataset, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    print(f"Wrote {output_path}")
     print(f"Activities: {len(dataset['activities'])}")
 
 

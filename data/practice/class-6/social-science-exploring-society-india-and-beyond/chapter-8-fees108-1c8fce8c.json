@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+    "classLevel": 6,
+    "stream": null,
+    "subject": "Social Science",
+    "book": "Social Science - Exploring Society - India and Beyond",
+    "chapter": "Chapter 8",
+    "chapterNumber": 8,
+    "pageCount": null,
+    "extractedCharacterCount": 14625,
+    "extractionPreview": "125\n8 - Unity in Diversity, or 'Many in the One'\nUnity in Diversity, or \n'Many in the One'\nCHAPTER\n8 \nOh, grant me my prayer, that I may never lose the bliss of \nthe touch of the one in the play of the many.\n- Rabindranath Tagore\n… The principle of unity in diversity which has always \nbeen normal to [India] and its fulfilment the fundamental \ncourse of her being and its very nature, the Many in \nthe One, would place her on the sure foundation of her \nSwabhava and Swadharma.\n- Sri Aurobindo\n1. \nW"
+  },
+  "coverage": {
+    "classes": [
+      6
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 8.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 8.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 8.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 8 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 8.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-6-social-science-chapter-8-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "What is meant by 'unity in diversity' in the Indian scenario?",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "What aspects of India's diversity are the most striking?",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "Even within your own region, you will often come across people from other parts of India with different customs and traditions.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "This is India's rich diversity, and it is usually the first thing that strikes visitors to our country.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "What is meant by 'unity in diversity' in the Indian scenario? What aspects of India's diversity are the most striking? Even within your own region, you will often come across people from other parts of India with different customs and traditions. This is India's rich diversity, and it is usually the first thing that strikes visitors to our country.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "With over 1.4 billion inhabitants (about 18 percent of the world's population), such diversity is not surprising!",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "While diversity is indeed beautiful, making sense of it is not so easy.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "Over a century ago, the British historian Vincent Smith wondered, \"How, in the face of such bewildering diversity, can a history of India be written?",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "… The answer to the query is found in the fact that India offers unity in diversity.\" What is meant by 'unity in diversity'?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "With over 1.4 billion inhabitants (about 18 percent of the world's population), such diversity is not surprising! While diversity is indeed beautiful, making sense of it is not so easy. Over a century ago, the British historian Vincent Smith wondered, \"How, in the face of such bewildering diversity, can a history of India be written? … The answer to the query is found in the fact that India offers unity in diversity.\" What is meant by 'unity in diversity'?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "How shall we perceive and express this unity, or the 'Many in the One'?",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "To answer this question, we will explore a few dimensions of Indian life.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "Reprint 2025-26 127 8 - Unity in Diversity, or 'Many in the One' Food for All Some of you will have eaten food from different regions of India.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "The number of different dishes and preparations you can taste in India must be in their thousands, if not lakhs!",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "How shall we perceive and express this unity, or the 'Many in the One'? To answer this question, we will explore a few dimensions of Indian life. Reprint 2025-26 127 8 - Unity in Diversity, or 'Many in the One' Food for All Some of you will have eaten food from different regions of India. The number of different dishes and preparations you can taste in India must be in their thousands, if not lakhs!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 8 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "All these are called 'staple grains' because they are the basic food for most Indians (Fig.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "Similarly, some common spices such as turmeric, cumin, cardamom and ginger, are also used throughout the country.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "We could continue this list with some common vegetables, common oils etc.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "So we see how the same ingredients (unity) can be used in a number of combinations (diversity) to prepare an endless variety of dishes!",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "All these are called 'staple grains' because they are the basic food for most Indians (Fig. Similarly, some common spices such as turmeric, cumin, cardamom and ginger, are also used throughout the country. We could continue this list with some common vegetables, common oils etc. So we see how the same ingredients (unity) can be used in a number of combinations (diversity) to prepare an endless variety of dishes!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "Æ Take any one vegetable and think of the number of different dishes you can prepare with it.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "Textiles and Clothing Every region and community in India has developed its own styles of clothing and dresses.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "Yet, we notice a commonality in some traditional Indian dresses, irrespective of the material used.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "Banarasi, Kanjivaram, Paithani, Patan Patola, Muga or Mysore are some of the famous types of silk saris.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Æ Take any one vegetable and think of the number of different dishes you can prepare with it. Textiles and Clothing Every region and community in India has developed its own styles of clothing and dresses. Yet, we notice a commonality in some traditional Indian dresses, irrespective of the material used. Banarasi, Kanjivaram, Paithani, Patan Patola, Muga or Mysore are some of the famous types of silk saris.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "Altogether, this unstitched piece of cloth comes in hundreds of varieties.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "Stone relief of a woman in a sari from Vaiśhali (today in Bihar) Reprint 2025-26 129 8 - Unity in Diversity, or 'Many in the One' produced by different methods of weaving (Fig.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "Some designs are part of the cloth, while others are printed after the cloth is woven.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "Finally, there are endless variations in the colours, which are produced from many kinds of pigments.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Altogether, this unstitched piece of cloth comes in hundreds of varieties. Stone relief of a woman in a sari from Vaiśhali (today in Bihar) Reprint 2025-26 129 8 - Unity in Diversity, or 'Many in the One' produced by different methods of weaving (Fig. Some designs are part of the cloth, while others are printed after the cloth is woven. Finally, there are endless variations in the colours, which are produced from many kinds of pigments.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "What is meant by 'unity in diversity' in the Indian scenario?",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "What aspects of India's diversity are the most striking?",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "Even within your own region, you will often come across people from other parts of India with different customs and traditions.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "This is India's rich diversity, and it is usually the first thing that strikes visitors to our country.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "What is meant by 'unity in diversity' in the Indian scenario? What aspects of India's diversity are the most striking? Even within your own region, you will often come across people from other parts of India with different customs and traditions. This is India's rich diversity, and it is usually the first thing that strikes visitors to our country.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "With over 1.4 billion inhabitants (about 18 percent of the world's population), such diversity is not surprising!",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "While diversity is indeed beautiful, making sense of it is not so easy.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "Over a century ago, the British historian Vincent Smith wondered, \"How, in the face of such bewildering diversity, can a history of India be written?",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "… The answer to the query is found in the fact that India offers unity in diversity.\" What is meant by 'unity in diversity'?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "With over 1.4 billion inhabitants (about 18 percent of the world's population), such diversity is not surprising! While diversity is indeed beautiful, making sense of it is not so easy. Over a century ago, the British historian Vincent Smith wondered, \"How, in the face of such bewildering diversity, can a history of India be written? … The answer to the query is found in the fact that India offers unity in diversity.\" What is meant by 'unity in diversity'?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "List key points from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "How shall we perceive and express this unity, or the 'Many in the One'?",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "To answer this question, we will explore a few dimensions of Indian life.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "Reprint 2025-26 127 8 - Unity in Diversity, or 'Many in the One' Food for All Some of you will have eaten food from different regions of India.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "The number of different dishes and preparations you can taste in India must be in their thousands, if not lakhs!",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "How shall we perceive and express this unity, or the 'Many in the One'? To answer this question, we will explore a few dimensions of Indian life. Reprint 2025-26 127 8 - Unity in Diversity, or 'Many in the One' Food for All Some of you will have eaten food from different regions of India. The number of different dishes and preparations you can taste in India must be in their thousands, if not lakhs!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "All these are called 'staple grains' because they are the basic food for most Indians (Fig.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "Similarly, some common spices such as turmeric, cumin, cardamom and ginger, are also used throughout the country.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "We could continue this list with some common vegetables, common oils etc.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "So we see how the same ingredients (unity) can be used in a number of combinations (diversity) to prepare an endless variety of dishes!",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "All these are called 'staple grains' because they are the basic food for most Indians (Fig. Similarly, some common spices such as turmeric, cumin, cardamom and ginger, are also used throughout the country. We could continue this list with some common vegetables, common oils etc. So we see how the same ingredients (unity) can be used in a number of combinations (diversity) to prepare an endless variety of dishes!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 8 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "Æ Take any one vegetable and think of the number of different dishes you can prepare with it.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "Textiles and Clothing Every region and community in India has developed its own styles of clothing and dresses.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "Yet, we notice a commonality in some traditional Indian dresses, irrespective of the material used.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "Banarasi, Kanjivaram, Paithani, Patan Patola, Muga or Mysore are some of the famous types of silk saris.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Æ Take any one vegetable and think of the number of different dishes you can prepare with it. Textiles and Clothing Every region and community in India has developed its own styles of clothing and dresses. Yet, we notice a commonality in some traditional Indian dresses, irrespective of the material used. Banarasi, Kanjivaram, Paithani, Patan Patola, Muga or Mysore are some of the famous types of silk saris.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "Altogether, this unstitched piece of cloth comes in hundreds of varieties.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "Stone relief of a woman in a sari from Vaiśhali (today in Bihar) Reprint 2025-26 129 8 - Unity in Diversity, or 'Many in the One' produced by different methods of weaving (Fig.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "Some designs are part of the cloth, while others are printed after the cloth is woven.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "Finally, there are endless variations in the colours, which are produced from many kinds of pigments.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "LET'S EXPLORE Explain how the example of the sari reflects both unity and diversity (in 100-150 words).",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Altogether, this unstitched piece of cloth comes in hundreds of varieties. Stone relief of a woman in a sari from Vaiśhali (today in Bihar) Reprint 2025-26 129 8 - Unity in Diversity, or 'Many in the One' produced by different methods of weaving (Fig. Some designs are part of the cloth, while others are printed after the cloth is woven. Finally, there are endless variations in the colours, which are produced from many kinds of pigments. LET'S EXPLORE Explain how the example of the sari reflects both unity and diversity (in 100-150 words).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Build a definition from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "What is meant by 'unity in diversity' in the Indian scenario?",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "What aspects of India's diversity are the most striking?",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "Even within your own region, you will often come across people from other parts of India with different customs and traditions.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "This is India's rich diversity, and it is usually the first thing that strikes visitors to our country.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "What is meant by 'unity in diversity' in the Indian scenario? What aspects of India's diversity are the most striking? Even within your own region, you will often come across people from other parts of India with different customs and traditions. This is India's rich diversity, and it is usually the first thing that strikes visitors to our country.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "With over 1.4 billion inhabitants (about 18 percent of the world's population), such diversity is not surprising!",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "While diversity is indeed beautiful, making sense of it is not so easy.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "Over a century ago, the British historian Vincent Smith wondered, \"How, in the face of such bewildering diversity, can a history of India be written?",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "… The answer to the query is found in the fact that India offers unity in diversity.\" What is meant by 'unity in diversity'?",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "How shall we perceive and express this unity, or the 'Many in the One'?",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "With over 1.4 billion inhabitants (about 18 percent of the world's population), such diversity is not surprising! While diversity is indeed beautiful, making sense of it is not so easy. Over a century ago, the British historian Vincent Smith wondered, \"How, in the face of such bewildering diversity, can a history of India be written? … The answer to the query is found in the fact that India offers unity in diversity.\" What is meant by 'unity in diversity'? How shall we perceive and express this unity, or the 'Many in the One'?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "To answer this question, we will explore a few dimensions of Indian life.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "Reprint 2025-26 127 8 - Unity in Diversity, or 'Many in the One' Food for All Some of you will have eaten food from different regions of India.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "The number of different dishes and preparations you can taste in India must be in their thousands, if not lakhs!",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "To answer this question, we will explore a few dimensions of Indian life. Reprint 2025-26 127 8 - Unity in Diversity, or 'Many in the One' Food for All Some of you will have eaten food from different regions of India. The number of different dishes and preparations you can taste in India must be in their thousands, if not lakhs!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "All these are called 'staple grains' because they are the basic food for most Indians (Fig.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "Similarly, some common spices such as turmeric, cumin, cardamom and ginger, are also used throughout the country.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "We could continue this list with some common vegetables, common oils etc.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "All these are called 'staple grains' because they are the basic food for most Indians (Fig. Similarly, some common spices such as turmeric, cumin, cardamom and ginger, are also used throughout the country. We could continue this list with some common vegetables, common oils etc.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "So we see how the same ingredients (unity) can be used in a number of combinations (diversity) to prepare an endless variety of dishes!",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "Æ Take any one vegetable and think of the number of different dishes you can prepare with it.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "Textiles and Clothing Every region and community in India has developed its own styles of clothing and dresses.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "Yet, we notice a commonality in some traditional Indian dresses, irrespective of the material used.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "So we see how the same ingredients (unity) can be used in a number of combinations (diversity) to prepare an endless variety of dishes! Æ Take any one vegetable and think of the number of different dishes you can prepare with it. Textiles and Clothing Every region and community in India has developed its own styles of clothing and dresses. Yet, we notice a commonality in some traditional Indian dresses, irrespective of the material used.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "Banarasi, Kanjivaram, Paithani, Patan Patola, Muga or Mysore are some of the famous types of silk saris.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "Altogether, this unstitched piece of cloth comes in hundreds of varieties.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "Stone relief of a woman in a sari from Vaiśhali (today in Bihar) Reprint 2025-26 129 8 - Unity in Diversity, or 'Many in the One' produced by different methods of weaving (Fig.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Banarasi, Kanjivaram, Paithani, Patan Patola, Muga or Mysore are some of the famous types of silk saris. Altogether, this unstitched piece of cloth comes in hundreds of varieties. Stone relief of a woman in a sari from Vaiśhali (today in Bihar) Reprint 2025-26 129 8 - Unity in Diversity, or 'Many in the One' produced by different methods of weaving (Fig.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "Some designs are part of the cloth, while others are printed after the cloth is woven.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "Finally, there are endless variations in the colours, which are produced from many kinds of pigments.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "LET'S EXPLORE Explain how the example of the sari reflects both unity and diversity (in 100-150 words).",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "DON'T MISS OUT For a very long time, India produced the finest cotton in the world and Indian textiles were exported as far away as Europe.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Some designs are part of the cloth, while others are printed after the cloth is woven. Finally, there are endless variations in the colours, which are produced from many kinds of pigments. LET'S EXPLORE Explain how the example of the sari reflects both unity and diversity (in 100-150 words). DON'T MISS OUT For a very long time, India produced the finest cotton in the world and Indian textiles were exported as far away as Europe.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "One beautiful type of printed cotton called 'chintz' became so popular in 17th-century Europe that the sale of some European dresses dropped sharply.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "Eventually, to protect their own products, England and France decided to ban the import of chintz from India!",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "One beautiful type of printed cotton called 'chintz' became so popular in 17th-century Europe that the sale of some European dresses dropped sharply. Eventually, to protect their own products, England and France decided to ban the import of chintz from India!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "There are many ways of wearing the sari, as they vary from one region to another or from one community to another.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "In fact, new ways of draping it are still being invented.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "What is meant by 'unity in diversity' in the Indian scenario?",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "There are many ways of wearing the sari, as they vary from one region to another or from one community to another. In fact, new ways of draping it are still being invented. What is meant by 'unity in diversity' in the Indian scenario?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-6-social-science-chapter-8-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "What is meant by 'unity in diversity' in the Indian scenario?",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "What aspects of India's diversity are the most striking?",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "Even within your own region, you will often come across people from other parts of India with different customs and traditions.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "This is India's rich diversity, and it is usually the first thing that strikes visitors to our country.",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "What is meant by 'unity in diversity' in the Indian scenario? What aspects of India's diversity are the most striking? Even within your own region, you will often come across people from other parts of India with different customs and traditions. This is India's rich diversity, and it is usually the first thing that strikes visitors to our country.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "What is meant by 'unity",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "in diversity' in the Indian scenario?",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "What aspects of India's",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "diversity are the most striking?",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "Even within your own region, you will often come across",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "people from other parts of India with different customs and traditions.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "This is India's rich diversity, and it is usually",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "the first thing that strikes visitors to our country.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "What is meant by 'unity in diversity' in the Indian scenario? What aspects of India's diversity are the most striking? Even within your own region, you will often come across people from other parts of India with different customs and traditions. This is India's rich diversity, and it is usually the first thing that strikes visitors to our country.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "what",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "what",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "What is meant by 'unity in diversity' in the Indian scenario? What aspects of India's diversity are the most striking? Even within your own region, you will often come across people from other parts of India with different customs and traditions. This is India's rich diversity, and it is usually the first thing that strikes visitors to our country.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "With over 1.4 billion inhabitants (about 18 percent of the world's population), such diversity is not surprising!",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "While diversity is indeed beautiful, making sense of it is not so easy.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "Over a century ago, the British historian Vincent Smith wondered, \"How, in the face of such bewildering diversity, can a history of India be written?",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "… The answer to the query is found in the fact that India offers unity in diversity.\" What is meant by 'unity in diversity'?",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "With over 1.4 billion inhabitants (about 18 percent of the world's population), such diversity is not surprising! While diversity is indeed beautiful, making sense of it is not so easy. Over a century ago, the British historian Vincent Smith wondered, \"How, in the face of such bewildering diversity, can a history of India be written? … The answer to the query is found in the fact that India offers unity in diversity.\" What is meant by 'unity in diversity'?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "With over 1.4 billion inhabitants (about 18 percent",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "of the world's population), such diversity is not surprising!",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "While diversity is indeed beautiful, making",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "sense of it is not so easy.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "Over a century ago, the British historian Vincent Smith wondered, \"How, in",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "the face of such bewildering diversity, can a history of India be written?",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "… The answer to the query is found in the fact that",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "India offers unity in diversity.\" What is meant by 'unity in diversity'?",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "With over 1.4 billion inhabitants (about 18 percent of the world's population), such diversity is not surprising! While diversity is indeed beautiful, making sense of it is not so easy. Over a century ago, the British historian Vincent Smith wondered, \"How, in the face of such bewildering diversity, can a history of India be written? … The answer to the query is found in the fact that India offers unity in diversity.\" What is meant by 'unity in diversity'?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "with",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "while",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "With over 1.4 billion inhabitants (about 18 percent of the world's population), such diversity is not surprising! While diversity is indeed beautiful, making sense of it is not so easy. Over a century ago, the British historian Vincent Smith wondered, \"How, in the face of such bewildering diversity, can a history of India be written? … The answer to the query is found in the fact that India offers unity in diversity.\" What is meant by 'unity in diversity'?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "How shall we perceive and express this unity, or the 'Many in the One'?",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "To answer this question, we will explore a few dimensions of Indian life.",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "Reprint 2025-26 127 8 - Unity in Diversity, or 'Many in the One' Food for All Some of you will have eaten food from different regions of India.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "The number of different dishes and preparations you can taste in India must be in their thousands, if not lakhs!",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "How shall we perceive and express this unity, or the 'Many in the One'? To answer this question, we will explore a few dimensions of Indian life. Reprint 2025-26 127 8 - Unity in Diversity, or 'Many in the One' Food for All Some of you will have eaten food from different regions of India. The number of different dishes and preparations you can taste in India must be in their thousands, if not lakhs!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "How shall we perceive and express this",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "unity, or the 'Many in the One'?",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "To answer this question, we will",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "explore a few dimensions of Indian life.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "Reprint 2025-26 127 8 - Unity in Diversity, or 'Many in the One' Food",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "for All Some of you will have eaten food from different regions of India.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "The number of different dishes and preparations you can taste",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "in India must be in their thousands, if not lakhs!",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "How shall we perceive and express this unity, or the 'Many in the One'? To answer this question, we will explore a few dimensions of Indian life. Reprint 2025-26 127 8 - Unity in Diversity, or 'Many in the One' Food for All Some of you will have eaten food from different regions of India. The number of different dishes and preparations you can taste in India must be in their thousands, if not lakhs!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "how",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "to",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "How shall we perceive and express this unity, or the 'Many in the One'? To answer this question, we will explore a few dimensions of Indian life. Reprint 2025-26 127 8 - Unity in Diversity, or 'Many in the One' Food for All Some of you will have eaten food from different regions of India. The number of different dishes and preparations you can taste in India must be in their thousands, if not lakhs!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Define an important term from Chapter 8 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "All these are called 'staple grains' because they are the basic food for most Indians (Fig.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "Similarly, some common spices such as turmeric, cumin, cardamom and ginger, are also used throughout the country.",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "We could continue this list with some common vegetables, common oils etc.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "So we see how the same ingredients (unity) can be used in a number of combinations (diversity) to prepare an endless variety of dishes!",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "All these are called 'staple grains' because they are the basic food for most Indians (Fig. Similarly, some common spices such as turmeric, cumin, cardamom and ginger, are also used throughout the country. We could continue this list with some common vegetables, common oils etc. So we see how the same ingredients (unity) can be used in a number of combinations (diversity) to prepare an endless variety of dishes!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Define an important term from Chapter 8 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "All these are called 'staple grains' because they",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "are the basic food for most Indians (Fig.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "Similarly, some common spices such as turmeric, cumin,",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "cardamom and ginger, are also used throughout the country.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "We could continue this list with",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "some common vegetables, common oils etc.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "So we see how the same ingredients (unity) can be used in",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "a number of combinations (diversity) to prepare an endless variety of dishes!",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "All these are called 'staple grains' because they are the basic food for most Indians (Fig. Similarly, some common spices such as turmeric, cumin, cardamom and ginger, are also used throughout the country. We could continue this list with some common vegetables, common oils etc. So we see how the same ingredients (unity) can be used in a number of combinations (diversity) to prepare an endless variety of dishes!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Define an important term from Chapter 8 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "all",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "similarly,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "All these are called 'staple grains' because they are the basic food for most Indians (Fig. Similarly, some common spices such as turmeric, cumin, cardamom and ginger, are also used throughout the country. We could continue this list with some common vegetables, common oils etc. So we see how the same ingredients (unity) can be used in a number of combinations (diversity) to prepare an endless variety of dishes!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "Æ Take any one vegetable and think of the number of different dishes you can prepare with it.",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "Textiles and Clothing Every region and community in India has developed its own styles of clothing and dresses.",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "Yet, we notice a commonality in some traditional Indian dresses, irrespective of the material used.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "Banarasi, Kanjivaram, Paithani, Patan Patola, Muga or Mysore are some of the famous types of silk saris.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Æ Take any one vegetable and think of the number of different dishes you can prepare with it. Textiles and Clothing Every region and community in India has developed its own styles of clothing and dresses. Yet, we notice a commonality in some traditional Indian dresses, irrespective of the material used. Banarasi, Kanjivaram, Paithani, Patan Patola, Muga or Mysore are some of the famous types of silk saris.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "Æ Take any one vegetable and think of the",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "number of different dishes you can prepare with it.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "Textiles and Clothing Every region and community in India",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "has developed its own styles of clothing and dresses.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "Yet, we notice a commonality in some",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "traditional Indian dresses, irrespective of the material used.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "Banarasi, Kanjivaram, Paithani, Patan Patola, Muga or Mysore",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "are some of the famous types of silk saris.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Æ Take any one vegetable and think of the number of different dishes you can prepare with it. Textiles and Clothing Every region and community in India has developed its own styles of clothing and dresses. Yet, we notice a commonality in some traditional Indian dresses, irrespective of the material used. Banarasi, Kanjivaram, Paithani, Patan Patola, Muga or Mysore are some of the famous types of silk saris.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-6-social-science-chapter-8-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 6,
+      "stream": null,
+      "subject": "Social Science",
+      "book": "Social Science - Exploring Society - India and Beyond",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Social Science - Exploring Society - India and Beyond, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Social Science - Exploring Society - India and Beyond\\fees108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "æ",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "textiles",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Æ Take any one vegetable and think of the number of different dishes you can prepare with it. Textiles and Clothing Every region and community in India has developed its own styles of clothing and dresses. Yet, we notice a commonality in some traditional Indian dresses, irrespective of the material used. Banarasi, Kanjivaram, Paithani, Patan Patola, Muga or Mysore are some of the famous types of silk saris.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

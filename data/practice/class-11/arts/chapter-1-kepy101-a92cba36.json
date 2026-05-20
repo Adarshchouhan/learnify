@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+    "classLevel": 11,
+    "stream": "Arts",
+    "subject": "Psychology",
+    "book": "Psychology - Introduction to Psychology",
+    "chapter": "Chapter 1",
+    "chapterNumber": 1,
+    "pageCount": null,
+    "extractedCharacterCount": 61945,
+    "extractionPreview": "Chapter1\nWhat is Psychology?\nWhat is Psychology?\n•\nunderstand the nature and role of psychology in understanding mind\nand behaviour,\n•\nstate the growth of the discipline,\n•\nknow the different fields of psychology, its relationship with other\ndisciplines, and professions, and\n•\nappreciate the value of psychology in daily life to help you understand\nyourself and others better.\nAfter reading this chapter, you would be able to\nIntroduction\nWhat is Psychology?\nPsychology as a Discipline\nPsychology as"
+  },
+  "coverage": {
+    "classes": [
+      11
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 1.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 1.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-11-arts-psychology-chapter-1-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind.",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "But since then it has moved away considerably from this focus and established itself as a scientific discipline which deals with processes underlying human experience and behaviour.",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "The range of phenomena it studies, some of which we mentioned above, are spread over several levels, viz.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "individual, dyadic (two person) group, and organisational.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind. But since then it has moved away considerably from this focus and established itself as a scientific discipline which deals with processes underlying human experience and behaviour. The range of phenomena it studies, some of which we mentioned above, are spread over several levels, viz. individual, dyadic (two person) group, and organisational.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "Naturally, therefore, the methods required to WHAT IS PSYCHOLOGY?",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "Secondly, because the range of phenomena it studies cannot be captured by any one definition.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "Long time back, students like yourself were told that the term psychology is derived from two Greek words psyche meaning soul and logos meaning science or study of a subject.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "Thus, You were, perhaps, asked by your teacher in the first class why you opted for psychology over other subjects.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Naturally, therefore, the methods required to WHAT IS PSYCHOLOGY? Secondly, because the range of phenomena it studies cannot be captured by any one definition. Long time back, students like yourself were told that the term psychology is derived from two Greek words psyche meaning soul and logos meaning science or study of a subject. Thus, You were, perhaps, asked by your teacher in the first class why you opted for psychology over other subjects.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "If you were asked this question, what was your response?",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "Generally, the range of responses which surface in class to this question are truly bewildering.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "Most students give inane responses, like they want to know what others are thinking.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "All ancient traditions have engaged themselves with questions about human nature.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "If you were asked this question, what was your response? Generally, the range of responses which surface in class to this question are truly bewildering. Most students give inane responses, like they want to know what others are thinking. All ancient traditions have engaged themselves with questions about human nature.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 1 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "The Indian philosophical traditions, in particular, deal with questions relating to why people behave in the manner in which they do.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "What changes should they bring about in themselves if they desire happiness in their lives?",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "Like all knowledge, psychological knowledge too is intended to contribute to human well-being.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "If the world is full of misery, it is largely due to humans themselves.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The Indian philosophical traditions, in particular, deal with questions relating to why people behave in the manner in which they do. What changes should they bring about in themselves if they desire happiness in their lives? Like all knowledge, psychological knowledge too is intended to contribute to human well-being. If the world is full of misery, it is largely due to humans themselves.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "Perhaps, you have asked why a 9/11 or war in Iraq happened.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "Why innocent people in Delhi, Mumbai, Srinagar or in the North- East have to face bombs and bullets?",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "Psychologists ask what is in the experiences of young men which turn them into terrorists seeking revenge.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "You may have heard the name of Major HPS Ahluwalia, paralysed waist down because of an injury he suffered in a war with Pakistan, who climbed the Mt.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Perhaps, you have asked why a 9/11 or war in Iraq happened. Why innocent people in Delhi, Mumbai, Srinagar or in the North- East have to face bombs and bullets? Psychologists ask what is in the experiences of young men which turn them into terrorists seeking revenge. You may have heard the name of Major HPS Ahluwalia, paralysed waist down because of an injury he suffered in a war with Pakistan, who climbed the Mt.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "These are not only questions about human nature which psychology addresses as a human science.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "Psychology cannot claim that answers have been found to these complex questions.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "But it surely has improved upon our understanding and how we make sense of these phenomena.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "3 study them also vary greatly depending on the phenomenon one wants to study.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "These are not only questions about human nature which psychology addresses as a human science. Psychology cannot claim that answers have been found to these complex questions. But it surely has improved upon our understanding and how we make sense of these phenomena. 3 study them also vary greatly depending on the phenomenon one wants to study.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind.",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "But since then it has moved away considerably from this focus and established itself as a scientific discipline which deals with processes underlying human experience and behaviour.",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "The range of phenomena it studies, some of which we mentioned above, are spread over several levels, viz.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "individual, dyadic (two person) group, and organisational.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind. But since then it has moved away considerably from this focus and established itself as a scientific discipline which deals with processes underlying human experience and behaviour. The range of phenomena it studies, some of which we mentioned above, are spread over several levels, viz. individual, dyadic (two person) group, and organisational.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "Naturally, therefore, the methods required to WHAT IS PSYCHOLOGY?",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "Secondly, because the range of phenomena it studies cannot be captured by any one definition.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "Long time back, students like yourself were told that the term psychology is derived from two Greek words psyche meaning soul and logos meaning science or study of a subject.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "Thus, You were, perhaps, asked by your teacher in the first class why you opted for psychology over other subjects.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Naturally, therefore, the methods required to WHAT IS PSYCHOLOGY? Secondly, because the range of phenomena it studies cannot be captured by any one definition. Long time back, students like yourself were told that the term psychology is derived from two Greek words psyche meaning soul and logos meaning science or study of a subject. Thus, You were, perhaps, asked by your teacher in the first class why you opted for psychology over other subjects.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "List key points from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "If you were asked this question, what was your response?",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "Generally, the range of responses which surface in class to this question are truly bewildering.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "Most students give inane responses, like they want to know what others are thinking.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "All ancient traditions have engaged themselves with questions about human nature.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "If you were asked this question, what was your response? Generally, the range of responses which surface in class to this question are truly bewildering. Most students give inane responses, like they want to know what others are thinking. All ancient traditions have engaged themselves with questions about human nature.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "The Indian philosophical traditions, in particular, deal with questions relating to why people behave in the manner in which they do.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "What changes should they bring about in themselves if they desire happiness in their lives?",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "Like all knowledge, psychological knowledge too is intended to contribute to human well-being.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "If the world is full of misery, it is largely due to humans themselves.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The Indian philosophical traditions, in particular, deal with questions relating to why people behave in the manner in which they do. What changes should they bring about in themselves if they desire happiness in their lives? Like all knowledge, psychological knowledge too is intended to contribute to human well-being. If the world is full of misery, it is largely due to humans themselves.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 1 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "Perhaps, you have asked why a 9/11 or war in Iraq happened.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "Why innocent people in Delhi, Mumbai, Srinagar or in the North- East have to face bombs and bullets?",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "Psychologists ask what is in the experiences of young men which turn them into terrorists seeking revenge.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "You may have heard the name of Major HPS Ahluwalia, paralysed waist down because of an injury he suffered in a war with Pakistan, who climbed the Mt.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Perhaps, you have asked why a 9/11 or war in Iraq happened. Why innocent people in Delhi, Mumbai, Srinagar or in the North- East have to face bombs and bullets? Psychologists ask what is in the experiences of young men which turn them into terrorists seeking revenge. You may have heard the name of Major HPS Ahluwalia, paralysed waist down because of an injury he suffered in a war with Pakistan, who climbed the Mt.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "These are not only questions about human nature which psychology addresses as a human science.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "Psychology cannot claim that answers have been found to these complex questions.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "But it surely has improved upon our understanding and how we make sense of these phenomena.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "3 study them also vary greatly depending on the phenomenon one wants to study.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "A discipline is defined both in terms of what it studies and how it studies.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "These are not only questions about human nature which psychology addresses as a human science. Psychology cannot claim that answers have been found to these complex questions. But it surely has improved upon our understanding and how we make sense of these phenomena. 3 study them also vary greatly depending on the phenomenon one wants to study. A discipline is defined both in terms of what it studies and how it studies.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Build a definition from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind.",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "But since then it has moved away considerably from this focus and established itself as a scientific discipline which deals with processes underlying human experience and behaviour.",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "The range of phenomena it studies, some of which we mentioned above, are spread over several levels, viz.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "individual, dyadic (two person) group, and organisational.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind. But since then it has moved away considerably from this focus and established itself as a scientific discipline which deals with processes underlying human experience and behaviour. The range of phenomena it studies, some of which we mentioned above, are spread over several levels, viz. individual, dyadic (two person) group, and organisational.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "Naturally, therefore, the methods required to WHAT IS PSYCHOLOGY?",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "Secondly, because the range of phenomena it studies cannot be captured by any one definition.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "Long time back, students like yourself were told that the term psychology is derived from two Greek words psyche meaning soul and logos meaning science or study of a subject.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "Thus, You were, perhaps, asked by your teacher in the first class why you opted for psychology over other subjects.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "If you were asked this question, what was your response?",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Naturally, therefore, the methods required to WHAT IS PSYCHOLOGY? Secondly, because the range of phenomena it studies cannot be captured by any one definition. Long time back, students like yourself were told that the term psychology is derived from two Greek words psyche meaning soul and logos meaning science or study of a subject. Thus, You were, perhaps, asked by your teacher in the first class why you opted for psychology over other subjects. If you were asked this question, what was your response?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "Generally, the range of responses which surface in class to this question are truly bewildering.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "Most students give inane responses, like they want to know what others are thinking.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "All ancient traditions have engaged themselves with questions about human nature.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Generally, the range of responses which surface in class to this question are truly bewildering. Most students give inane responses, like they want to know what others are thinking. All ancient traditions have engaged themselves with questions about human nature.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "The Indian philosophical traditions, in particular, deal with questions relating to why people behave in the manner in which they do.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "What changes should they bring about in themselves if they desire happiness in their lives?",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "Like all knowledge, psychological knowledge too is intended to contribute to human well-being.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The Indian philosophical traditions, in particular, deal with questions relating to why people behave in the manner in which they do. What changes should they bring about in themselves if they desire happiness in their lives? Like all knowledge, psychological knowledge too is intended to contribute to human well-being.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "If the world is full of misery, it is largely due to humans themselves.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "Perhaps, you have asked why a 9/11 or war in Iraq happened.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "Why innocent people in Delhi, Mumbai, Srinagar or in the North- East have to face bombs and bullets?",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "Psychologists ask what is in the experiences of young men which turn them into terrorists seeking revenge.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "If the world is full of misery, it is largely due to humans themselves. Perhaps, you have asked why a 9/11 or war in Iraq happened. Why innocent people in Delhi, Mumbai, Srinagar or in the North- East have to face bombs and bullets? Psychologists ask what is in the experiences of young men which turn them into terrorists seeking revenge.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "You may have heard the name of Major HPS Ahluwalia, paralysed waist down because of an injury he suffered in a war with Pakistan, who climbed the Mt.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "These are not only questions about human nature which psychology addresses as a human science.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "Psychology cannot claim that answers have been found to these complex questions.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "You may have heard the name of Major HPS Ahluwalia, paralysed waist down because of an injury he suffered in a war with Pakistan, who climbed the Mt. These are not only questions about human nature which psychology addresses as a human science. Psychology cannot claim that answers have been found to these complex questions.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "But it surely has improved upon our understanding and how we make sense of these phenomena.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "3 study them also vary greatly depending on the phenomenon one wants to study.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "A discipline is defined both in terms of what it studies and how it studies.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "Keeping this in view, psychology is defined formally as a science which studies mental processes, experiences and behaviour in different contexts.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "But it surely has improved upon our understanding and how we make sense of these phenomena. 3 study them also vary greatly depending on the phenomenon one wants to study. A discipline is defined both in terms of what it studies and how it studies. Keeping this in view, psychology is defined formally as a science which studies mental processes, experiences and behaviour in different contexts.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "In doing so, it uses methods of biological and social sciences to obtain data systematically.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "It makes sense of these data so that they can be organised as knowledge.",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In doing so, it uses methods of biological and social sciences to obtain data systematically. It makes sense of these data so that they can be organised as knowledge.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "Let us try to understand the three terms used in the definition, namely, mental processes, experience, and behaviour.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "When we say experiences are internal to the experiencing person, then we refer to states of consciousness or awareness or mental processes.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Let us try to understand the three terms used in the definition, namely, mental processes, experience, and behaviour. When we say experiences are internal to the experiencing person, then we refer to states of consciousness or awareness or mental processes. Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind.",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "But since then it has moved away considerably from this focus and established itself as a scientific discipline which deals with processes underlying human experience and behaviour.",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "The range of phenomena it studies, some of which we mentioned above, are spread over several levels, viz.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "individual, dyadic (two person) group, and organisational.",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind. But since then it has moved away considerably from this focus and established itself as a scientific discipline which deals with processes underlying human experience and behaviour. The range of phenomena it studies, some of which we mentioned above, are spread over several levels, viz. individual, dyadic (two person) group, and organisational.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "Norman Cousins Reprint 2025-26 Psychology 2 psychology",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "was a study of the soul or mind.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "But since then it has moved away considerably from this focus and established",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "itself as a scientific discipline which deals with processes underlying human experience and behaviour.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "The range of phenomena it studies, some of which",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "we mentioned above, are spread over several levels, viz.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "individual, dyadic (two",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "person) group, and organisational.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind. But since then it has moved away considerably from this focus and established itself as a scientific discipline which deals with processes underlying human experience and behaviour. The range of phenomena it studies, some of which we mentioned above, are spread over several levels, viz. individual, dyadic (two person) group, and organisational.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "norman",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "but",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Norman Cousins Reprint 2025-26 Psychology 2 psychology was a study of the soul or mind. But since then it has moved away considerably from this focus and established itself as a scientific discipline which deals with processes underlying human experience and behaviour. The range of phenomena it studies, some of which we mentioned above, are spread over several levels, viz. individual, dyadic (two person) group, and organisational.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "Naturally, therefore, the methods required to WHAT IS PSYCHOLOGY?",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "Secondly, because the range of phenomena it studies cannot be captured by any one definition.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "Long time back, students like yourself were told that the term psychology is derived from two Greek words psyche meaning soul and logos meaning science or study of a subject.",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "Thus, You were, perhaps, asked by your teacher in the first class why you opted for psychology over other subjects.",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Naturally, therefore, the methods required to WHAT IS PSYCHOLOGY? Secondly, because the range of phenomena it studies cannot be captured by any one definition. Long time back, students like yourself were told that the term psychology is derived from two Greek words psyche meaning soul and logos meaning science or study of a subject. Thus, You were, perhaps, asked by your teacher in the first class why you opted for psychology over other subjects.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "Naturally, therefore, the methods",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "required to WHAT IS PSYCHOLOGY?",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "Secondly, because the range of phenomena it",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "studies cannot be captured by any one definition.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "Long time back, students like yourself were told that the term psychology is derived from",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "two Greek words psyche meaning soul and logos meaning science or study of a subject.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "Thus, You were, perhaps, asked by your teacher in the",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "first class why you opted for psychology over other subjects.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Naturally, therefore, the methods required to WHAT IS PSYCHOLOGY? Secondly, because the range of phenomena it studies cannot be captured by any one definition. Long time back, students like yourself were told that the term psychology is derived from two Greek words psyche meaning soul and logos meaning science or study of a subject. Thus, You were, perhaps, asked by your teacher in the first class why you opted for psychology over other subjects.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "naturally,",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "secondly,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Naturally, therefore, the methods required to WHAT IS PSYCHOLOGY? Secondly, because the range of phenomena it studies cannot be captured by any one definition. Long time back, students like yourself were told that the term psychology is derived from two Greek words psyche meaning soul and logos meaning science or study of a subject. Thus, You were, perhaps, asked by your teacher in the first class why you opted for psychology over other subjects.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "If you were asked this question, what was your response?",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "Generally, the range of responses which surface in class to this question are truly bewildering.",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "Most students give inane responses, like they want to know what others are thinking.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "All ancient traditions have engaged themselves with questions about human nature.",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "If you were asked this question, what was your response? Generally, the range of responses which surface in class to this question are truly bewildering. Most students give inane responses, like they want to know what others are thinking. All ancient traditions have engaged themselves with questions about human nature.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "If you were asked this",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "question, what was your response?",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "Generally, the range of responses which surface",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "in class to this question are truly bewildering.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "Most students give inane responses, like they",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "want to know what others are thinking.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "All ancient traditions have engaged",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "themselves with questions about human nature.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "If you were asked this question, what was your response? Generally, the range of responses which surface in class to this question are truly bewildering. Most students give inane responses, like they want to know what others are thinking. All ancient traditions have engaged themselves with questions about human nature.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "if",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "generally,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "If you were asked this question, what was your response? Generally, the range of responses which surface in class to this question are truly bewildering. Most students give inane responses, like they want to know what others are thinking. All ancient traditions have engaged themselves with questions about human nature.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "The Indian philosophical traditions, in particular, deal with questions relating to why people behave in the manner in which they do.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "What changes should they bring about in themselves if they desire happiness in their lives?",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "Like all knowledge, psychological knowledge too is intended to contribute to human well-being.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "If the world is full of misery, it is largely due to humans themselves.",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The Indian philosophical traditions, in particular, deal with questions relating to why people behave in the manner in which they do. What changes should they bring about in themselves if they desire happiness in their lives? Like all knowledge, psychological knowledge too is intended to contribute to human well-being. If the world is full of misery, it is largely due to humans themselves.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "The Indian philosophical traditions, in particular, deal with questions relating",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "to why people behave in the manner in which they do.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "What changes should they bring about in",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "themselves if they desire happiness in their lives?",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "Like all knowledge, psychological knowledge too",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "is intended to contribute to human well-being.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "If the world is full of misery,",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "it is largely due to humans themselves.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The Indian philosophical traditions, in particular, deal with questions relating to why people behave in the manner in which they do. What changes should they bring about in themselves if they desire happiness in their lives? Like all knowledge, psychological knowledge too is intended to contribute to human well-being. If the world is full of misery, it is largely due to humans themselves.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "what",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The Indian philosophical traditions, in particular, deal with questions relating to why people behave in the manner in which they do. What changes should they bring about in themselves if they desire happiness in their lives? Like all knowledge, psychological knowledge too is intended to contribute to human well-being. If the world is full of misery, it is largely due to humans themselves.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "Perhaps, you have asked why a 9/11 or war in Iraq happened.",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "Why innocent people in Delhi, Mumbai, Srinagar or in the North- East have to face bombs and bullets?",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "Psychologists ask what is in the experiences of young men which turn them into terrorists seeking revenge.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "You may have heard the name of Major HPS Ahluwalia, paralysed waist down because of an injury he suffered in a war with Pakistan, who climbed the Mt.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Perhaps, you have asked why a 9/11 or war in Iraq happened. Why innocent people in Delhi, Mumbai, Srinagar or in the North- East have to face bombs and bullets? Psychologists ask what is in the experiences of young men which turn them into terrorists seeking revenge. You may have heard the name of Major HPS Ahluwalia, paralysed waist down because of an injury he suffered in a war with Pakistan, who climbed the Mt.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "Perhaps, you have asked why a",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "9/11 or war in Iraq happened.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "Why innocent people in Delhi, Mumbai, Srinagar or in",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "the North- East have to face bombs and bullets?",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "Psychologists ask what is in the experiences of",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "young men which turn them into terrorists seeking revenge.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "You may have heard the name of Major HPS Ahluwalia, paralysed waist down because",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "of an injury he suffered in a war with Pakistan, who climbed the Mt.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Perhaps, you have asked why a 9/11 or war in Iraq happened. Why innocent people in Delhi, Mumbai, Srinagar or in the North- East have to face bombs and bullets? Psychologists ask what is in the experiences of young men which turn them into terrorists seeking revenge. You may have heard the name of Major HPS Ahluwalia, paralysed waist down because of an injury he suffered in a war with Pakistan, who climbed the Mt.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-psychology-chapter-1-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Psychology",
+      "book": "Psychology - Introduction to Psychology",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Psychology - Introduction to Psychology, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Psychology - Introduction to Psychology\\kepy101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "perhaps,",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "why",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Perhaps, you have asked why a 9/11 or war in Iraq happened. Why innocent people in Delhi, Mumbai, Srinagar or in the North- East have to face bombs and bullets? Psychologists ask what is in the experiences of young men which turn them into terrorists seeking revenge. You may have heard the name of Major HPS Ahluwalia, paralysed waist down because of an injury he suffered in a war with Pakistan, who climbed the Mt.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

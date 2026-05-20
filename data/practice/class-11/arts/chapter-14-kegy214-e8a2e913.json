@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+    "classLevel": 11,
+    "stream": "Arts",
+    "subject": "Geography",
+    "book": "Geography - Fundamentals of Physical Geography",
+    "chapter": "Chapter 14",
+    "chapterNumber": 14,
+    "pageCount": null,
+    "extractedCharacterCount": 14368,
+    "extractionPreview": "FUNDAMENTALS OF PHYSICAL GEOGRAPHY\n114\nLIFE ON THE EARTH\nThis unit deals with\n•\nBiosphere - biodiversity and conservation\nUNIT\nVI\nReprint 2025-26\n\nBIODIVERSITY AND CONSERVATION\nY\nou have already learnt about the\ngeomorphic processes particularly\nweathering and depth of weathering\nmantle in different climatic zones. See the\nFigure 5.2 in Chapter 5 in order to recapitulate.\nYou should know that this weathering mantle\nis the basis for the diversity of vegetation and\nhence, the biodiversity. The bas"
+  },
+  "coverage": {
+    "classes": [
+      11
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 14.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 14.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 14.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 14 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 14.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-11-arts-geography-chapter-14-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity.",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "The basic cause for such weathering variations and resultant biodiversity is the input of solar energy and water.",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "No wonder that the areas that are rich in these inputs are the areas of wide spectrum of biodiversity.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "Biodiversity as we have today is the result of 2.5-3.5 billion years of evolution.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity. The basic cause for such weathering variations and resultant biodiversity is the input of solar energy and water. No wonder that the areas that are rich in these inputs are the areas of wide spectrum of biodiversity. Biodiversity as we have today is the result of 2.5-3.5 billion years of evolution.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "Before the advent of humans, our earth supported more biodiversity than in any other period.",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "Since, the emergence of humans, however, biodiversity has begun a rapid decline, with one species after another bearing the brunt of extinction due to overuse.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "The number of species globally vary from 2 million to 100 million, with 10 million being the best estimate.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "New species are regularly discovered most of which are yet to be classified (an estimate states that about 40 per cent of fresh water fishes from South America are not classified yet).",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Before the advent of humans, our earth supported more biodiversity than in any other period. Since, the emergence of humans, however, biodiversity has begun a rapid decline, with one species after another bearing the brunt of extinction due to overuse. The number of species globally vary from 2 million to 100 million, with 10 million being the best estimate. New species are regularly discovered most of which are yet to be classified (an estimate states that about 40 per cent of fresh water fishes from South America are not classified yet).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "Biodiversity is a system in constant evolution, from a view point of species, as well as from view point of an individual organism.",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "The average half-life of a species is estimated at between one and four million years, and 99 per cent of the species that have ever lived on the earth are today extinct.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "As one approaches the polar regions, one finds larger and larger populations of fewer and fewer species.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "Biodiversity itself is a combination of two words, Bio (life) and diversity (variety).",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Biodiversity is a system in constant evolution, from a view point of species, as well as from view point of an individual organism. The average half-life of a species is estimated at between one and four million years, and 99 per cent of the species that have ever lived on the earth are today extinct. As one approaches the polar regions, one finds larger and larger populations of fewer and fewer species. Biodiversity itself is a combination of two words, Bio (life) and diversity (variety).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 14 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "In simple terms, biodiversity is the number and variety of organisms found within a specified geographic region.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "It refers to the varieties of plants, animals and micro-organisms, the genes they contain and the ecosystems they form.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "It relates to the variability among living organisms on the earth, including the variability within and between the species and that within and between the ecosystems.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "It is a result of hundreds of millions of years of evolutionary history.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In simple terms, biodiversity is the number and variety of organisms found within a specified geographic region. It refers to the varieties of plants, animals and micro-organisms, the genes they contain and the ecosystems they form. It relates to the variability among living organisms on the earth, including the variability within and between the species and that within and between the ecosystems. It is a result of hundreds of millions of years of evolutionary history.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "Biodiversity can be discussed at three levels : (i) Genetic diversity; (ii) Species diversity; (iii) Ecosystem diversity.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "Genetic Diversity Genes are the basic building blocks of various life forms.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "Genetic biodiversity refers to the variation of genes within species.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "Groups of individual organisms having certain similarities in their physical characteristics are called species.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Biodiversity can be discussed at three levels : (i) Genetic diversity; (ii) Species diversity; (iii) Ecosystem diversity. Genetic Diversity Genes are the basic building blocks of various life forms. Genetic biodiversity refers to the variation of genes within species. Groups of individual organisms having certain similarities in their physical characteristics are called species.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "Human beings genetically belong to the homo sapiens group and also differ in their characteristics such as height, colour, physical appearance, etc., considerably.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "This genetic diversity is essential for a healthy breeding of population of species.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "C H A P T E R Reprint 2025-26 FUNDAMENTALS OF PHYSICAL GEOGRAPHY 116 Species Diversity This refers to the variety of species.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "The diversity of species can be measured through its richness, abundance and types.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Human beings genetically belong to the homo sapiens group and also differ in their characteristics such as height, colour, physical appearance, etc., considerably. This genetic diversity is essential for a healthy breeding of population of species. C H A P T E R Reprint 2025-26 FUNDAMENTALS OF PHYSICAL GEOGRAPHY 116 Species Diversity This refers to the variety of species. The diversity of species can be measured through its richness, abundance and types.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity.",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "The basic cause for such weathering variations and resultant biodiversity is the input of solar energy and water.",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "No wonder that the areas that are rich in these inputs are the areas of wide spectrum of biodiversity.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "Biodiversity as we have today is the result of 2.5-3.5 billion years of evolution.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity. The basic cause for such weathering variations and resultant biodiversity is the input of solar energy and water. No wonder that the areas that are rich in these inputs are the areas of wide spectrum of biodiversity. Biodiversity as we have today is the result of 2.5-3.5 billion years of evolution.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "Before the advent of humans, our earth supported more biodiversity than in any other period.",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "Since, the emergence of humans, however, biodiversity has begun a rapid decline, with one species after another bearing the brunt of extinction due to overuse.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "The number of species globally vary from 2 million to 100 million, with 10 million being the best estimate.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "New species are regularly discovered most of which are yet to be classified (an estimate states that about 40 per cent of fresh water fishes from South America are not classified yet).",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Before the advent of humans, our earth supported more biodiversity than in any other period. Since, the emergence of humans, however, biodiversity has begun a rapid decline, with one species after another bearing the brunt of extinction due to overuse. The number of species globally vary from 2 million to 100 million, with 10 million being the best estimate. New species are regularly discovered most of which are yet to be classified (an estimate states that about 40 per cent of fresh water fishes from South America are not classified yet).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "List key points from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "Biodiversity is a system in constant evolution, from a view point of species, as well as from view point of an individual organism.",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "The average half-life of a species is estimated at between one and four million years, and 99 per cent of the species that have ever lived on the earth are today extinct.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "As one approaches the polar regions, one finds larger and larger populations of fewer and fewer species.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "Biodiversity itself is a combination of two words, Bio (life) and diversity (variety).",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Biodiversity is a system in constant evolution, from a view point of species, as well as from view point of an individual organism. The average half-life of a species is estimated at between one and four million years, and 99 per cent of the species that have ever lived on the earth are today extinct. As one approaches the polar regions, one finds larger and larger populations of fewer and fewer species. Biodiversity itself is a combination of two words, Bio (life) and diversity (variety).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "In simple terms, biodiversity is the number and variety of organisms found within a specified geographic region.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "It refers to the varieties of plants, animals and micro-organisms, the genes they contain and the ecosystems they form.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "It relates to the variability among living organisms on the earth, including the variability within and between the species and that within and between the ecosystems.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "It is a result of hundreds of millions of years of evolutionary history.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In simple terms, biodiversity is the number and variety of organisms found within a specified geographic region. It refers to the varieties of plants, animals and micro-organisms, the genes they contain and the ecosystems they form. It relates to the variability among living organisms on the earth, including the variability within and between the species and that within and between the ecosystems. It is a result of hundreds of millions of years of evolutionary history.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 14 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "Biodiversity can be discussed at three levels : (i) Genetic diversity; (ii) Species diversity; (iii) Ecosystem diversity.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "Genetic Diversity Genes are the basic building blocks of various life forms.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "Genetic biodiversity refers to the variation of genes within species.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "Groups of individual organisms having certain similarities in their physical characteristics are called species.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Biodiversity can be discussed at three levels : (i) Genetic diversity; (ii) Species diversity; (iii) Ecosystem diversity. Genetic Diversity Genes are the basic building blocks of various life forms. Genetic biodiversity refers to the variation of genes within species. Groups of individual organisms having certain similarities in their physical characteristics are called species.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "Human beings genetically belong to the homo sapiens group and also differ in their characteristics such as height, colour, physical appearance, etc., considerably.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "This genetic diversity is essential for a healthy breeding of population of species.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "C H A P T E R Reprint 2025-26 FUNDAMENTALS OF PHYSICAL GEOGRAPHY 116 Species Diversity This refers to the variety of species.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "The diversity of species can be measured through its richness, abundance and types.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "The broad differences between ecosystem types and the diversity of habitats and ecological processes occurring within each ecosystem type constitute the ecosystem diversity.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Human beings genetically belong to the homo sapiens group and also differ in their characteristics such as height, colour, physical appearance, etc., considerably. This genetic diversity is essential for a healthy breeding of population of species. C H A P T E R Reprint 2025-26 FUNDAMENTALS OF PHYSICAL GEOGRAPHY 116 Species Diversity This refers to the variety of species. The diversity of species can be measured through its richness, abundance and types. The broad differences between ecosystem types and the diversity of habitats and ecological processes occurring within each ecosystem type constitute the ecosystem diversity.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Build a definition from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity.",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "The basic cause for such weathering variations and resultant biodiversity is the input of solar energy and water.",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "No wonder that the areas that are rich in these inputs are the areas of wide spectrum of biodiversity.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "Biodiversity as we have today is the result of 2.5-3.5 billion years of evolution.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity. The basic cause for such weathering variations and resultant biodiversity is the input of solar energy and water. No wonder that the areas that are rich in these inputs are the areas of wide spectrum of biodiversity. Biodiversity as we have today is the result of 2.5-3.5 billion years of evolution.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "Before the advent of humans, our earth supported more biodiversity than in any other period.",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "Since, the emergence of humans, however, biodiversity has begun a rapid decline, with one species after another bearing the brunt of extinction due to overuse.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "The number of species globally vary from 2 million to 100 million, with 10 million being the best estimate.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "New species are regularly discovered most of which are yet to be classified (an estimate states that about 40 per cent of fresh water fishes from South America are not classified yet).",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "Biodiversity is a system in constant evolution, from a view point of species, as well as from view point of an individual organism.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Before the advent of humans, our earth supported more biodiversity than in any other period. Since, the emergence of humans, however, biodiversity has begun a rapid decline, with one species after another bearing the brunt of extinction due to overuse. The number of species globally vary from 2 million to 100 million, with 10 million being the best estimate. New species are regularly discovered most of which are yet to be classified (an estimate states that about 40 per cent of fresh water fishes from South America are not classified yet). Biodiversity is a system in constant evolution, from a view point of species, as well as from view point of an individual organism.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "The average half-life of a species is estimated at between one and four million years, and 99 per cent of the species that have ever lived on the earth are today extinct.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "As one approaches the polar regions, one finds larger and larger populations of fewer and fewer species.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "Biodiversity itself is a combination of two words, Bio (life) and diversity (variety).",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The average half-life of a species is estimated at between one and four million years, and 99 per cent of the species that have ever lived on the earth are today extinct. As one approaches the polar regions, one finds larger and larger populations of fewer and fewer species. Biodiversity itself is a combination of two words, Bio (life) and diversity (variety).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "In simple terms, biodiversity is the number and variety of organisms found within a specified geographic region.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "It refers to the varieties of plants, animals and micro-organisms, the genes they contain and the ecosystems they form.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "It relates to the variability among living organisms on the earth, including the variability within and between the species and that within and between the ecosystems.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In simple terms, biodiversity is the number and variety of organisms found within a specified geographic region. It refers to the varieties of plants, animals and micro-organisms, the genes they contain and the ecosystems they form. It relates to the variability among living organisms on the earth, including the variability within and between the species and that within and between the ecosystems.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "It is a result of hundreds of millions of years of evolutionary history.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "Biodiversity can be discussed at three levels : (i) Genetic diversity; (ii) Species diversity; (iii) Ecosystem diversity.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "Genetic Diversity Genes are the basic building blocks of various life forms.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "Genetic biodiversity refers to the variation of genes within species.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "It is a result of hundreds of millions of years of evolutionary history. Biodiversity can be discussed at three levels : (i) Genetic diversity; (ii) Species diversity; (iii) Ecosystem diversity. Genetic Diversity Genes are the basic building blocks of various life forms. Genetic biodiversity refers to the variation of genes within species.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "Groups of individual organisms having certain similarities in their physical characteristics are called species.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "Human beings genetically belong to the homo sapiens group and also differ in their characteristics such as height, colour, physical appearance, etc., considerably.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "This genetic diversity is essential for a healthy breeding of population of species.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Groups of individual organisms having certain similarities in their physical characteristics are called species. Human beings genetically belong to the homo sapiens group and also differ in their characteristics such as height, colour, physical appearance, etc., considerably. This genetic diversity is essential for a healthy breeding of population of species.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "C H A P T E R Reprint 2025-26 FUNDAMENTALS OF PHYSICAL GEOGRAPHY 116 Species Diversity This refers to the variety of species.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "The diversity of species can be measured through its richness, abundance and types.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "The broad differences between ecosystem types and the diversity of habitats and ecological processes occurring within each ecosystem type constitute the ecosystem diversity.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "The 'boundaries' of communities (associations of species) and ecosystems are not very rigidly defined.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "C H A P T E R Reprint 2025-26 FUNDAMENTALS OF PHYSICAL GEOGRAPHY 116 Species Diversity This refers to the variety of species. The diversity of species can be measured through its richness, abundance and types. The broad differences between ecosystem types and the diversity of habitats and ecological processes occurring within each ecosystem type constitute the ecosystem diversity. The 'boundaries' of communities (associations of species) and ecosystems are not very rigidly defined.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "Thus, the demarcation of ecosystem boundaries is difficult and complex.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "That means, every organism, besides extracting its needs, also contributes something of useful to other organisms.",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Thus, the demarcation of ecosystem boundaries is difficult and complex. That means, every organism, besides extracting its needs, also contributes something of useful to other organisms.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 14.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "Can you think of the way we, humans contribute to the sustenance of ecosystems.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "Species capture and store energy, produce and decompose organic materials, help to cycle water and nutrients throughout the ecosystem, fix atmospheric gases and help regulate the climate.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 14 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Can you think of the way we, humans contribute to the sustenance of ecosystems. Species capture and store energy, produce and decompose organic materials, help to cycle water and nutrients throughout the ecosystem, fix atmospheric gases and help regulate the climate. You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity.",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "The basic cause for such weathering variations and resultant biodiversity is the input of solar energy and water.",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "No wonder that the areas that are rich in these inputs are the areas of wide spectrum of biodiversity.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "Biodiversity as we have today is the result of 2.5-3.5 billion years of evolution.",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity. The basic cause for such weathering variations and resultant biodiversity is the input of solar energy and water. No wonder that the areas that are rich in these inputs are the areas of wide spectrum of biodiversity. Biodiversity as we have today is the result of 2.5-3.5 billion years of evolution.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "You should know that this weathering mantle is the",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "basis for the diversity of vegetation and hence, the biodiversity.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "The basic cause for such weathering variations and resultant",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "biodiversity is the input of solar energy and water.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "No wonder that the areas that are rich in",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "these inputs are the areas of wide spectrum of biodiversity.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "Biodiversity as we have today is the",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "result of 2.5-3.5 billion years of evolution.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity. The basic cause for such weathering variations and resultant biodiversity is the input of solar energy and water. No wonder that the areas that are rich in these inputs are the areas of wide spectrum of biodiversity. Biodiversity as we have today is the result of 2.5-3.5 billion years of evolution.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "you",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "the",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "You should know that this weathering mantle is the basis for the diversity of vegetation and hence, the biodiversity. The basic cause for such weathering variations and resultant biodiversity is the input of solar energy and water. No wonder that the areas that are rich in these inputs are the areas of wide spectrum of biodiversity. Biodiversity as we have today is the result of 2.5-3.5 billion years of evolution.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "Before the advent of humans, our earth supported more biodiversity than in any other period.",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "Since, the emergence of humans, however, biodiversity has begun a rapid decline, with one species after another bearing the brunt of extinction due to overuse.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "The number of species globally vary from 2 million to 100 million, with 10 million being the best estimate.",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "New species are regularly discovered most of which are yet to be classified (an estimate states that about 40 per cent of fresh water fishes from South America are not classified yet).",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Before the advent of humans, our earth supported more biodiversity than in any other period. Since, the emergence of humans, however, biodiversity has begun a rapid decline, with one species after another bearing the brunt of extinction due to overuse. The number of species globally vary from 2 million to 100 million, with 10 million being the best estimate. New species are regularly discovered most of which are yet to be classified (an estimate states that about 40 per cent of fresh water fishes from South America are not classified yet).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "Before the advent of humans, our earth",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "supported more biodiversity than in any other period.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "Since, the emergence of humans, however, biodiversity has begun a rapid decline,",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "with one species after another bearing the brunt of extinction due to overuse.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "The number of species globally vary from 2 million",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "to 100 million, with 10 million being the best estimate.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "New species are regularly discovered most of which are yet to be classified (an estimate states",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "that about 40 per cent of fresh water fishes from South America are not classified yet).",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Before the advent of humans, our earth supported more biodiversity than in any other period. Since, the emergence of humans, however, biodiversity has begun a rapid decline, with one species after another bearing the brunt of extinction due to overuse. The number of species globally vary from 2 million to 100 million, with 10 million being the best estimate. New species are regularly discovered most of which are yet to be classified (an estimate states that about 40 per cent of fresh water fishes from South America are not classified yet).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "before",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "since,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Before the advent of humans, our earth supported more biodiversity than in any other period. Since, the emergence of humans, however, biodiversity has begun a rapid decline, with one species after another bearing the brunt of extinction due to overuse. The number of species globally vary from 2 million to 100 million, with 10 million being the best estimate. New species are regularly discovered most of which are yet to be classified (an estimate states that about 40 per cent of fresh water fishes from South America are not classified yet).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "Biodiversity is a system in constant evolution, from a view point of species, as well as from view point of an individual organism.",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "The average half-life of a species is estimated at between one and four million years, and 99 per cent of the species that have ever lived on the earth are today extinct.",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "As one approaches the polar regions, one finds larger and larger populations of fewer and fewer species.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "Biodiversity itself is a combination of two words, Bio (life) and diversity (variety).",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Biodiversity is a system in constant evolution, from a view point of species, as well as from view point of an individual organism. The average half-life of a species is estimated at between one and four million years, and 99 per cent of the species that have ever lived on the earth are today extinct. As one approaches the polar regions, one finds larger and larger populations of fewer and fewer species. Biodiversity itself is a combination of two words, Bio (life) and diversity (variety).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "Biodiversity is a system in constant evolution, from a view point",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "of species, as well as from view point of an individual organism.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "The average half-life of a species is estimated at between one and four million years, and",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "99 per cent of the species that have ever lived on the earth are today extinct.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "As one approaches the polar regions, one finds",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "larger and larger populations of fewer and fewer species.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "Biodiversity itself is a combination of",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "two words, Bio (life) and diversity (variety).",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Biodiversity is a system in constant evolution, from a view point of species, as well as from view point of an individual organism. The average half-life of a species is estimated at between one and four million years, and 99 per cent of the species that have ever lived on the earth are today extinct. As one approaches the polar regions, one finds larger and larger populations of fewer and fewer species. Biodiversity itself is a combination of two words, Bio (life) and diversity (variety).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "biodiversity",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "the",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Biodiversity is a system in constant evolution, from a view point of species, as well as from view point of an individual organism. The average half-life of a species is estimated at between one and four million years, and 99 per cent of the species that have ever lived on the earth are today extinct. As one approaches the polar regions, one finds larger and larger populations of fewer and fewer species. Biodiversity itself is a combination of two words, Bio (life) and diversity (variety).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Define an important term from Chapter 14 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "In simple terms, biodiversity is the number and variety of organisms found within a specified geographic region.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "It refers to the varieties of plants, animals and micro-organisms, the genes they contain and the ecosystems they form.",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "It relates to the variability among living organisms on the earth, including the variability within and between the species and that within and between the ecosystems.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "It is a result of hundreds of millions of years of evolutionary history.",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "In simple terms, biodiversity is the number and variety of organisms found within a specified geographic region. It refers to the varieties of plants, animals and micro-organisms, the genes they contain and the ecosystems they form. It relates to the variability among living organisms on the earth, including the variability within and between the species and that within and between the ecosystems. It is a result of hundreds of millions of years of evolutionary history.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Define an important term from Chapter 14 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "In simple terms, biodiversity is the number and",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "variety of organisms found within a specified geographic region.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "It refers to the varieties of plants, animals and",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "micro-organisms, the genes they contain and the ecosystems they form.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "It relates to the variability among living organisms on the earth, including the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "variability within and between the species and that within and between the ecosystems.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "It is a result of hundreds",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "of millions of years of evolutionary history.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "In simple terms, biodiversity is the number and variety of organisms found within a specified geographic region. It refers to the varieties of plants, animals and micro-organisms, the genes they contain and the ecosystems they form. It relates to the variability among living organisms on the earth, including the variability within and between the species and that within and between the ecosystems. It is a result of hundreds of millions of years of evolutionary history.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Define an important term from Chapter 14 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "in",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "it",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "In simple terms, biodiversity is the number and variety of organisms found within a specified geographic region. It refers to the varieties of plants, animals and micro-organisms, the genes they contain and the ecosystems they form. It relates to the variability among living organisms on the earth, including the variability within and between the species and that within and between the ecosystems. It is a result of hundreds of millions of years of evolutionary history.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "Biodiversity can be discussed at three levels : (i) Genetic diversity; (ii) Species diversity; (iii) Ecosystem diversity.",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "Genetic Diversity Genes are the basic building blocks of various life forms.",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "Genetic biodiversity refers to the variation of genes within species.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "Groups of individual organisms having certain similarities in their physical characteristics are called species.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Biodiversity can be discussed at three levels : (i) Genetic diversity; (ii) Species diversity; (iii) Ecosystem diversity. Genetic Diversity Genes are the basic building blocks of various life forms. Genetic biodiversity refers to the variation of genes within species. Groups of individual organisms having certain similarities in their physical characteristics are called species.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "Biodiversity can be discussed at three levels :",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "(i) Genetic diversity; (ii) Species diversity; (iii) Ecosystem diversity.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "Genetic Diversity Genes are the basic",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "building blocks of various life forms.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "Genetic biodiversity refers to the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "variation of genes within species.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "Groups of individual organisms having certain similarities",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "in their physical characteristics are called species.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Biodiversity can be discussed at three levels : (i) Genetic diversity; (ii) Species diversity; (iii) Ecosystem diversity. Genetic Diversity Genes are the basic building blocks of various life forms. Genetic biodiversity refers to the variation of genes within species. Groups of individual organisms having certain similarities in their physical characteristics are called species.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-arts-geography-chapter-14-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Arts",
+      "subject": "Geography",
+      "book": "Geography - Fundamentals of Physical Geography",
+      "chapter": "Chapter 14",
+      "chapterNumber": 14,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 14.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Geography - Fundamentals of Physical Geography, Chapter Chapter 14.",
+      "sourceChapter": "Chapter 14",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Geography - Fundamentals of Physical Geography\\kegy214.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "biodiversity",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "genetic",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 14 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Biodiversity can be discussed at three levels : (i) Genetic diversity; (ii) Species diversity; (iii) Ecosystem diversity. Genetic Diversity Genes are the basic building blocks of various life forms. Genetic biodiversity refers to the variation of genes within species. Groups of individual organisms having certain similarities in their physical characteristics are called species.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

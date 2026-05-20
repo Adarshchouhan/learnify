@@ -1207,6 +1207,304 @@ h1 {
   color: var(--muted);
 }
 
+.layout-detail,
+.review-list {
+  margin-top: 22px;
+  display: grid;
+  gap: 14px;
+}
+
+.layout-detail {
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  background: #fff;
+  padding: 18px;
+}
+
+.special-layout {
+  display: grid;
+  gap: 12px;
+  margin-top: 16px;
+}
+
+.special-layout.two-col,
+.special-layout.assertion-layout,
+.special-layout.generic-layout {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.special-layout.assertion-layout {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.special-layout h4 {
+  margin-bottom: 10px;
+}
+
+.drop-preview {
+  display: grid;
+  gap: 8px;
+  min-height: 92px;
+  border: 1px dashed #b9c7e8;
+  border-radius: var(--radius);
+  padding: 12px;
+  background: #fbfdff;
+}
+
+.pair-layout {
+  grid-template-columns: 32px 1fr 36px 1fr;
+  align-items: center;
+}
+
+.arrow-cell {
+  text-align: center;
+  color: var(--muted);
+  font-weight: 900;
+}
+
+.sequence-preview {
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+}
+
+.sequence-preview div {
+  border: 1px dashed #b9c7e8;
+  border-radius: var(--radius);
+  padding: 12px;
+  background: #fbfdff;
+}
+
+.sequence-preview span {
+  display: inline-grid;
+  place-items: center;
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+  border-radius: 999px;
+  background: var(--purple-soft);
+  color: var(--purple-dark);
+  font-weight: 900;
+}
+
+.data-layout table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+.data-layout th,
+.data-layout td {
+  border: 1px solid var(--line);
+  padding: 10px;
+  text-align: left;
+}
+
+.model-answer {
+  margin-top: 14px;
+  border-top: 1px solid var(--line);
+  padding-top: 14px;
+}
+
+.standard-practice {
+  display: grid;
+  gap: 14px;
+  margin-top: 16px;
+  border-top: 1px solid var(--line);
+  padding-top: 16px;
+}
+
+.standard-slots {
+  display: grid;
+  gap: 10px;
+}
+
+.standard-slot {
+  display: grid;
+  grid-template-columns: 170px 1fr;
+  gap: 10px;
+  align-items: center;
+}
+
+.standard-slot-body {
+  min-height: 48px;
+  border: 1px dashed #b9c7e8;
+  border-radius: var(--radius);
+  padding: 8px;
+  background: #fbfdff;
+}
+
+.standard-slot-body span {
+  color: var(--muted);
+}
+
+.standard-bank {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.standard-chip {
+  min-height: 38px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 8px 10px;
+  background: #fff;
+  color: var(--ink);
+  cursor: pointer;
+  text-align: left;
+}
+
+.standard-chip.neutral {
+  background: #fff;
+}
+
+.standard-chip.correct {
+  border-color: #b8e4c3;
+  background: #ecf9ef;
+  color: #135e2f;
+}
+
+.standard-chip.wrong {
+  border-color: #ffc7cf;
+  background: #fff0f2;
+  color: #b12b42;
+}
+
+.format-result {
+  min-height: 24px;
+  color: var(--purple-dark);
+  font-weight: 900;
+}
+
+.dataset-list {
+  display: grid;
+  gap: 10px;
+  width: min(820px, 100%);
+  margin-top: 18px;
+}
+
+.dataset-row,
+.review-card {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: #fff;
+  padding: 13px 14px;
+}
+
+.dataset-row {
+  display: grid;
+  gap: 5px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.dataset-row.active {
+  border-color: var(--purple);
+  background: var(--purple-soft);
+}
+
+.dataset-row span,
+.review-card p {
+  color: var(--muted);
+}
+
+.dataset-row em {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 3px 8px;
+  border-radius: 999px;
+  background: #edf7ef;
+  color: #18723a;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: 900;
+}
+
+.review-card {
+  display: grid;
+  grid-template-columns: 1fr 180px;
+  gap: 14px;
+  align-items: center;
+}
+
+.review-card select {
+  min-height: 40px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 0 10px;
+  background: #fff;
+}
+
+.teacher-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
+  gap: 16px;
+  margin-top: 18px;
+}
+
+.teacher-card {
+  display: grid;
+  gap: 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  background: #fff;
+  padding: 16px;
+}
+
+.teacher-card label {
+  display: grid;
+  gap: 7px;
+  font-weight: 800;
+}
+
+.teacher-card input {
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 0 12px;
+}
+
+.analytics-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  border-bottom: 1px solid var(--line);
+  padding: 9px 0;
+}
+
+.analytics-row span {
+  color: var(--muted);
+}
+
+.assignment-list {
+  display: grid;
+  gap: 12px;
+}
+
+.assignment-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 14px;
+  align-items: center;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  background: #fff;
+  padding: 16px;
+}
+
+.assignment-card div {
+  display: grid;
+  gap: 5px;
+}
+
+.assignment-card span {
+  color: var(--muted);
+}
+
+.empty-state.slim {
+  min-height: 180px;
+  padding: 24px;
+}
+
 @media (max-width: 1180px) {
   .app-shell {
     grid-template-columns: 88px minmax(0, 1fr);
@@ -1233,7 +1531,10 @@ h1 {
   }
 
   .type-grid,
-  .type-grid.compact {
+  .type-grid.compact,
+  .special-layout.two-col,
+  .special-layout.assertion-layout,
+  .special-layout.generic-layout {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -1300,9 +1601,19 @@ h1 {
     grid-template-columns: 1fr;
   }
 
+  .standard-slot {
+    grid-template-columns: 1fr;
+  }
+
   .type-grid,
   .type-grid.compact,
-  .feedback-grid {
+  .feedback-grid,
+  .special-layout.two-col,
+  .special-layout.assertion-layout,
+  .special-layout.generic-layout,
+  .review-card,
+  .teacher-grid,
+  .assignment-card {
     grid-template-columns: 1fr;
   }
 

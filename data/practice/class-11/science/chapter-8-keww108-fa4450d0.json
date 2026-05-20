@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+    "classLevel": 11,
+    "stream": "Science",
+    "subject": "English",
+    "book": "English - WOVEN WORDS",
+    "chapter": "Chapter 8",
+    "chapterNumber": 8,
+    "pageCount": null,
+    "extractedCharacterCount": 10951,
+    "extractionPreview": "The Luncheon\n99\nThe Luncheon\nWilliam Somerset Maugham\nF\nLook for these expressions in the story and guess the meaning\nfrom the context\ndevastating passion\ncaviare\ncomplacency\nvindictive\nmortifying\ningratiating\nI caught sight of her at the play and, in answer to her\nbeckoning, I went over during the interval and sat down\nbeside her. It was long since I had last seen her and if\nsomeone had not mentioned her name I hardly think I would\nhave recognised her. She addressed me brightly.\n'Well, it's man"
+  },
+  "coverage": {
+    "classes": [
+      11
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 8.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 8.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 8.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 8 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 8.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-11-science-english-chapter-8-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her.",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep the body and soul together.",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "She had read a book of mine and had written to me about it.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "Foyot's is a restaurant at which the French senators eat and it was so far beyond my means that I had never even thought of going there.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her. I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep the body and soul together. She had read a book of mine and had written to me about it. Foyot's is a restaurant at which the French senators eat and it was so far beyond my means that I had never even thought of going there.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "But I was flattered and I was too young to have 8 Reprint 2025-26 100 Woven Words learned to say no to a woman.",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "Few men, I may add, learn this until they are too old to make it of any consequence to a woman what they say.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "I had eighty francs (gold francs) to last me the rest of the month, and a modest luncheon should not cost more than fifteen.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "If I cut out coffee for the next two weeks I could manage well enough.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "But I was flattered and I was too young to have 8 Reprint 2025-26 100 Woven Words learned to say no to a woman. Few men, I may add, learn this until they are too old to make it of any consequence to a woman what they say. I had eighty francs (gold francs) to last me the rest of the month, and a modest luncheon should not cost more than fifteen. If I cut out coffee for the next two weeks I could manage well enough.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "I answered that I would meet my friend-by correspondence-at Foyot's on Thursday at half-past twelve.",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "She was not so young as I expected and in appearance imposing rather than attractive.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "She was talkative but since she seemed inclined to talk about me I was prepared to be an attentive listener.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "I was startled when the bill of fare was brought for the prices were a great deal higher than I had anticipated.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "I answered that I would meet my friend-by correspondence-at Foyot's on Thursday at half-past twelve. She was not so young as I expected and in appearance imposing rather than attractive. She was talkative but since she seemed inclined to talk about me I was prepared to be an attentive listener. I was startled when the bill of fare was brought for the prices were a great deal higher than I had anticipated.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 8 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "I wonder if they have any salmon.' Well, it was early in the year for salmon and it was not on the bill of fare, but I asked the waiter if there was any.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "Yes, a beautiful salmon had just come in, it was the first they had had.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "The waiter asked her if she would have something while it was being cooked.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "I knew I could not afford caviare but I could not very well tell her that.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "I wonder if they have any salmon.' Well, it was early in the year for salmon and it was not on the bill of fare, but I asked the waiter if there was any. Yes, a beautiful salmon had just come in, it was the first they had had. The waiter asked her if she would have something while it was being cooked. I knew I could not afford caviare but I could not very well tell her that.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "For myself I chose the cheapest dish on the menu and that was a mutton chop.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "'I don't know how you can expect to work after eating heavy things like chops.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "I don't believe in overloading my stomach.' Then came the question of drink.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "Reprint 2025-26 The Luncheon 101 'Neither do I,' I answered promptly.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "For myself I chose the cheapest dish on the menu and that was a mutton chop. 'I don't know how you can expect to work after eating heavy things like chops. I don't believe in overloading my stomach.' Then came the question of drink. Reprint 2025-26 The Luncheon 101 'Neither do I,' I answered promptly.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "'Except white wine,' she proceeded as though I had not spoken.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "They're wonderful for the digestion.' 'What would you like?' I asked, hospitable still, but not exactly effusive.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "She gave me a bright and amicable flash of her white teeth.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "'My doctor won't let me drink anything but Champagne.' I fancy I turned a trifle pale.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "'Except white wine,' she proceeded as though I had not spoken. They're wonderful for the digestion.' 'What would you like?' I asked, hospitable still, but not exactly effusive. She gave me a bright and amicable flash of her white teeth. 'My doctor won't let me drink anything but Champagne.' I fancy I turned a trifle pale.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her.",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep the body and soul together.",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "She had read a book of mine and had written to me about it.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "Foyot's is a restaurant at which the French senators eat and it was so far beyond my means that I had never even thought of going there.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her. I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep the body and soul together. She had read a book of mine and had written to me about it. Foyot's is a restaurant at which the French senators eat and it was so far beyond my means that I had never even thought of going there.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "But I was flattered and I was too young to have 8 Reprint 2025-26 100 Woven Words learned to say no to a woman.",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "Few men, I may add, learn this until they are too old to make it of any consequence to a woman what they say.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "I had eighty francs (gold francs) to last me the rest of the month, and a modest luncheon should not cost more than fifteen.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "If I cut out coffee for the next two weeks I could manage well enough.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "But I was flattered and I was too young to have 8 Reprint 2025-26 100 Woven Words learned to say no to a woman. Few men, I may add, learn this until they are too old to make it of any consequence to a woman what they say. I had eighty francs (gold francs) to last me the rest of the month, and a modest luncheon should not cost more than fifteen. If I cut out coffee for the next two weeks I could manage well enough.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "List key points from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "I answered that I would meet my friend-by correspondence-at Foyot's on Thursday at half-past twelve.",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "She was not so young as I expected and in appearance imposing rather than attractive.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "She was talkative but since she seemed inclined to talk about me I was prepared to be an attentive listener.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "I was startled when the bill of fare was brought for the prices were a great deal higher than I had anticipated.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "I answered that I would meet my friend-by correspondence-at Foyot's on Thursday at half-past twelve. She was not so young as I expected and in appearance imposing rather than attractive. She was talkative but since she seemed inclined to talk about me I was prepared to be an attentive listener. I was startled when the bill of fare was brought for the prices were a great deal higher than I had anticipated.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "I wonder if they have any salmon.' Well, it was early in the year for salmon and it was not on the bill of fare, but I asked the waiter if there was any.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "Yes, a beautiful salmon had just come in, it was the first they had had.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "The waiter asked her if she would have something while it was being cooked.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "I knew I could not afford caviare but I could not very well tell her that.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "I wonder if they have any salmon.' Well, it was early in the year for salmon and it was not on the bill of fare, but I asked the waiter if there was any. Yes, a beautiful salmon had just come in, it was the first they had had. The waiter asked her if she would have something while it was being cooked. I knew I could not afford caviare but I could not very well tell her that.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 8 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "For myself I chose the cheapest dish on the menu and that was a mutton chop.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "'I don't know how you can expect to work after eating heavy things like chops.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "I don't believe in overloading my stomach.' Then came the question of drink.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "Reprint 2025-26 The Luncheon 101 'Neither do I,' I answered promptly.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "For myself I chose the cheapest dish on the menu and that was a mutton chop. 'I don't know how you can expect to work after eating heavy things like chops. I don't believe in overloading my stomach.' Then came the question of drink. Reprint 2025-26 The Luncheon 101 'Neither do I,' I answered promptly.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "'Except white wine,' she proceeded as though I had not spoken.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "They're wonderful for the digestion.' 'What would you like?' I asked, hospitable still, but not exactly effusive.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "She gave me a bright and amicable flash of her white teeth.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "'My doctor won't let me drink anything but Champagne.' I fancy I turned a trifle pale.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "I mentioned casually that my doctor had absolutely forbidden me to drink Champagne.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "'Except white wine,' she proceeded as though I had not spoken. They're wonderful for the digestion.' 'What would you like?' I asked, hospitable still, but not exactly effusive. She gave me a bright and amicable flash of her white teeth. 'My doctor won't let me drink anything but Champagne.' I fancy I turned a trifle pale. I mentioned casually that my doctor had absolutely forbidden me to drink Champagne.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Build a definition from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her.",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep the body and soul together.",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "She had read a book of mine and had written to me about it.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "Foyot's is a restaurant at which the French senators eat and it was so far beyond my means that I had never even thought of going there.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her. I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep the body and soul together. She had read a book of mine and had written to me about it. Foyot's is a restaurant at which the French senators eat and it was so far beyond my means that I had never even thought of going there.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "But I was flattered and I was too young to have 8 Reprint 2025-26 100 Woven Words learned to say no to a woman.",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "Few men, I may add, learn this until they are too old to make it of any consequence to a woman what they say.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "I had eighty francs (gold francs) to last me the rest of the month, and a modest luncheon should not cost more than fifteen.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "If I cut out coffee for the next two weeks I could manage well enough.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "I answered that I would meet my friend-by correspondence-at Foyot's on Thursday at half-past twelve.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "But I was flattered and I was too young to have 8 Reprint 2025-26 100 Woven Words learned to say no to a woman. Few men, I may add, learn this until they are too old to make it of any consequence to a woman what they say. I had eighty francs (gold francs) to last me the rest of the month, and a modest luncheon should not cost more than fifteen. If I cut out coffee for the next two weeks I could manage well enough. I answered that I would meet my friend-by correspondence-at Foyot's on Thursday at half-past twelve.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "She was not so young as I expected and in appearance imposing rather than attractive.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "She was talkative but since she seemed inclined to talk about me I was prepared to be an attentive listener.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "I was startled when the bill of fare was brought for the prices were a great deal higher than I had anticipated.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "She was not so young as I expected and in appearance imposing rather than attractive. She was talkative but since she seemed inclined to talk about me I was prepared to be an attentive listener. I was startled when the bill of fare was brought for the prices were a great deal higher than I had anticipated.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "I wonder if they have any salmon.' Well, it was early in the year for salmon and it was not on the bill of fare, but I asked the waiter if there was any.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "Yes, a beautiful salmon had just come in, it was the first they had had.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "The waiter asked her if she would have something while it was being cooked.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "I wonder if they have any salmon.' Well, it was early in the year for salmon and it was not on the bill of fare, but I asked the waiter if there was any. Yes, a beautiful salmon had just come in, it was the first they had had. The waiter asked her if she would have something while it was being cooked.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "I knew I could not afford caviare but I could not very well tell her that.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "For myself I chose the cheapest dish on the menu and that was a mutton chop.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "'I don't know how you can expect to work after eating heavy things like chops.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "I don't believe in overloading my stomach.' Then came the question of drink.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "I knew I could not afford caviare but I could not very well tell her that. For myself I chose the cheapest dish on the menu and that was a mutton chop. 'I don't know how you can expect to work after eating heavy things like chops. I don't believe in overloading my stomach.' Then came the question of drink.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "Reprint 2025-26 The Luncheon 101 'Neither do I,' I answered promptly.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "'Except white wine,' she proceeded as though I had not spoken.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "They're wonderful for the digestion.' 'What would you like?' I asked, hospitable still, but not exactly effusive.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Reprint 2025-26 The Luncheon 101 'Neither do I,' I answered promptly. 'Except white wine,' she proceeded as though I had not spoken. They're wonderful for the digestion.' 'What would you like?' I asked, hospitable still, but not exactly effusive.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "She gave me a bright and amicable flash of her white teeth.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "'My doctor won't let me drink anything but Champagne.' I fancy I turned a trifle pale.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "I mentioned casually that my doctor had absolutely forbidden me to drink Champagne.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "'What are you going to drink, then?' 'Water.' She ate the caviare and she ate the salmon.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "She gave me a bright and amicable flash of her white teeth. 'My doctor won't let me drink anything but Champagne.' I fancy I turned a trifle pale. I mentioned casually that my doctor had absolutely forbidden me to drink Champagne. 'What are you going to drink, then?' 'Water.' She ate the caviare and she ate the salmon.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "When my mutton chop arrived she took me quite seriously to task.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "'I see that you're in the habit of eating a heavy luncheon.",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "When my mutton chop arrived she took me quite seriously to task. 'I see that you're in the habit of eating a heavy luncheon.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 8.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "Why don't you follow my example and just eat one thing?",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "I'm sure you'd feel ever so much better for it.' 'I am only going to eat one thing,' I said, as the waiter came again with the bill of fare.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 8 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Why don't you follow my example and just eat one thing? I'm sure you'd feel ever so much better for it.' 'I am only going to eat one thing,' I said, as the waiter came again with the bill of fare. It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-11-science-english-chapter-8-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her.",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep the body and soul together.",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "She had read a book of mine and had written to me about it.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "Foyot's is a restaurant at which the French senators eat and it was so far beyond my means that I had never even thought of going there.",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her. I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep the body and soul together. She had read a book of mine and had written to me about it. Foyot's is a restaurant at which the French senators eat and it was so far beyond my means that I had never even thought of going there.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "It was long since I had last seen her and if someone",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "had not mentioned her name I hardly think I would have recognised her.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "I had a tiny apartment in the Latin quarter overlooking a cemetery and",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "I was earning barely enough money to keep the body and soul together.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "She had read a book of mine",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "and had written to me about it.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "Foyot's is a restaurant at which the French senators eat and it was",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "so far beyond my means that I had never even thought of going there.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her. I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep the body and soul together. She had read a book of mine and had written to me about it. Foyot's is a restaurant at which the French senators eat and it was so far beyond my means that I had never even thought of going there.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "it",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "i",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "It was long since I had last seen her and if someone had not mentioned her name I hardly think I would have recognised her. I had a tiny apartment in the Latin quarter overlooking a cemetery and I was earning barely enough money to keep the body and soul together. She had read a book of mine and had written to me about it. Foyot's is a restaurant at which the French senators eat and it was so far beyond my means that I had never even thought of going there.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "But I was flattered and I was too young to have 8 Reprint 2025-26 100 Woven Words learned to say no to a woman.",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "Few men, I may add, learn this until they are too old to make it of any consequence to a woman what they say.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "I had eighty francs (gold francs) to last me the rest of the month, and a modest luncheon should not cost more than fifteen.",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "If I cut out coffee for the next two weeks I could manage well enough.",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "But I was flattered and I was too young to have 8 Reprint 2025-26 100 Woven Words learned to say no to a woman. Few men, I may add, learn this until they are too old to make it of any consequence to a woman what they say. I had eighty francs (gold francs) to last me the rest of the month, and a modest luncheon should not cost more than fifteen. If I cut out coffee for the next two weeks I could manage well enough.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "But I was flattered and I was too young to have 8",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "Reprint 2025-26 100 Woven Words learned to say no to a woman.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "Few men, I may add, learn this until they are too old",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "to make it of any consequence to a woman what they say.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "I had eighty francs (gold francs) to last me the rest of",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "the month, and a modest luncheon should not cost more than fifteen.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "If I cut out coffee for the",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "next two weeks I could manage well enough.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "But I was flattered and I was too young to have 8 Reprint 2025-26 100 Woven Words learned to say no to a woman. Few men, I may add, learn this until they are too old to make it of any consequence to a woman what they say. I had eighty francs (gold francs) to last me the rest of the month, and a modest luncheon should not cost more than fifteen. If I cut out coffee for the next two weeks I could manage well enough.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "but",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "few",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "But I was flattered and I was too young to have 8 Reprint 2025-26 100 Woven Words learned to say no to a woman. Few men, I may add, learn this until they are too old to make it of any consequence to a woman what they say. I had eighty francs (gold francs) to last me the rest of the month, and a modest luncheon should not cost more than fifteen. If I cut out coffee for the next two weeks I could manage well enough.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "I answered that I would meet my friend-by correspondence-at Foyot's on Thursday at half-past twelve.",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "She was not so young as I expected and in appearance imposing rather than attractive.",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "She was talkative but since she seemed inclined to talk about me I was prepared to be an attentive listener.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "I was startled when the bill of fare was brought for the prices were a great deal higher than I had anticipated.",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "I answered that I would meet my friend-by correspondence-at Foyot's on Thursday at half-past twelve. She was not so young as I expected and in appearance imposing rather than attractive. She was talkative but since she seemed inclined to talk about me I was prepared to be an attentive listener. I was startled when the bill of fare was brought for the prices were a great deal higher than I had anticipated.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "I answered that I would meet my",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "friend-by correspondence-at Foyot's on Thursday at half-past twelve.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "She was not so young as I",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "expected and in appearance imposing rather than attractive.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "She was talkative but since she seemed inclined to talk",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "about me I was prepared to be an attentive listener.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "I was startled when the bill of fare was brought for",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "the prices were a great deal higher than I had anticipated.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "I answered that I would meet my friend-by correspondence-at Foyot's on Thursday at half-past twelve. She was not so young as I expected and in appearance imposing rather than attractive. She was talkative but since she seemed inclined to talk about me I was prepared to be an attentive listener. I was startled when the bill of fare was brought for the prices were a great deal higher than I had anticipated.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "i",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "she",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "I answered that I would meet my friend-by correspondence-at Foyot's on Thursday at half-past twelve. She was not so young as I expected and in appearance imposing rather than attractive. She was talkative but since she seemed inclined to talk about me I was prepared to be an attentive listener. I was startled when the bill of fare was brought for the prices were a great deal higher than I had anticipated.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Define an important term from Chapter 8 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "I wonder if they have any salmon.' Well, it was early in the year for salmon and it was not on the bill of fare, but I asked the waiter if there was any.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "Yes, a beautiful salmon had just come in, it was the first they had had.",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "The waiter asked her if she would have something while it was being cooked.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "I knew I could not afford caviare but I could not very well tell her that.",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "I wonder if they have any salmon.' Well, it was early in the year for salmon and it was not on the bill of fare, but I asked the waiter if there was any. Yes, a beautiful salmon had just come in, it was the first they had had. The waiter asked her if she would have something while it was being cooked. I knew I could not afford caviare but I could not very well tell her that.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Define an important term from Chapter 8 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "I wonder if they have any salmon.' Well, it was early in the year for salmon and",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "it was not on the bill of fare, but I asked the waiter if there was any.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "Yes, a beautiful salmon had just come",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "in, it was the first they had had.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "The waiter asked her if she would",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "have something while it was being cooked.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "I knew I could not afford caviare but",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "I could not very well tell her that.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "I wonder if they have any salmon.' Well, it was early in the year for salmon and it was not on the bill of fare, but I asked the waiter if there was any. Yes, a beautiful salmon had just come in, it was the first they had had. The waiter asked her if she would have something while it was being cooked. I knew I could not afford caviare but I could not very well tell her that.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Define an important term from Chapter 8 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "i",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "yes,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "I wonder if they have any salmon.' Well, it was early in the year for salmon and it was not on the bill of fare, but I asked the waiter if there was any. Yes, a beautiful salmon had just come in, it was the first they had had. The waiter asked her if she would have something while it was being cooked. I knew I could not afford caviare but I could not very well tell her that.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "For myself I chose the cheapest dish on the menu and that was a mutton chop.",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "'I don't know how you can expect to work after eating heavy things like chops.",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "I don't believe in overloading my stomach.' Then came the question of drink.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "Reprint 2025-26 The Luncheon 101 'Neither do I,' I answered promptly.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "For myself I chose the cheapest dish on the menu and that was a mutton chop. 'I don't know how you can expect to work after eating heavy things like chops. I don't believe in overloading my stomach.' Then came the question of drink. Reprint 2025-26 The Luncheon 101 'Neither do I,' I answered promptly.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "For myself I chose the cheapest dish on",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "the menu and that was a mutton chop.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "'I don't know how you can expect",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "to work after eating heavy things like chops.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "I don't believe in overloading my",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "stomach.' Then came the question of drink.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "Reprint 2025-26 The Luncheon 101",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "'Neither do I,' I answered promptly.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "For myself I chose the cheapest dish on the menu and that was a mutton chop. 'I don't know how you can expect to work after eating heavy things like chops. I don't believe in overloading my stomach.' Then came the question of drink. Reprint 2025-26 The Luncheon 101 'Neither do I,' I answered promptly.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-11-science-english-chapter-8-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 11,
+      "stream": "Science",
+      "subject": "English",
+      "book": "English - WOVEN WORDS",
+      "chapter": "Chapter 8",
+      "chapterNumber": 8,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 8.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from English - WOVEN WORDS, Chapter Chapter 8.",
+      "sourceChapter": "Chapter 8",
+      "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\English - WOVEN WORDS\\keww108.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "for",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "'i",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 8 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "For myself I chose the cheapest dish on the menu and that was a mutton chop. 'I don't know how you can expect to work after eating heavy things like chops. I don't believe in overloading my stomach.' Then came the question of drink. Reprint 2025-26 The Luncheon 101 'Neither do I,' I answered promptly.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

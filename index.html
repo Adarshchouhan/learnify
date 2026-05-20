@@ -174,9 +174,11 @@
 
           <nav class="nav-list">
             <button class="nav-item active" data-view="practice"><span class="nav-icon">P</span>Practice</button>
+            <button class="nav-item" data-view="assignments"><span class="nav-icon">A</span>Assignments</button>
             <button class="nav-item" data-view="types"><span class="nav-icon">T</span>Question Types</button>
             <button class="nav-item" data-view="progress"><span class="nav-icon">G</span>Progress</button>
             <button class="nav-item" data-view="library"><span class="nav-icon">D</span>Library</button>
+            <button class="nav-item admin-only" data-view="admin" hidden><span class="nav-icon">R</span>Review</button>
           </nav>
 
           <section class="sidebar-card">
@@ -304,6 +306,18 @@
               </div>
             </section>
             <div id="typeGrid" class="type-grid"></div>
+            <section id="typeDetail" class="layout-detail" hidden></section>
+          </section>
+
+          <section id="assignmentsView" class="view">
+            <section class="section-heading standalone">
+              <div>
+                <span class="tag">Assigned Practice</span>
+                <h2>Your Assignments</h2>
+                <p id="assignmentSummary">Assignments from your teacher will appear here.</p>
+              </div>
+            </section>
+            <div id="assignmentList" class="assignment-list"></div>
           </section>
 
           <section id="progressView" class="view">
@@ -320,6 +334,36 @@
               <div class="title-icon">D</div>
               <h2>Content Library</h2>
               <p id="librarySummary">The pilot dataset is loading from Class 7 Science, Chapter 9.</p>
+              <div id="datasetList" class="dataset-list"></div>
+            </section>
+          </section>
+
+          <section id="adminView" class="view">
+            <section class="section-heading standalone">
+              <div>
+                <span class="tag">Teacher Review</span>
+                <h2>Generated Content Review</h2>
+                <p id="adminSummary">Review generated activities before scaling to more chapters.</p>
+              </div>
+            </section>
+            <div id="adminReviewList" class="review-list"></div>
+            <section class="teacher-grid">
+              <form id="assignmentForm" class="teacher-card">
+                <h3>Create Assignment</h3>
+                <label>
+                  Assignment title
+                  <input id="assignmentTitle" placeholder="Class 7 Science practice" />
+                </label>
+                <label>
+                  Due date
+                  <input id="assignmentDueDate" type="date" />
+                </label>
+                <button class="primary-button" type="submit">Assign Current Dataset</button>
+              </form>
+              <div class="teacher-card">
+                <h3>Teacher Analytics</h3>
+                <div id="teacherAnalytics">No analytics loaded yet.</div>
+              </div>
             </section>
           </section>
         </main>

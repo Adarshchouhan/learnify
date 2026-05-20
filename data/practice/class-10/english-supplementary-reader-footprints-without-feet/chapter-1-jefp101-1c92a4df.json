@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+    "classLevel": 10,
+    "stream": null,
+    "subject": "English",
+    "book": "English - Supplementary Reader - Footprints without feet",
+    "chapter": "Chapter 1",
+    "chapterNumber": 1,
+    "pageCount": null,
+    "extractedCharacterCount": 10671,
+    "extractionPreview": "READ AND FIND OUT\n• Why is Mrs Pumphrey worried about Tricki?\n• What does she do to help him? Is she wise in this?\n• Who does 'I' refer to in this story?\nI WAS really worried about Tricki this time. I had pulled up my car\nwhen I saw him in the street with his mistress and I was shocked at\nhis appearance. He had become hugely fat, like a bloated sausage with\na leg at each corner. His eyes, bloodshot and rheumy, stared straight\nahead and his tongue lolled from his jaws.\nMrs Pumphrey hastened to ex"
+  },
+  "coverage": {
+    "classes": [
+      10
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 1.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 1.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-10-english-chapter-1-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki?",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "I had pulled up my car when I saw him in the street with his mistress and I was shocked at his appearance.",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "He had become hugely fat, like a bloated sausage with a leg at each corner.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "His eyes, bloodshot and rheumy, stared straight ahead and his tongue lolled from his jaws.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki? I had pulled up my car when I saw him in the street with his mistress and I was shocked at his appearance. He had become hugely fat, like a bloated sausage with a leg at each corner. His eyes, bloodshot and rheumy, stared straight ahead and his tongue lolled from his jaws.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "Mrs Pumphrey hastened to explain, \"He was so listless, Mr Herriot.",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "I can't bear to refuse him.\" I looked down again at the little dog.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "He had never been known to refuse food; he would tackle a meal at any hour of the day or night.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "And I wondered about all the things Mrs Pumphrey hadn't mentioned.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Mrs Pumphrey hastened to explain, \"He was so listless, Mr Herriot. I can't bear to refuse him.\" I looked down again at the little dog. He had never been known to refuse food; he would tackle a meal at any hour of the day or night. And I wondered about all the things Mrs Pumphrey hadn't mentioned.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "He falls seriously ill and his mistress consults a veterinary surgeon.",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "A Triumph of Surgery 1 Reprint 2025-26 Footprints without Feet 2 I tried to sound severe: \"Now I really mean this.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "You must harden your heart and keep him on a very strict diet.\" Mrs Pumphrey wrung her hands.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "I'm sure you are right, but it is so difficult, so very difficult.\" She set off, head down, along the road, as if determined to put the new regime into practice immediately.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "He falls seriously ill and his mistress consults a veterinary surgeon. A Triumph of Surgery 1 Reprint 2025-26 Footprints without Feet 2 I tried to sound severe: \"Now I really mean this. You must harden your heart and keep him on a very strict diet.\" Mrs Pumphrey wrung her hands. I'm sure you are right, but it is so difficult, so very difficult.\" She set off, head down, along the road, as if determined to put the new regime into practice immediately.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 1 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "Tricki was tottering along in his little tweed coat; he had a whole wardrobe of these coats - for the cold weather and a raincoat for the wet days.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "I thought it wouldn't be long before I heard from Mrs Pumphrey.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "Refused even his favourite dishes; and besides, he had bouts of vomiting.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "Didn't want to go for walks, didn't want to do anything.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Tricki was tottering along in his little tweed coat; he had a whole wardrobe of these coats - for the cold weather and a raincoat for the wet days. I thought it wouldn't be long before I heard from Mrs Pumphrey. Refused even his favourite dishes; and besides, he had bouts of vomiting. Didn't want to go for walks, didn't want to do anything.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "The only way was to get Tricki out of the house for a period.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "I suggested that he be hospitalised for about a fortnight to be kept under observation.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "She was sure he would pine and die if he did not see her every day.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "The entire staff was roused and maids rushed in and out bringing his day bed, his night bed, favourite cushions, toys and rubber rings, breakfast bowl, lunch bowl, supper bowl.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The only way was to get Tricki out of the house for a period. I suggested that he be hospitalised for about a fortnight to be kept under observation. She was sure he would pine and die if he did not see her every day. The entire staff was roused and maids rushed in and out bringing his day bed, his night bed, favourite cushions, toys and rubber rings, breakfast bowl, lunch bowl, supper bowl.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "Realising that my car would never hold all the stuff, I started to drive away.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "As I moved off, Mrs Pumphrey, with a despairing cry, threw an armful of the little coats through the window.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "I looked in the mirror before I turned the corner of the drive; everybody was in tears.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "Out on the road, I glanced down at the pathetic little animal gasping on the seat by my side.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Realising that my car would never hold all the stuff, I started to drive away. As I moved off, Mrs Pumphrey, with a despairing cry, threw an armful of the little coats through the window. I looked in the mirror before I turned the corner of the drive; everybody was in tears. Out on the road, I glanced down at the pathetic little animal gasping on the seat by my side.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki?",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "I had pulled up my car when I saw him in the street with his mistress and I was shocked at his appearance.",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "He had become hugely fat, like a bloated sausage with a leg at each corner.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "His eyes, bloodshot and rheumy, stared straight ahead and his tongue lolled from his jaws.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki? I had pulled up my car when I saw him in the street with his mistress and I was shocked at his appearance. He had become hugely fat, like a bloated sausage with a leg at each corner. His eyes, bloodshot and rheumy, stared straight ahead and his tongue lolled from his jaws.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "Mrs Pumphrey hastened to explain, \"He was so listless, Mr Herriot.",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "I can't bear to refuse him.\" I looked down again at the little dog.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "He had never been known to refuse food; he would tackle a meal at any hour of the day or night.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "And I wondered about all the things Mrs Pumphrey hadn't mentioned.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Mrs Pumphrey hastened to explain, \"He was so listless, Mr Herriot. I can't bear to refuse him.\" I looked down again at the little dog. He had never been known to refuse food; he would tackle a meal at any hour of the day or night. And I wondered about all the things Mrs Pumphrey hadn't mentioned.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "List key points from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "He falls seriously ill and his mistress consults a veterinary surgeon.",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "A Triumph of Surgery 1 Reprint 2025-26 Footprints without Feet 2 I tried to sound severe: \"Now I really mean this.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "You must harden your heart and keep him on a very strict diet.\" Mrs Pumphrey wrung her hands.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "I'm sure you are right, but it is so difficult, so very difficult.\" She set off, head down, along the road, as if determined to put the new regime into practice immediately.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "He falls seriously ill and his mistress consults a veterinary surgeon. A Triumph of Surgery 1 Reprint 2025-26 Footprints without Feet 2 I tried to sound severe: \"Now I really mean this. You must harden your heart and keep him on a very strict diet.\" Mrs Pumphrey wrung her hands. I'm sure you are right, but it is so difficult, so very difficult.\" She set off, head down, along the road, as if determined to put the new regime into practice immediately.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "Tricki was tottering along in his little tweed coat; he had a whole wardrobe of these coats - for the cold weather and a raincoat for the wet days.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "I thought it wouldn't be long before I heard from Mrs Pumphrey.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "Refused even his favourite dishes; and besides, he had bouts of vomiting.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "Didn't want to go for walks, didn't want to do anything.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Tricki was tottering along in his little tweed coat; he had a whole wardrobe of these coats - for the cold weather and a raincoat for the wet days. I thought it wouldn't be long before I heard from Mrs Pumphrey. Refused even his favourite dishes; and besides, he had bouts of vomiting. Didn't want to go for walks, didn't want to do anything.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 1 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "The only way was to get Tricki out of the house for a period.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "I suggested that he be hospitalised for about a fortnight to be kept under observation.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "She was sure he would pine and die if he did not see her every day.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "The entire staff was roused and maids rushed in and out bringing his day bed, his night bed, favourite cushions, toys and rubber rings, breakfast bowl, lunch bowl, supper bowl.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The only way was to get Tricki out of the house for a period. I suggested that he be hospitalised for about a fortnight to be kept under observation. She was sure he would pine and die if he did not see her every day. The entire staff was roused and maids rushed in and out bringing his day bed, his night bed, favourite cushions, toys and rubber rings, breakfast bowl, lunch bowl, supper bowl.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "Realising that my car would never hold all the stuff, I started to drive away.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "As I moved off, Mrs Pumphrey, with a despairing cry, threw an armful of the little coats through the window.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "I looked in the mirror before I turned the corner of the drive; everybody was in tears.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "Out on the road, I glanced down at the pathetic little animal gasping on the seat by my side.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "I patted the head and Tricki made a brave effort to wag his tail.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Realising that my car would never hold all the stuff, I started to drive away. As I moved off, Mrs Pumphrey, with a despairing cry, threw an armful of the little coats through the window. I looked in the mirror before I turned the corner of the drive; everybody was in tears. Out on the road, I glanced down at the pathetic little animal gasping on the seat by my side. I patted the head and Tricki made a brave effort to wag his tail.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Build a definition from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki?",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "I had pulled up my car when I saw him in the street with his mistress and I was shocked at his appearance.",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "He had become hugely fat, like a bloated sausage with a leg at each corner.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "His eyes, bloodshot and rheumy, stared straight ahead and his tongue lolled from his jaws.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki? I had pulled up my car when I saw him in the street with his mistress and I was shocked at his appearance. He had become hugely fat, like a bloated sausage with a leg at each corner. His eyes, bloodshot and rheumy, stared straight ahead and his tongue lolled from his jaws.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "Mrs Pumphrey hastened to explain, \"He was so listless, Mr Herriot.",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "I can't bear to refuse him.\" I looked down again at the little dog.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "He had never been known to refuse food; he would tackle a meal at any hour of the day or night.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "And I wondered about all the things Mrs Pumphrey hadn't mentioned.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "He falls seriously ill and his mistress consults a veterinary surgeon.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Mrs Pumphrey hastened to explain, \"He was so listless, Mr Herriot. I can't bear to refuse him.\" I looked down again at the little dog. He had never been known to refuse food; he would tackle a meal at any hour of the day or night. And I wondered about all the things Mrs Pumphrey hadn't mentioned. He falls seriously ill and his mistress consults a veterinary surgeon.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "A Triumph of Surgery 1 Reprint 2025-26 Footprints without Feet 2 I tried to sound severe: \"Now I really mean this.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "You must harden your heart and keep him on a very strict diet.\" Mrs Pumphrey wrung her hands.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "I'm sure you are right, but it is so difficult, so very difficult.\" She set off, head down, along the road, as if determined to put the new regime into practice immediately.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "A Triumph of Surgery 1 Reprint 2025-26 Footprints without Feet 2 I tried to sound severe: \"Now I really mean this. You must harden your heart and keep him on a very strict diet.\" Mrs Pumphrey wrung her hands. I'm sure you are right, but it is so difficult, so very difficult.\" She set off, head down, along the road, as if determined to put the new regime into practice immediately.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "Tricki was tottering along in his little tweed coat; he had a whole wardrobe of these coats - for the cold weather and a raincoat for the wet days.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "I thought it wouldn't be long before I heard from Mrs Pumphrey.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "Refused even his favourite dishes; and besides, he had bouts of vomiting.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Tricki was tottering along in his little tweed coat; he had a whole wardrobe of these coats - for the cold weather and a raincoat for the wet days. I thought it wouldn't be long before I heard from Mrs Pumphrey. Refused even his favourite dishes; and besides, he had bouts of vomiting.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "Didn't want to go for walks, didn't want to do anything.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "The only way was to get Tricki out of the house for a period.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "I suggested that he be hospitalised for about a fortnight to be kept under observation.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "She was sure he would pine and die if he did not see her every day.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Didn't want to go for walks, didn't want to do anything. The only way was to get Tricki out of the house for a period. I suggested that he be hospitalised for about a fortnight to be kept under observation. She was sure he would pine and die if he did not see her every day.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "The entire staff was roused and maids rushed in and out bringing his day bed, his night bed, favourite cushions, toys and rubber rings, breakfast bowl, lunch bowl, supper bowl.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "Realising that my car would never hold all the stuff, I started to drive away.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "As I moved off, Mrs Pumphrey, with a despairing cry, threw an armful of the little coats through the window.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The entire staff was roused and maids rushed in and out bringing his day bed, his night bed, favourite cushions, toys and rubber rings, breakfast bowl, lunch bowl, supper bowl. Realising that my car would never hold all the stuff, I started to drive away. As I moved off, Mrs Pumphrey, with a despairing cry, threw an armful of the little coats through the window.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "I looked in the mirror before I turned the corner of the drive; everybody was in tears.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "Out on the road, I glanced down at the pathetic little animal gasping on the seat by my side.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "I patted the head and Tricki made a brave effort to wag his tail.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "\"You haven't a kick in you but I think I know a cure for you.\" READ AND FIND OUT • Is the narrator as rich as Tricki's mistress?",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "I looked in the mirror before I turned the corner of the drive; everybody was in tears. Out on the road, I glanced down at the pathetic little animal gasping on the seat by my side. I patted the head and Tricki made a brave effort to wag his tail. \"You haven't a kick in you but I think I know a cure for you.\" READ AND FIND OUT • Is the narrator as rich as Tricki's mistress?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "• Why is he tempted to keep Tricki on as a permanent guest?",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "• Why does Mrs Pumphrey think the dog's recovery is \"a triumph of surgery\"?",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "• Why is he tempted to keep Tricki on as a permanent guest? • Why does Mrs Pumphrey think the dog's recovery is \"a triumph of surgery\"?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 1.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "Tricki looked down at the noisy pack with dull eyes and, when put down, lay motionless on the carpet.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "The other dogs, after sniffing round him for a few seconds, decided he was an uninteresting object and ignored him.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki?",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 1 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Tricki looked down at the noisy pack with dull eyes and, when put down, lay motionless on the carpet. The other dogs, after sniffing round him for a few seconds, decided he was an uninteresting object and ignored him. READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-10-english-chapter-1-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki?",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "I had pulled up my car when I saw him in the street with his mistress and I was shocked at his appearance.",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "He had become hugely fat, like a bloated sausage with a leg at each corner.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "His eyes, bloodshot and rheumy, stared straight ahead and his tongue lolled from his jaws.",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki? I had pulled up my car when I saw him in the street with his mistress and I was shocked at his appearance. He had become hugely fat, like a bloated sausage with a leg at each corner. His eyes, bloodshot and rheumy, stared straight ahead and his tongue lolled from his jaws.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "READ AND FIND OUT • Why",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "is Mrs Pumphrey worried about Tricki?",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "I had pulled up my car when I saw him in",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "the street with his mistress and I was shocked at his appearance.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "He had become hugely fat, like a",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "bloated sausage with a leg at each corner.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "His eyes, bloodshot and rheumy, stared straight",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "ahead and his tongue lolled from his jaws.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki? I had pulled up my car when I saw him in the street with his mistress and I was shocked at his appearance. He had become hugely fat, like a bloated sausage with a leg at each corner. His eyes, bloodshot and rheumy, stared straight ahead and his tongue lolled from his jaws.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "read",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "i",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "READ AND FIND OUT • Why is Mrs Pumphrey worried about Tricki? I had pulled up my car when I saw him in the street with his mistress and I was shocked at his appearance. He had become hugely fat, like a bloated sausage with a leg at each corner. His eyes, bloodshot and rheumy, stared straight ahead and his tongue lolled from his jaws.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "Mrs Pumphrey hastened to explain, \"He was so listless, Mr Herriot.",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "I can't bear to refuse him.\" I looked down again at the little dog.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "He had never been known to refuse food; he would tackle a meal at any hour of the day or night.",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "And I wondered about all the things Mrs Pumphrey hadn't mentioned.",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Mrs Pumphrey hastened to explain, \"He was so listless, Mr Herriot. I can't bear to refuse him.\" I looked down again at the little dog. He had never been known to refuse food; he would tackle a meal at any hour of the day or night. And I wondered about all the things Mrs Pumphrey hadn't mentioned.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "Mrs Pumphrey hastened to explain,",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "\"He was so listless, Mr Herriot.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "I can't bear to refuse him.\" I",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "looked down again at the little dog.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "He had never been known to refuse food; he would",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "tackle a meal at any hour of the day or night.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "And I wondered about all",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "the things Mrs Pumphrey hadn't mentioned.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Mrs Pumphrey hastened to explain, \"He was so listless, Mr Herriot. I can't bear to refuse him.\" I looked down again at the little dog. He had never been known to refuse food; he would tackle a meal at any hour of the day or night. And I wondered about all the things Mrs Pumphrey hadn't mentioned.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "mrs",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "i",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Mrs Pumphrey hastened to explain, \"He was so listless, Mr Herriot. I can't bear to refuse him.\" I looked down again at the little dog. He had never been known to refuse food; he would tackle a meal at any hour of the day or night. And I wondered about all the things Mrs Pumphrey hadn't mentioned.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "He falls seriously ill and his mistress consults a veterinary surgeon.",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "A Triumph of Surgery 1 Reprint 2025-26 Footprints without Feet 2 I tried to sound severe: \"Now I really mean this.",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "You must harden your heart and keep him on a very strict diet.\" Mrs Pumphrey wrung her hands.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "I'm sure you are right, but it is so difficult, so very difficult.\" She set off, head down, along the road, as if determined to put the new regime into practice immediately.",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "He falls seriously ill and his mistress consults a veterinary surgeon. A Triumph of Surgery 1 Reprint 2025-26 Footprints without Feet 2 I tried to sound severe: \"Now I really mean this. You must harden your heart and keep him on a very strict diet.\" Mrs Pumphrey wrung her hands. I'm sure you are right, but it is so difficult, so very difficult.\" She set off, head down, along the road, as if determined to put the new regime into practice immediately.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "He falls seriously ill and",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "his mistress consults a veterinary surgeon.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "A Triumph of Surgery 1 Reprint 2025-26 Footprints without Feet",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "2 I tried to sound severe: \"Now I really mean this.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "You must harden your heart and keep him on",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "a very strict diet.\" Mrs Pumphrey wrung her hands.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "I'm sure you are right, but it is so difficult, so very difficult.\" She set off,",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "head down, along the road, as if determined to put the new regime into practice immediately.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "He falls seriously ill and his mistress consults a veterinary surgeon. A Triumph of Surgery 1 Reprint 2025-26 Footprints without Feet 2 I tried to sound severe: \"Now I really mean this. You must harden your heart and keep him on a very strict diet.\" Mrs Pumphrey wrung her hands. I'm sure you are right, but it is so difficult, so very difficult.\" She set off, head down, along the road, as if determined to put the new regime into practice immediately.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "he",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "a",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "He falls seriously ill and his mistress consults a veterinary surgeon. A Triumph of Surgery 1 Reprint 2025-26 Footprints without Feet 2 I tried to sound severe: \"Now I really mean this. You must harden your heart and keep him on a very strict diet.\" Mrs Pumphrey wrung her hands. I'm sure you are right, but it is so difficult, so very difficult.\" She set off, head down, along the road, as if determined to put the new regime into practice immediately.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "Tricki was tottering along in his little tweed coat; he had a whole wardrobe of these coats - for the cold weather and a raincoat for the wet days.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "I thought it wouldn't be long before I heard from Mrs Pumphrey.",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "Refused even his favourite dishes; and besides, he had bouts of vomiting.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "Didn't want to go for walks, didn't want to do anything.",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Tricki was tottering along in his little tweed coat; he had a whole wardrobe of these coats - for the cold weather and a raincoat for the wet days. I thought it wouldn't be long before I heard from Mrs Pumphrey. Refused even his favourite dishes; and besides, he had bouts of vomiting. Didn't want to go for walks, didn't want to do anything.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "Tricki was tottering along in his little tweed coat; he had a whole wardrobe",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "of these coats - for the cold weather and a raincoat for the wet days.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "I thought it wouldn't be long",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "before I heard from Mrs Pumphrey.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "Refused even his favourite dishes; and",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "besides, he had bouts of vomiting.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "Didn't want to go for",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "walks, didn't want to do anything.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Tricki was tottering along in his little tweed coat; he had a whole wardrobe of these coats - for the cold weather and a raincoat for the wet days. I thought it wouldn't be long before I heard from Mrs Pumphrey. Refused even his favourite dishes; and besides, he had bouts of vomiting. Didn't want to go for walks, didn't want to do anything.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "tricki",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "i",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Tricki was tottering along in his little tweed coat; he had a whole wardrobe of these coats - for the cold weather and a raincoat for the wet days. I thought it wouldn't be long before I heard from Mrs Pumphrey. Refused even his favourite dishes; and besides, he had bouts of vomiting. Didn't want to go for walks, didn't want to do anything.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "The only way was to get Tricki out of the house for a period.",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "I suggested that he be hospitalised for about a fortnight to be kept under observation.",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "She was sure he would pine and die if he did not see her every day.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "The entire staff was roused and maids rushed in and out bringing his day bed, his night bed, favourite cushions, toys and rubber rings, breakfast bowl, lunch bowl, supper bowl.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The only way was to get Tricki out of the house for a period. I suggested that he be hospitalised for about a fortnight to be kept under observation. She was sure he would pine and die if he did not see her every day. The entire staff was roused and maids rushed in and out bringing his day bed, his night bed, favourite cushions, toys and rubber rings, breakfast bowl, lunch bowl, supper bowl.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "The only way was to get Tricki",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "out of the house for a period.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "I suggested that he be hospitalised for",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "about a fortnight to be kept under observation.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "She was sure he would pine and die",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "if he did not see her every day.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "The entire staff was roused and maids rushed in and out bringing his day bed,",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "his night bed, favourite cushions, toys and rubber rings, breakfast bowl, lunch bowl, supper bowl.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The only way was to get Tricki out of the house for a period. I suggested that he be hospitalised for about a fortnight to be kept under observation. She was sure he would pine and die if he did not see her every day. The entire staff was roused and maids rushed in and out bringing his day bed, his night bed, favourite cushions, toys and rubber rings, breakfast bowl, lunch bowl, supper bowl.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-10-english-chapter-1-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 10,
+      "stream": null,
+      "subject": "English",
+      "book": "English - Supplementary Reader - Footprints without feet",
+      "chapter": "Chapter 1",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from English - Supplementary Reader - Footprints without feet, Chapter Chapter 1.",
+      "sourceChapter": "Chapter 1",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 10\\English - Supplementary Reader - Footprints without feet\\jefp101.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "i",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 1 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The only way was to get Tricki out of the house for a period. I suggested that he be hospitalised for about a fortnight to be kept under observation. She was sure he would pine and die if he did not see her every day. The entire staff was roused and maids rushed in and out bringing his day bed, his night bed, favourite cushions, toys and rubber rings, breakfast bowl, lunch bowl, supper bowl.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

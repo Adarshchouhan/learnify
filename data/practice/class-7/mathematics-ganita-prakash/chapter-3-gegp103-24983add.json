@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+    "classLevel": 7,
+    "stream": null,
+    "subject": "Mathematics",
+    "book": "Mathematics - Ganita Prakash",
+    "chapter": "Chapter 3",
+    "chapterNumber": 3,
+    "pageCount": null,
+    "extractedCharacterCount": 47555,
+    "extractionPreview": "3.1 The Need for Smaller Units\nSonu's mother was fixing a \ntoy. She was trying to join \ntwo pieces with the help of \na \nscrew. \nSonu \nwas \nwatching his mother with \ngreat curiosity. His mother \nwas unable to join the \npieces. Sonu asked why. \nHis mother said that the \nscrew was not of the \nright size.\nShe brought another screw from the box and was able to fix the toy. \nThe two screws looked the same to Sonu. But when he observed them \nclosely, he saw they were of slightly different lengths.\nSonu"
+  },
+  "coverage": {
+    "classes": [
+      7
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 3.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 3.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-7-mathematics-chapter-3-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "3.1 The Need for Smaller Units Sonu's mother was fixing a toy.",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "She was trying to join two pieces with the help of a screw.",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "His mother said that the screw was not of the right size.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "She brought another screw from the box and was able to fix the toy.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "3.1 The Need for Smaller Units Sonu's mother was fixing a toy. She was trying to join two pieces with the help of a screw. His mother said that the screw was not of the right size. She brought another screw from the box and was able to fix the toy.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "But when he observed them closely, he saw they were of slightly different lengths.",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "Sonu was fascinated by how such a small difference in lengths could matter so much.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "He was also curious to know how little the difference was because the screws looked nearly the same.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "Measure them and write their length in the space provided.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "But when he observed them closely, he saw they were of slightly different lengths. Sonu was fascinated by how such a small difference in lengths could matter so much. He was also curious to know how little the difference was because the screws looked nearly the same. Measure them and write their length in the space provided.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "A PEEK BEYOND THE POINT 3 A Peek Beyond the Point Which scale helped you measure the length of the screws accurately?",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "What is the meaning of 2 7 10 cm (the length of the first screw)?",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "As seen on the ruler, the unit length between two consecutive numbers is divided into 10 equal parts.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "To get the length 2 7 10 cm, we go from 0 to 2 and then take seven parts of 1 10.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "A PEEK BEYOND THE POINT 3 A Peek Beyond the Point Which scale helped you measure the length of the screws accurately? What is the meaning of 2 7 10 cm (the length of the first screw)? As seen on the ruler, the unit length between two consecutive numbers is divided into 10 equal parts. To get the length 2 7 10 cm, we go from 0 to 2 and then take seven parts of 1 10.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 3 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "We read 2 7 10 cm as two and seven-tenth centimeters, and 3 2 10 cm as three and two-tenth centimeters.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "Can you explain why the unit was divided into smaller parts to measure the screws?",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "Measure the following objects using a scale and write their measurements in centimeters (as shown earlier for the lengths of the screws): pen, sharpener, and any other object of your choice.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "= 10 times 1 10 = 10 × 1 10 = 1 unit This length is the same as 34 one-tenths units because 10 one-tenths units make one unit.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "We read 2 7 10 cm as two and seven-tenth centimeters, and 3 2 10 cm as three and two-tenth centimeters. Can you explain why the unit was divided into smaller parts to measure the screws? Measure the following objects using a scale and write their measurements in centimeters (as shown earlier for the lengths of the screws): pen, sharpener, and any other object of your choice. = 10 times 1 10 = 10 × 1 10 = 1 unit This length is the same as 34 one-tenths units because 10 one-tenths units make one unit.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "(Note that the unit length used in each diagram is not the same).",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "The length of the USB cable is 4 and 8 10 units or 48 10 units.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "The length of Sonu's lower arm is 2 7 10 units, and that of his upper arm is 3 6 10 units.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "To get the total length, let us see the lower and upper arm length as 2 units and 7 one-tenths, and 3 units and 6 one-tenths, respectively.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "(Note that the unit length used in each diagram is not the same). The length of the USB cable is 4 and 8 10 units or 48 10 units. The length of Sonu's lower arm is 2 7 10 units, and that of his upper arm is 3 6 10 units. To get the total length, let us see the lower and upper arm length as 2 units and 7 one-tenths, and 3 units and 6 one-tenths, respectively.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "Head: 2 3 10 units Thorax: 5 4 10 units Abdomen: 7 5 10 units The length of Shylaja's hand is 12 4 10 units, and her palm is 6 7 10 units, as shown in the picture.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "The length of the finger can be found by evaluating (12 + 4 10) - (6 + 7 10).",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "We cannot remove 7 one-tenths from 4 Head Thorax abdomen 12 4 10 units 6 7 10 units Discuss what is being done here and why.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "(b) 12 4 10 11 14 10 - 6 7 10 - 6 7 10 = 5 7 10 51 Ganita Prakash | Grade 7 one-tenths.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Head: 2 3 10 units Thorax: 5 4 10 units Abdomen: 7 5 10 units The length of Shylaja's hand is 12 4 10 units, and her palm is 6 7 10 units, as shown in the picture. The length of the finger can be found by evaluating (12 + 4 10) - (6 + 7 10). We cannot remove 7 one-tenths from 4 Head Thorax abdomen 12 4 10 units 6 7 10 units Discuss what is being done here and why. (b) 12 4 10 11 14 10 - 6 7 10 - 6 7 10 = 5 7 10 51 Ganita Prakash | Grade 7 one-tenths.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "3.1 The Need for Smaller Units Sonu's mother was fixing a toy.",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "She was trying to join two pieces with the help of a screw.",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "His mother said that the screw was not of the right size.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "She brought another screw from the box and was able to fix the toy.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "3.1 The Need for Smaller Units Sonu's mother was fixing a toy. She was trying to join two pieces with the help of a screw. His mother said that the screw was not of the right size. She brought another screw from the box and was able to fix the toy.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "But when he observed them closely, he saw they were of slightly different lengths.",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "Sonu was fascinated by how such a small difference in lengths could matter so much.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "He was also curious to know how little the difference was because the screws looked nearly the same.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "Measure them and write their length in the space provided.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "But when he observed them closely, he saw they were of slightly different lengths. Sonu was fascinated by how such a small difference in lengths could matter so much. He was also curious to know how little the difference was because the screws looked nearly the same. Measure them and write their length in the space provided.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "List key points from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "A PEEK BEYOND THE POINT 3 A Peek Beyond the Point Which scale helped you measure the length of the screws accurately?",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "What is the meaning of 2 7 10 cm (the length of the first screw)?",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "As seen on the ruler, the unit length between two consecutive numbers is divided into 10 equal parts.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "To get the length 2 7 10 cm, we go from 0 to 2 and then take seven parts of 1 10.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "A PEEK BEYOND THE POINT 3 A Peek Beyond the Point Which scale helped you measure the length of the screws accurately? What is the meaning of 2 7 10 cm (the length of the first screw)? As seen on the ruler, the unit length between two consecutive numbers is divided into 10 equal parts. To get the length 2 7 10 cm, we go from 0 to 2 and then take seven parts of 1 10.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "We read 2 7 10 cm as two and seven-tenth centimeters, and 3 2 10 cm as three and two-tenth centimeters.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "Can you explain why the unit was divided into smaller parts to measure the screws?",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "Measure the following objects using a scale and write their measurements in centimeters (as shown earlier for the lengths of the screws): pen, sharpener, and any other object of your choice.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "= 10 times 1 10 = 10 × 1 10 = 1 unit This length is the same as 34 one-tenths units because 10 one-tenths units make one unit.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "We read 2 7 10 cm as two and seven-tenth centimeters, and 3 2 10 cm as three and two-tenth centimeters. Can you explain why the unit was divided into smaller parts to measure the screws? Measure the following objects using a scale and write their measurements in centimeters (as shown earlier for the lengths of the screws): pen, sharpener, and any other object of your choice. = 10 times 1 10 = 10 × 1 10 = 1 unit This length is the same as 34 one-tenths units because 10 one-tenths units make one unit.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 3 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "(Note that the unit length used in each diagram is not the same).",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "The length of the USB cable is 4 and 8 10 units or 48 10 units.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "The length of Sonu's lower arm is 2 7 10 units, and that of his upper arm is 3 6 10 units.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "To get the total length, let us see the lower and upper arm length as 2 units and 7 one-tenths, and 3 units and 6 one-tenths, respectively.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "(Note that the unit length used in each diagram is not the same). The length of the USB cable is 4 and 8 10 units or 48 10 units. The length of Sonu's lower arm is 2 7 10 units, and that of his upper arm is 3 6 10 units. To get the total length, let us see the lower and upper arm length as 2 units and 7 one-tenths, and 3 units and 6 one-tenths, respectively.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "Head: 2 3 10 units Thorax: 5 4 10 units Abdomen: 7 5 10 units The length of Shylaja's hand is 12 4 10 units, and her palm is 6 7 10 units, as shown in the picture.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "The length of the finger can be found by evaluating (12 + 4 10) - (6 + 7 10).",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "We cannot remove 7 one-tenths from 4 Head Thorax abdomen 12 4 10 units 6 7 10 units Discuss what is being done here and why.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "(b) 12 4 10 11 14 10 - 6 7 10 - 6 7 10 = 5 7 10 51 Ganita Prakash | Grade 7 one-tenths.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "So we split a unit from 12 and convert it to 10 one-tenths.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Head: 2 3 10 units Thorax: 5 4 10 units Abdomen: 7 5 10 units The length of Shylaja's hand is 12 4 10 units, and her palm is 6 7 10 units, as shown in the picture. The length of the finger can be found by evaluating (12 + 4 10) - (6 + 7 10). We cannot remove 7 one-tenths from 4 Head Thorax abdomen 12 4 10 units 6 7 10 units Discuss what is being done here and why. (b) 12 4 10 11 14 10 - 6 7 10 - 6 7 10 = 5 7 10 51 Ganita Prakash | Grade 7 one-tenths. So we split a unit from 12 and convert it to 10 one-tenths.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Build a definition from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "3.1 The Need for Smaller Units Sonu's mother was fixing a toy.",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "She was trying to join two pieces with the help of a screw.",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "His mother said that the screw was not of the right size.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "She brought another screw from the box and was able to fix the toy.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "3.1 The Need for Smaller Units Sonu's mother was fixing a toy. She was trying to join two pieces with the help of a screw. His mother said that the screw was not of the right size. She brought another screw from the box and was able to fix the toy.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "But when he observed them closely, he saw they were of slightly different lengths.",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "Sonu was fascinated by how such a small difference in lengths could matter so much.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "He was also curious to know how little the difference was because the screws looked nearly the same.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "Measure them and write their length in the space provided.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "A PEEK BEYOND THE POINT 3 A Peek Beyond the Point Which scale helped you measure the length of the screws accurately?",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "But when he observed them closely, he saw they were of slightly different lengths. Sonu was fascinated by how such a small difference in lengths could matter so much. He was also curious to know how little the difference was because the screws looked nearly the same. Measure them and write their length in the space provided. A PEEK BEYOND THE POINT 3 A Peek Beyond the Point Which scale helped you measure the length of the screws accurately?",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "What is the meaning of 2 7 10 cm (the length of the first screw)?",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "As seen on the ruler, the unit length between two consecutive numbers is divided into 10 equal parts.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "To get the length 2 7 10 cm, we go from 0 to 2 and then take seven parts of 1 10.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "What is the meaning of 2 7 10 cm (the length of the first screw)? As seen on the ruler, the unit length between two consecutive numbers is divided into 10 equal parts. To get the length 2 7 10 cm, we go from 0 to 2 and then take seven parts of 1 10.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "We read 2 7 10 cm as two and seven-tenth centimeters, and 3 2 10 cm as three and two-tenth centimeters.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "Can you explain why the unit was divided into smaller parts to measure the screws?",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "Measure the following objects using a scale and write their measurements in centimeters (as shown earlier for the lengths of the screws): pen, sharpener, and any other object of your choice.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "We read 2 7 10 cm as two and seven-tenth centimeters, and 3 2 10 cm as three and two-tenth centimeters. Can you explain why the unit was divided into smaller parts to measure the screws? Measure the following objects using a scale and write their measurements in centimeters (as shown earlier for the lengths of the screws): pen, sharpener, and any other object of your choice.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "= 10 times 1 10 = 10 × 1 10 = 1 unit This length is the same as 34 one-tenths units because 10 one-tenths units make one unit.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "(Note that the unit length used in each diagram is not the same).",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "The length of the USB cable is 4 and 8 10 units or 48 10 units.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "The length of Sonu's lower arm is 2 7 10 units, and that of his upper arm is 3 6 10 units.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "= 10 times 1 10 = 10 × 1 10 = 1 unit This length is the same as 34 one-tenths units because 10 one-tenths units make one unit. (Note that the unit length used in each diagram is not the same). The length of the USB cable is 4 and 8 10 units or 48 10 units. The length of Sonu's lower arm is 2 7 10 units, and that of his upper arm is 3 6 10 units.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "To get the total length, let us see the lower and upper arm length as 2 units and 7 one-tenths, and 3 units and 6 one-tenths, respectively.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "Head: 2 3 10 units Thorax: 5 4 10 units Abdomen: 7 5 10 units The length of Shylaja's hand is 12 4 10 units, and her palm is 6 7 10 units, as shown in the picture.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "The length of the finger can be found by evaluating (12 + 4 10) - (6 + 7 10).",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "To get the total length, let us see the lower and upper arm length as 2 units and 7 one-tenths, and 3 units and 6 one-tenths, respectively. Head: 2 3 10 units Thorax: 5 4 10 units Abdomen: 7 5 10 units The length of Shylaja's hand is 12 4 10 units, and her palm is 6 7 10 units, as shown in the picture. The length of the finger can be found by evaluating (12 + 4 10) - (6 + 7 10).",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "We cannot remove 7 one-tenths from 4 Head Thorax abdomen 12 4 10 units 6 7 10 units Discuss what is being done here and why.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "(b) 12 4 10 11 14 10 - 6 7 10 - 6 7 10 = 5 7 10 51 Ganita Prakash | Grade 7 one-tenths.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "So we split a unit from 12 and convert it to 10 one-tenths.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "We subtract 7 one- tenths from 14 one-tenths and then subtract 6 units from 11 units.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "We cannot remove 7 one-tenths from 4 Head Thorax abdomen 12 4 10 units 6 7 10 units Discuss what is being done here and why. (b) 12 4 10 11 14 10 - 6 7 10 - 6 7 10 = 5 7 10 51 Ganita Prakash | Grade 7 one-tenths. So we split a unit from 12 and convert it to 10 one-tenths. We subtract 7 one- tenths from 14 one-tenths and then subtract 6 units from 11 units.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "Try computing the difference by converting both lengths to tenths.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "A Celestial Pearl Danio's length is 2 4 10 cm, and the length of a Philippine Goby is 9 10 cm.",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Try computing the difference by converting both lengths to tenths. A Celestial Pearl Danio's length is 2 4 10 cm, and the length of a Philippine Goby is 9 10 cm.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "Celestial Pearl Danio Philippine Goby 52 A Peek Beyond the Point We can say that its length is between 4 4 10 units and 4 5 10 units.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "But we cannot state its exact measurement, since there are no markings.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "3.1 The Need for Smaller Units Sonu's mother was fixing a toy.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Celestial Pearl Danio Philippine Goby 52 A Peek Beyond the Point We can say that its length is between 4 4 10 units and 4 5 10 units. But we cannot state its exact measurement, since there are no markings. 3.1 The Need for Smaller Units Sonu's mother was fixing a toy.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "3.1 The Need for Smaller Units Sonu's mother was fixing a toy.",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "She was trying to join two pieces with the help of a screw.",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "His mother said that the screw was not of the right size.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "She brought another screw from the box and was able to fix the toy.",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "3.1 The Need for Smaller Units Sonu's mother was fixing a toy. She was trying to join two pieces with the help of a screw. His mother said that the screw was not of the right size. She brought another screw from the box and was able to fix the toy.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "3.1 The Need for Smaller Units",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "Sonu's mother was fixing a toy.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "She was trying to join two",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "pieces with the help of a screw.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "His mother said that the screw",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "was not of the right size.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "She brought another screw from the box",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "and was able to fix the toy.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "3.1 The Need for Smaller Units Sonu's mother was fixing a toy. She was trying to join two pieces with the help of a screw. His mother said that the screw was not of the right size. She brought another screw from the box and was able to fix the toy.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "3.1",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "she",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "3.1 The Need for Smaller Units Sonu's mother was fixing a toy. She was trying to join two pieces with the help of a screw. His mother said that the screw was not of the right size. She brought another screw from the box and was able to fix the toy.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "But when he observed them closely, he saw they were of slightly different lengths.",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "Sonu was fascinated by how such a small difference in lengths could matter so much.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "He was also curious to know how little the difference was because the screws looked nearly the same.",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "Measure them and write their length in the space provided.",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "But when he observed them closely, he saw they were of slightly different lengths. Sonu was fascinated by how such a small difference in lengths could matter so much. He was also curious to know how little the difference was because the screws looked nearly the same. Measure them and write their length in the space provided.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "But when he observed them closely, he",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "saw they were of slightly different lengths.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "Sonu was fascinated by how such a",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "small difference in lengths could matter so much.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "He was also curious to know how little the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "difference was because the screws looked nearly the same.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "Measure them and write their",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "length in the space provided.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "But when he observed them closely, he saw they were of slightly different lengths. Sonu was fascinated by how such a small difference in lengths could matter so much. He was also curious to know how little the difference was because the screws looked nearly the same. Measure them and write their length in the space provided.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "but",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "sonu",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "But when he observed them closely, he saw they were of slightly different lengths. Sonu was fascinated by how such a small difference in lengths could matter so much. He was also curious to know how little the difference was because the screws looked nearly the same. Measure them and write their length in the space provided.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "A PEEK BEYOND THE POINT 3 A Peek Beyond the Point Which scale helped you measure the length of the screws accurately?",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "What is the meaning of 2 7 10 cm (the length of the first screw)?",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "As seen on the ruler, the unit length between two consecutive numbers is divided into 10 equal parts.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "To get the length 2 7 10 cm, we go from 0 to 2 and then take seven parts of 1 10.",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "A PEEK BEYOND THE POINT 3 A Peek Beyond the Point Which scale helped you measure the length of the screws accurately? What is the meaning of 2 7 10 cm (the length of the first screw)? As seen on the ruler, the unit length between two consecutive numbers is divided into 10 equal parts. To get the length 2 7 10 cm, we go from 0 to 2 and then take seven parts of 1 10.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "A PEEK BEYOND THE POINT 3 A Peek Beyond the Point",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "Which scale helped you measure the length of the screws accurately?",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "What is the meaning of 2 7",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "10 cm (the length of the first screw)?",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "As seen on the ruler, the unit length between",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "two consecutive numbers is divided into 10 equal parts.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "To get the length 2 7 10 cm, we go from",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "0 to 2 and then take seven parts of 1 10.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "A PEEK BEYOND THE POINT 3 A Peek Beyond the Point Which scale helped you measure the length of the screws accurately? What is the meaning of 2 7 10 cm (the length of the first screw)? As seen on the ruler, the unit length between two consecutive numbers is divided into 10 equal parts. To get the length 2 7 10 cm, we go from 0 to 2 and then take seven parts of 1 10.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "a",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "what",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "A PEEK BEYOND THE POINT 3 A Peek Beyond the Point Which scale helped you measure the length of the screws accurately? What is the meaning of 2 7 10 cm (the length of the first screw)? As seen on the ruler, the unit length between two consecutive numbers is divided into 10 equal parts. To get the length 2 7 10 cm, we go from 0 to 2 and then take seven parts of 1 10.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "We read 2 7 10 cm as two and seven-tenth centimeters, and 3 2 10 cm as three and two-tenth centimeters.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "Can you explain why the unit was divided into smaller parts to measure the screws?",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "Measure the following objects using a scale and write their measurements in centimeters (as shown earlier for the lengths of the screws): pen, sharpener, and any other object of your choice.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "= 10 times 1 10 = 10 × 1 10 = 1 unit This length is the same as 34 one-tenths units because 10 one-tenths units make one unit.",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "We read 2 7 10 cm as two and seven-tenth centimeters, and 3 2 10 cm as three and two-tenth centimeters. Can you explain why the unit was divided into smaller parts to measure the screws? Measure the following objects using a scale and write their measurements in centimeters (as shown earlier for the lengths of the screws): pen, sharpener, and any other object of your choice. = 10 times 1 10 = 10 × 1 10 = 1 unit This length is the same as 34 one-tenths units because 10 one-tenths units make one unit.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "We read 2 7 10 cm as two and seven-tenth",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "centimeters, and 3 2 10 cm as three and two-tenth centimeters.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "Can you explain why the unit was",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "divided into smaller parts to measure the screws?",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "Measure the following objects using a scale and write their measurements in centimeters (as shown",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "earlier for the lengths of the screws): pen, sharpener, and any other object of your choice.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "= 10 times 1 10 = 10 × 1 10 = 1 unit This",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "length is the same as 34 one-tenths units because 10 one-tenths units make one unit.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "We read 2 7 10 cm as two and seven-tenth centimeters, and 3 2 10 cm as three and two-tenth centimeters. Can you explain why the unit was divided into smaller parts to measure the screws? Measure the following objects using a scale and write their measurements in centimeters (as shown earlier for the lengths of the screws): pen, sharpener, and any other object of your choice. = 10 times 1 10 = 10 × 1 10 = 1 unit This length is the same as 34 one-tenths units because 10 one-tenths units make one unit.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "we",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "can",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "We read 2 7 10 cm as two and seven-tenth centimeters, and 3 2 10 cm as three and two-tenth centimeters. Can you explain why the unit was divided into smaller parts to measure the screws? Measure the following objects using a scale and write their measurements in centimeters (as shown earlier for the lengths of the screws): pen, sharpener, and any other object of your choice. = 10 times 1 10 = 10 × 1 10 = 1 unit This length is the same as 34 one-tenths units because 10 one-tenths units make one unit.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "(Note that the unit length used in each diagram is not the same).",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "The length of the USB cable is 4 and 8 10 units or 48 10 units.",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "The length of Sonu's lower arm is 2 7 10 units, and that of his upper arm is 3 6 10 units.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "To get the total length, let us see the lower and upper arm length as 2 units and 7 one-tenths, and 3 units and 6 one-tenths, respectively.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "(Note that the unit length used in each diagram is not the same). The length of the USB cable is 4 and 8 10 units or 48 10 units. The length of Sonu's lower arm is 2 7 10 units, and that of his upper arm is 3 6 10 units. To get the total length, let us see the lower and upper arm length as 2 units and 7 one-tenths, and 3 units and 6 one-tenths, respectively.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "(Note that the unit length used",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "in each diagram is not the same).",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "The length of the USB cable is 4",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "and 8 10 units or 48 10 units.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "The length of Sonu's lower arm is 2 7 10 units,",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "and that of his upper arm is 3 6 10 units.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "To get the total length, let us see the lower and upper arm",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "length as 2 units and 7 one-tenths, and 3 units and 6 one-tenths, respectively.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "(Note that the unit length used in each diagram is not the same). The length of the USB cable is 4 and 8 10 units or 48 10 units. The length of Sonu's lower arm is 2 7 10 units, and that of his upper arm is 3 6 10 units. To get the total length, let us see the lower and upper arm length as 2 units and 7 one-tenths, and 3 units and 6 one-tenths, respectively.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-7-mathematics-chapter-3-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 7,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Ganita Prakash",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\class 7\\Mathematics - Ganita Prakash\\gegp103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "(note",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "the",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "(Note that the unit length used in each diagram is not the same). The length of the USB cable is 4 and 8 10 units or 48 10 units. The length of Sonu's lower arm is 2 7 10 units, and that of his upper arm is 3 6 10 units. To get the total length, let us see the lower and upper arm length as 2 units and 7 one-tenths, and 3 units and 6 one-tenths, respectively.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}

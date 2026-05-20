@@ -1,0 +1,4464 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "D:\\LX\\all class pdf",
+    "pdfPath": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+    "classLevel": 12,
+    "stream": null,
+    "subject": "Economics",
+    "book": "Economics",
+    "chapter": "Chapter 3",
+    "chapterNumber": 3,
+    "pageCount": null,
+    "extractedCharacterCount": 45518,
+    "extractionPreview": "36\n36\n36\n36\n36\nIntroductory Macroeconomics\nMoney and Banking\nMoney and Banking\nMoney and Banking\nMoney and Banking\nMoney and Banking\nMoney is the commonly accepted medium of exchange. In an\neconomy which consists of only one individual there cannot be\nany exchange of commodities and hence there is no role for money.\nEven if there is more than one individual but these individuals do\nnot take part in market transactions, example: family living on an\nisolated island, money has no function for them."
+  },
+  "coverage": {
+    "classes": [
+      12
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 36,
+    "chapterQuestionCount": 5,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-chapter-overview",
+      "question": "Explain the main ideas of Chapter 3.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-important-process",
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "questionIdentifier": {
+        "label": "Sequence Builder",
+        "primaryType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "layout": "numbered vertical slots with exact-order validation",
+        "id": "sequence"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cause-effect",
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "questionIdentifier": {
+        "label": "Cause-Effect Builder",
+        "primaryType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "layout": "cause column, effect column and explanation box",
+        "id": "cause_effect"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-definition-and-example",
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "questionIdentifier": {
+        "label": "Definition Builder",
+        "primaryType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "layout": "term, key phrase slots, final definition",
+        "id": "definition"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-short-answer",
+      "question": "Write a short answer using key points from Chapter 3.",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-12-economics-chapter-3-01-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange.",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "In an economy which consists of only one individual there cannot be any exchange of commodities and hence there is no role for money.",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "Even if there is more than one individual but these individuals do not take part in market transactions, example: family living on an isolated island, money has no function for them.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "However, as soon as there is more than one economic agent who engage themselves in transactions through the market, money becomes an important instrument for facilitating these exchanges.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange. In an economy which consists of only one individual there cannot be any exchange of commodities and hence there is no role for money. Even if there is more than one individual but these individuals do not take part in market transactions, example: family living on an isolated island, money has no function for them. However, as soon as there is more than one economic agent who engage themselves in transactions through the market, money becomes an important instrument for facilitating these exchanges.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-02-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "Economic exchanges without the mediation of money are referred to as barter exchanges.",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "However, they presume the rather improbable double coincidence of wants.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "Consider, for example, an individual who has a surplus of rice which she wishes to exchange for clothing.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "If she is not lucky enough she may not be able to find another person who has the diametrically opposite demand for rice with a surplus of clothing to offer in exchange.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Economic exchanges without the mediation of money are referred to as barter exchanges. However, they presume the rather improbable double coincidence of wants. Consider, for example, an individual who has a surplus of rice which she wishes to exchange for clothing. If she is not lucky enough she may not be able to find another person who has the diametrically opposite demand for rice with a surplus of clothing to offer in exchange.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-03-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "The search costs may become prohibitive as the number of individuals increases.",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "Thus, to smoothen the transaction, an intermediate good is necessary which is acceptable to both parties.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "The individuals can then sell their produces for money and use this money to purchase the commodities they need.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "Though facilitation of exchanges is considered to be the principal role of money, it serves other purposes as well.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The search costs may become prohibitive as the number of individuals increases. Thus, to smoothen the transaction, an intermediate good is necessary which is acceptable to both parties. The individuals can then sell their produces for money and use this money to purchase the commodities they need. Though facilitation of exchanges is considered to be the principal role of money, it serves other purposes as well.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-04-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 3 in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "Following are the main functions of money in a modern economy.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "3.1 FUNCTIONS OF MONEY As explained above, the first and foremost role of money is that it acts as a medium of exchange.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "Barter exchanges become extremely difficult in a large economy because of the high costs people would have to incur looking for suitable persons to exchange their surpluses.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "The value of all goods and services can be expressed in monetary units.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Following are the main functions of money in a modern economy. 3.1 FUNCTIONS OF MONEY As explained above, the first and foremost role of money is that it acts as a medium of exchange. Barter exchanges become extremely difficult in a large economy because of the high costs people would have to incur looking for suitable persons to exchange their surpluses. The value of all goods and services can be expressed in monetary units.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-05-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "When we say that the value of a certain wristwatch is Rs 500 we mean that the wristwatch can be exchanged for 500 units of money, where a unit of money is rupee in this case.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "If the price of a pencil is Rs 2 and that of a pen is Rs 10 we can calculate the relative price of a pen with respect to a pencil, viz.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "The same notion can be used to calculate the value of Reprint 2026-27 37 37 37 37 37 Money and Banking money itself with respect to other commodities.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "In the above example, a rupee is worth 1 ÷ 2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "When we say that the value of a certain wristwatch is Rs 500 we mean that the wristwatch can be exchanged for 500 units of money, where a unit of money is rupee in this case. If the price of a pencil is Rs 2 and that of a pen is Rs 10 we can calculate the relative price of a pen with respect to a pencil, viz. The same notion can be used to calculate the value of Reprint 2026-27 37 37 37 37 37 Money and Banking money itself with respect to other commodities. In the above example, a rupee is worth 1 ÷ 2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-06-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "We call it a deterioration in the purchasing power of money.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "It is difficult to carry forward one's wealth under the barter system.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "Suppose you have an endowment of rice which you do not wish to consume today entirely.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "You may regard this stock of surplus rice as an asset which you may wish to consume, or even sell off, for acquiring other commodities at some future date.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "We call it a deterioration in the purchasing power of money. It is difficult to carry forward one's wealth under the barter system. Suppose you have an endowment of rice which you do not wish to consume today entirely. You may regard this stock of surplus rice as an asset which you may wish to consume, or even sell off, for acquiring other commodities at some future date.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-07-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange.",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "In an economy which consists of only one individual there cannot be any exchange of commodities and hence there is no role for money.",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "Even if there is more than one individual but these individuals do not take part in market transactions, example: family living on an isolated island, money has no function for them.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "However, as soon as there is more than one economic agent who engage themselves in transactions through the market, money becomes an important instrument for facilitating these exchanges.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange. In an economy which consists of only one individual there cannot be any exchange of commodities and hence there is no role for money. Even if there is more than one individual but these individuals do not take part in market transactions, example: family living on an isolated island, money has no function for them. However, as soon as there is more than one economic agent who engage themselves in transactions through the market, money becomes an important instrument for facilitating these exchanges.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-08-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "Economic exchanges without the mediation of money are referred to as barter exchanges.",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "However, they presume the rather improbable double coincidence of wants.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "Consider, for example, an individual who has a surplus of rice which she wishes to exchange for clothing.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "If she is not lucky enough she may not be able to find another person who has the diametrically opposite demand for rice with a surplus of clothing to offer in exchange.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Economic exchanges without the mediation of money are referred to as barter exchanges. However, they presume the rather improbable double coincidence of wants. Consider, for example, an individual who has a surplus of rice which she wishes to exchange for clothing. If she is not lucky enough she may not be able to find another person who has the diametrically opposite demand for rice with a surplus of clothing to offer in exchange.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-09-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "List key points from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "The search costs may become prohibitive as the number of individuals increases.",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "Thus, to smoothen the transaction, an intermediate good is necessary which is acceptable to both parties.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "The individuals can then sell their produces for money and use this money to purchase the commodities they need.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "Though facilitation of exchanges is considered to be the principal role of money, it serves other purposes as well.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The search costs may become prohibitive as the number of individuals increases. Thus, to smoothen the transaction, an intermediate good is necessary which is acceptable to both parties. The individuals can then sell their produces for money and use this money to purchase the commodities they need. Though facilitation of exchanges is considered to be the principal role of money, it serves other purposes as well.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-10-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "Following are the main functions of money in a modern economy.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "3.1 FUNCTIONS OF MONEY As explained above, the first and foremost role of money is that it acts as a medium of exchange.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "Barter exchanges become extremely difficult in a large economy because of the high costs people would have to incur looking for suitable persons to exchange their surpluses.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "The value of all goods and services can be expressed in monetary units.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Following are the main functions of money in a modern economy. 3.1 FUNCTIONS OF MONEY As explained above, the first and foremost role of money is that it acts as a medium of exchange. Barter exchanges become extremely difficult in a large economy because of the high costs people would have to incur looking for suitable persons to exchange their surpluses. The value of all goods and services can be expressed in monetary units.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-11-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 3 to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "When we say that the value of a certain wristwatch is Rs 500 we mean that the wristwatch can be exchanged for 500 units of money, where a unit of money is rupee in this case.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "If the price of a pencil is Rs 2 and that of a pen is Rs 10 we can calculate the relative price of a pen with respect to a pencil, viz.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "The same notion can be used to calculate the value of Reprint 2026-27 37 37 37 37 37 Money and Banking money itself with respect to other commodities.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "In the above example, a rupee is worth 1 ÷ 2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "When we say that the value of a certain wristwatch is Rs 500 we mean that the wristwatch can be exchanged for 500 units of money, where a unit of money is rupee in this case. If the price of a pencil is Rs 2 and that of a pen is Rs 10 we can calculate the relative price of a pen with respect to a pencil, viz. The same notion can be used to calculate the value of Reprint 2026-27 37 37 37 37 37 Money and Banking money itself with respect to other commodities. In the above example, a rupee is worth 1 ÷ 2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-12-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "We call it a deterioration in the purchasing power of money.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "It is difficult to carry forward one's wealth under the barter system.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "Suppose you have an endowment of rice which you do not wish to consume today entirely.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "You may regard this stock of surplus rice as an asset which you may wish to consume, or even sell off, for acquiring other commodities at some future date.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "But rice is a perishable item and cannot be stored beyond a certain period.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "We call it a deterioration in the purchasing power of money. It is difficult to carry forward one's wealth under the barter system. Suppose you have an endowment of rice which you do not wish to consume today entirely. You may regard this stock of surplus rice as an asset which you may wish to consume, or even sell off, for acquiring other commodities at some future date. But rice is a perishable item and cannot be stored beyond a certain period.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-13-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Build a definition from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange.",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "In an economy which consists of only one individual there cannot be any exchange of commodities and hence there is no role for money.",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "Even if there is more than one individual but these individuals do not take part in market transactions, example: family living on an isolated island, money has no function for them.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "However, as soon as there is more than one economic agent who engage themselves in transactions through the market, money becomes an important instrument for facilitating these exchanges.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange. In an economy which consists of only one individual there cannot be any exchange of commodities and hence there is no role for money. Even if there is more than one individual but these individuals do not take part in market transactions, example: family living on an isolated island, money has no function for them. However, as soon as there is more than one economic agent who engage themselves in transactions through the market, money becomes an important instrument for facilitating these exchanges.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-14-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "Economic exchanges without the mediation of money are referred to as barter exchanges.",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "However, they presume the rather improbable double coincidence of wants.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "Consider, for example, an individual who has a surplus of rice which she wishes to exchange for clothing.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "If she is not lucky enough she may not be able to find another person who has the diametrically opposite demand for rice with a surplus of clothing to offer in exchange.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "The search costs may become prohibitive as the number of individuals increases.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Economic exchanges without the mediation of money are referred to as barter exchanges. However, they presume the rather improbable double coincidence of wants. Consider, for example, an individual who has a surplus of rice which she wishes to exchange for clothing. If she is not lucky enough she may not be able to find another person who has the diametrically opposite demand for rice with a surplus of clothing to offer in exchange. The search costs may become prohibitive as the number of individuals increases.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-15-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "Thus, to smoothen the transaction, an intermediate good is necessary which is acceptable to both parties.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "The individuals can then sell their produces for money and use this money to purchase the commodities they need.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "Though facilitation of exchanges is considered to be the principal role of money, it serves other purposes as well.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Thus, to smoothen the transaction, an intermediate good is necessary which is acceptable to both parties. The individuals can then sell their produces for money and use this money to purchase the commodities they need. Though facilitation of exchanges is considered to be the principal role of money, it serves other purposes as well.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-16-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "Following are the main functions of money in a modern economy.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "3.1 FUNCTIONS OF MONEY As explained above, the first and foremost role of money is that it acts as a medium of exchange.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "Barter exchanges become extremely difficult in a large economy because of the high costs people would have to incur looking for suitable persons to exchange their surpluses.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Following are the main functions of money in a modern economy. 3.1 FUNCTIONS OF MONEY As explained above, the first and foremost role of money is that it acts as a medium of exchange. Barter exchanges become extremely difficult in a large economy because of the high costs people would have to incur looking for suitable persons to exchange their surpluses.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-17-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "The value of all goods and services can be expressed in monetary units.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "When we say that the value of a certain wristwatch is Rs 500 we mean that the wristwatch can be exchanged for 500 units of money, where a unit of money is rupee in this case.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "If the price of a pencil is Rs 2 and that of a pen is Rs 10 we can calculate the relative price of a pen with respect to a pencil, viz.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "The same notion can be used to calculate the value of Reprint 2026-27 37 37 37 37 37 Money and Banking money itself with respect to other commodities.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "The value of all goods and services can be expressed in monetary units. When we say that the value of a certain wristwatch is Rs 500 we mean that the wristwatch can be exchanged for 500 units of money, where a unit of money is rupee in this case. If the price of a pencil is Rs 2 and that of a pen is Rs 10 we can calculate the relative price of a pen with respect to a pencil, viz. The same notion can be used to calculate the value of Reprint 2026-27 37 37 37 37 37 Money and Banking money itself with respect to other commodities.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-18-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Choose the correct ending for an answer on Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "In the above example, a rupee is worth 1 ÷ 2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen.",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "We call it a deterioration in the purchasing power of money.",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "It is difficult to carry forward one's wealth under the barter system.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Ending"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "In the above example, a rupee is worth 1 ÷ 2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen. We call it a deterioration in the purchasing power of money. It is difficult to carry forward one's wealth under the barter system.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-19-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "Suppose you have an endowment of rice which you do not wish to consume today entirely.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "You may regard this stock of surplus rice as an asset which you may wish to consume, or even sell off, for acquiring other commodities at some future date.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "But rice is a perishable item and cannot be stored beyond a certain period.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "Also, holding the stock of rice requires a lot of space.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Suppose you have an endowment of rice which you do not wish to consume today entirely. You may regard this stock of surplus rice as an asset which you may wish to consume, or even sell off, for acquiring other commodities at some future date. But rice is a perishable item and cannot be stored beyond a certain period. Also, holding the stock of rice requires a lot of space.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-20-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "You may have to spend considerable time and resources looking for people with a demand for rice when you wish to exchange your stock for buying other commodities.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "This problem can be solved if you sell your rice for money.",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "You may have to spend considerable time and resources looking for people with a demand for rice when you wish to exchange your stock for buying other commodities. This problem can be solved if you sell your rice for money.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-21-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 3.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "Money is not perishable and its storage costs are also considerably lower.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "Thus money can act as a store of value for individuals.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 3 should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Money is not perishable and its storage costs are also considerably lower. Thus money can act as a store of value for individuals. 36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-12-economics-chapter-3-22-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-e-1",
+          "text": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange.",
+          "order": 1,
+          "section": "Introduction"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-2",
+          "text": "In an economy which consists of only one individual there cannot be any exchange of commodities and hence there is no role for money.",
+          "order": 2,
+          "section": "Key idea 1"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-3",
+          "text": "Even if there is more than one individual but these individuals do not take part in market transactions, example: family living on an isolated island, money has no function for them.",
+          "order": 3,
+          "section": "Key idea 2"
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-4",
+          "text": "However, as soon as there is more than one economic agent who engage themselves in transactions through the market, money becomes an important instrument for facilitating these exchanges.",
+          "order": 4,
+          "section": "Conclusion"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-e-1",
+          "chapter-q01-chapter-overview-e-2",
+          "chapter-q01-chapter-overview-e-3",
+          "chapter-q01-chapter-overview-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange. In an economy which consists of only one individual there cannot be any exchange of commodities and hence there is no role for money. Even if there is more than one individual but these individuals do not take part in market transactions, example: family living on an isolated island, money has no function for them. However, as soon as there is more than one economic agent who engage themselves in transactions through the market, money becomes an important instrument for facilitating these exchanges.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-e-1",
+        "chapter-q01-chapter-overview-e-2",
+        "chapter-q01-chapter-overview-e-3",
+        "chapter-q01-chapter-overview-e-4"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-23-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-m-1a",
+          "text": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-1b",
+          "text": "Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2a",
+          "text": "In an economy which consists of only one individual there cannot be",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-2b",
+          "text": "any exchange of commodities and hence there is no role for money.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3a",
+          "text": "Even if there is more than one individual but these individuals do not take part",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-3b",
+          "text": "in market transactions, example: family living on an isolated island, money has no function for them.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4a",
+          "text": "However, as soon as there is more than one economic agent who engage themselves",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-4b",
+          "text": "in transactions through the market, money becomes an important instrument for facilitating these exchanges.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-chapter-overview-m-1a",
+          "chapter-q01-chapter-overview-m-1b",
+          "chapter-q01-chapter-overview-m-2a",
+          "chapter-q01-chapter-overview-m-2b",
+          "chapter-q01-chapter-overview-m-3a",
+          "chapter-q01-chapter-overview-m-3b",
+          "chapter-q01-chapter-overview-m-4a",
+          "chapter-q01-chapter-overview-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange. In an economy which consists of only one individual there cannot be any exchange of commodities and hence there is no role for money. Even if there is more than one individual but these individuals do not take part in market transactions, example: family living on an isolated island, money has no function for them. However, as soon as there is more than one economic agent who engage themselves in transactions through the market, money becomes an important instrument for facilitating these exchanges.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-m-1a",
+        "chapter-q01-chapter-overview-m-1b",
+        "chapter-q01-chapter-overview-m-2a",
+        "chapter-q01-chapter-overview-m-2b",
+        "chapter-q01-chapter-overview-m-3a",
+        "chapter-q01-chapter-overview-m-3b",
+        "chapter-q01-chapter-overview-m-4a",
+        "chapter-q01-chapter-overview-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-24-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain the main ideas of Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Introduction",
+        "Key idea 1",
+        "Key idea 2",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-chapter-overview-d-1",
+          "text": "introduction",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-2",
+          "text": "key idea 1",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-3",
+          "text": "key idea 2",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-4",
+          "text": "conclusion",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-5",
+          "text": "36",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-6",
+          "text": "in",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-chapter-overview-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-chapter-overview-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-chapter-overview-d-1",
+          "chapter-q01-chapter-overview-d-2",
+          "chapter-q01-chapter-overview-d-3",
+          "chapter-q01-chapter-overview-d-4",
+          "chapter-q01-chapter-overview-d-5",
+          "chapter-q01-chapter-overview-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "36 36 36 36 36 Introductory Macroeconomics Money and Banking Money and Banking Money and Banking Money and Banking Money and Banking Money is the commonly accepted medium of exchange. In an economy which consists of only one individual there cannot be any exchange of commodities and hence there is no role for money. Even if there is more than one individual but these individuals do not take part in market transactions, example: family living on an isolated island, money has no function for them. However, as soon as there is more than one economic agent who engage themselves in transactions through the market, money becomes an important instrument for facilitating these exchanges.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-chapter-overview-d-1",
+        "chapter-q01-chapter-overview-d-2",
+        "chapter-q01-chapter-overview-d-3",
+        "chapter-q01-chapter-overview-d-4",
+        "chapter-q01-chapter-overview-d-5",
+        "chapter-q01-chapter-overview-d-6"
+      ],
+      "questionGroupId": "chapter-q01-chapter-overview",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-25-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-e-1",
+          "text": "Economic exchanges without the mediation of money are referred to as barter exchanges.",
+          "order": 1,
+          "section": "First"
+        },
+        {
+          "id": "chapter-q02-important-process-e-2",
+          "text": "However, they presume the rather improbable double coincidence of wants.",
+          "order": 2,
+          "section": "Next"
+        },
+        {
+          "id": "chapter-q02-important-process-e-3",
+          "text": "Consider, for example, an individual who has a surplus of rice which she wishes to exchange for clothing.",
+          "order": 3,
+          "section": "Then"
+        },
+        {
+          "id": "chapter-q02-important-process-e-4",
+          "text": "If she is not lucky enough she may not be able to find another person who has the diametrically opposite demand for rice with a surplus of clothing to offer in exchange.",
+          "order": 4,
+          "section": "Finally"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-important-process-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-e-1",
+          "chapter-q02-important-process-e-2",
+          "chapter-q02-important-process-e-3",
+          "chapter-q02-important-process-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Economic exchanges without the mediation of money are referred to as barter exchanges. However, they presume the rather improbable double coincidence of wants. Consider, for example, an individual who has a surplus of rice which she wishes to exchange for clothing. If she is not lucky enough she may not be able to find another person who has the diametrically opposite demand for rice with a surplus of clothing to offer in exchange.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-e-1",
+        "chapter-q02-important-process-e-2",
+        "chapter-q02-important-process-e-3",
+        "chapter-q02-important-process-e-4"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-26-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-m-1a",
+          "text": "Economic exchanges without the mediation of",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-m-1b",
+          "text": "money are referred to as barter exchanges.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-m-2a",
+          "text": "However, they presume the rather",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-m-2b",
+          "text": "improbable double coincidence of wants.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-m-3a",
+          "text": "Consider, for example, an individual who has a surplus",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-m-3b",
+          "text": "of rice which she wishes to exchange for clothing.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-important-process-m-4a",
+          "text": "If she is not lucky enough she may not be able to find another person who",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-important-process-m-4b",
+          "text": "has the diametrically opposite demand for rice with a surplus of clothing to offer in exchange.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-important-process-m-1a",
+          "chapter-q02-important-process-m-1b",
+          "chapter-q02-important-process-m-2a",
+          "chapter-q02-important-process-m-2b",
+          "chapter-q02-important-process-m-3a",
+          "chapter-q02-important-process-m-3b",
+          "chapter-q02-important-process-m-4a",
+          "chapter-q02-important-process-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Economic exchanges without the mediation of money are referred to as barter exchanges. However, they presume the rather improbable double coincidence of wants. Consider, for example, an individual who has a surplus of rice which she wishes to exchange for clothing. If she is not lucky enough she may not be able to find another person who has the diametrically opposite demand for rice with a surplus of clothing to offer in exchange.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-m-1a",
+        "chapter-q02-important-process-m-1b",
+        "chapter-q02-important-process-m-2a",
+        "chapter-q02-important-process-m-2b",
+        "chapter-q02-important-process-m-3a",
+        "chapter-q02-important-process-m-3b",
+        "chapter-q02-important-process-m-4a",
+        "chapter-q02-important-process-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-27-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Arrange and explain an important process from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Then",
+        "Finally"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-important-process-d-1",
+          "text": "first",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-important-process-d-2",
+          "text": "next",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-important-process-d-3",
+          "text": "then",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-important-process-d-4",
+          "text": "finally",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-important-process-d-5",
+          "text": "economic",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-important-process-d-6",
+          "text": "however,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-important-process-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-important-process-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-important-process-d-1",
+          "chapter-q02-important-process-d-2",
+          "chapter-q02-important-process-d-3",
+          "chapter-q02-important-process-d-4",
+          "chapter-q02-important-process-d-5",
+          "chapter-q02-important-process-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Economic exchanges without the mediation of money are referred to as barter exchanges. However, they presume the rather improbable double coincidence of wants. Consider, for example, an individual who has a surplus of rice which she wishes to exchange for clothing. If she is not lucky enough she may not be able to find another person who has the diametrically opposite demand for rice with a surplus of clothing to offer in exchange.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-important-process-d-1",
+        "chapter-q02-important-process-d-2",
+        "chapter-q02-important-process-d-3",
+        "chapter-q02-important-process-d-4",
+        "chapter-q02-important-process-d-5",
+        "chapter-q02-important-process-d-6"
+      ],
+      "questionGroupId": "chapter-q02-important-process",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "sequence",
+        "layoutLabel": "Sequence Builder",
+        "primaryPracticeType": "process_sequence",
+        "slotStrategy": "ordered_placeholders",
+        "recommendedLayout": "numbered vertical slots with exact-order validation"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-28-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-e-1",
+          "text": "The search costs may become prohibitive as the number of individuals increases.",
+          "order": 1,
+          "section": "Cause"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-2",
+          "text": "Thus, to smoothen the transaction, an intermediate good is necessary which is acceptable to both parties.",
+          "order": 2,
+          "section": "Effect"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-3",
+          "text": "The individuals can then sell their produces for money and use this money to purchase the commodities they need.",
+          "order": 3,
+          "section": "Reason"
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-4",
+          "text": "Though facilitation of exchanges is considered to be the principal role of money, it serves other purposes as well.",
+          "order": 4,
+          "section": "Result"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cause-effect-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-e-1",
+          "chapter-q03-cause-effect-e-2",
+          "chapter-q03-cause-effect-e-3",
+          "chapter-q03-cause-effect-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The search costs may become prohibitive as the number of individuals increases. Thus, to smoothen the transaction, an intermediate good is necessary which is acceptable to both parties. The individuals can then sell their produces for money and use this money to purchase the commodities they need. Though facilitation of exchanges is considered to be the principal role of money, it serves other purposes as well.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-e-1",
+        "chapter-q03-cause-effect-e-2",
+        "chapter-q03-cause-effect-e-3",
+        "chapter-q03-cause-effect-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-29-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-m-1a",
+          "text": "The search costs may become prohibitive",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-1b",
+          "text": "as the number of individuals increases.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2a",
+          "text": "Thus, to smoothen the transaction, an intermediate good",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-2b",
+          "text": "is necessary which is acceptable to both parties.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3a",
+          "text": "The individuals can then sell their produces for money",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-3b",
+          "text": "and use this money to purchase the commodities they need.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4a",
+          "text": "Though facilitation of exchanges is considered to be the",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-4b",
+          "text": "principal role of money, it serves other purposes as well.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cause-effect-m-1a",
+          "chapter-q03-cause-effect-m-1b",
+          "chapter-q03-cause-effect-m-2a",
+          "chapter-q03-cause-effect-m-2b",
+          "chapter-q03-cause-effect-m-3a",
+          "chapter-q03-cause-effect-m-3b",
+          "chapter-q03-cause-effect-m-4a",
+          "chapter-q03-cause-effect-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The search costs may become prohibitive as the number of individuals increases. Thus, to smoothen the transaction, an intermediate good is necessary which is acceptable to both parties. The individuals can then sell their produces for money and use this money to purchase the commodities they need. Though facilitation of exchanges is considered to be the principal role of money, it serves other purposes as well.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-m-1a",
+        "chapter-q03-cause-effect-m-1b",
+        "chapter-q03-cause-effect-m-2a",
+        "chapter-q03-cause-effect-m-2b",
+        "chapter-q03-cause-effect-m-3a",
+        "chapter-q03-cause-effect-m-3b",
+        "chapter-q03-cause-effect-m-4a",
+        "chapter-q03-cause-effect-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-30-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Cause",
+        "Effect",
+        "Reason",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cause-effect-d-1",
+          "text": "cause",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-2",
+          "text": "effect",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-3",
+          "text": "reason",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-4",
+          "text": "result",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-5",
+          "text": "the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-6",
+          "text": "thus,",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cause-effect-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cause-effect-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cause-effect-d-1",
+          "chapter-q03-cause-effect-d-2",
+          "chapter-q03-cause-effect-d-3",
+          "chapter-q03-cause-effect-d-4",
+          "chapter-q03-cause-effect-d-5",
+          "chapter-q03-cause-effect-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The search costs may become prohibitive as the number of individuals increases. Thus, to smoothen the transaction, an intermediate good is necessary which is acceptable to both parties. The individuals can then sell their produces for money and use this money to purchase the commodities they need. Though facilitation of exchanges is considered to be the principal role of money, it serves other purposes as well.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cause-effect-d-1",
+        "chapter-q03-cause-effect-d-2",
+        "chapter-q03-cause-effect-d-3",
+        "chapter-q03-cause-effect-d-4",
+        "chapter-q03-cause-effect-d-5",
+        "chapter-q03-cause-effect-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cause-effect",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "cause_effect",
+        "layoutLabel": "Cause-Effect Builder",
+        "primaryPracticeType": "cause_effect",
+        "slotStrategy": "paired_connections",
+        "recommendedLayout": "cause column, effect column and explanation box"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-31-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-e-1",
+          "text": "Following are the main functions of money in a modern economy.",
+          "order": 1,
+          "section": "Term"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-2",
+          "text": "3.1 FUNCTIONS OF MONEY As explained above, the first and foremost role of money is that it acts as a medium of exchange.",
+          "order": 2,
+          "section": "Meaning"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-3",
+          "text": "Barter exchanges become extremely difficult in a large economy because of the high costs people would have to incur looking for suitable persons to exchange their surpluses.",
+          "order": 3,
+          "section": "Example"
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-4",
+          "text": "The value of all goods and services can be expressed in monetary units.",
+          "order": 4,
+          "section": "Use"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-e-1",
+          "chapter-q04-definition-and-example-e-2",
+          "chapter-q04-definition-and-example-e-3",
+          "chapter-q04-definition-and-example-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Following are the main functions of money in a modern economy. 3.1 FUNCTIONS OF MONEY As explained above, the first and foremost role of money is that it acts as a medium of exchange. Barter exchanges become extremely difficult in a large economy because of the high costs people would have to incur looking for suitable persons to exchange their surpluses. The value of all goods and services can be expressed in monetary units.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-e-1",
+        "chapter-q04-definition-and-example-e-2",
+        "chapter-q04-definition-and-example-e-3",
+        "chapter-q04-definition-and-example-e-4"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-32-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-m-1a",
+          "text": "Following are the main functions",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-1b",
+          "text": "of money in a modern economy.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2a",
+          "text": "3.1 FUNCTIONS OF MONEY As explained above, the first and foremost",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-2b",
+          "text": "role of money is that it acts as a medium of exchange.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3a",
+          "text": "Barter exchanges become extremely difficult in a large economy because of the high",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-3b",
+          "text": "costs people would have to incur looking for suitable persons to exchange their surpluses.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4a",
+          "text": "The value of all goods and",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-4b",
+          "text": "services can be expressed in monetary units.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-definition-and-example-m-1a",
+          "chapter-q04-definition-and-example-m-1b",
+          "chapter-q04-definition-and-example-m-2a",
+          "chapter-q04-definition-and-example-m-2b",
+          "chapter-q04-definition-and-example-m-3a",
+          "chapter-q04-definition-and-example-m-3b",
+          "chapter-q04-definition-and-example-m-4a",
+          "chapter-q04-definition-and-example-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Following are the main functions of money in a modern economy. 3.1 FUNCTIONS OF MONEY As explained above, the first and foremost role of money is that it acts as a medium of exchange. Barter exchanges become extremely difficult in a large economy because of the high costs people would have to incur looking for suitable persons to exchange their surpluses. The value of all goods and services can be expressed in monetary units.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-m-1a",
+        "chapter-q04-definition-and-example-m-1b",
+        "chapter-q04-definition-and-example-m-2a",
+        "chapter-q04-definition-and-example-m-2b",
+        "chapter-q04-definition-and-example-m-3a",
+        "chapter-q04-definition-and-example-m-3b",
+        "chapter-q04-definition-and-example-m-4a",
+        "chapter-q04-definition-and-example-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-33-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example",
+        "Use"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-definition-and-example-d-1",
+          "text": "term",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-2",
+          "text": "meaning",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-3",
+          "text": "example",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-4",
+          "text": "use",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-5",
+          "text": "following",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-6",
+          "text": "3.1",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-definition-and-example-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-definition-and-example-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-definition-and-example-d-1",
+          "chapter-q04-definition-and-example-d-2",
+          "chapter-q04-definition-and-example-d-3",
+          "chapter-q04-definition-and-example-d-4",
+          "chapter-q04-definition-and-example-d-5",
+          "chapter-q04-definition-and-example-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Following are the main functions of money in a modern economy. 3.1 FUNCTIONS OF MONEY As explained above, the first and foremost role of money is that it acts as a medium of exchange. Barter exchanges become extremely difficult in a large economy because of the high costs people would have to incur looking for suitable persons to exchange their surpluses. The value of all goods and services can be expressed in monetary units.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-definition-and-example-d-1",
+        "chapter-q04-definition-and-example-d-2",
+        "chapter-q04-definition-and-example-d-3",
+        "chapter-q04-definition-and-example-d-4",
+        "chapter-q04-definition-and-example-d-5",
+        "chapter-q04-definition-and-example-d-6"
+      ],
+      "questionGroupId": "chapter-q04-definition-and-example",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "definition",
+        "layoutLabel": "Definition Builder",
+        "primaryPracticeType": "definition_term",
+        "slotStrategy": "term_definition_parts",
+        "recommendedLayout": "term, key phrase slots, final definition"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-34-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-e-1",
+          "text": "When we say that the value of a certain wristwatch is Rs 500 we mean that the wristwatch can be exchanged for 500 units of money, where a unit of money is rupee in this case.",
+          "order": 1,
+          "section": "Point 1"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-2",
+          "text": "If the price of a pencil is Rs 2 and that of a pen is Rs 10 we can calculate the relative price of a pen with respect to a pencil, viz.",
+          "order": 2,
+          "section": "Point 2"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-3",
+          "text": "The same notion can be used to calculate the value of Reprint 2026-27 37 37 37 37 37 Money and Banking money itself with respect to other commodities.",
+          "order": 3,
+          "section": "Point 3"
+        },
+        {
+          "id": "chapter-q05-short-answer-e-4",
+          "text": "In the above example, a rupee is worth 1 ÷ 2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen.",
+          "order": 4,
+          "section": "Closing"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-e-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q05-short-answer-e-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-e-1",
+          "chapter-q05-short-answer-e-2",
+          "chapter-q05-short-answer-e-3",
+          "chapter-q05-short-answer-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "When we say that the value of a certain wristwatch is Rs 500 we mean that the wristwatch can be exchanged for 500 units of money, where a unit of money is rupee in this case. If the price of a pencil is Rs 2 and that of a pen is Rs 10 we can calculate the relative price of a pen with respect to a pencil, viz. The same notion can be used to calculate the value of Reprint 2026-27 37 37 37 37 37 Money and Banking money itself with respect to other commodities. In the above example, a rupee is worth 1 ÷ 2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-e-1",
+        "chapter-q05-short-answer-e-2",
+        "chapter-q05-short-answer-e-3",
+        "chapter-q05-short-answer-e-4"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-35-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-m-1a",
+          "text": "When we say that the value of a certain wristwatch is Rs 500 we mean that the wristwatch",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-m-1b",
+          "text": "can be exchanged for 500 units of money, where a unit of money is rupee in this case.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2a",
+          "text": "If the price of a pencil is Rs 2 and that of a pen is Rs",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-m-2b",
+          "text": "10 we can calculate the relative price of a pen with respect to a pencil, viz.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3a",
+          "text": "The same notion can be used to calculate the value of Reprint 2026-27 37",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-m-3b",
+          "text": "37 37 37 37 Money and Banking money itself with respect to other commodities.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4a",
+          "text": "In the above example, a rupee is worth 1 ÷",
+          "order": 7
+        },
+        {
+          "id": "chapter-q05-short-answer-m-4b",
+          "text": "2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-m-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-m-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q05-short-answer-m-1a",
+          "chapter-q05-short-answer-m-1b",
+          "chapter-q05-short-answer-m-2a",
+          "chapter-q05-short-answer-m-2b",
+          "chapter-q05-short-answer-m-3a",
+          "chapter-q05-short-answer-m-3b",
+          "chapter-q05-short-answer-m-4a",
+          "chapter-q05-short-answer-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "When we say that the value of a certain wristwatch is Rs 500 we mean that the wristwatch can be exchanged for 500 units of money, where a unit of money is rupee in this case. If the price of a pencil is Rs 2 and that of a pen is Rs 10 we can calculate the relative price of a pen with respect to a pencil, viz. The same notion can be used to calculate the value of Reprint 2026-27 37 37 37 37 37 Money and Banking money itself with respect to other commodities. In the above example, a rupee is worth 1 ÷ 2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-m-1a",
+        "chapter-q05-short-answer-m-1b",
+        "chapter-q05-short-answer-m-2a",
+        "chapter-q05-short-answer-m-2b",
+        "chapter-q05-short-answer-m-3a",
+        "chapter-q05-short-answer-m-3b",
+        "chapter-q05-short-answer-m-4a",
+        "chapter-q05-short-answer-m-4b"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    },
+    {
+      "id": "class-12-economics-chapter-3-36-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Economics",
+      "book": "Economics",
+      "chapter": "Chapter 3",
+      "chapterNumber": 3,
+      "marks": 5,
+      "question": "Write a short answer using key points from Chapter 3.",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3",
+        "Closing"
+      ],
+      "sourceTextSummary": "Generated from Economics, Chapter Chapter 3.",
+      "sourceChapter": "Chapter 3",
+      "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Economics\\leec103.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q05-short-answer-d-1",
+          "text": "point 1",
+          "order": 1
+        },
+        {
+          "id": "chapter-q05-short-answer-d-2",
+          "text": "point 2",
+          "order": 2
+        },
+        {
+          "id": "chapter-q05-short-answer-d-3",
+          "text": "point 3",
+          "order": 3
+        },
+        {
+          "id": "chapter-q05-short-answer-d-4",
+          "text": "closing",
+          "order": 4
+        },
+        {
+          "id": "chapter-q05-short-answer-d-5",
+          "text": "when",
+          "order": 5
+        },
+        {
+          "id": "chapter-q05-short-answer-d-6",
+          "text": "if",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q05-short-answer-d-x1",
+          "text": "Chapter 3 is unrelated to this subject.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x2",
+          "text": "The answer should ignore the facts given in the chapter.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q05-short-answer-d-x3",
+          "text": "Only one random word is enough for a complete answer.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q05-short-answer-d-1",
+          "chapter-q05-short-answer-d-2",
+          "chapter-q05-short-answer-d-3",
+          "chapter-q05-short-answer-d-4",
+          "chapter-q05-short-answer-d-5",
+          "chapter-q05-short-answer-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "When we say that the value of a certain wristwatch is Rs 500 we mean that the wristwatch can be exchanged for 500 units of money, where a unit of money is rupee in this case. If the price of a pencil is Rs 2 and that of a pen is Rs 10 we can calculate the relative price of a pen with respect to a pencil, viz. The same notion can be used to calculate the value of Reprint 2026-27 37 37 37 37 37 Money and Banking money itself with respect to other commodities. In the above example, a rupee is worth 1 ÷ 2 = 0.5 pencil or 1 ÷ 10 = 0.1 pen.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q05-short-answer-d-1",
+        "chapter-q05-short-answer-d-2",
+        "chapter-q05-short-answer-d-3",
+        "chapter-q05-short-answer-d-4",
+        "chapter-q05-short-answer-d-5",
+        "chapter-q05-short-answer-d-6"
+      ],
+      "questionGroupId": "chapter-q05-short-answer",
+      "chapterQuestionNumber": 5,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      }
+    }
+  ]
+}
