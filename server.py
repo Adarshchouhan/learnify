@@ -37,9 +37,14 @@ def load_env_file(path: Path) -> None:
 load_env_file(ROOT / ".env")
 load_env_file(ROOT / ".env.example")
 
+IS_SERVERLESS = bool(
+    os.environ.get("VERCEL")
+    or os.environ.get("AWS_LAMBDA_FUNCTION_NAME")
+    or str(ROOT).replace("\\", "/").startswith("/var/task")
+)
 DATABASE_URL = os.environ.get("LEARNIFY_DATABASE_URL")
 if not DATABASE_URL:
-    DATABASE_URL = "sqlite:////tmp/learnify.sqlite3" if os.environ.get("VERCEL") else "sqlite:///data/learnify.sqlite3"
+    DATABASE_URL = "sqlite:////tmp/learnify.sqlite3" if IS_SERVERLESS else "sqlite:///data/learnify.sqlite3"
 if DATABASE_URL.startswith("sqlite:///"):
     configured_db = Path(DATABASE_URL.removeprefix("sqlite:///"))
     DB_PATH = configured_db if configured_db.is_absolute() else ROOT / configured_db
@@ -81,7 +86,7 @@ def json_dumps(data: object) -> bytes:
 
 
 def remote_data_enabled() -> bool:
-    return bool(os.environ.get("VERCEL") or os.environ.get("LEARNIFY_REMOTE_DATA_BASE"))
+    return bool(IS_SERVERLESS or os.environ.get("LEARNIFY_REMOTE_DATA_BASE"))
 
 
 def load_json_resource(path: Path) -> object:
@@ -100,6 +105,7 @@ def load_json_resource(path: Path) -> object:
 
 def init_db() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+    DB_PATH.parent.mkdir(parents=True, exist_ok=True)
     with sqlite3.connect(DB_PATH) as conn:
         conn.execute("PRAGMA journal_mode=WAL")
         conn.execute("PRAGMA foreign_keys=ON")
