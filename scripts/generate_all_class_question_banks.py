@@ -98,6 +98,9 @@ CORE_SUBJECTS_BY_CLASS = {
 
 BAD_QUESTION_PATTERNS = [
     r"\bthis question paper contains\b",
+    r"\bthis question paper is divided\b",
+    r"\bdivided into\s+two\s+parts\b",
+    r"\bpart\s+a\s+and\s+b\b",
     r"\ball questions are compulsory\b",
     r"\bpart\s*-\s*[ab]\b.*\bcompulsory\b",
     r"\bthere is no overall choice\b",
@@ -105,6 +108,9 @@ BAD_QUESTION_PATTERNS = [
     r"\bquestion nos?\.?\s*\d+",
     r"\bquestions?\s+from\s+\d+",
     r"\bquestions?\s+nos?\.?\s+from\b",
+    r"\bquestions?\s+\d+\s+to\s+\d+\b.*\bmarks?\s+each\b",
+    r"\bquestion\s+\d+\s+to\s+\d+\b.*\bcarr(?:y|ies)\b.*\bmarks?\s+each\b",
+    r"\bcarr(?:y|ies)\s+\d+\s+marks?\s+each\b",
     r"\bmaximum marks\b",
     r"\btime allowed\b",
     r"\bgeneral instructions\b",
@@ -119,7 +125,27 @@ BAD_QUESTION_PATTERNS = [
     r"\bhindi antra\b",
     r"\bto bank a/c\b",
     r"\bby balance b/d\b",
+    r"\bcomputer science\s*\(c\+\+\)",
+    r"\bcomputer science\s*\(python\)",
+    r"\bstay updated\b",
 ]
+
+
+SUBJECT_MARKERS = {
+    "accountancy": ["accountancy", "accounting", "shares", "debentures", "ledger", "journal", "balance sheet", "cash flow"],
+    "biology": ["biology", "genetics", "ecology", "photosynthesis", "respiration", "plant", "animal", "organism"],
+    "business studies": ["business studies", "management", "marketing", "staffing", "organising", "planning"],
+    "chemistry": ["chemistry", "chemical", "molecule", "reaction", "compound", "acid", "base", "organic"],
+    "computer science": ["computer science", "python", "c++", "program", "database", "sql", "network"],
+    "economics": ["economics", "demand", "supply", "income", "market", "inflation", "national income"],
+    "english": ["english", "poem", "poet", "story", "chapter", "author", "narrator", "literary"],
+    "geography": ["geography", "population", "resource", "map", "climate", "human geography"],
+    "history": ["history", "colonial", "nationalism", "revolt", "movement", "empire"],
+    "mathematics": ["mathematics", "matrix", "determinant", "vector", "function", "probability", "calculus"],
+    "physical education": ["physical education", "sports", "fitness", "training", "asana", "yoga"],
+    "physics": ["physics", "electric", "magnetic", "ray", "lens", "force", "charge", "current"],
+    "political science": ["political science", "constitution", "democracy", "cold war", "rights", "politics"],
+}
 
 
 def canonical_subject(subject: str) -> str:
@@ -127,9 +153,44 @@ def canonical_subject(subject: str) -> str:
     return SUBJECT_ALIASES.get(cleaned, cleaned)
 
 
+def mojibake_score(value: str) -> int:
+    bad_starters = {"ð", "Ð", "Î", "î", "Ã", "ã", "Â", "â"}
+    return sum(1 for char in value if char in bad_starters or 0x80 <= ord(char) <= 0x9F)
+
+
+def repair_mojibake(value: str) -> str:
+    best = value
+    best_score = mojibake_score(value)
+    for encoding in ("cp1252", "latin-1"):
+        try:
+            repaired = value.encode(encoding).decode("utf-8")
+        except (UnicodeEncodeError, UnicodeDecodeError):
+            continue
+        score = mojibake_score(repaired)
+        if score < best_score:
+            best = repaired
+            best_score = score
+    return best
+
+
 def clean_text(value: str | None, limit: int = 420) -> str:
     text = re.sub(r"\s+", " ", value or "").strip()
+    text = repair_mojibake(text)
     text = text.replace("\uf02d", "-").replace("\uf0a7", "-")
+    replacements = {
+        "₹": "Rs.",
+        "â‚¹": "Rs.",
+        "â€™": "'",
+        "â€œ": '"',
+        "â€": '"',
+        "â€“": "-",
+        "â€”": "-",
+        "Â½": "1/2",
+        "ï‚®": "-",
+        "Â": "",
+    }
+    for bad, good in replacements.items():
+        text = text.replace(bad, good)
     text = text.strip(" \t\r\n")
     if len(text) > limit:
         text = text[:limit].rstrip(" ,;:-") + "..."
@@ -142,6 +203,10 @@ def is_usable_question_row(row: sqlite3.Row, class_level: int, subject: str) -> 
     question = clean_text(row["question_text"], 1200).lower()
     solution = clean_text(row["solution_text"], 1200).lower()
     if len(question) < 35:
+        return False
+    if question.count(".....") >= 1 or question.count("____") >= 2:
+        return False
+    if len(re.sub(r"[\W_]+", "", question)) < 24:
         return False
     if not solution or solution.startswith("model solution for"):
         return False
@@ -162,6 +227,12 @@ def is_usable_question_row(row: sqlite3.Row, class_level: int, subject: str) -> 
         return False
     if re.fullmatch(r"[a-z ]{3,30}", solution.strip(" .:-")):
         return False
+    if class_level >= 11 and len(solution) < 40 and len(question) < 130:
+        return False
+    if class_level >= 11 and re.match(r"^[a-d]\s*[-–]", solution.strip(), re.IGNORECASE):
+        return False
+    if mojibake_score(question) > 8 or mojibake_score(solution) > 8:
+        return False
     if "can be explained as a core idea in" in solution:
         return False
     combined = f"{question} {solution}"
@@ -170,11 +241,40 @@ def is_usable_question_row(row: sqlite3.Row, class_level: int, subject: str) -> 
     if class_level >= 11 and "class 12" in solution and class_level == 11:
         return False
     normalized_subject = subject.lower()
+    subject_key = next((key for key in SUBJECT_MARKERS if key in normalized_subject), normalized_subject)
+    for other_subject, markers in SUBJECT_MARKERS.items():
+        if other_subject == subject_key:
+            continue
+        subject_name_pattern = rf"\b{re.escape(other_subject)}\b"
+        if re.search(subject_name_pattern, solution):
+            return False
+        if any(marker in solution for marker in markers[:3]) and other_subject not in normalized_subject:
+            return False
     mismatch_terms = {
-        "accountancy": ["cold war", "human geography", "plant physiology", "chemical bonding", "chemistry", "genetics", "ecology"],
-        "business studies": ["cold war", "human geography", "plant physiology", "chemical bonding", "genetics", "ecology"],
-        "physics": ["human geography", "cold war", "genetics", "ecology", "photosynthesis"],
-        "chemistry": ["human geography", "cold war", "genetics", "ecology", "photosynthesis"],
+        "accountancy": [
+            "cold war",
+            "human geography",
+            "plant physiology",
+            "chemical bonding",
+            "chemistry",
+            "genetics",
+            "ecology",
+            "computer science",
+            "contemporary politics",
+            "constitutional design",
+        ],
+        "business studies": [
+            "cold war",
+            "human geography",
+            "plant physiology",
+            "chemical bonding",
+            "genetics",
+            "ecology",
+            "computer science",
+            "constitutional design",
+        ],
+        "physics": ["human geography", "cold war", "genetics", "ecology", "photosynthesis", "accountancy"],
+        "chemistry": ["human geography", "cold war", "genetics", "ecology", "photosynthesis", "accountancy"],
         "biology": ["cold war", "human geography"],
         "mathematics": ["ecology", "grammar errors"],
         "english": ["vectors", "ecology"],
@@ -266,9 +366,11 @@ def fetch_question_rows(con: sqlite3.Connection, class_level: int, raw_subjects:
           AND q.question_text NOT LIKE '%General Instructions%'
           AND q.question_text NOT LIKE '%Maximum Marks%'
         ORDER BY
+          CASE WHEN p.paper_kind LIKE 'generated_learnify%' THEN 1 ELSE 0 END,
           CASE WHEN q.solution_text IS NOT NULL AND LENGTH(q.solution_text) > 8 THEN 0 ELSE 1 END,
           p.academic_session DESC,
-          LENGTH(q.question_text)
+          LENGTH(q.solution_text) DESC,
+          LENGTH(q.question_text) DESC
         {sql_limit}
         """,
         params,

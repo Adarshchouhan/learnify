@@ -1,7 +1,7 @@
 {
   "version": 2,
   "generatedBy": "scripts/generate_class12_commerce_practice.py",
-  "generatedAt": 1780902612,
+  "generatedAt": 1780904789,
   "source": {
     "root": "C:\\Users\\acer\\Downloads\\Data Abstractor\\Data Abstractor",
     "pdfPath": "C:\\Users\\acer\\Downloads\\Data Abstractor\\Data Abstractor\\data\\learnify_cbse.sqlite",
@@ -70,43 +70,7 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each",
-      "question": "Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
-      "questionIdentifier": {
-        "label": "Class 12 Urducore Answer Builder",
-        "primaryType": "answer_builder",
-        "slotStrategy": "difficulty-specific-answer-construction",
-        "layout": "easy full sentences, moderate half sentences, difficult case phrases",
-        "id": "commerce_answer_builder"
-      }
-    },
-    {
-      "number": 2,
-      "groupId": "chapter-q02-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-case-application",
-      "question": "List the essential board-answer points for Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
-      "questionIdentifier": {
-        "label": "Class 12 Urducore Answer Builder",
-        "primaryType": "answer_builder",
-        "slotStrategy": "difficulty-specific-answer-construction",
-        "layout": "easy full sentences, moderate half sentences, difficult case phrases",
-        "id": "commerce_answer_builder"
-      }
-    },
-    {
-      "number": 3,
-      "groupId": "chapter-q03-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-calculation-and-data-drill",
-      "question": "Use a calculation/data table to answer a board-style question on Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
-      "questionIdentifier": {
-        "label": "Class 12 Urducore Answer Builder",
-        "primaryType": "answer_builder",
-        "slotStrategy": "difficulty-specific-answer-construction",
-        "layout": "easy full sentences, moderate half sentences, difficult case phrases",
-        "id": "commerce_answer_builder"
-      }
-    },
-    {
-      "number": 4,
-      "groupId": "chapter-q04-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all",
+      "groupId": "chapter-q01-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all",
       "question": "Answer this Class 12 Urducore question: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
       "questionIdentifier": {
         "label": "Class 12 Urducore Answer Builder",
@@ -117,8 +81,8 @@
       }
     },
     {
-      "number": 5,
-      "groupId": "chapter-q05-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-case-application",
+      "number": 2,
+      "groupId": "chapter-q02-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-case-application",
       "question": "List the essential board-answer points for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
       "questionIdentifier": {
         "label": "Class 12 Urducore Answer Builder",
@@ -129,9 +93,45 @@
       }
     },
     {
-      "number": 6,
-      "groupId": "chapter-q06-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-calculation-and-data-drill",
+      "number": 3,
+      "groupId": "chapter-q03-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-calculation-and-data-drill",
       "question": "Use a calculation/data table to answer a board-style question on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
+      "questionIdentifier": {
+        "label": "Class 12 Urducore Answer Builder",
+        "primaryType": "answer_builder",
+        "slotStrategy": "difficulty-specific-answer-construction",
+        "layout": "easy full sentences, moderate half sentences, difficult case phrases",
+        "id": "commerce_answer_builder"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each",
+      "question": "Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "questionIdentifier": {
+        "label": "Class 12 Urducore Answer Builder",
+        "primaryType": "answer_builder",
+        "slotStrategy": "difficulty-specific-answer-construction",
+        "layout": "easy full sentences, moderate half sentences, difficult case phrases",
+        "id": "commerce_answer_builder"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "chapter-q05-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-case-application",
+      "question": "List the essential board-answer points for Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "questionIdentifier": {
+        "label": "Class 12 Urducore Answer Builder",
+        "primaryType": "answer_builder",
+        "slotStrategy": "difficulty-specific-answer-construction",
+        "layout": "easy full sentences, moderate half sentences, difficult case phrases",
+        "id": "commerce_answer_builder"
+      }
+    },
+    {
+      "number": 6,
+      "groupId": "chapter-q06-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-calculation-and-data-drill",
+      "question": "Use a calculation/data table to answer a board-style question on Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "questionIdentifier": {
         "label": "Class 12 Urducore Answer Builder",
         "primaryType": "answer_builder",
@@ -189,7 +189,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 3,
-      "question": "Build a direct Class 12 answer: Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Build a direct Class 12 answer: Answer this Class 12 Urducore question: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
       "instructions": "Arrange full answer sentences in the correct order.",
       "structureHelp": [
         "Concept",
@@ -203,7 +203,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q01-easy-1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1,
           "section": "Concept"
         },
@@ -278,7 +278,7 @@
         "Start with the concept.",
         "Add a reason, then the exam-relevant application."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -297,7 +297,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q01-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each",
+      "questionGroupId": "chapter-q01-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all",
       "chapterQuestionNumber": 1,
       "correctSequence": [
         "c12-urducore-900-q01-easy-1",
@@ -331,12 +331,12 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q01-moderate-1a",
-          "text": "The Class 12 Urducore question asks: Question number 1",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course",
           "order": 1
         },
         {
           "id": "c12-urducore-900-q01-moderate-1b",
-          "text": "to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 2
         },
         {
@@ -442,7 +442,7 @@
         "Look for halves that complete one idea.",
         "Keep the reasoning in board-answer order."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -461,7 +461,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q01-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each",
+      "questionGroupId": "chapter-q01-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all",
       "chapterQuestionNumber": 1,
       "correctSequence": [
         "c12-urducore-900-q01-moderate-1a",
@@ -582,7 +582,7 @@
         "Use Class 12 keywords.",
         "Connect the fact with the situation before concluding."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points. Marks are earned by matching the command word with the correct fact, reason, evidence, or working.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points. Marks are earned by matching the command word with the correct fact, reason, evidence, or working.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -601,7 +601,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q01-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each",
+      "questionGroupId": "chapter-q01-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all",
       "chapterQuestionNumber": 1,
       "correctSequence": [
         "c12-urducore-900-q01-difficult-1",
@@ -623,7 +623,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 3,
-      "question": "Build a direct Class 12 answer: List the essential board-answer points for Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Build a direct Class 12 answer: List the essential board-answer points for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
       "instructions": "Arrange full answer sentences in the correct order.",
       "structureHelp": [
         "Concept",
@@ -637,7 +637,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q02-easy-1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1,
           "section": "Concept"
         },
@@ -712,7 +712,7 @@
         "Start with the concept.",
         "Add a reason, then the exam-relevant application."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -731,7 +731,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q02-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-case-application",
+      "questionGroupId": "chapter-q02-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-case-application",
       "chapterQuestionNumber": 2,
       "correctSequence": [
         "c12-urducore-900-q02-easy-1",
@@ -751,7 +751,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Build an analytical answer: Apply Question number 1 to 50 consists of 50 MCQs of 1 mark each to a practical Class 12 Urducore situation.",
+      "question": "Build an analytical answer: Apply CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All to a practical Class 12 Urducore situation.",
       "instructions": "Pair half-sentence chunks and arrange them into a coherent 4-mark answer.",
       "structureHelp": [
         "Opening",
@@ -765,12 +765,12 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q02-moderate-1a",
-          "text": "The Class 12 Urducore question asks: Question number 1",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course",
           "order": 1
         },
         {
           "id": "c12-urducore-900-q02-moderate-1b",
-          "text": "to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 2
         },
         {
@@ -876,7 +876,7 @@
         "Look for halves that complete one idea.",
         "Keep the reasoning in board-answer order."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -895,7 +895,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q02-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-case-application",
+      "questionGroupId": "chapter-q02-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-case-application",
       "chapterQuestionNumber": 2,
       "correctSequence": [
         "c12-urducore-900-q02-moderate-1a",
@@ -919,7 +919,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 6,
-      "question": "Apply the concept in a case: An examiner frames a competency-based question on Question number 1 to 50 consists of 50 MCQs of 1 mark each. Build a precise answer with concept, reason and implication. What should the answer include?",
+      "question": "Apply the concept in a case: An examiner frames a competency-based question on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All. Build a precise answer with concept, reason and implication. What should the answer include?",
       "instructions": "Select all essential key phrases and leave the misleading options out.",
       "structureHelp": [
         "Identify",
@@ -933,7 +933,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q02-difficult-1",
-          "text": "Question number 1 to 50 consists of 50 MCQs of 1 mark each",
+          "text": "CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All",
           "order": 1
         },
         {
@@ -1016,7 +1016,7 @@
         "Use Class 12 keywords.",
         "Connect the fact with the situation before concluding."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation. Marks are earned by matching the command word with the correct fact, reason, evidence, or working.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation. Marks are earned by matching the command word with the correct fact, reason, evidence, or working.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -1035,7 +1035,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q02-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-case-application",
+      "questionGroupId": "chapter-q02-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-case-application",
       "chapterQuestionNumber": 2,
       "correctSequence": [
         "c12-urducore-900-q02-difficult-1",
@@ -1057,7 +1057,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 3,
-      "question": "Build a direct Class 12 answer: Use a calculation/data table to answer a board-style question on Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Build a direct Class 12 answer: Use a calculation/data table to answer a board-style question on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
       "instructions": "Arrange full answer sentences in the correct order.",
       "structureHelp": [
         "Concept",
@@ -1071,7 +1071,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q03-easy-1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1,
           "section": "Concept"
         },
@@ -1141,7 +1141,7 @@
         "Start with the concept.",
         "Add a reason, then the exam-relevant application."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -1160,7 +1160,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q03-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-calculation-and-data-drill",
+      "questionGroupId": "chapter-q03-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-calculation-and-data-drill",
       "chapterQuestionNumber": 3,
       "correctSequence": [
         "c12-urducore-900-q03-easy-1",
@@ -1180,7 +1180,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Build an analytical answer: Interpret figures or case data connected with Question number 1 to 50 consists of 50 MCQs of 1 mark each and present the working.",
+      "question": "Build an analytical answer: Interpret figures or case data connected with CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All and present the working.",
       "instructions": "Pair half-sentence chunks and arrange them into a coherent 4-mark answer.",
       "structureHelp": [
         "Opening",
@@ -1194,12 +1194,12 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q03-moderate-1a",
-          "text": "The Class 12 Urducore question asks: Question number 1",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course",
           "order": 1
         },
         {
           "id": "c12-urducore-900-q03-moderate-1b",
-          "text": "to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 2
         },
         {
@@ -1300,7 +1300,7 @@
         "Look for halves that complete one idea.",
         "Keep the reasoning in board-answer order."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -1319,7 +1319,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q03-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-calculation-and-data-drill",
+      "questionGroupId": "chapter-q03-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-calculation-and-data-drill",
       "chapterQuestionNumber": 3,
       "correctSequence": [
         "c12-urducore-900-q03-moderate-1a",
@@ -1343,7 +1343,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 6,
-      "question": "Apply the concept in a case: A Class 12 Urducore paper gives data for Question number 1 to 50 consists of 50 MCQs of 1 mark each with blanks for working. Complete the calculation, interpretation and conclusion. What should the answer include?",
+      "question": "Apply the concept in a case: A Class 12 Urducore paper gives data for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All with blanks for working. Complete the calculation, interpretation and conclusion. What should the answer include?",
       "instructions": "Select all essential key phrases and leave the misleading options out.",
       "structureHelp": [
         "Identify",
@@ -1357,7 +1357,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q03-difficult-1",
-          "text": "Question number 1 to 50 consists of 50 MCQs of 1 mark each",
+          "text": "CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All",
           "order": 1
         },
         {
@@ -1435,7 +1435,7 @@
         "Use Class 12 keywords.",
         "Connect the fact with the situation before concluding."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. Conclude with the exact treatment, concept or inference asked in the question.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. Conclude with the exact treatment, concept or inference asked in the question.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -1454,7 +1454,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q03-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-calculation-and-data-drill",
+      "questionGroupId": "chapter-q03-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-calculation-and-data-drill",
       "chapterQuestionNumber": 3,
       "correctSequence": [
         "c12-urducore-900-q03-difficult-1",
@@ -1476,7 +1476,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 3,
-      "question": "Build a direct Class 12 answer: Answer this Class 12 Urducore question: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+      "question": "Build a direct Class 12 answer: Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Arrange full answer sentences in the correct order.",
       "structureHelp": [
         "Concept",
@@ -1490,7 +1490,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q04-easy-1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1,
           "section": "Concept"
         },
@@ -1565,7 +1565,7 @@
         "Start with the concept.",
         "Add a reason, then the exam-relevant application."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -1584,7 +1584,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q04-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all",
+      "questionGroupId": "chapter-q04-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each",
       "chapterQuestionNumber": 4,
       "correctSequence": [
         "c12-urducore-900-q04-easy-1",
@@ -1618,12 +1618,12 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q04-moderate-1a",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course",
+          "text": "The Class 12 Urducore question asks: Question number 1",
           "order": 1
         },
         {
           "id": "c12-urducore-900-q04-moderate-1b",
-          "text": "B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "to 50 consists of 50 MCQs of 1 mark each.",
           "order": 2
         },
         {
@@ -1729,7 +1729,7 @@
         "Look for halves that complete one idea.",
         "Keep the reasoning in board-answer order."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -1748,7 +1748,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q04-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all",
+      "questionGroupId": "chapter-q04-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each",
       "chapterQuestionNumber": 4,
       "correctSequence": [
         "c12-urducore-900-q04-moderate-1a",
@@ -1869,7 +1869,7 @@
         "Use Class 12 keywords.",
         "Connect the fact with the situation before concluding."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points. Marks are earned by matching the command word with the correct fact, reason, evidence, or working.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points. Marks are earned by matching the command word with the correct fact, reason, evidence, or working.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -1888,7 +1888,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q04-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all",
+      "questionGroupId": "chapter-q04-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each",
       "chapterQuestionNumber": 4,
       "correctSequence": [
         "c12-urducore-900-q04-difficult-1",
@@ -1910,7 +1910,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 3,
-      "question": "Build a direct Class 12 answer: List the essential board-answer points for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
+      "question": "Build a direct Class 12 answer: List the essential board-answer points for Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Arrange full answer sentences in the correct order.",
       "structureHelp": [
         "Concept",
@@ -1924,7 +1924,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q05-easy-1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1,
           "section": "Concept"
         },
@@ -1999,7 +1999,7 @@
         "Start with the concept.",
         "Add a reason, then the exam-relevant application."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -2018,7 +2018,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q05-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-case-application",
+      "questionGroupId": "chapter-q05-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-case-application",
       "chapterQuestionNumber": 5,
       "correctSequence": [
         "c12-urducore-900-q05-easy-1",
@@ -2038,7 +2038,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Build an analytical answer: Apply CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All to a practical Class 12 Urducore situation.",
+      "question": "Build an analytical answer: Apply Question number 1 to 50 consists of 50 MCQs of 1 mark each to a practical Class 12 Urducore situation.",
       "instructions": "Pair half-sentence chunks and arrange them into a coherent 4-mark answer.",
       "structureHelp": [
         "Opening",
@@ -2052,12 +2052,12 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q05-moderate-1a",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course",
+          "text": "The Class 12 Urducore question asks: Question number 1",
           "order": 1
         },
         {
           "id": "c12-urducore-900-q05-moderate-1b",
-          "text": "B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "to 50 consists of 50 MCQs of 1 mark each.",
           "order": 2
         },
         {
@@ -2163,7 +2163,7 @@
         "Look for halves that complete one idea.",
         "Keep the reasoning in board-answer order."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -2182,7 +2182,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q05-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-case-application",
+      "questionGroupId": "chapter-q05-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-case-application",
       "chapterQuestionNumber": 5,
       "correctSequence": [
         "c12-urducore-900-q05-moderate-1a",
@@ -2206,7 +2206,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 6,
-      "question": "Apply the concept in a case: An examiner frames a competency-based question on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All. Build a precise answer with concept, reason and implication. What should the answer include?",
+      "question": "Apply the concept in a case: An examiner frames a competency-based question on Question number 1 to 50 consists of 50 MCQs of 1 mark each. Build a precise answer with concept, reason and implication. What should the answer include?",
       "instructions": "Select all essential key phrases and leave the misleading options out.",
       "structureHelp": [
         "Identify",
@@ -2220,7 +2220,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q05-difficult-1",
-          "text": "CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All",
+          "text": "Question number 1 to 50 consists of 50 MCQs of 1 mark each",
           "order": 1
         },
         {
@@ -2303,7 +2303,7 @@
         "Use Class 12 keywords.",
         "Connect the fact with the situation before concluding."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation. Marks are earned by matching the command word with the correct fact, reason, evidence, or working.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation. Marks are earned by matching the command word with the correct fact, reason, evidence, or working.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -2322,7 +2322,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q05-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-case-application",
+      "questionGroupId": "chapter-q05-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-case-application",
       "chapterQuestionNumber": 5,
       "correctSequence": [
         "c12-urducore-900-q05-difficult-1",
@@ -2344,7 +2344,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 3,
-      "question": "Build a direct Class 12 answer: Use a calculation/data table to answer a board-style question on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
+      "question": "Build a direct Class 12 answer: Use a calculation/data table to answer a board-style question on Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Arrange full answer sentences in the correct order.",
       "structureHelp": [
         "Concept",
@@ -2358,7 +2358,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q06-easy-1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1,
           "section": "Concept"
         },
@@ -2428,7 +2428,7 @@
         "Start with the concept.",
         "Add a reason, then the exam-relevant application."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -2447,7 +2447,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q06-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-calculation-and-data-drill",
+      "questionGroupId": "chapter-q06-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-calculation-and-data-drill",
       "chapterQuestionNumber": 6,
       "correctSequence": [
         "c12-urducore-900-q06-easy-1",
@@ -2467,7 +2467,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Build an analytical answer: Interpret figures or case data connected with CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All and present the working.",
+      "question": "Build an analytical answer: Interpret figures or case data connected with Question number 1 to 50 consists of 50 MCQs of 1 mark each and present the working.",
       "instructions": "Pair half-sentence chunks and arrange them into a coherent 4-mark answer.",
       "structureHelp": [
         "Opening",
@@ -2481,12 +2481,12 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q06-moderate-1a",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course",
+          "text": "The Class 12 Urducore question asks: Question number 1",
           "order": 1
         },
         {
           "id": "c12-urducore-900-q06-moderate-1b",
-          "text": "B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "to 50 consists of 50 MCQs of 1 mark each.",
           "order": 2
         },
         {
@@ -2587,7 +2587,7 @@
         "Look for halves that complete one idea.",
         "Keep the reasoning in board-answer order."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -2606,7 +2606,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q06-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-calculation-and-data-drill",
+      "questionGroupId": "chapter-q06-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-calculation-and-data-drill",
       "chapterQuestionNumber": 6,
       "correctSequence": [
         "c12-urducore-900-q06-moderate-1a",
@@ -2630,7 +2630,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 6,
-      "question": "Apply the concept in a case: A Class 12 Urducore paper gives data for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All with blanks for working. Complete the calculation, interpretation and conclusion. What should the answer include?",
+      "question": "Apply the concept in a case: A Class 12 Urducore paper gives data for Question number 1 to 50 consists of 50 MCQs of 1 mark each with blanks for working. Complete the calculation, interpretation and conclusion. What should the answer include?",
       "instructions": "Select all essential key phrases and leave the misleading options out.",
       "structureHelp": [
         "Identify",
@@ -2644,7 +2644,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-q06-difficult-1",
-          "text": "CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All",
+          "text": "Question number 1 to 50 consists of 50 MCQs of 1 mark each",
           "order": 1
         },
         {
@@ -2722,7 +2722,7 @@
         "Use Class 12 keywords.",
         "Connect the fact with the situation before concluding."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. Conclude with the exact treatment, concept or inference asked in the question.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. Conclude with the exact treatment, concept or inference asked in the question.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -2741,7 +2741,7 @@
           "marks": 1
         }
       ],
-      "questionGroupId": "chapter-q06-cbse-sample-question-paper-xii-urdu-core-course-b-303-term-1-2021-22-time-all-calculation-and-data-drill",
+      "questionGroupId": "chapter-q06-question-number-1-to-50-consists-of-50-mcqs-of-1-mark-each-calculation-and-data-drill",
       "chapterQuestionNumber": 6,
       "correctSequence": [
         "c12-urducore-900-q06-difficult-1",
@@ -4020,7 +4020,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
       "instructions": "Click the correct parts in order. They will join into one answer. Leave the wrong lines outside.",
       "structureHelp": [
         "Opening",
@@ -4034,7 +4034,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-explain-01-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -4098,7 +4098,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -4135,7 +4135,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Compare related ideas in Question number 1 to 50 consists of 50 MCQs of 1 mark each case application.",
+      "question": "Compare related ideas in CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All case application.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Basis",
@@ -4149,7 +4149,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-compare_contrast-02-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -4206,7 +4206,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -4237,7 +4237,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Connect cause and effect for Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill.",
+      "question": "Connect cause and effect for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All calculation and data drill.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -4251,7 +4251,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-cause_effect-03-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -4304,7 +4304,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -4349,7 +4349,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-process_sequence-04-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -4410,7 +4410,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -4447,7 +4447,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Use Solved Question Practice to answer: List the essential board-answer points for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
+      "question": "Use Solved Question Practice to answer: List the essential board-answer points for Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -4461,7 +4461,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-pros_cons-05-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -4510,7 +4510,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -4541,7 +4541,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Use Solved Question Practice to answer: Use a calculation/data table to answer a board-style question on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
+      "question": "Use Solved Question Practice to answer: Use a calculation/data table to answer a board-style question on Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -4555,7 +4555,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-problem_solution-06-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -4604,7 +4604,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -4935,7 +4935,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -4949,7 +4949,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-match_following-10-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -4998,7 +4998,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -5029,7 +5029,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Interpret a small business/accounting/economics data point related to Question number 1 to 50 consists of 50 MCQs of 1 mark each case application.",
+      "question": "Interpret a small business/accounting/economics data point related to CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All case application.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Data",
@@ -5043,7 +5043,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-data_chart_table-11-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -5092,7 +5092,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -5124,7 +5124,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Arrange the answer sequence for: Interpret figures or case data connected with Question number 1 to 50 consists of 50 MCQs of 1 mark each and present the working.",
+      "question": "Arrange the answer sequence for: Interpret figures or case data connected with CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All and present the working.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -5138,7 +5138,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-paragraph_essay_structure-12-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -5199,7 +5199,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -5236,7 +5236,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 3,
-      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Click the correct parts in order. They will join into one answer. Leave the wrong lines outside.",
       "structureHelp": [
         "Definition",
@@ -5250,7 +5250,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-definition_term-13-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -5314,7 +5314,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -5351,7 +5351,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Arrange the answer sequence for: Apply CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All to a practical Class 12 Urducore situation.",
+      "question": "Arrange the answer sequence for: Apply Question number 1 to 50 consists of 50 MCQs of 1 mark each to a practical Class 12 Urducore situation.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -5365,7 +5365,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-timeline_chronological_order-14-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -5426,7 +5426,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -5463,7 +5463,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 3,
-      "question": "Use Solved Question Practice to answer: Use a calculation/data table to answer a board-style question on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
+      "question": "Use Solved Question Practice to answer: Use a calculation/data table to answer a board-style question on Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -5477,7 +5477,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-identify_main_idea-15-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -5526,7 +5526,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -5873,7 +5873,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Select all valid statements about Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Select all valid statements about CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -5887,7 +5887,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-multiple_correct_answers-19-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -5936,7 +5936,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -5967,7 +5967,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Formulate the board-style question that this answer would solve: The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Formulate the board-style question that this answer would solve: The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Question stem",
@@ -5980,7 +5980,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-formulate_question-20-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -6029,7 +6029,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -6060,7 +6060,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Build an assertion-reason response on Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill.",
+      "question": "Build an assertion-reason response on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All calculation and data drill.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Assertion",
@@ -6073,7 +6073,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-assertion_reason-21-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -6122,7 +6122,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -6154,7 +6154,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Use Solved Question Practice to answer: List the essential board-answer points for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
+      "question": "Use Solved Question Practice to answer: List the essential board-answer points for Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Click the correct parts in order. They will join into one answer. Leave the wrong lines outside.",
       "structureHelp": [
         "Opening",
@@ -6168,7 +6168,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-explain-22-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -6232,7 +6232,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -6269,7 +6269,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Compare related ideas in CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All calculation and data drill.",
+      "question": "Compare related ideas in Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Basis",
@@ -6283,7 +6283,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-compare_contrast-23-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -6340,7 +6340,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -6675,7 +6675,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -6689,7 +6689,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-problem_solution-27-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -6738,7 +6738,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -6769,7 +6769,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Arrange the answer sequence for: Apply Question number 1 to 50 consists of 50 MCQs of 1 mark each to a practical Class 12 Urducore situation.",
+      "question": "Arrange the answer sequence for: Apply CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All to a practical Class 12 Urducore situation.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -6783,7 +6783,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-fill_blanks-28-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -6844,7 +6844,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -6881,7 +6881,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Classify statements using the concept of Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill.",
+      "question": "Classify statements using the concept of CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All calculation and data drill.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -6895,7 +6895,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-true_false_not_given-29-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -6944,7 +6944,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -6975,7 +6975,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -6989,7 +6989,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-short_answer_key_points-30-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -7038,7 +7038,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -7069,7 +7069,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Use Solved Question Practice to answer: List the essential board-answer points for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
+      "question": "Use Solved Question Practice to answer: List the essential board-answer points for Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -7083,7 +7083,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-match_following-31-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -7132,7 +7132,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -7163,7 +7163,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Interpret a small business/accounting/economics data point related to CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All calculation and data drill.",
+      "question": "Interpret a small business/accounting/economics data point related to Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Data",
@@ -7177,7 +7177,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-data_chart_table-32-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -7226,7 +7226,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -7597,7 +7597,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 3,
-      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -7611,7 +7611,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-identify_main_idea-36-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -7660,7 +7660,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -7691,7 +7691,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Quiz & Worksheet - Evidence and Support\nClaim: The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.\nEvidence: The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.\n\nBuild the full evidence-support answer by selecting the correct parts in order.",
+      "question": "Quiz & Worksheet - Evidence and Support\nClaim: The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.\nEvidence: The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.\n\nBuild the full evidence-support answer by selecting the correct parts in order.",
       "instructions": "Click the correct parts in order. They will join into one answer. Leave the wrong lines outside.",
       "structureHelp": [
         "Claim",
@@ -7705,7 +7705,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-evidence_support_statement-37-c1",
-          "text": "Claim: The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "Claim: The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -7727,7 +7727,7 @@
       "distractors": [
         {
           "id": "c12-urducore-900-evidence_support_statement-37-x1",
-          "text": "Repeat only: The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "Repeat only: The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "misconception": "Looks relevant but is not accepted for this answer."
         },
         {
@@ -7764,7 +7764,7 @@
         "Select the claim, evidence, support and link in order.",
         "Do not use lines that only repeat or avoid evidence."
       ],
-      "modelAnswer": "Claim: The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Evidence: The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. Support: this evidence is specific and directly proves the claim. Link: A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
+      "modelAnswer": "Claim: The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Evidence: The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. Support: this evidence is specific and directly proves the claim. Link: A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -7801,7 +7801,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Arrange the answer sequence for: Interpret figures or case data connected with Question number 1 to 50 consists of 50 MCQs of 1 mark each and present the working.",
+      "question": "Arrange the answer sequence for: Interpret figures or case data connected with CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All and present the working.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -7815,7 +7815,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-sequencing_steps_process-38-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -7876,7 +7876,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -7913,7 +7913,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -7927,7 +7927,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-choose_correct_ending-39-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -7976,7 +7976,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -8007,7 +8007,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Select all valid statements about CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All case application.",
+      "question": "Select all valid statements about Question number 1 to 50 consists of 50 MCQs of 1 mark each case application.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -8021,7 +8021,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-multiple_correct_answers-40-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -8070,7 +8070,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -8101,7 +8101,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Formulate the board-style question that this answer would solve: The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+      "question": "Formulate the board-style question that this answer would solve: The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Question stem",
@@ -8114,7 +8114,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-formulate_question-41-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -8163,7 +8163,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -8403,7 +8403,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Compare related ideas in Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Compare related ideas in CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Basis",
@@ -8417,7 +8417,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-compare_contrast-44-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -8474,7 +8474,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -8505,7 +8505,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Connect cause and effect for Question number 1 to 50 consists of 50 MCQs of 1 mark each case application.",
+      "question": "Connect cause and effect for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All case application.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -8519,7 +8519,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-cause_effect-45-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -8572,7 +8572,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -8603,7 +8603,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Arrange the answer sequence for: Interpret figures or case data connected with Question number 1 to 50 consists of 50 MCQs of 1 mark each and present the working.",
+      "question": "Arrange the answer sequence for: Interpret figures or case data connected with CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All and present the working.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -8617,7 +8617,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-process_sequence-46-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -8678,7 +8678,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -8715,7 +8715,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+      "question": "Use Solved Question Practice to answer: Answer this Class 12 Urducore question: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -8729,7 +8729,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-pros_cons-47-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -8778,7 +8778,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -8809,7 +8809,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Use Solved Question Practice to answer: List the essential board-answer points for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
+      "question": "Use Solved Question Practice to answer: List the essential board-answer points for Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -8823,7 +8823,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-problem_solution-48-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -8872,7 +8872,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -8903,7 +8903,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Arrange the answer sequence for: Interpret figures or case data connected with CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All and present the working.",
+      "question": "Arrange the answer sequence for: Interpret figures or case data connected with Question number 1 to 50 consists of 50 MCQs of 1 mark each and present the working.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -8917,7 +8917,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-fill_blanks-49-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -8978,7 +8978,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -9297,7 +9297,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Interpret a small business/accounting/economics data point related to Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Interpret a small business/accounting/economics data point related to CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Data",
@@ -9311,7 +9311,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-data_chart_table-53-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -9360,7 +9360,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -9392,7 +9392,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Arrange the answer sequence for: Apply Question number 1 to 50 consists of 50 MCQs of 1 mark each to a practical Class 12 Urducore situation.",
+      "question": "Arrange the answer sequence for: Apply CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All to a practical Class 12 Urducore situation.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -9406,7 +9406,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-paragraph_essay_structure-54-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -9467,7 +9467,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -9504,7 +9504,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 3,
-      "question": "Use Solved Question Practice to answer: Use a calculation/data table to answer a board-style question on Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Use Solved Question Practice to answer: Use a calculation/data table to answer a board-style question on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
       "instructions": "Click the correct parts in order. They will join into one answer. Leave the wrong lines outside.",
       "structureHelp": [
         "Definition",
@@ -9518,7 +9518,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-definition_term-55-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -9582,7 +9582,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -9633,7 +9633,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-timeline_chronological_order-56-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -9694,7 +9694,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -9731,7 +9731,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 3,
-      "question": "Use Solved Question Practice to answer: List the essential board-answer points for CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All.",
+      "question": "Use Solved Question Practice to answer: List the essential board-answer points for Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Point 1",
@@ -9745,7 +9745,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-identify_main_idea-57-c1",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -9794,7 +9794,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -9825,7 +9825,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Quiz & Worksheet - Evidence and Support\nClaim: The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.\nEvidence: Read the given data, table headings and command word before writing the answer.\n\nBuild the full evidence-support answer by selecting the correct parts in order.",
+      "question": "Quiz & Worksheet - Evidence and Support\nClaim: The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.\nEvidence: Read the given data, table headings and command word before writing the answer.\n\nBuild the full evidence-support answer by selecting the correct parts in order.",
       "instructions": "Click the correct parts in order. They will join into one answer. Leave the wrong lines outside.",
       "structureHelp": [
         "Claim",
@@ -9839,7 +9839,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-evidence_support_statement-58-c1",
-          "text": "Claim: The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "Claim: The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "order": 1
         },
         {
@@ -9861,7 +9861,7 @@
       "distractors": [
         {
           "id": "c12-urducore-900-evidence_support_statement-58-x1",
-          "text": "Repeat only: The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
+          "text": "Repeat only: The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
           "misconception": "Looks relevant but is not accepted for this answer."
         },
         {
@@ -9898,7 +9898,7 @@
         "Select the claim, evidence, support and link in order.",
         "Do not use lines that only repeat or avoid evidence."
       ],
-      "modelAnswer": "Claim: The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. Evidence: Read the given data, table headings and command word before writing the answer. Support: this evidence is specific and directly proves the claim. Link: Show the required calculation, classification or matching step clearly.",
+      "modelAnswer": "Claim: The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Evidence: Read the given data, table headings and command word before writing the answer. Support: this evidence is specific and directly proves the claim. Link: Show the required calculation, classification or matching step clearly.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -10235,7 +10235,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Formulate the board-style question that this answer would solve: The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+      "question": "Formulate the board-style question that this answer would solve: The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Question stem",
@@ -10248,7 +10248,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-formulate_question-62-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -10297,7 +10297,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. The answer should stay within the topic and avoid unsupported extra points.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -10328,7 +10328,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Build an assertion-reason response on Question number 1 to 50 consists of 50 MCQs of 1 mark each case application.",
+      "question": "Build an assertion-reason response on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All case application.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Assertion",
@@ -10341,7 +10341,7 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-assertion_reason-63-c1",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 1
         },
         {
@@ -10390,7 +10390,7 @@
         "Use precise Class 12 terminology.",
         "Reject options that overstate or contradict the concept."
       ],
-      "modelAnswer": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
+      "modelAnswer": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready. In a case answer, connect the concept with the given business or economic situation.",
       "scoringRubric": [
         {
           "criterion": "Accurate Class 12 concept",
@@ -10422,7 +10422,7 @@
       "chapter": "Solved Question Practice",
       "chapterNumber": 900,
       "marks": 4,
-      "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each and choose the best board-style interpretation.",
+      "question": "Study the table on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All and choose the best board-style interpretation.",
       "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
       "structureHelp": [
         "Data",
@@ -10436,12 +10436,12 @@
       "correctItems": [
         {
           "id": "c12-urducore-900-data_chart_table-64-c1",
-          "text": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each and must be interpreted, not copied.",
+          "text": "The table is about CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All and must be interpreted, not copied.",
           "order": 1
         },
         {
           "id": "c12-urducore-900-data_chart_table-64-c2",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 2
         },
         {
@@ -10479,387 +10479,6 @@
           "c12-urducore-900-data_chart_table-64-c2",
           "c12-urducore-900-data_chart_table-64-c3",
           "c12-urducore-900-data_chart_table-64-c4"
-        ]
-      },
-      "hints": [
-        "Use precise Class 12 terminology.",
-        "Reject options that overstate or contradict the concept."
-      ],
-      "modelAnswer": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each and must be interpreted, not copied. The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
-      "scoringRubric": [
-        {
-          "criterion": "Accurate Class 12 concept",
-          "marks": 2
-        },
-        {
-          "criterion": "Logical answer structure",
-          "marks": 1
-        },
-        {
-          "criterion": "Relevant commerce terminology",
-          "marks": 1
-        },
-        {
-          "criterion": "Application or conclusion without distractors",
-          "marks": 1
-        }
-      ],
-      "tableData": {
-        "title": "Question number 1 to 50 consists of 50 MCQs of 1 mark each table practice",
-        "headers": [
-          "Evidence/feature",
-          "Meaning",
-          "Use in answer"
-        ],
-        "rows": [
-          [
-            "Question Number 1 To 50 Consists Of 50 Mcqs Of 1 Mark Each",
-            "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
-            "Opening idea"
-          ],
-          [
-            "Textual/writing clue",
-            "The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
-            "Support"
-          ],
-          [
-            "Interpretation",
-            "A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
-            "Analysis"
-          ],
-          [
-            "Conclusion",
-            "The answer should stay within the topic and avoid unsupported extra points.",
-            "Final response"
-          ]
-        ],
-        "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each and choose the best board-style interpretation."
-      },
-      "questionStyle": "previous-year-board-table-case-inspired",
-      "questionDesignNote": "Questions are original Learnify practice items modelled on CBSE Class XII previous-year and sample-paper patterns: competency-based cases, tables, assertion-reason, source/data interpretation and short analytical answers."
-    },
-    {
-      "id": "c12-urducore-900-data_chart_table-65",
-      "type": "data_chart_table",
-      "difficulty": "standard",
-      "classLevel": 12,
-      "stream": null,
-      "subject": "Urducore",
-      "book": "Urducore Data Abstractor Question Bank",
-      "chapter": "Solved Question Practice",
-      "chapterNumber": 900,
-      "marks": 4,
-      "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each case application and choose the best board-style interpretation.",
-      "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
-      "structureHelp": [
-        "Data",
-        "Meaning",
-        "Inference",
-        "Conclusion"
-      ],
-      "sourceTextSummary": "Class 12 Urducore board-style practice for Urducore Data Abstractor Question Bank: Solved Question Practice.",
-      "sourceChapter": "Solved Question Practice",
-      "sourcePdf": "C:\\Users\\acer\\Downloads\\Data Abstractor\\Data Abstractor\\data\\learnify_cbse.sqlite",
-      "correctItems": [
-        {
-          "id": "c12-urducore-900-data_chart_table-65-c1",
-          "text": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each case application and must be interpreted, not copied.",
-          "order": 1
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-65-c2",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
-          "order": 2
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-65-c3",
-          "text": "The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
-          "order": 3
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-65-c4",
-          "text": "A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
-          "order": 4
-        }
-      ],
-      "distractors": [
-        {
-          "id": "c12-urducore-900-data_chart_table-65-x1",
-          "text": "Copy the table headings without interpretation.",
-          "misconception": "Looks relevant but is not accepted for this answer."
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-65-x2",
-          "text": "Ignore the given figures or situations.",
-          "misconception": "Looks relevant but is not accepted for this answer."
-        }
-      ],
-      "answerSlots": [
-        {
-          "id": "answer",
-          "label": "Answer"
-        }
-      ],
-      "answerKey": {
-        "requiredItemIds": [
-          "c12-urducore-900-data_chart_table-65-c1",
-          "c12-urducore-900-data_chart_table-65-c2",
-          "c12-urducore-900-data_chart_table-65-c3",
-          "c12-urducore-900-data_chart_table-65-c4"
-        ]
-      },
-      "hints": [
-        "Use precise Class 12 terminology.",
-        "Reject options that overstate or contradict the concept."
-      ],
-      "modelAnswer": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each case application and must be interpreted, not copied. The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
-      "scoringRubric": [
-        {
-          "criterion": "Accurate Class 12 concept",
-          "marks": 2
-        },
-        {
-          "criterion": "Logical answer structure",
-          "marks": 1
-        },
-        {
-          "criterion": "Relevant commerce terminology",
-          "marks": 1
-        },
-        {
-          "criterion": "Application or conclusion without distractors",
-          "marks": 1
-        }
-      ],
-      "tableData": {
-        "title": "Question number 1 to 50 consists of 50 MCQs of 1 mark each case application table practice",
-        "headers": [
-          "Evidence/feature",
-          "Meaning",
-          "Use in answer"
-        ],
-        "rows": [
-          [
-            "Question Number 1 To 50 Consists Of 50 Mcqs Of 1 Mark Each Case Application",
-            "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
-            "Opening idea"
-          ],
-          [
-            "Textual/writing clue",
-            "The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
-            "Support"
-          ],
-          [
-            "Interpretation",
-            "A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
-            "Analysis"
-          ],
-          [
-            "Conclusion",
-            "In a case answer, connect the concept with the given business or economic situation.",
-            "Final response"
-          ]
-        ],
-        "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each case application and choose the best board-style interpretation."
-      },
-      "questionStyle": "previous-year-board-table-case-inspired",
-      "questionDesignNote": "Questions are original Learnify practice items modelled on CBSE Class XII previous-year and sample-paper patterns: competency-based cases, tables, assertion-reason, source/data interpretation and short analytical answers."
-    },
-    {
-      "id": "c12-urducore-900-data_chart_table-66",
-      "type": "data_chart_table",
-      "difficulty": "standard",
-      "classLevel": 12,
-      "stream": null,
-      "subject": "Urducore",
-      "book": "Urducore Data Abstractor Question Bank",
-      "chapter": "Solved Question Practice",
-      "chapterNumber": 900,
-      "marks": 4,
-      "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill and choose the best board-style interpretation.",
-      "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
-      "structureHelp": [
-        "Data",
-        "Meaning",
-        "Inference",
-        "Conclusion"
-      ],
-      "sourceTextSummary": "Class 12 Urducore board-style practice for Urducore Data Abstractor Question Bank: Solved Question Practice.",
-      "sourceChapter": "Solved Question Practice",
-      "sourcePdf": "C:\\Users\\acer\\Downloads\\Data Abstractor\\Data Abstractor\\data\\learnify_cbse.sqlite",
-      "correctItems": [
-        {
-          "id": "c12-urducore-900-data_chart_table-66-c1",
-          "text": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill and must be interpreted, not copied.",
-          "order": 1
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-66-c2",
-          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
-          "order": 2
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-66-c3",
-          "text": "Read the given data, table headings and command word before writing the answer.",
-          "order": 3
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-66-c4",
-          "text": "Show the required calculation, classification or matching step clearly.",
-          "order": 4
-        }
-      ],
-      "distractors": [
-        {
-          "id": "c12-urducore-900-data_chart_table-66-x1",
-          "text": "Copy the table headings without interpretation.",
-          "misconception": "Looks relevant but is not accepted for this answer."
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-66-x2",
-          "text": "Ignore the given figures or situations.",
-          "misconception": "Looks relevant but is not accepted for this answer."
-        }
-      ],
-      "answerSlots": [
-        {
-          "id": "answer",
-          "label": "Answer"
-        }
-      ],
-      "answerKey": {
-        "requiredItemIds": [
-          "c12-urducore-900-data_chart_table-66-c1",
-          "c12-urducore-900-data_chart_table-66-c2",
-          "c12-urducore-900-data_chart_table-66-c3",
-          "c12-urducore-900-data_chart_table-66-c4"
-        ]
-      },
-      "hints": [
-        "Use precise Class 12 terminology.",
-        "Reject options that overstate or contradict the concept."
-      ],
-      "modelAnswer": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill and must be interpreted, not copied. The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly.",
-      "scoringRubric": [
-        {
-          "criterion": "Accurate Class 12 concept",
-          "marks": 2
-        },
-        {
-          "criterion": "Logical answer structure",
-          "marks": 1
-        },
-        {
-          "criterion": "Relevant commerce terminology",
-          "marks": 1
-        },
-        {
-          "criterion": "Application or conclusion without distractors",
-          "marks": 1
-        }
-      ],
-      "tableData": {
-        "title": "Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill table practice",
-        "headers": [
-          "Evidence/feature",
-          "Meaning",
-          "Use in answer"
-        ],
-        "rows": [
-          [
-            "Question Number 1 To 50 Consists Of 50 Mcqs Of 1 Mark Each Calculation And Data Drill",
-            "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
-            "Opening idea"
-          ],
-          [
-            "Textual/writing clue",
-            "Read the given data, table headings and command word before writing the answer.",
-            "Support"
-          ],
-          [
-            "Interpretation",
-            "Show the required calculation, classification or matching step clearly.",
-            "Analysis"
-          ],
-          [
-            "Conclusion",
-            "The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
-            "Final response"
-          ]
-        ],
-        "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill and choose the best board-style interpretation."
-      },
-      "questionStyle": "previous-year-board-table-case-inspired",
-      "questionDesignNote": "Questions are original Learnify practice items modelled on CBSE Class XII previous-year and sample-paper patterns: competency-based cases, tables, assertion-reason, source/data interpretation and short analytical answers."
-    },
-    {
-      "id": "c12-urducore-900-data_chart_table-67",
-      "type": "data_chart_table",
-      "difficulty": "standard",
-      "classLevel": 12,
-      "stream": null,
-      "subject": "Urducore",
-      "book": "Urducore Data Abstractor Question Bank",
-      "chapter": "Solved Question Practice",
-      "chapterNumber": 900,
-      "marks": 4,
-      "question": "Study the table on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All and choose the best board-style interpretation.",
-      "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
-      "structureHelp": [
-        "Data",
-        "Meaning",
-        "Inference",
-        "Conclusion"
-      ],
-      "sourceTextSummary": "Class 12 Urducore board-style practice for Urducore Data Abstractor Question Bank: Solved Question Practice.",
-      "sourceChapter": "Solved Question Practice",
-      "sourcePdf": "C:\\Users\\acer\\Downloads\\Data Abstractor\\Data Abstractor\\data\\learnify_cbse.sqlite",
-      "correctItems": [
-        {
-          "id": "c12-urducore-900-data_chart_table-67-c1",
-          "text": "The table is about CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All and must be interpreted, not copied.",
-          "order": 1
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-67-c2",
-          "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
-          "order": 2
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-67-c3",
-          "text": "The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
-          "order": 3
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-67-c4",
-          "text": "A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
-          "order": 4
-        }
-      ],
-      "distractors": [
-        {
-          "id": "c12-urducore-900-data_chart_table-67-x1",
-          "text": "Copy the table headings without interpretation.",
-          "misconception": "Looks relevant but is not accepted for this answer."
-        },
-        {
-          "id": "c12-urducore-900-data_chart_table-67-x2",
-          "text": "Ignore the given figures or situations.",
-          "misconception": "Looks relevant but is not accepted for this answer."
-        }
-      ],
-      "answerSlots": [
-        {
-          "id": "answer",
-          "label": "Answer"
-        }
-      ],
-      "answerKey": {
-        "requiredItemIds": [
-          "c12-urducore-900-data_chart_table-67-c1",
-          "c12-urducore-900-data_chart_table-67-c2",
-          "c12-urducore-900-data_chart_table-67-c3",
-          "c12-urducore-900-data_chart_table-67-c4"
         ]
       },
       "hints": [
@@ -10920,7 +10539,7 @@
       "questionDesignNote": "Questions are original Learnify practice items modelled on CBSE Class XII previous-year and sample-paper patterns: competency-based cases, tables, assertion-reason, source/data interpretation and short analytical answers."
     },
     {
-      "id": "c12-urducore-900-data_chart_table-68",
+      "id": "c12-urducore-900-data_chart_table-65",
       "type": "data_chart_table",
       "difficulty": "standard",
       "classLevel": 12,
@@ -10943,34 +10562,34 @@
       "sourcePdf": "C:\\Users\\acer\\Downloads\\Data Abstractor\\Data Abstractor\\data\\learnify_cbse.sqlite",
       "correctItems": [
         {
-          "id": "c12-urducore-900-data_chart_table-68-c1",
+          "id": "c12-urducore-900-data_chart_table-65-c1",
           "text": "The table is about CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All case application and must be interpreted, not copied.",
           "order": 1
         },
         {
-          "id": "c12-urducore-900-data_chart_table-68-c2",
+          "id": "c12-urducore-900-data_chart_table-65-c2",
           "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 2
         },
         {
-          "id": "c12-urducore-900-data_chart_table-68-c3",
+          "id": "c12-urducore-900-data_chart_table-65-c3",
           "text": "The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
           "order": 3
         },
         {
-          "id": "c12-urducore-900-data_chart_table-68-c4",
+          "id": "c12-urducore-900-data_chart_table-65-c4",
           "text": "A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
           "order": 4
         }
       ],
       "distractors": [
         {
-          "id": "c12-urducore-900-data_chart_table-68-x1",
+          "id": "c12-urducore-900-data_chart_table-65-x1",
           "text": "Copy the table headings without interpretation.",
           "misconception": "Looks relevant but is not accepted for this answer."
         },
         {
-          "id": "c12-urducore-900-data_chart_table-68-x2",
+          "id": "c12-urducore-900-data_chart_table-65-x2",
           "text": "Ignore the given figures or situations.",
           "misconception": "Looks relevant but is not accepted for this answer."
         }
@@ -10983,10 +10602,10 @@
       ],
       "answerKey": {
         "requiredItemIds": [
-          "c12-urducore-900-data_chart_table-68-c1",
-          "c12-urducore-900-data_chart_table-68-c2",
-          "c12-urducore-900-data_chart_table-68-c3",
-          "c12-urducore-900-data_chart_table-68-c4"
+          "c12-urducore-900-data_chart_table-65-c1",
+          "c12-urducore-900-data_chart_table-65-c2",
+          "c12-urducore-900-data_chart_table-65-c3",
+          "c12-urducore-900-data_chart_table-65-c4"
         ]
       },
       "hints": [
@@ -11047,7 +10666,7 @@
       "questionDesignNote": "Questions are original Learnify practice items modelled on CBSE Class XII previous-year and sample-paper patterns: competency-based cases, tables, assertion-reason, source/data interpretation and short analytical answers."
     },
     {
-      "id": "c12-urducore-900-data_chart_table-69",
+      "id": "c12-urducore-900-data_chart_table-66",
       "type": "data_chart_table",
       "difficulty": "standard",
       "classLevel": 12,
@@ -11070,34 +10689,34 @@
       "sourcePdf": "C:\\Users\\acer\\Downloads\\Data Abstractor\\Data Abstractor\\data\\learnify_cbse.sqlite",
       "correctItems": [
         {
-          "id": "c12-urducore-900-data_chart_table-69-c1",
+          "id": "c12-urducore-900-data_chart_table-66-c1",
           "text": "The table is about CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All calculation and data drill and must be interpreted, not copied.",
           "order": 1
         },
         {
-          "id": "c12-urducore-900-data_chart_table-69-c2",
+          "id": "c12-urducore-900-data_chart_table-66-c2",
           "text": "The Class 12 Urducore question asks: CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time Allotted: 90 minutes Max. Ma rks:40 General Instruction s:.",
           "order": 2
         },
         {
-          "id": "c12-urducore-900-data_chart_table-69-c3",
+          "id": "c12-urducore-900-data_chart_table-66-c3",
           "text": "Read the given data, table headings and command word before writing the answer.",
           "order": 3
         },
         {
-          "id": "c12-urducore-900-data_chart_table-69-c4",
+          "id": "c12-urducore-900-data_chart_table-66-c4",
           "text": "Show the required calculation, classification or matching step clearly.",
           "order": 4
         }
       ],
       "distractors": [
         {
-          "id": "c12-urducore-900-data_chart_table-69-x1",
+          "id": "c12-urducore-900-data_chart_table-66-x1",
           "text": "Copy the table headings without interpretation.",
           "misconception": "Looks relevant but is not accepted for this answer."
         },
         {
-          "id": "c12-urducore-900-data_chart_table-69-x2",
+          "id": "c12-urducore-900-data_chart_table-66-x2",
           "text": "Ignore the given figures or situations.",
           "misconception": "Looks relevant but is not accepted for this answer."
         }
@@ -11110,10 +10729,10 @@
       ],
       "answerKey": {
         "requiredItemIds": [
-          "c12-urducore-900-data_chart_table-69-c1",
-          "c12-urducore-900-data_chart_table-69-c2",
-          "c12-urducore-900-data_chart_table-69-c3",
-          "c12-urducore-900-data_chart_table-69-c4"
+          "c12-urducore-900-data_chart_table-66-c1",
+          "c12-urducore-900-data_chart_table-66-c2",
+          "c12-urducore-900-data_chart_table-66-c3",
+          "c12-urducore-900-data_chart_table-66-c4"
         ]
       },
       "hints": [
@@ -11169,6 +10788,387 @@
           ]
         ],
         "question": "Study the table on CBSE SAMPLE QUESTION PAPER XII-URDU CORE (Course B-303) TERM 1(2021-22) Time All calculation and data drill and choose the best board-style interpretation."
+      },
+      "questionStyle": "previous-year-board-table-case-inspired",
+      "questionDesignNote": "Questions are original Learnify practice items modelled on CBSE Class XII previous-year and sample-paper patterns: competency-based cases, tables, assertion-reason, source/data interpretation and short analytical answers."
+    },
+    {
+      "id": "c12-urducore-900-data_chart_table-67",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Urducore",
+      "book": "Urducore Data Abstractor Question Bank",
+      "chapter": "Solved Question Practice",
+      "chapterNumber": 900,
+      "marks": 4,
+      "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each and choose the best board-style interpretation.",
+      "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
+      "structureHelp": [
+        "Data",
+        "Meaning",
+        "Inference",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Class 12 Urducore board-style practice for Urducore Data Abstractor Question Bank: Solved Question Practice.",
+      "sourceChapter": "Solved Question Practice",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\Data Abstractor\\Data Abstractor\\data\\learnify_cbse.sqlite",
+      "correctItems": [
+        {
+          "id": "c12-urducore-900-data_chart_table-67-c1",
+          "text": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each and must be interpreted, not copied.",
+          "order": 1
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-67-c2",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "order": 2
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-67-c3",
+          "text": "The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+          "order": 3
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-67-c4",
+          "text": "A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-urducore-900-data_chart_table-67-x1",
+          "text": "Copy the table headings without interpretation.",
+          "misconception": "Looks relevant but is not accepted for this answer."
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-67-x2",
+          "text": "Ignore the given figures or situations.",
+          "misconception": "Looks relevant but is not accepted for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "answer",
+          "label": "Answer"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "c12-urducore-900-data_chart_table-67-c1",
+          "c12-urducore-900-data_chart_table-67-c2",
+          "c12-urducore-900-data_chart_table-67-c3",
+          "c12-urducore-900-data_chart_table-67-c4"
+        ]
+      },
+      "hints": [
+        "Use precise Class 12 terminology.",
+        "Reject options that overstate or contradict the concept."
+      ],
+      "modelAnswer": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each and must be interpreted, not copied. The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
+      "scoringRubric": [
+        {
+          "criterion": "Accurate Class 12 concept",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical answer structure",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant commerce terminology",
+          "marks": 1
+        },
+        {
+          "criterion": "Application or conclusion without distractors",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Question number 1 to 50 consists of 50 MCQs of 1 mark each table practice",
+        "headers": [
+          "Evidence/feature",
+          "Meaning",
+          "Use in answer"
+        ],
+        "rows": [
+          [
+            "Question Number 1 To 50 Consists Of 50 Mcqs Of 1 Mark Each",
+            "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+            "Opening idea"
+          ],
+          [
+            "Textual/writing clue",
+            "The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+            "Support"
+          ],
+          [
+            "Interpretation",
+            "A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
+            "Analysis"
+          ],
+          [
+            "Conclusion",
+            "The answer should stay within the topic and avoid unsupported extra points.",
+            "Final response"
+          ]
+        ],
+        "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each and choose the best board-style interpretation."
+      },
+      "questionStyle": "previous-year-board-table-case-inspired",
+      "questionDesignNote": "Questions are original Learnify practice items modelled on CBSE Class XII previous-year and sample-paper patterns: competency-based cases, tables, assertion-reason, source/data interpretation and short analytical answers."
+    },
+    {
+      "id": "c12-urducore-900-data_chart_table-68",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Urducore",
+      "book": "Urducore Data Abstractor Question Bank",
+      "chapter": "Solved Question Practice",
+      "chapterNumber": 900,
+      "marks": 4,
+      "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each case application and choose the best board-style interpretation.",
+      "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
+      "structureHelp": [
+        "Data",
+        "Meaning",
+        "Inference",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Class 12 Urducore board-style practice for Urducore Data Abstractor Question Bank: Solved Question Practice.",
+      "sourceChapter": "Solved Question Practice",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\Data Abstractor\\Data Abstractor\\data\\learnify_cbse.sqlite",
+      "correctItems": [
+        {
+          "id": "c12-urducore-900-data_chart_table-68-c1",
+          "text": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each case application and must be interpreted, not copied.",
+          "order": 1
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-68-c2",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "order": 2
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-68-c3",
+          "text": "The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+          "order": 3
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-68-c4",
+          "text": "A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-urducore-900-data_chart_table-68-x1",
+          "text": "Copy the table headings without interpretation.",
+          "misconception": "Looks relevant but is not accepted for this answer."
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-68-x2",
+          "text": "Ignore the given figures or situations.",
+          "misconception": "Looks relevant but is not accepted for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "answer",
+          "label": "Answer"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "c12-urducore-900-data_chart_table-68-c1",
+          "c12-urducore-900-data_chart_table-68-c2",
+          "c12-urducore-900-data_chart_table-68-c3",
+          "c12-urducore-900-data_chart_table-68-c4"
+        ]
+      },
+      "hints": [
+        "Use precise Class 12 terminology.",
+        "Reject options that overstate or contradict the concept."
+      ],
+      "modelAnswer": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each case application and must be interpreted, not copied. The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50. A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
+      "scoringRubric": [
+        {
+          "criterion": "Accurate Class 12 concept",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical answer structure",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant commerce terminology",
+          "marks": 1
+        },
+        {
+          "criterion": "Application or conclusion without distractors",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Question number 1 to 50 consists of 50 MCQs of 1 mark each case application table practice",
+        "headers": [
+          "Evidence/feature",
+          "Meaning",
+          "Use in answer"
+        ],
+        "rows": [
+          [
+            "Question Number 1 To 50 Consists Of 50 Mcqs Of 1 Mark Each Case Application",
+            "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+            "Opening idea"
+          ],
+          [
+            "Textual/writing clue",
+            "The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+            "Support"
+          ],
+          [
+            "Interpretation",
+            "A strong response follows this sequence: Answer directly, Add supporting points, Keep wording concise and exam-ready.",
+            "Analysis"
+          ],
+          [
+            "Conclusion",
+            "In a case answer, connect the concept with the given business or economic situation.",
+            "Final response"
+          ]
+        ],
+        "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each case application and choose the best board-style interpretation."
+      },
+      "questionStyle": "previous-year-board-table-case-inspired",
+      "questionDesignNote": "Questions are original Learnify practice items modelled on CBSE Class XII previous-year and sample-paper patterns: competency-based cases, tables, assertion-reason, source/data interpretation and short analytical answers."
+    },
+    {
+      "id": "c12-urducore-900-data_chart_table-69",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 12,
+      "stream": null,
+      "subject": "Urducore",
+      "book": "Urducore Data Abstractor Question Bank",
+      "chapter": "Solved Question Practice",
+      "chapterNumber": 900,
+      "marks": 4,
+      "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill and choose the best board-style interpretation.",
+      "instructions": "Choose only the options supported by the chapter and arrange them where needed.",
+      "structureHelp": [
+        "Data",
+        "Meaning",
+        "Inference",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Class 12 Urducore board-style practice for Urducore Data Abstractor Question Bank: Solved Question Practice.",
+      "sourceChapter": "Solved Question Practice",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\Data Abstractor\\Data Abstractor\\data\\learnify_cbse.sqlite",
+      "correctItems": [
+        {
+          "id": "c12-urducore-900-data_chart_table-69-c1",
+          "text": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill and must be interpreted, not copied.",
+          "order": 1
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-69-c2",
+          "text": "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+          "order": 2
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-69-c3",
+          "text": "Read the given data, table headings and command word before writing the answer.",
+          "order": 3
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-69-c4",
+          "text": "Show the required calculation, classification or matching step clearly.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-urducore-900-data_chart_table-69-x1",
+          "text": "Copy the table headings without interpretation.",
+          "misconception": "Looks relevant but is not accepted for this answer."
+        },
+        {
+          "id": "c12-urducore-900-data_chart_table-69-x2",
+          "text": "Ignore the given figures or situations.",
+          "misconception": "Looks relevant but is not accepted for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "answer",
+          "label": "Answer"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "c12-urducore-900-data_chart_table-69-c1",
+          "c12-urducore-900-data_chart_table-69-c2",
+          "c12-urducore-900-data_chart_table-69-c3",
+          "c12-urducore-900-data_chart_table-69-c4"
+        ]
+      },
+      "hints": [
+        "Use precise Class 12 terminology.",
+        "Reject options that overstate or contradict the concept."
+      ],
+      "modelAnswer": "The table is about Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill and must be interpreted, not copied. The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each. Read the given data, table headings and command word before writing the answer. Show the required calculation, classification or matching step clearly.",
+      "scoringRubric": [
+        {
+          "criterion": "Accurate Class 12 concept",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical answer structure",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant commerce terminology",
+          "marks": 1
+        },
+        {
+          "criterion": "Application or conclusion without distractors",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill table practice",
+        "headers": [
+          "Evidence/feature",
+          "Meaning",
+          "Use in answer"
+        ],
+        "rows": [
+          [
+            "Question Number 1 To 50 Consists Of 50 Mcqs Of 1 Mark Each Calculation And Data Drill",
+            "The Class 12 Urducore question asks: Question number 1 to 50 consists of 50 MCQs of 1 mark each.",
+            "Opening idea"
+          ],
+          [
+            "Textual/writing clue",
+            "Read the given data, table headings and command word before writing the answer.",
+            "Support"
+          ],
+          [
+            "Interpretation",
+            "Show the required calculation, classification or matching step clearly.",
+            "Analysis"
+          ],
+          [
+            "Conclusion",
+            "The accepted answer direction is: C 11 ۔ B 21 ۔ A 31 ۔ B 41 ۔ B D B 4۔B 14 ۔ C 24 ۔A 34 ۔ B 44 ۔ C C A-25 A-35 D-45 D B A-37 A-47 B C C A-50.",
+            "Final response"
+          ]
+        ],
+        "question": "Study the table on Question number 1 to 50 consists of 50 MCQs of 1 mark each calculation and data drill and choose the best board-style interpretation."
       },
       "questionStyle": "previous-year-board-table-case-inspired",
       "questionDesignNote": "Questions are original Learnify practice items modelled on CBSE Class XII previous-year and sample-paper patterns: competency-based cases, tables, assertion-reason, source/data interpretation and short analytical answers."
