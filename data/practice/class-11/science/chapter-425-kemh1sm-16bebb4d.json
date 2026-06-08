@@ -12,7 +12,8 @@
     "chapterNumber": 425,
     "pageCount": null,
     "extractedCharacterCount": 4779,
-    "extractionPreview": "SUPPLEMENTARY MATERIAL 357\nSUPPLEMENTARY MATERIAL\nCHAPTER 8\n8.6 Infinite G.P. and its Sum\nG.P. of the form a, ar, ar2, ar3, ... is called infinite G.P. Now, to find the formulae for\nfinding sum to infinity of a G.P., we begin with an example.\nLet us consider the G.P.,\n2\n4\n1,\n,\n, ...\n3\n9\nHere\na = 1, \n2\n3\nr =\n. We have\n2\n1\n2\n3\nS\n3 1\n2\n3\n1\n3\nn\nn\nn\n\n\n−\n\n\n\n\n\n\n\n=\n=\n−\n\n\n\n\n\n\n\n\n\n\n−\nLet us study the behaviour of \n2\n3\nn\n\n\n\n\n\n as n becomes larger and larger:\n n\n1\n5\n10\n20\n2\n3\nn\n\n\n"
+    "extractionPreview": "SUPPLEMENTARY MATERIAL 357\nSUPPLEMENTARY MATERIAL\nCHAPTER 8\n8.6 Infinite G.P. and its Sum\nG.P. of the form a, ar, ar2, ar3, ... is called infinite G.P. Now, to find the formulae for\nfinding sum to infinity of a G.P., we begin with an example.\nLet us consider the G.P.,\n2\n4\n1,\n,\n, ...\n3\n9\nHere\na = 1, \n2\n3\nr =\n. We have\n2\n1\n2\n3\nS\n3 1\n2\n3\n1\n3\nn\nn\nn\n\n\n−\n\n\n\n\n\n\n\n=\n=\n−\n\n\n\n\n\n\n\n\n\n\n−\nLet us study the behaviour of \n2\n3\nn\n\n\n\n\n\n as n becomes larger and larger:\n n\n1\n5\n10\n20\n2\n3\nn\n\n\n",
+    "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 425.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 425?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 425.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 425 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 425.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 425, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 425 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 425?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 425.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 425?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,49 +154,49 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 425?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "explain-1",
-          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "explain-2",
-          "text": "Mathematically, we say that as n becomes sufficiently large, 2 3 n       becomes sufficiently small.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "explain-3",
-          "text": "3 n n   →∞ →     Consequently, we find that the sum of infinitely many terms is given by S 3.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "Therefore 1 n a S r → − Symbolically sum to infinity is denoted by S or S.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Mathematically, we say that as n becomes sufficiently large, 2 3 n       becomes sufficiently small. 3 n n   →∞ →     Consequently, we find that the sum of infinitely many terms is given by S 3. Therefore 1 n a S r → − Symbolically sum to infinity is denoted by S or S.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 425 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the number e whose value lies between 2 and 3.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "This number is useful in defining exponential function and is defined as f (x) = ex, x ∈ R.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "Its domain is R, range is the set of positive real numbers.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "The graph of exponential function, i.e., y = ex is as given in Fig.13.11.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the number e whose value lies between 2 and 3. This number is useful in defining exponential function and is defined as f (x) = ex, x ∈ R. Its domain is R, range is the set of positive real numbers. The graph of exponential function, i.e., y = ex is as given in Fig.13.11.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 425, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "13.11 Similarly, the logarithmic function expressed as loge R+ → R is given by loge x = y, if and only if ey = x.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Its domain is R+ which is the set of all positive real numbers and range is R.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "The graph of logarithmic function y = loge x is shown in Fig.13.12.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "Then log (1 ) e x xy + = 1 xy x e ⇒ + = 1 1 xy e x − ⇒ = or 1.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.11 Similarly, the logarithmic function expressed as loge R+ → R is given by loge x = y, if and only if ey = x. Its domain is R+ which is the set of all positive real numbers and range is R. The graph of logarithmic function y = loge x is shown in Fig.13.12. Then log (1 ) e x xy + = 1 xy x e ⇒ + = 1 1 xy e x − ⇒ = or 1.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 425 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 425 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "Therefore, 1 0 log log (1 ) lim lim 1 e e x h x h x h → → + = − 0 log (1 ) 1 since lim 1 e x x x → +   = =    .",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "1) Reprint 2025-26 SUPPLEMENTARY MATERIAL 363 Notes Reprint 2025-26 364 MATHEMATICS Reprint 2025-26",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, 1 0 log log (1 ) lim lim 1 e e x h x h x h → → + = − 0 log (1 ) 1 since lim 1 e x x x → +   = =    . 1) Reprint 2025-26 SUPPLEMENTARY MATERIAL 363 Notes Reprint 2025-26 364 MATHEMATICS Reprint 2025-26 Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 425?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 425, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,49 +790,49 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Complete a passage from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "fill_blanks-1",
-          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "fill_blanks-2",
-          "text": "Mathematically, we say that as n becomes sufficiently large, 2 3 n       becomes sufficiently small.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "fill_blanks-3",
-          "text": "3 n n   →∞ →     Consequently, we find that the sum of infinitely many terms is given by S 3.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "Therefore 1 n a S r → − Symbolically sum to infinity is denoted by S or S.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Mathematically, we say that as n becomes sufficiently large, 2 3 n       becomes sufficiently small. 3 n n   →∞ →     Consequently, we find that the sum of infinitely many terms is given by S 3. Therefore 1 n a S r → − Symbolically sum to infinity is denoted by S or S.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Classify statements based on Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the number e whose value lies between 2 and 3.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "This number is useful in defining exponential function and is defined as f (x) = ex, x ∈ R.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "Its domain is R, range is the set of positive real numbers.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "The graph of exponential function, i.e., y = ex is as given in Fig.13.11.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the number e whose value lies between 2 and 3. This number is useful in defining exponential function and is defined as f (x) = ex, x ∈ R. Its domain is R, range is the set of positive real numbers. The graph of exponential function, i.e., y = ex is as given in Fig.13.11.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "List key points from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "13.11 Similarly, the logarithmic function expressed as loge R+ → R is given by loge x = y, if and only if ey = x.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Its domain is R+ which is the set of all positive real numbers and range is R.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "The graph of logarithmic function y = loge x is shown in Fig.13.12.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "Then log (1 ) e x xy + = 1 xy x e ⇒ + = 1 1 xy e x − ⇒ = or 1.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.11 Similarly, the logarithmic function expressed as loge R+ → R is given by loge x = y, if and only if ey = x. Its domain is R+ which is the set of all positive real numbers and range is R. The graph of logarithmic function y = loge x is shown in Fig.13.12. Then log (1 ) e x xy + = 1 xy x e ⇒ + = 1 1 xy e x − ⇒ = or 1.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "Therefore, 1 0 log log (1 ) lim lim 1 e e x h x h x h → → + = − 0 log (1 ) 1 since lim 1 e x x x → +   = =    .",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "1) Reprint 2025-26 SUPPLEMENTARY MATERIAL 363 Notes Reprint 2025-26 364 MATHEMATICS Reprint 2025-26",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, 1 0 log log (1 ) lim lim 1 e e x h x h x h → → + = − 0 log (1 ) 1 since lim 1 e x x x → +   = =    . 1) Reprint 2025-26 SUPPLEMENTARY MATERIAL 363 Notes Reprint 2025-26 364 MATHEMATICS Reprint 2025-26 Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Use chapter information from Chapter 425 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 425 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,48 +1435,48 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Build a definition from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 425?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "definition_term-1",
-          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "definition_term-2",
-          "text": "Mathematically, we say that as n becomes sufficiently large, 2 3 n       becomes sufficiently small.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "definition_term-3",
-          "text": "3 n n   →∞ →     Consequently, we find that the sum of infinitely many terms is given by S 3.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "Therefore 1 n a S r → − Symbolically sum to infinity is denoted by S or S.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Mathematically, we say that as n becomes sufficiently large, 2 3 n       becomes sufficiently small. 3 n n   →∞ →     Consequently, we find that the sum of infinitely many terms is given by S 3. Therefore 1 n a S r → − Symbolically sum to infinity is denoted by S or S.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 425 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the number e whose value lies between 2 and 3.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "This number is useful in defining exponential function and is defined as f (x) = ex, x ∈ R.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "Its domain is R, range is the set of positive real numbers.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "The graph of exponential function, i.e., y = ex is as given in Fig.13.11.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "13.11 Similarly, the logarithmic function expressed as loge R+ → R is given by loge x = y, if and only if ey = x.",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the number e whose value lies between 2 and 3. This number is useful in defining exponential function and is defined as f (x) = ex, x ∈ R. Its domain is R, range is the set of positive real numbers. The graph of exponential function, i.e., y = ex is as given in Fig.13.11. 13.11 Similarly, the logarithmic function expressed as loge R+ → R is given by loge x = y, if and only if ey = x.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Its domain is R+ which is the set of all positive real numbers and range is R.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "The graph of logarithmic function y = loge x is shown in Fig.13.12.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "Then log (1 ) e x xy + = 1 xy x e ⇒ + = 1 1 xy e x − ⇒ = or 1.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Its domain is R+ which is the set of all positive real numbers and range is R. The graph of logarithmic function y = loge x is shown in Fig.13.12. Then log (1 ) e x xy + = 1 xy x e ⇒ + = 1 1 xy e x − ⇒ = or 1.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "Therefore, 1 0 log log (1 ) lim lim 1 e e x h x h x h → → + = − 0 log (1 ) 1 since lim 1 e x x x → +   = =    .",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "1) Reprint 2025-26 SUPPLEMENTARY MATERIAL 363 Notes Reprint 2025-26 364 MATHEMATICS Reprint 2025-26",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, 1 0 log log (1 ) lim lim 1 e e x h x h x h → → + = − 0 log (1 ) 1 since lim 1 e x x x → +   = =    . 1) Reprint 2025-26 SUPPLEMENTARY MATERIAL 363 Notes Reprint 2025-26 364 MATHEMATICS Reprint 2025-26 Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Sequence a process from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 425 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "is called infinite G.P.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,25 +2197,25 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 425.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
@@ -2226,13 +2227,13 @@
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 425 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,39 +2292,39 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-e-1",
-          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1,
           "section": "Introduction"
         },
         {
           "id": "chapter-q01-chapter-overview-e-2",
-          "text": "Mathematically, we say that as n becomes sufficiently large, 2 3 n       becomes sufficiently small.",
+          "text": "is called infinite G.P.",
           "order": 2,
           "section": "Key idea 1"
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "3 n n   →∞ →     Consequently, we find that the sum of infinitely many terms is given by S 3.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "Therefore 1 n a S r → − Symbolically sum to infinity is denoted by S or S.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Mathematically, we say that as n becomes sufficiently large, 2 3 n       becomes sufficiently small. 3 n n   →∞ →     Consequently, we find that the sum of infinitely many terms is given by S 3. Therefore 1 n a S r → − Symbolically sum to infinity is denoted by S or S.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "Now, to find the formulae for finding sum to",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "infinity of a G.P., we begin with an example.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "Mathematically, we say that as n becomes sufficiently large, 2",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "3 n       becomes sufficiently small.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "3 n n   →∞ →     Consequently, we",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "find that the sum of infinitely many terms is given by S 3.",
+          "text": "Chapter 425 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "Therefore 1 n a S r → − Symbolically",
+          "text": "The answer should use details from Chapter 425.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "sum to infinity is denoted by S or S.",
+          "text": "A clear response should stay connected to Chapter 425.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Mathematically, we say that as n becomes sufficiently large, 2 3 n       becomes sufficiently small. 3 n n   →∞ →     Consequently, we find that the sum of infinitely many terms is given by S 3. Therefore 1 n a S r → − Symbolically sum to infinity is denoted by S or S.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "now,",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "mathematically,",
+          "text": "Chapter 425 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Mathematically, we say that as n becomes sufficiently large, 2 3 n       becomes sufficiently small. 3 n n   →∞ →     Consequently, we find that the sum of infinitely many terms is given by S 3. Therefore 1 n a S r → − Symbolically sum to infinity is denoted by S or S.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the number e whose value lies between 2 and 3.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "This number is useful in defining exponential function and is defined as f (x) = ex, x ∈ R.",
+          "text": "is called infinite G.P.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "Its domain is R, range is the set of positive real numbers.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "The graph of exponential function, i.e., y = ex is as given in Fig.13.11.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the number e whose value lies between 2 and 3. This number is useful in defining exponential function and is defined as f (x) = ex, x ∈ R. Its domain is R, range is the set of positive real numbers. The graph of exponential function, i.e., y = ex is as given in Fig.13.11.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "number e whose value lies between 2 and 3.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "This number is useful in defining exponential function and",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "is defined as f (x) = ex, x ∈ R.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "Its domain is R, range is",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "the set of positive real numbers.",
+          "text": "Chapter 425 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "The graph of exponential function, i.e., y",
+          "text": "The answer should use details from Chapter 425.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "= ex is as given in Fig.13.11.",
+          "text": "A clear response should stay connected to Chapter 425.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the number e whose value lies between 2 and 3. This number is useful in defining exponential function and is defined as f (x) = ex, x ∈ R. Its domain is R, range is the set of positive real numbers. The graph of exponential function, i.e., y = ex is as given in Fig.13.11.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "leonhard",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "this",
+          "text": "Chapter 425 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Leonhard Euler (1707-1783), the great Swiss mathematician introduced the number e whose value lies between 2 and 3. This number is useful in defining exponential function and is defined as f (x) = ex, x ∈ R. Its domain is R, range is the set of positive real numbers. The graph of exponential function, i.e., y = ex is as given in Fig.13.11.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "13.11 Similarly, the logarithmic function expressed as loge R+ → R is given by loge x = y, if and only if ey = x.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Its domain is R+ which is the set of all positive real numbers and range is R.",
+          "text": "is called infinite G.P.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "The graph of logarithmic function y = loge x is shown in Fig.13.12.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "Then log (1 ) e x xy + = 1 xy x e ⇒ + = 1 1 xy e x − ⇒ = or 1.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.11 Similarly, the logarithmic function expressed as loge R+ → R is given by loge x = y, if and only if ey = x. Its domain is R+ which is the set of all positive real numbers and range is R. The graph of logarithmic function y = loge x is shown in Fig.13.12. Then log (1 ) e x xy + = 1 xy x e ⇒ + = 1 1 xy e x − ⇒ = or 1.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "13.11 Similarly, the logarithmic function expressed as loge R+ → R is",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "given by loge x = y, if and only if ey = x.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Its domain is R+ which is the set",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "of all positive real numbers and range is R.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "The graph of logarithmic function y",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "= loge x is shown in Fig.13.12.",
+          "text": "Chapter 425 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "Then log (1 ) e x xy + = 1 xy x e",
+          "text": "The answer should use details from Chapter 425.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "⇒ + = 1 1 xy e x − ⇒ = or 1.",
+          "text": "A clear response should stay connected to Chapter 425.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.11 Similarly, the logarithmic function expressed as loge R+ → R is given by loge x = y, if and only if ey = x. Its domain is R+ which is the set of all positive real numbers and range is R. The graph of logarithmic function y = loge x is shown in Fig.13.12. Then log (1 ) e x xy + = 1 xy x e ⇒ + = 1 1 xy e x − ⇒ = or 1.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "13.11",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "its",
+          "text": "Chapter 425 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.11 Similarly, the logarithmic function expressed as loge R+ → R is given by loge x = y, if and only if ey = x. Its domain is R+ which is the set of all positive real numbers and range is R. The graph of logarithmic function y = loge x is shown in Fig.13.12. Then log (1 ) e x xy + = 1 xy x e ⇒ + = 1 1 xy e x − ⇒ = or 1.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Define an important term from Chapter 425 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "Therefore, 1 0 log log (1 ) lim lim 1 e e x h x h x h → → + = − 0 log (1 ) 1 since lim 1 e x x x → +   = =    .",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "1) Reprint 2025-26 SUPPLEMENTARY MATERIAL 363 Notes Reprint 2025-26 364 MATHEMATICS Reprint 2025-26",
+          "text": "is called infinite G.P.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, 1 0 log log (1 ) lim lim 1 e e x h x h x h → → + = − 0 log (1 ) 1 since lim 1 e x x x → +   = =    . 1) Reprint 2025-26 SUPPLEMENTARY MATERIAL 363 Notes Reprint 2025-26 364 MATHEMATICS Reprint 2025-26 Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Define an important term from Chapter 425 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "Therefore, 1 0 log log (1 ) lim lim 1 e e x h x h x h → → + =",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "− 0 log (1 ) 1 since lim 1 e x x x → +   = =    .",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "1) Reprint 2025-26 SUPPLEMENTARY MATERIAL 363",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "Notes Reprint 2025-26 364 MATHEMATICS Reprint 2025-26",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "Chapter 425 includes an important idea from",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "the chapter that students should explain clearly.",
+          "text": "Chapter 425 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "Chapter 425 includes an important idea from",
+          "text": "The answer should use details from Chapter 425.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "the chapter that students should explain clearly.",
+          "text": "A clear response should stay connected to Chapter 425.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, 1 0 log log (1 ) lim lim 1 e e x h x h x h → → + = − 0 log (1 ) 1 since lim 1 e x x x → +   = =    . 1) Reprint 2025-26 SUPPLEMENTARY MATERIAL 363 Notes Reprint 2025-26 364 MATHEMATICS Reprint 2025-26 Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Define an important term from Chapter 425 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "therefore,",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "1)",
+          "text": "Chapter 425 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, 1 0 log log (1 ) lim lim 1 e e x h x h x h → → + = − 0 log (1 ) 1 since lim 1 e x x x → +   = =    . 1) Reprint 2025-26 SUPPLEMENTARY MATERIAL 363 Notes Reprint 2025-26 364 MATHEMATICS Reprint 2025-26 Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "is called infinite G.P.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "Chapter 425 includes an important idea from",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "the chapter that students should explain clearly.",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "Chapter 425 includes an important idea from",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "the chapter that students should explain clearly.",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "Chapter 425 includes an important idea from",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "the chapter that students should explain clearly.",
+          "text": "Chapter 425 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "Chapter 425 includes an important idea from",
+          "text": "The answer should use details from Chapter 425.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "the chapter that students should explain clearly.",
+          "text": "A clear response should stay connected to Chapter 425.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 425",
       "chapterNumber": 425,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 425.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 425.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 425.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 425.",
       "sourceChapter": "Chapter 425",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Science\\Mathematics\\kemh1sm.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "of the form a, ar, ar2, ar3.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "is called infinite G.P.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "Let us consider the G.P., 2 4 1.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "chapter",
+          "text": "3 9 Here a = 1, 2 3 r =.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "chapter",
+          "text": "Chapter 425 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 425 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 425.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 425.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly. Chapter 425 includes an important idea from the chapter that students should explain clearly.",
+      "modelAnswer": "of the form a, ar, ar2, ar3. is called infinite G.P. Now, to find the formulae for finding sum to infinity of a G.P., we begin with an example. Let us consider the G.P., 2 4 1.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

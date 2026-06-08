@@ -12,7 +12,8 @@
     "chapterNumber": 7,
     "pageCount": null,
     "extractedCharacterCount": 47754,
-    "extractionPreview": "7.1 INTRODUCTION\nWe have so far considered direct current (dc) sources and circuits with dc\nsources. These currents do not change direction with time. But voltages\nand currents that vary with time are very common. The electric mains\nsupply in our homes and offices is a voltage that varies like a sine function\nwith time. Such a voltage is called alternating voltage (ac voltage) and\nthe current driven by it in a circuit is called the alternating current (ac\ncurrent)*. Today, most of the electrical"
+    "extractionPreview": "7.1 INTRODUCTION\nWe have so far considered direct current (dc) sources and circuits with dc\nsources. These currents do not change direction with time. But voltages\nand currents that vary with time are very common. The electric mains\nsupply in our homes and offices is a voltage that varies like a sine function\nwith time. Such a voltage is called alternating voltage (ac voltage) and\nthe current driven by it in a circuit is called the alternating current (ac\ncurrent)*. Today, most of the electrical",
+    "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 7.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 7?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 7.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 7 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 7.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 7, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 7 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 7?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 7.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 7?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 7?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
@@ -172,30 +173,30 @@
         },
         {
           "id": "explain-2",
-          "text": "But voltages and currents that vary with time are very common.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "explain-3",
-          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time. Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 7 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "Today, most of the electrical devices we use require ac voltage.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "This is mainly because most of the electrical energy sold by power companies is transmitted and distributed as alternating current.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "The main reason for preferring use of ac voltage over dc voltage is that ac voltages can be easily and efficiently converted from one voltage to the other by means of transformers.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "Further, electrical energy can also be transmitted economically over long distances.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Today, most of the electrical devices we use require ac voltage. This is mainly because most of the electrical energy sold by power companies is transmitted and distributed as alternating current. The main reason for preferring use of ac voltage over dc voltage is that ac voltages can be easily and efficiently converted from one voltage to the other by means of transformers. Further, electrical energy can also be transmitted economically over long distances.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 7, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "AC circuits exhibit characteristics which are exploited in many devices of daily use.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Still, the abbreviation ac to designate an electrical quantity displaying simple harmonic time dependance has become so universally accepted that we follow others in its use.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "Further, voltage - another phrase commonly used means potential difference between two points.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "Reprint 2026-27 Physics 178 NICOLA TESLA (1856 - 1943) Nicola Tesla (1856 - 1943) Serbian-American scientist, inventor and genius.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "AC circuits exhibit characteristics which are exploited in many devices of daily use. Still, the abbreviation ac to designate an electrical quantity displaying simple harmonic time dependance has become so universally accepted that we follow others in its use. Further, voltage - another phrase commonly used means potential difference between two points. Reprint 2026-27 Physics 178 NICOLA TESLA (1856 - 1943) Nicola Tesla (1856 - 1943) Serbian-American scientist, inventor and genius.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 7 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 7 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "He conceived the idea of the rotating magnetic field, which is the basis of practically all alternating current machinery, and which helped usher in the age of electric power.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "We consider a source which produces sinusoidally varying potential difference across its terminals.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "Let this potential difference, also called ac voltage, be given by sin m v v t ω = (7.1) where vm is the amplitude of the oscillating potential difference and ω is its angular frequency.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "To find the value of current through the resistor, we apply Kirchhoff's loop rule ε( )t = ∑ 0 (refer to Section 3.12), to the circuit shown in Fig.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He conceived the idea of the rotating magnetic field, which is the basis of practically all alternating current machinery, and which helped usher in the age of electric power. We consider a source which produces sinusoidally varying potential difference across its terminals. Let this potential difference, also called ac voltage, be given by sin m v v t ω = (7.1) where vm is the amplitude of the oscillating potential difference and ω is its angular frequency. To find the value of current through the resistor, we apply Kirchhoff's loop rule ε( )t = ∑ 0 (refer to Section 3.12), to the circuit shown in Fig.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 7?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "The voltage across a pure resistor and the current through it, given by Eqs.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "(7.1) and (7.2) are plotted as a function of time in Fig.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "Note, in particular that both v and i reach zero, minimum and maximum values at the same time.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "Clearly, the voltage and current are in phase with each other.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The voltage across a pure resistor and the current through it, given by Eqs. (7.1) and (7.2) are plotted as a function of time in Fig. Note, in particular that both v and i reach zero, minimum and maximum values at the same time. Clearly, the voltage and current are in phase with each other.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 7, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "We see that, like the applied voltage, the current varies sinusoidally and has corresponding positive and negative values during each cycle.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "Thus, the sum of the instantaneous current values over one complete cycle is zero, and the average current is zero.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "The minima, zero and maxima occur at the same respective times.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "Reprint 2026-27 179 Alternating Current GEORGE WESTINGHOUSE (1846 - 1914) George Westinghouse (1846 - 1914) A leading proponent of the use of alternating current over direct current.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We see that, like the applied voltage, the current varies sinusoidally and has corresponding positive and negative values during each cycle. Thus, the sum of the instantaneous current values over one complete cycle is zero, and the average current is zero. The minima, zero and maxima occur at the same respective times. Reprint 2026-27 179 Alternating Current GEORGE WESTINGHOUSE (1846 - 1914) George Westinghouse (1846 - 1914) A leading proponent of the use of alternating current over direct current.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Complete a passage from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
@@ -808,30 +809,30 @@
         },
         {
           "id": "fill_blanks-2",
-          "text": "But voltages and currents that vary with time are very common.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "fill_blanks-3",
-          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time. Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Classify statements based on Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "Today, most of the electrical devices we use require ac voltage.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "This is mainly because most of the electrical energy sold by power companies is transmitted and distributed as alternating current.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "The main reason for preferring use of ac voltage over dc voltage is that ac voltages can be easily and efficiently converted from one voltage to the other by means of transformers.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "Further, electrical energy can also be transmitted economically over long distances.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Today, most of the electrical devices we use require ac voltage. This is mainly because most of the electrical energy sold by power companies is transmitted and distributed as alternating current. The main reason for preferring use of ac voltage over dc voltage is that ac voltages can be easily and efficiently converted from one voltage to the other by means of transformers. Further, electrical energy can also be transmitted economically over long distances.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "List key points from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "AC circuits exhibit characteristics which are exploited in many devices of daily use.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Still, the abbreviation ac to designate an electrical quantity displaying simple harmonic time dependance has become so universally accepted that we follow others in its use.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "Further, voltage - another phrase commonly used means potential difference between two points.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "Reprint 2026-27 Physics 178 NICOLA TESLA (1856 - 1943) Nicola Tesla (1856 - 1943) Serbian-American scientist, inventor and genius.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "AC circuits exhibit characteristics which are exploited in many devices of daily use. Still, the abbreviation ac to designate an electrical quantity displaying simple harmonic time dependance has become so universally accepted that we follow others in its use. Further, voltage - another phrase commonly used means potential difference between two points. Reprint 2026-27 Physics 178 NICOLA TESLA (1856 - 1943) Nicola Tesla (1856 - 1943) Serbian-American scientist, inventor and genius.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "He conceived the idea of the rotating magnetic field, which is the basis of practically all alternating current machinery, and which helped usher in the age of electric power.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "We consider a source which produces sinusoidally varying potential difference across its terminals.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "Let this potential difference, also called ac voltage, be given by sin m v v t ω = (7.1) where vm is the amplitude of the oscillating potential difference and ω is its angular frequency.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "To find the value of current through the resistor, we apply Kirchhoff's loop rule ε( )t = ∑ 0 (refer to Section 3.12), to the circuit shown in Fig.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He conceived the idea of the rotating magnetic field, which is the basis of practically all alternating current machinery, and which helped usher in the age of electric power. We consider a source which produces sinusoidally varying potential difference across its terminals. Let this potential difference, also called ac voltage, be given by sin m v v t ω = (7.1) where vm is the amplitude of the oscillating potential difference and ω is its angular frequency. To find the value of current through the resistor, we apply Kirchhoff's loop rule ε( )t = ∑ 0 (refer to Section 3.12), to the circuit shown in Fig.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Use chapter information from Chapter 7 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 7 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "The voltage across a pure resistor and the current through it, given by Eqs.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "(7.1) and (7.2) are plotted as a function of time in Fig.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "Note, in particular that both v and i reach zero, minimum and maximum values at the same time.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "Clearly, the voltage and current are in phase with each other.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The voltage across a pure resistor and the current through it, given by Eqs. (7.1) and (7.2) are plotted as a function of time in Fig. Note, in particular that both v and i reach zero, minimum and maximum values at the same time. Clearly, the voltage and current are in phase with each other.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "We see that, like the applied voltage, the current varies sinusoidally and has corresponding positive and negative values during each cycle.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "Thus, the sum of the instantaneous current values over one complete cycle is zero, and the average current is zero.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "The minima, zero and maxima occur at the same respective times.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "Reprint 2026-27 179 Alternating Current GEORGE WESTINGHOUSE (1846 - 1914) George Westinghouse (1846 - 1914) A leading proponent of the use of alternating current over direct current.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "Thus, he came into conflict with Thomas Alva Edison, an advocate of direct current.",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We see that, like the applied voltage, the current varies sinusoidally and has corresponding positive and negative values during each cycle. Thus, the sum of the instantaneous current values over one complete cycle is zero, and the average current is zero. The minima, zero and maxima occur at the same respective times. Reprint 2026-27 179 Alternating Current GEORGE WESTINGHOUSE (1846 - 1914) George Westinghouse (1846 - 1914) A leading proponent of the use of alternating current over direct current. Thus, he came into conflict with Thomas Alva Edison, an advocate of direct current.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Build a definition from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 7?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
@@ -1452,30 +1453,30 @@
         },
         {
           "id": "definition_term-2",
-          "text": "But voltages and currents that vary with time are very common.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "definition_term-3",
-          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time. Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 7 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "Today, most of the electrical devices we use require ac voltage.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "This is mainly because most of the electrical energy sold by power companies is transmitted and distributed as alternating current.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "The main reason for preferring use of ac voltage over dc voltage is that ac voltages can be easily and efficiently converted from one voltage to the other by means of transformers.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "Further, electrical energy can also be transmitted economically over long distances.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "AC circuits exhibit characteristics which are exploited in many devices of daily use.",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Today, most of the electrical devices we use require ac voltage. This is mainly because most of the electrical energy sold by power companies is transmitted and distributed as alternating current. The main reason for preferring use of ac voltage over dc voltage is that ac voltages can be easily and efficiently converted from one voltage to the other by means of transformers. Further, electrical energy can also be transmitted economically over long distances. AC circuits exhibit characteristics which are exploited in many devices of daily use.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Still, the abbreviation ac to designate an electrical quantity displaying simple harmonic time dependance has become so universally accepted that we follow others in its use.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "Further, voltage - another phrase commonly used means potential difference between two points.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "Reprint 2026-27 Physics 178 NICOLA TESLA (1856 - 1943) Nicola Tesla (1856 - 1943) Serbian-American scientist, inventor and genius.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Still, the abbreviation ac to designate an electrical quantity displaying simple harmonic time dependance has become so universally accepted that we follow others in its use. Further, voltage - another phrase commonly used means potential difference between two points. Reprint 2026-27 Physics 178 NICOLA TESLA (1856 - 1943) Nicola Tesla (1856 - 1943) Serbian-American scientist, inventor and genius.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "He conceived the idea of the rotating magnetic field, which is the basis of practically all alternating current machinery, and which helped usher in the age of electric power.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "We consider a source which produces sinusoidally varying potential difference across its terminals.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "Let this potential difference, also called ac voltage, be given by sin m v v t ω = (7.1) where vm is the amplitude of the oscillating potential difference and ω is its angular frequency.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He conceived the idea of the rotating magnetic field, which is the basis of practically all alternating current machinery, and which helped usher in the age of electric power. We consider a source which produces sinusoidally varying potential difference across its terminals. Let this potential difference, also called ac voltage, be given by sin m v v t ω = (7.1) where vm is the amplitude of the oscillating potential difference and ω is its angular frequency.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Sequence a process from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 7 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "To find the value of current through the resistor, we apply Kirchhoff's loop rule ε( )t = ∑ 0 (refer to Section 3.12), to the circuit shown in Fig.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "The voltage across a pure resistor and the current through it, given by Eqs.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "(7.1) and (7.2) are plotted as a function of time in Fig.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "Note, in particular that both v and i reach zero, minimum and maximum values at the same time.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "To find the value of current through the resistor, we apply Kirchhoff's loop rule ε( )t = ∑ 0 (refer to Section 3.12), to the circuit shown in Fig. The voltage across a pure resistor and the current through it, given by Eqs. (7.1) and (7.2) are plotted as a function of time in Fig. Note, in particular that both v and i reach zero, minimum and maximum values at the same time.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "Clearly, the voltage and current are in phase with each other.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "We see that, like the applied voltage, the current varies sinusoidally and has corresponding positive and negative values during each cycle.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "Thus, the sum of the instantaneous current values over one complete cycle is zero, and the average current is zero.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Clearly, the voltage and current are in phase with each other. We see that, like the applied voltage, the current varies sinusoidally and has corresponding positive and negative values during each cycle. Thus, the sum of the instantaneous current values over one complete cycle is zero, and the average current is zero.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "The minima, zero and maxima occur at the same respective times.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "Reprint 2026-27 179 Alternating Current GEORGE WESTINGHOUSE (1846 - 1914) George Westinghouse (1846 - 1914) A leading proponent of the use of alternating current over direct current.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "Thus, he came into conflict with Thomas Alva Edison, an advocate of direct current.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "Westinghouse was convinced that the technology of alternating current was the key to the electrical future.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The minima, zero and maxima occur at the same respective times. Reprint 2026-27 179 Alternating Current GEORGE WESTINGHOUSE (1846 - 1914) George Westinghouse (1846 - 1914) A leading proponent of the use of alternating current over direct current. Thus, he came into conflict with Thomas Alva Edison, an advocate of direct current. Westinghouse was convinced that the technology of alternating current was the key to the electrical future.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "not mean that the average power consumed is zero and that there is no dissipation of electrical energy.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "As you know, Joule heating is given by i2R and depends on i2 (which is always positive whether i is positive or negative) and not on i.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "not mean that the average power consumed is zero and that there is no dissipation of electrical energy. As you know, Joule heating is given by i2R and depends on i2 (which is always positive whether i is positive or negative) and not on i.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "Thus, there is Joule heating and dissipation of electrical energy when an ac current passes through a resistor.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "It is called, root mean square (rms) or effective current (Fig.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Thus, there is Joule heating and dissipation of electrical energy when an ac current passes through a resistor. It is called, root mean square (rms) or effective current (Fig. 7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
@@ -2311,19 +2312,19 @@
         },
         {
           "id": "chapter-q01-chapter-overview-e-2",
-          "text": "But voltages and currents that vary with time are very common.",
+          "text": "These currents do not change direction with time.",
           "order": 2,
           "section": "Key idea 1"
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time. Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "7.1 INTRODUCTION We have so far considered direct",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "current (dc) sources and circuits with dc sources.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "But voltages and currents that",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "vary with time are very common.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "The electric mains supply in our homes and offices is",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "a voltage that varies like a sine function with time.",
+          "text": "Today, most of the electrical.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "Such a voltage is called alternating voltage (ac voltage) and the current",
+          "text": "Chapter 7 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "driven by it in a circuit is called the alternating current (ac current)*.",
+          "text": "The answer should use details from Chapter 7.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time. Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "7.1",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "but",
+          "text": "Today, most of the electrical.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time. Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "Today, most of the electrical devices we use require ac voltage.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "This is mainly because most of the electrical energy sold by power companies is transmitted and distributed as alternating current.",
+          "text": "These currents do not change direction with time.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "The main reason for preferring use of ac voltage over dc voltage is that ac voltages can be easily and efficiently converted from one voltage to the other by means of transformers.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "Further, electrical energy can also be transmitted economically over long distances.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Today, most of the electrical devices we use require ac voltage. This is mainly because most of the electrical energy sold by power companies is transmitted and distributed as alternating current. The main reason for preferring use of ac voltage over dc voltage is that ac voltages can be easily and efficiently converted from one voltage to the other by means of transformers. Further, electrical energy can also be transmitted economically over long distances.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "Today, most of the electrical",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "devices we use require ac voltage.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "This is mainly because most of the electrical energy sold",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "by power companies is transmitted and distributed as alternating current.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "The main reason for preferring use of ac voltage over dc voltage is that ac voltages",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "can be easily and efficiently converted from one voltage to the other by means of transformers.",
+          "text": "Today, most of the electrical.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "Further, electrical energy can also",
+          "text": "Chapter 7 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "be transmitted economically over long distances.",
+          "text": "The answer should use details from Chapter 7.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Today, most of the electrical devices we use require ac voltage. This is mainly because most of the electrical energy sold by power companies is transmitted and distributed as alternating current. The main reason for preferring use of ac voltage over dc voltage is that ac voltages can be easily and efficiently converted from one voltage to the other by means of transformers. Further, electrical energy can also be transmitted economically over long distances.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "today,",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "this",
+          "text": "Today, most of the electrical.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Today, most of the electrical devices we use require ac voltage. This is mainly because most of the electrical energy sold by power companies is transmitted and distributed as alternating current. The main reason for preferring use of ac voltage over dc voltage is that ac voltages can be easily and efficiently converted from one voltage to the other by means of transformers. Further, electrical energy can also be transmitted economically over long distances.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "AC circuits exhibit characteristics which are exploited in many devices of daily use.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Still, the abbreviation ac to designate an electrical quantity displaying simple harmonic time dependance has become so universally accepted that we follow others in its use.",
+          "text": "These currents do not change direction with time.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "Further, voltage - another phrase commonly used means potential difference between two points.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "Reprint 2026-27 Physics 178 NICOLA TESLA (1856 - 1943) Nicola Tesla (1856 - 1943) Serbian-American scientist, inventor and genius.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "AC circuits exhibit characteristics which are exploited in many devices of daily use. Still, the abbreviation ac to designate an electrical quantity displaying simple harmonic time dependance has become so universally accepted that we follow others in its use. Further, voltage - another phrase commonly used means potential difference between two points. Reprint 2026-27 Physics 178 NICOLA TESLA (1856 - 1943) Nicola Tesla (1856 - 1943) Serbian-American scientist, inventor and genius.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "AC circuits exhibit characteristics which are",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "exploited in many devices of daily use.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Still, the abbreviation ac to designate an electrical quantity displaying simple harmonic time",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "dependance has become so universally accepted that we follow others in its use.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "Further, voltage - another phrase commonly",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "used means potential difference between two points.",
+          "text": "Today, most of the electrical.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "Reprint 2026-27 Physics 178 NICOLA TESLA (1856 - 1943)",
+          "text": "Chapter 7 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "Nicola Tesla (1856 - 1943) Serbian-American scientist, inventor and genius.",
+          "text": "The answer should use details from Chapter 7.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "AC circuits exhibit characteristics which are exploited in many devices of daily use. Still, the abbreviation ac to designate an electrical quantity displaying simple harmonic time dependance has become so universally accepted that we follow others in its use. Further, voltage - another phrase commonly used means potential difference between two points. Reprint 2026-27 Physics 178 NICOLA TESLA (1856 - 1943) Nicola Tesla (1856 - 1943) Serbian-American scientist, inventor and genius.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "ac",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "still,",
+          "text": "Today, most of the electrical.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "AC circuits exhibit characteristics which are exploited in many devices of daily use. Still, the abbreviation ac to designate an electrical quantity displaying simple harmonic time dependance has become so universally accepted that we follow others in its use. Further, voltage - another phrase commonly used means potential difference between two points. Reprint 2026-27 Physics 178 NICOLA TESLA (1856 - 1943) Nicola Tesla (1856 - 1943) Serbian-American scientist, inventor and genius.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Define an important term from Chapter 7 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "He conceived the idea of the rotating magnetic field, which is the basis of practically all alternating current machinery, and which helped usher in the age of electric power.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "We consider a source which produces sinusoidally varying potential difference across its terminals.",
+          "text": "These currents do not change direction with time.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "Let this potential difference, also called ac voltage, be given by sin m v v t ω = (7.1) where vm is the amplitude of the oscillating potential difference and ω is its angular frequency.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "To find the value of current through the resistor, we apply Kirchhoff's loop rule ε( )t = ∑ 0 (refer to Section 3.12), to the circuit shown in Fig.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He conceived the idea of the rotating magnetic field, which is the basis of practically all alternating current machinery, and which helped usher in the age of electric power. We consider a source which produces sinusoidally varying potential difference across its terminals. Let this potential difference, also called ac voltage, be given by sin m v v t ω = (7.1) where vm is the amplitude of the oscillating potential difference and ω is its angular frequency. To find the value of current through the resistor, we apply Kirchhoff's loop rule ε( )t = ∑ 0 (refer to Section 3.12), to the circuit shown in Fig.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Define an important term from Chapter 7 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "He conceived the idea of the rotating magnetic field, which is the basis of",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "practically all alternating current machinery, and which helped usher in the age of electric power.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "We consider a source which produces",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "sinusoidally varying potential difference across its terminals.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "Let this potential difference, also called ac voltage, be given by sin m v v t ω",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "= (7.1) where vm is the amplitude of the oscillating potential difference and ω is its angular frequency.",
+          "text": "Today, most of the electrical.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "To find the value of current through the resistor, we apply Kirchhoff's loop rule",
+          "text": "Chapter 7 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "ε( )t = ∑ 0 (refer to Section 3.12), to the circuit shown in Fig.",
+          "text": "The answer should use details from Chapter 7.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He conceived the idea of the rotating magnetic field, which is the basis of practically all alternating current machinery, and which helped usher in the age of electric power. We consider a source which produces sinusoidally varying potential difference across its terminals. Let this potential difference, also called ac voltage, be given by sin m v v t ω = (7.1) where vm is the amplitude of the oscillating potential difference and ω is its angular frequency. To find the value of current through the resistor, we apply Kirchhoff's loop rule ε( )t = ∑ 0 (refer to Section 3.12), to the circuit shown in Fig.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Define an important term from Chapter 7 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "he",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "we",
+          "text": "Today, most of the electrical.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He conceived the idea of the rotating magnetic field, which is the basis of practically all alternating current machinery, and which helped usher in the age of electric power. We consider a source which produces sinusoidally varying potential difference across its terminals. Let this potential difference, also called ac voltage, be given by sin m v v t ω = (7.1) where vm is the amplitude of the oscillating potential difference and ω is its angular frequency. To find the value of current through the resistor, we apply Kirchhoff's loop rule ε( )t = ∑ 0 (refer to Section 3.12), to the circuit shown in Fig.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "The voltage across a pure resistor and the current through it, given by Eqs.",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "(7.1) and (7.2) are plotted as a function of time in Fig.",
+          "text": "These currents do not change direction with time.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "Note, in particular that both v and i reach zero, minimum and maximum values at the same time.",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "Clearly, the voltage and current are in phase with each other.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The voltage across a pure resistor and the current through it, given by Eqs. (7.1) and (7.2) are plotted as a function of time in Fig. Note, in particular that both v and i reach zero, minimum and maximum values at the same time. Clearly, the voltage and current are in phase with each other.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "The voltage across a pure resistor and",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "the current through it, given by Eqs.",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "(7.1) and (7.2) are plotted as",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "a function of time in Fig.",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "Note, in particular that both v and i reach",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "zero, minimum and maximum values at the same time.",
+          "text": "Today, most of the electrical.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "Clearly, the voltage and current",
+          "text": "Chapter 7 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "are in phase with each other.",
+          "text": "The answer should use details from Chapter 7.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The voltage across a pure resistor and the current through it, given by Eqs. (7.1) and (7.2) are plotted as a function of time in Fig. Note, in particular that both v and i reach zero, minimum and maximum values at the same time. Clearly, the voltage and current are in phase with each other.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Physics, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Physics, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Physics\\leph107.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "These currents do not change direction with time.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "But voltages and currents that vary with time are very common.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "the",
+          "text": "Such a voltage is called alternating voltage (ac voltage) and the current driven by it in a circuit is called the alternating current (ac current)*.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "(7.1)",
+          "text": "Today, most of the electrical.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The voltage across a pure resistor and the current through it, given by Eqs. (7.1) and (7.2) are plotted as a function of time in Fig. Note, in particular that both v and i reach zero, minimum and maximum values at the same time. Clearly, the voltage and current are in phase with each other.",
+      "modelAnswer": "7.1 INTRODUCTION We have so far considered direct current (dc) sources and circuits with dc sources. These currents do not change direction with time. But voltages and currents that vary with time are very common. The electric mains supply in our homes and offices is a voltage that varies like a sine function with time.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

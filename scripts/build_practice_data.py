@@ -8,7 +8,7 @@ from pathlib import Path
 from typing import Any
 
 
-SOURCE_ROOT = Path(r"D:\LX\all class pdf")
+SOURCE_ROOT = Path(r"C:\Users\acer\Downloads\all class pdf\all class pdf")
 PILOT_PDF = SOURCE_ROOT / "class 7" / "Science - Curiosity" / "gecu109.pdf"
 OUTPUT_PATH = (
     Path("data")
@@ -225,6 +225,101 @@ def chunk(item_id: str, text: str, order: int | None = None, section: str | None
 
 def distractor(item_id: str, text: str, misconception: str) -> dict[str, Any]:
     return {"id": item_id, "text": text, "misconception": misconception}
+
+
+def split_correct_ending(sentence: str) -> tuple[str, str]:
+    clean = re.sub(r"\s+", " ", sentence).strip()
+    clean = clean.rstrip(".!?")
+    words = clean.split()
+    if len(words) < 8:
+        midpoint = max(2, len(words) // 2)
+    else:
+        midpoint = max(4, len(words) - min(7, max(3, len(words) // 3)))
+    return " ".join(words[:midpoint]), " ".join(words[midpoint:])
+
+
+def choose_correct_ending_payload(
+    prefix: str,
+    sentences: list[str],
+    fallback_wrong: list[str] | None = None,
+    limit: int = 3,
+) -> tuple[str, list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]], dict[str, Any], str, list[str]]:
+    usable = [sentence for sentence in sentences if len(sentence.split()) >= 6][:limit]
+    while len(usable) < limit:
+        usable.append(f"{ACTIVE_META.chapter} gives important facts that students can complete correctly.")
+
+    correct: list[dict[str, Any]] = []
+    slots: list[dict[str, Any]] = []
+    stems: list[str] = []
+    model_lines: list[str] = []
+    for index, sentence in enumerate(usable, start=1):
+        stem, ending = split_correct_ending(sentence)
+        item_id = f"{prefix}-{index}"
+        correct.append(chunk(item_id, ending, index))
+        slots.append({"id": f"ending-{index}", "label": f"Gap {index}", "expectedItemId": item_id})
+        stems.append(f"{index}. {stem} ________.")
+        model_lines.append(f"{index}. {stem} {ending}.")
+
+    wrong_source = fallback_wrong or []
+    wrong_texts = [split_correct_ending(text)[1] for text in wrong_source if len(text.split()) >= 4]
+    wrong_texts.extend(
+        [
+            "does not match the chapter idea.",
+            "belongs to another topic.",
+            "is not the correct ending.",
+        ]
+    )
+    distractors = [
+        distractor(f"{prefix}-x{index}", text.rstrip(".") + ".", "This ending does not complete the sentence correctly.")
+        for index, text in enumerate(wrong_texts[:3], start=1)
+    ]
+    question = "Choose the correct ending for each sentence and fill in the gaps.\n" + "\n".join(stems)
+    key = {"orderedItemIds": [item["id"] for item in correct]}
+    hints = ["Read the sentence before the blank.", "Choose the ending that completes the meaning."]
+    return question, correct, distractors, slots, key, " ".join(model_lines), hints
+
+
+def evidence_support_quiz_payload(
+    prefix: str,
+    claim: str,
+    evidence: str,
+    context: str | None = None,
+) -> tuple[str, list[dict[str, Any]], list[dict[str, Any]], list[dict[str, Any]], dict[str, Any], str, list[str]]:
+    clean_claim = re.sub(r"\s+", " ", claim).strip().rstrip(".")
+    clean_evidence = re.sub(r"\s+", " ", evidence).strip().rstrip(".")
+    clean_context = re.sub(r"\s+", " ", context or "").strip().rstrip(".")
+    if not clean_claim:
+        clean_claim = f"{ACTIVE_META.chapter} presents an important Class 12 claim"
+    if not clean_evidence:
+        clean_evidence = f"{ACTIVE_META.chapter} gives specific supporting information"
+
+    correct = [
+        chunk(f"{prefix}-c1", f"Claim: {clean_claim}.", 1),
+        chunk(f"{prefix}-c2", f"Evidence: {clean_evidence}.", 2),
+        chunk(f"{prefix}-c3", "Support: this evidence is specific and directly proves the claim.", 3),
+        chunk(f"{prefix}-c4", f"Link: {clean_context or ACTIVE_META.chapter}.", 4),
+    ]
+    distractor_texts = [
+        f"Repeat only: {clean_claim}.",
+        f"Unclear support: {clean_context or ACTIVE_META.chapter}.",
+        "No evidence is needed because the claim is already obvious.",
+        "A strong answer can ignore the link between claim and evidence.",
+    ]
+    question = (
+        "Quiz & Worksheet - Evidence and Support\n"
+        f"Claim: {clean_claim}.\n"
+        f"Evidence: {clean_evidence}.\n\n"
+        "Build the full evidence-support answer by selecting the correct parts in order."
+    )
+    distractors = [
+        distractor(f"{prefix}-x{index}", text, "This option does not use specific, direct evidence.")
+        for index, text in enumerate(distractor_texts, start=1)
+    ]
+    slots = [{"id": "answer", "label": "Answer"}]
+    key = {"orderedItemIds": [item["id"] for item in correct]}
+    model = " ".join(item["text"] for item in correct)
+    hints = ["Select the claim, evidence, support and link in order.", "Do not use lines that only repeat or avoid evidence."]
+    return question, correct, distractors, slots, key, model, hints
 
 
 def base_activity(
@@ -766,22 +861,30 @@ def core_activities(start_index: int) -> list[dict[str, Any]]:
         ["This activity tests starch digestion by saliva."],
         ["sq-1", "sq-2", "sq-3", "sq-4", "sq-5"],
     )
+    ending_question, ending_correct, ending_distractors, ending_slots, ending_key, ending_answer, ending_hints = choose_correct_ending_payload(
+        "end",
+        [
+            "When exhaled air is blown into lime water, the lime water turns milky because exhaled air contains more carbon dioxide than inhaled air.",
+            "The small intestine is well suited for absorption because it has many finger-like projections.",
+            "Earthworms can exchange gases through skin when the skin remains moist.",
+        ],
+        [
+            "Exhaled air contains bile.",
+            "Oxygen turns lime water milky.",
+            "The straw digests starch.",
+        ],
+    )
     add(
         "choose_correct_ending",
-        "Choose the best ending: When exhaled air is blown into lime water, the lime water turns milky because...",
-        [
-            chunk("end-1", "exhaled air contains more carbon dioxide than inhaled air.", 1),
-        ],
-        [
-            distractor("end-x1", "exhaled air contains bile.", "Bile is a digestive secretion."),
-            distractor("end-x2", "oxygen turns lime water milky.", "Carbon dioxide turns lime water milky."),
-            distractor("end-x3", "the straw digests starch.", "Unrelated to lime water."),
-        ],
-        [{"id": "ending", "label": "Best ending"}],
-        {"correctEnding": "end-1"},
-        "The best ending is that exhaled air contains more carbon dioxide than inhaled air. Lime water turns milky in the presence of carbon dioxide.",
-        ["Observation", "Reason"],
-        ["Recall the lime water test."],
+        ending_question,
+        ending_correct,
+        ending_distractors,
+        ending_slots,
+        ending_key,
+        ending_answer,
+        ["Sentence stems", "Endings"],
+        ending_hints,
+        [item["id"] for item in ending_correct],
     )
     add(
         "multiple_correct_answers",
@@ -1202,19 +1305,27 @@ def extract_key_sentences(extracted_text: str, count: int = 12) -> list[str]:
         if len(picked) >= count:
             break
     while len(picked) < count:
-        picked.append(f"{ACTIVE_META.chapter} includes an important idea from the chapter that students should explain clearly.")
+        picked.append("The lesson includes an important idea that students should explain clearly.")
     return picked
+
+
+def display_chapter_title() -> str:
+    chapter = str(ACTIVE_META.chapter or "").strip()
+    if re.fullmatch(r"[a-z]{3,6}\d{2,4}", chapter, flags=re.IGNORECASE):
+        return f"Lesson {ACTIVE_META.chapter_number}"
+    return chapter or f"Lesson {ACTIVE_META.chapter_number}"
 
 
 def generic_question_sets(extracted_text: str) -> list[dict[str, Any]]:
     sentences = extract_key_sentences(extracted_text, 24)
+    chapter_title = display_chapter_title()
     groups: list[dict[str, Any]] = []
     templates = [
-        ("chapter-overview", f"Explain the main ideas of {ACTIVE_META.chapter}.", ["Introduction", "Key idea 1", "Key idea 2", "Conclusion"], sentences[0:4]),
-        ("important-process", f"Arrange and explain an important process from {ACTIVE_META.chapter}.", ["First", "Next", "Then", "Finally"], sentences[4:8]),
-        ("cause-effect", f"Explain one cause-effect relationship from {ACTIVE_META.chapter}.", ["Cause", "Effect", "Reason", "Result"], sentences[8:12]),
-        ("definition-and-example", f"Define an important term from {ACTIVE_META.chapter} and support it with examples.", ["Term", "Meaning", "Example", "Use"], sentences[12:16]),
-        ("short-answer", f"Write a short answer using key points from {ACTIVE_META.chapter}.", ["Point 1", "Point 2", "Point 3", "Closing"], sentences[16:20]),
+        ("chapter-overview", f"What are the main ideas in {chapter_title}?", ["Introduction", "Key idea 1", "Key idea 2", "Conclusion"], sentences[0:4]),
+        ("important-process", f"Put the events or ideas from {chapter_title} in the correct order.", ["First", "Next", "Then", "Finally"], sentences[4:8]),
+        ("cause-effect", f"What happens in {chapter_title}, and why does it happen?", ["Cause", "Effect", "Reason", "Result"], sentences[8:12]),
+        ("definition-and-example", f"What important word or idea do we learn in {chapter_title}?", ["Term", "Meaning", "Example", "Use"], sentences[12:16]),
+        ("short-answer", f"Write a short answer using key points from {chapter_title}.", ["Point 1", "Point 2", "Point 3", "Closing"], sentences[16:20]),
     ]
     for slug, question, structure, selected in templates:
         groups.append(
@@ -1224,13 +1335,157 @@ def generic_question_sets(extracted_text: str) -> list[dict[str, Any]]:
                 "structure": structure,
                 "sentences": selected,
                 "wrong": [
-                    f"{ACTIVE_META.chapter} is unrelated to this subject.",
-                    "The answer should ignore the facts given in the chapter.",
+                    f"This option does not match {chapter_title}.",
+                    "The answer should ignore the facts given in the lesson.",
                     "Only one random word is enough for a complete answer.",
                 ],
             }
         )
     return groups
+
+
+def class_1_question_sets(extracted_text: str) -> list[dict[str, Any]]:
+    sentences = extract_key_sentences(extracted_text, 18)
+    chapter = ACTIVE_META.chapter
+    simple_title = re.sub(r"^(Unit \d+ )?Chapter \d+:\s*", "", chapter).strip()
+    if ACTIVE_META.subject == "Mathematics" and "Finding the Funny Cat" in chapter:
+        return [
+            {
+                "slug": "cat-room-places",
+                "question": "Where can we see the cat in the room?",
+                "structure": ["On", "Under", "Inside", "Outside"],
+                "sentences": [
+                    "The cat is on the window shed.",
+                    "The cat is under the bed.",
+                    "The cat is inside the backpack.",
+                    "The cat is outside the red rack.",
+                ],
+                "wrong": [
+                    "The cat is sleeping in the sky.",
+                    "Count the mangoes only.",
+                    "This tells a different story.",
+                ],
+                "visualArt": "assets/question-art/class1-math-ai/cat-room-places.png",
+            },
+            {
+                "slug": "position-words",
+                "question": "Which position words tell where the cat is?",
+                "structure": ["On", "Under", "Inside", "Outside"],
+                "sentences": [
+                    "On means above and touching.",
+                    "Under means below something.",
+                    "Inside means in something.",
+                    "Outside means not in something.",
+                ],
+                "wrong": [
+                    "Blue is a colour word.",
+                    "Seven is a number word.",
+                    "Run is an action word.",
+                ],
+                "visualArt": "assets/question-art/class1-math-ai/position-words.png",
+            },
+            {
+                "slug": "cat-movement",
+                "question": "How did the cat move in the song?",
+                "structure": ["Below", "Above", "Bottom", "Top"],
+                "sentences": [
+                    "The cat hid below the mat.",
+                    "The cat hopped above the hat.",
+                    "The cat scratched the bottom of the jar.",
+                    "The cat played at the top of the car.",
+                ],
+                "wrong": [
+                    "The cat counted ten pencils.",
+                    "The cat wrote a long sentence.",
+                    "The cat became a big tree.",
+                ],
+                "visualArt": "assets/question-art/class1-math-ai/cat-movement.png",
+            },
+            {
+                "slug": "find-hidden-cat",
+                "question": "How can we find the hidden cat?",
+                "structure": ["Look", "Listen", "Check", "Say"],
+                "sentences": [
+                    "Look around the room.",
+                    "Listen to the position words.",
+                    "Check each place carefully.",
+                    "Say where the cat is.",
+                ],
+                "wrong": [
+                    "Close your eyes and guess.",
+                    "Look only at the ceiling.",
+                    "Forget the position words.",
+                ],
+                "visualArt": "assets/question-art/class1-math-ai/find-hidden-cat.png",
+            },
+        ]
+    simple_words = [
+        word.lower()
+        for word in re.findall(r"[A-Za-z]{3,}", extracted_text)
+        if word.lower()
+        not in {
+            "chapter",
+            "unit",
+            "page",
+            "copyright",
+            "national",
+            "education",
+            "textbook",
+            "children",
+            "teacher",
+            "students",
+        }
+    ]
+    unique_words = list(dict.fromkeys(simple_words))[:8]
+    if len(unique_words) < 4:
+        unique_words = [word.lower() for word in re.findall(r"[A-Za-z]{3,}", simple_title)] or ["learn", "read", "say", "write"]
+
+    return [
+        {
+            "slug": "read-and-arrange",
+            "question": f"Read the chapter '{simple_title}'. Arrange the lines to make a small answer.",
+            "structure": ["First line", "Next line", "Last line"],
+            "sentences": sentences[:3],
+            "wrong": [
+                "This line is not about the chapter.",
+                "This answer does not match the story or lesson.",
+                "This line should not come in the answer.",
+            ],
+        },
+        {
+            "slug": "word-meaning",
+            "question": f"Which words help us talk about '{simple_title}'?",
+            "structure": ["Word 1", "Word 2", "Word 3", "Word 4"],
+            "sentences": [f"The word '{word}' is used in this lesson." for word in unique_words[:4]],
+            "wrong": [
+                "The word is not connected to this lesson.",
+                "This option is only a random sentence.",
+                "This does not help us answer the question.",
+            ],
+        },
+        {
+            "slug": "short-answer",
+            "question": f"Make a short answer about '{simple_title}'.",
+            "structure": ["Who or what", "What happens", "What we learn"],
+            "sentences": sentences[3:6],
+            "wrong": [
+                "A short answer should ignore the chapter.",
+                "The answer can be only one random word.",
+                "The answer should be about a different book.",
+            ],
+        },
+        {
+            "slug": "listen-and-tell",
+            "question": f"Tell one clear thing from '{simple_title}'.",
+            "structure": ["Start", "Detail", "Finish"],
+            "sentences": sentences[6:9],
+            "wrong": [
+                "This detail is not from the lesson.",
+                "This sentence does not make a clear answer.",
+                "This belongs to another chapter.",
+            ],
+        },
+    ]
 
 
 def generic_answer_builder_activities(start_index: int, question_sets: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -1240,6 +1495,78 @@ def generic_answer_builder_activities(start_index: int, question_sets: list[dict
         return chapter_answer_builder_activities(start_index)
     finally:
         globals()["ALL_CHAPTER_QUESTION_SETS"] = original_sets
+
+
+def class_1_core_activities(start_index: int, extracted_text: str) -> list[dict[str, Any]]:
+    sentences = extract_key_sentences(extracted_text, 16)
+    chapter = re.sub(r"^(Unit \d+ )?Chapter \d+:\s*", "", ACTIVE_META.chapter).strip()
+    words = list(dict.fromkeys(re.findall(r"[A-Za-z]{3,}", extracted_text.lower())))[:10]
+    if len(words) < 6:
+        words = ["read", "listen", "tell", "write", "count", "learn"]
+
+    activities: list[dict[str, Any]] = []
+
+    def add(activity_type: str, question: str, selected: list[str], structure: list[str], ordered: bool = False) -> None:
+        correct = [chunk(f"c1-{activity_type}-{index}", text, index) for index, text in enumerate(selected, start=1)]
+        answer_key: dict[str, Any] = {"requiredItemIds": [item["id"] for item in correct]}
+        sequence = None
+        if ordered:
+            sequence = [item["id"] for item in correct]
+            answer_key = {"orderedItemIds": sequence}
+        activities.append(
+            base_activity(
+                start_index + len(activities),
+                activity_type,
+                "standard",
+                question,
+                "Choose the correct cards for this Class 1 activity.",
+                structure,
+                correct,
+                [
+                    distractor(f"c1-{activity_type}-x1", "This card is not about the chapter.", "Unrelated card."),
+                    distractor(f"c1-{activity_type}-x2", "This card does not complete the answer.", "Incomplete answer."),
+                ],
+                [{"id": f"slot-{index}", "label": label} for index, label in enumerate(structure, start=1)],
+                answer_key,
+                " ".join(selected),
+                ["Read the question first.", "Pick only the cards that match the lesson."],
+                sequence,
+                marks=3,
+            )
+        )
+
+    add("short_answer_key_points", f"What is '{chapter}' about?", sentences[:3], ["Point 1", "Point 2", "Point 3"])
+    add("fill_blanks", f"Complete simple lines from '{chapter}'.", sentences[3:6], ["Line 1", "Line 2", "Line 3"], ordered=True)
+    add("match_following", f"Match words from '{chapter}'.", [f"{word} is an important word." for word in words[:4]], ["Word 1", "Word 2", "Word 3", "Word 4"])
+    add("sequencing_steps_process", f"Put the answer about '{chapter}' in order.", sentences[6:9], ["First", "Next", "Last"], ordered=True)
+    ending_question, ending_correct, ending_distractors, ending_slots, ending_key, ending_answer, ending_hints = choose_correct_ending_payload(
+        "c1-choose_correct_ending",
+        sentences[:3],
+        [
+            "This card is not about the chapter.",
+            "This sentence does not make a correct ending.",
+            "This belongs to another lesson.",
+        ],
+    )
+    activities.append(
+        base_activity(
+            start_index + len(activities),
+            "choose_correct_ending",
+            "standard",
+            ending_question,
+            "Choose the correct ending for each blank.",
+            ["Sentence", "Ending"],
+            ending_correct,
+            ending_distractors,
+            ending_slots,
+            ending_key,
+            ending_answer,
+            ending_hints,
+            [item["id"] for item in ending_correct],
+            marks=3,
+        )
+    )
+    return activities
 
 
 def generic_core_activities(start_index: int, extracted_text: str) -> list[dict[str, Any]]:
@@ -1277,7 +1604,31 @@ def generic_core_activities(start_index: int, extracted_text: str) -> list[dict[
             )
         )
 
-    add("explain", f"Explain the main idea of {ACTIVE_META.chapter}.", sentences[0:4], ["Opening", "Key point", "Support", "Conclusion"])
+    if ACTIVE_META.class_level == 12:
+        explain_correct = items("explain", sentences[0:4])
+        explain_wrong = wrong("explain") + [
+            distractor("explain-x3", "A correct answer can ignore the order of ideas.", "Order matters in an explain answer."),
+            distractor("explain-x4", "Only a copied keyword is enough for full marks.", "A Class 12 answer needs connected explanation."),
+        ]
+        activities.append(
+            base_activity(
+                start_index + len(activities),
+                "explain",
+                "standard",
+                f"Use {ACTIVE_META.chapter} to answer: Explain the main idea in ordered subparts.",
+                "Click the correct parts in order. They will join into one answer. Leave the wrong lines outside.",
+                ["Opening", "Key point", "Support", "Conclusion"],
+                explain_correct,
+                explain_wrong,
+                [{"id": "answer", "label": "Answer"}],
+                {"orderedItemIds": [item["id"] for item in explain_correct]},
+                " ".join(sentences[0:4]),
+                ["Start with the main idea.", "Then add supporting details in logical order.", "Do not use lines that are unrelated or too vague."],
+                [item["id"] for item in explain_correct],
+            )
+        )
+    else:
+        add("explain", f"Explain the main idea of {ACTIVE_META.chapter}.", sentences[0:4], ["Opening", "Key point", "Support", "Conclusion"])
     add("compare_contrast", f"Compare two important ideas from {ACTIVE_META.chapter}.", sentences[4:8], ["Idea A", "Idea B", "Similarity", "Difference"])
     add("cause_effect", f"Connect causes and effects from {ACTIVE_META.chapter}.", sentences[8:12], ["Cause 1", "Effect 1", "Cause 2", "Effect 2"], {"pairs": [["cause_effect-1", "cause_effect-2"], ["cause_effect-3", "cause_effect-4"]]})
     add("process_sequence", f"Arrange key steps or ideas from {ACTIVE_META.chapter} in order.", sentences[12:16], ["Step 1", "Step 2", "Step 3", "Step 4"], {"orderedItemIds": [f"process_sequence-{i}" for i in range(1, 5)]})
@@ -1289,12 +1640,82 @@ def generic_core_activities(start_index: int, extracted_text: str) -> list[dict[
     add("match_following", f"Match ideas and meanings from {ACTIVE_META.chapter}.", sentences[12:16], ["Match 1", "Match 2", "Match 3", "Match 4"])
     add("data_chart_table", f"Use chapter information from {ACTIVE_META.chapter} to make inferences.", sentences[16:20], ["Data", "Inference 1", "Inference 2"])
     add("paragraph_essay_structure", f"Arrange a paragraph about {ACTIVE_META.chapter}.", sentences[20:25], ["Topic", "Support 1", "Support 2", "Support 3", "Conclusion"], {"orderedItemIds": [f"paragraph_essay_structure-{i}" for i in range(1, 6)]})
-    add("definition_term", f"Build a definition from {ACTIVE_META.chapter}.", sentences[0:4], ["Term", "Meaning", "Example"])
+    if ACTIVE_META.class_level == 12:
+        definition_correct = items("definition_term", sentences[0:4])
+        definition_wrong = wrong("definition_term") + [
+            distractor("definition_term-x3", "A definition can skip the key features of the concept.", "Definition answers need key features."),
+            distractor("definition_term-x4", "An example alone is a complete definition.", "An example supports but does not replace the definition."),
+        ]
+        activities.append(
+            base_activity(
+                start_index + len(activities),
+                "definition_term",
+                "standard",
+                f"Use {ACTIVE_META.chapter} to answer: Build the definition in correct order.",
+                "Click the correct parts in order. They will join into one answer. Leave the wrong lines outside.",
+                ["Definition", "Meaning", "Example", "Conclusion"],
+                definition_correct,
+                definition_wrong,
+                [{"id": "answer", "label": "Answer"}],
+                {"orderedItemIds": [item["id"] for item in definition_correct]},
+                " ".join(sentences[0:4]),
+                ["Start with the definition.", "Add meaning and support in order.", "Leave vague or unrelated lines outside."],
+                [item["id"] for item in definition_correct],
+            )
+        )
+    else:
+        add("definition_term", f"Build a definition from {ACTIVE_META.chapter}.", sentences[0:4], ["Term", "Meaning", "Example"])
     add("timeline_chronological_order", f"Arrange chronological or logical ideas from {ACTIVE_META.chapter}.", sentences[4:9], ["1", "2", "3", "4", "5"], {"orderedItemIds": [f"timeline_chronological_order-{i}" for i in range(1, 6)]})
     add("identify_main_idea", f"Identify the main idea of a passage from {ACTIVE_META.chapter}.", sentences[9:12], ["Main idea"])
-    add("evidence_support_statement", f"Choose evidence that supports a statement from {ACTIVE_META.chapter}.", sentences[12:15], ["Evidence"])
+    if ACTIVE_META.class_level == 12:
+        evidence_question, evidence_correct, evidence_distractors, evidence_slots, evidence_key, evidence_model, evidence_hints = evidence_support_quiz_payload(
+            "evidence_support_statement",
+            sentences[12],
+            sentences[13],
+            sentences[14],
+        )
+        activities.append(
+            base_activity(
+                start_index + len(activities),
+                "evidence_support_statement",
+                "standard",
+                evidence_question,
+                "Click the correct parts in order. They will join into one answer. Leave the wrong lines outside.",
+                ["Claim", "Evidence", "Support", "Link"],
+                evidence_correct,
+                evidence_distractors,
+                evidence_slots,
+                evidence_key,
+                evidence_model,
+                evidence_hints,
+                evidence_key.get("orderedItemIds"),
+            )
+        )
+    else:
+        add("evidence_support_statement", f"Choose evidence that supports a statement from {ACTIVE_META.chapter}.", sentences[12:15], ["Evidence"])
     add("sequencing_steps_process", f"Sequence a process from {ACTIVE_META.chapter}.", sentences[15:19], ["Step 1", "Step 2", "Step 3", "Step 4"], {"orderedItemIds": [f"sequencing_steps_process-{i}" for i in range(1, 5)]})
-    add("choose_correct_ending", f"Choose the correct ending for an answer on {ACTIVE_META.chapter}.", sentences[19:22], ["Ending"])
+    ending_question, ending_correct, ending_distractors, ending_slots, ending_key, ending_answer, ending_hints = choose_correct_ending_payload(
+        "choose_correct_ending",
+        sentences[19:22],
+        [item["text"] for item in wrong("choose_correct_ending")],
+    )
+    activities.append(
+        base_activity(
+            start_index + len(activities),
+            "choose_correct_ending",
+            "standard",
+            ending_question,
+            "Choose the correct ending for each blank.",
+            ["Sentence", "Ending"],
+            ending_correct,
+            ending_distractors,
+            ending_slots,
+            ending_key,
+            ending_answer,
+            ending_hints,
+            [item["id"] for item in ending_correct],
+        )
+    )
     add("multiple_correct_answers", f"Select all correct statements from {ACTIVE_META.chapter}.", sentences[22:26], ["Correct statements"])
     add("formulate_question", f"Formulate a question for an answer from {ACTIVE_META.chapter}.", sentences[26:28], ["Question"])
     add("assertion_reason", f"Build an assertion-reason answer from {ACTIVE_META.chapter}.", sentences[28:30] + sentences[0:1], ["Assertion", "Reason", "Relationship"])
@@ -1357,6 +1778,8 @@ def chapter_answer_builder_activities(start_index: int) -> list[dict[str, Any]]:
                 "slotStrategy": layout_profile["slotStrategy"],
                 "recommendedLayout": layout_profile["layout"],
             }
+            if question_set.get("visualArt"):
+                activity["visualArt"] = question_set["visualArt"]
             activities.append(activity)
     return activities
 
@@ -1372,6 +1795,13 @@ def build_dataset(meta: ChapterMeta = PILOT_META) -> dict[str, Any]:
             activity["questionGroupId"] = "chapter-q00-digestion-overview"
             activity["chapterQuestionNumber"] = 0
         activities = seed_builders + core_activities(4) + chapter_answer_builder_activities(25)
+    elif meta.class_level == 1:
+        question_sets = class_1_question_sets(extracted_text)
+        activities = (
+            class_1_core_activities(1, extracted_text)
+            + generic_core_activities(6, extracted_text)
+            + generic_answer_builder_activities(27, question_sets)
+        )
     else:
         question_sets = generic_question_sets(extracted_text)
         activities = generic_core_activities(1, extracted_text) + generic_answer_builder_activities(22, question_sets)

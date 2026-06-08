@@ -12,7 +12,8 @@
     "chapterNumber": 11,
     "pageCount": null,
     "extractedCharacterCount": 36728,
-    "extractionPreview": "Diversity is not only a characteristic of living organisms but\nalso of content in biology textbooks. Biology is presented either\nas botany, zoology and microbiology or as classical and\nmodern. The latter is a euphemism for molecular aspects of\nbiology. Luckily we have many threads which weave the\ndifferent areas of biological information into a unifying\nprinciple. Ecology is one such thread which gives us a holistic\nperspective to biology. The essence of biological understanding\nis to know how o"
+    "extractionPreview": "Diversity is not only a characteristic of living organisms but\nalso of content in biology textbooks. Biology is presented either\nas botany, zoology and microbiology or as classical and\nmodern. The latter is a euphemism for molecular aspects of\nbiology. Luckily we have many threads which weave the\ndifferent areas of biological information into a unifying\nprinciple. Ecology is one such thread which gives us a holistic\nperspective to biology. The essence of biological understanding\nis to know how o",
+    "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 11.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 11?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 11.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 11 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 11.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 11, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 11 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 11?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 11.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 11?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 11?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
@@ -189,13 +190,13 @@
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,8 +226,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
@@ -259,49 +260,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 11 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "A particular aspect of this is the study of anthropogenic environmental degradation and the socio-political issues it has raised.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "This unit describes as well as takes a critical view of the above aspects.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ecology is one such thread which gives us a holistic perspective to biology. A particular aspect of this is the study of anthropogenic environmental degradation and the socio-political issues it has raised. This unit describes as well as takes a critical view of the above aspects. Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 11, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Misra formulated the first postgraduate course in ecology in India.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "D degree under his supervision and moved on to other universities and research institutes to initiate ecology teaching and research across the country.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "He was honoured with the Fellowships of the Indian National Science Academy and World Academy of Arts and Science, and the prestigious Sanjay Gandhi Award in Environment and Ecology.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi. Misra formulated the first postgraduate course in ecology in India. D degree under his supervision and moved on to other universities and research institutes to initiate ecology teaching and research across the country. He was honoured with the Fellowships of the Indian National Science Academy and World Academy of Arts and Science, and the prestigious Sanjay Gandhi Award in Environment and Ecology.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 11 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 11 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "RAMDEO MISRA (1908-1998) Reprint 2026-27 Our living world is fascinatingly diverse and amazingly complex.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "When you observe nature around you with a scientific frame of mind you will certainly come up with many interesting questions of both types - Why are night-blooming flowers generally white?",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "How does the chick spures recognise her own mother?, and so on.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "Ecology is basically concerned with four levels of biological organisation - organisms, populations, communities and biomes.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "RAMDEO MISRA (1908-1998) Reprint 2026-27 Our living world is fascinatingly diverse and amazingly complex. When you observe nature around you with a scientific frame of mind you will certainly come up with many interesting questions of both types - Why are night-blooming flowers generally white? How does the chick spures recognise her own mother?, and so on. Ecology is basically concerned with four levels of biological organisation - organisms, populations, communities and biomes.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 11?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract, bacteria in a culture plate and lotus plants in a pond, are some examples of a population.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "Population ecology is, therefore, an important area because it links ecology to population genetics and evolution.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "A population has certain attributes whereas, an individual organism does not.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "An individual may have births and deaths, but a population has birth rates and death rates.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract, bacteria in a culture plate and lotus plants in a pond, are some examples of a population. Population ecology is, therefore, an important area because it links ecology to population genetics and evolution. A population has certain attributes whereas, an individual organism does not. An individual may have births and deaths, but a population has birth rates and death rates.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 11, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "In a population these rates refer to per capita births and deaths.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "The rates, hence, expressed are change in numbers (increase or decrease) with respect to members of the population.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "Another attribute characteristic of a population is sex ratio.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "An individual is either a male or a female but a population has a sex ratio (e.g., 60 per cent of the population are females and 40 per cent males).",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In a population these rates refer to per capita births and deaths. The rates, hence, expressed are change in numbers (increase or decrease) with respect to members of the population. Another attribute characteristic of a population is sex ratio. An individual is either a male or a female but a population has a sex ratio (e.g., 60 per cent of the population are females and 40 per cent males).",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Complete a passage from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
@@ -825,13 +826,13 @@
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,8 +862,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
@@ -901,48 +902,48 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Classify statements based on Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "A particular aspect of this is the study of anthropogenic environmental degradation and the socio-political issues it has raised.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "This unit describes as well as takes a critical view of the above aspects.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ecology is one such thread which gives us a holistic perspective to biology. A particular aspect of this is the study of anthropogenic environmental degradation and the socio-political issues it has raised. This unit describes as well as takes a critical view of the above aspects. Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "List key points from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Misra formulated the first postgraduate course in ecology in India.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "D degree under his supervision and moved on to other universities and research institutes to initiate ecology teaching and research across the country.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "He was honoured with the Fellowships of the Indian National Science Academy and World Academy of Arts and Science, and the prestigious Sanjay Gandhi Award in Environment and Ecology.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi. Misra formulated the first postgraduate course in ecology in India. D degree under his supervision and moved on to other universities and research institutes to initiate ecology teaching and research across the country. He was honoured with the Fellowships of the Indian National Science Academy and World Academy of Arts and Science, and the prestigious Sanjay Gandhi Award in Environment and Ecology.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "RAMDEO MISRA (1908-1998) Reprint 2026-27 Our living world is fascinatingly diverse and amazingly complex.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "When you observe nature around you with a scientific frame of mind you will certainly come up with many interesting questions of both types - Why are night-blooming flowers generally white?",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "How does the chick spures recognise her own mother?, and so on.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "Ecology is basically concerned with four levels of biological organisation - organisms, populations, communities and biomes.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "RAMDEO MISRA (1908-1998) Reprint 2026-27 Our living world is fascinatingly diverse and amazingly complex. When you observe nature around you with a scientific frame of mind you will certainly come up with many interesting questions of both types - Why are night-blooming flowers generally white? How does the chick spures recognise her own mother?, and so on. Ecology is basically concerned with four levels of biological organisation - organisms, populations, communities and biomes.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Use chapter information from Chapter 11 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 11 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract, bacteria in a culture plate and lotus plants in a pond, are some examples of a population.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "Population ecology is, therefore, an important area because it links ecology to population genetics and evolution.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "A population has certain attributes whereas, an individual organism does not.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "An individual may have births and deaths, but a population has birth rates and death rates.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract, bacteria in a culture plate and lotus plants in a pond, are some examples of a population. Population ecology is, therefore, an important area because it links ecology to population genetics and evolution. A population has certain attributes whereas, an individual organism does not. An individual may have births and deaths, but a population has birth rates and death rates.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "In a population these rates refer to per capita births and deaths.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "The rates, hence, expressed are change in numbers (increase or decrease) with respect to members of the population.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "Another attribute characteristic of a population is sex ratio.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "An individual is either a male or a female but a population has a sex ratio (e.g., 60 per cent of the population are females and 40 per cent males).",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "A population at any given time is composed of individuals of different ages.",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In a population these rates refer to per capita births and deaths. The rates, hence, expressed are change in numbers (increase or decrease) with respect to members of the population. Another attribute characteristic of a population is sex ratio. An individual is either a male or a female but a population has a sex ratio (e.g., 60 per cent of the population are females and 40 per cent males). A population at any given time is composed of individuals of different ages.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Build a definition from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 11?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
@@ -1469,13 +1470,13 @@
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,8 +1502,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 11 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "A particular aspect of this is the study of anthropogenic environmental degradation and the socio-political issues it has raised.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "This unit describes as well as takes a critical view of the above aspects.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi.",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ecology is one such thread which gives us a holistic perspective to biology. A particular aspect of this is the study of anthropogenic environmental degradation and the socio-political issues it has raised. This unit describes as well as takes a critical view of the above aspects. Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof. He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Misra formulated the first postgraduate course in ecology in India.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "D degree under his supervision and moved on to other universities and research institutes to initiate ecology teaching and research across the country.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "He was honoured with the Fellowships of the Indian National Science Academy and World Academy of Arts and Science, and the prestigious Sanjay Gandhi Award in Environment and Ecology.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Misra formulated the first postgraduate course in ecology in India. D degree under his supervision and moved on to other universities and research institutes to initiate ecology teaching and research across the country. He was honoured with the Fellowships of the Indian National Science Academy and World Academy of Arts and Science, and the prestigious Sanjay Gandhi Award in Environment and Ecology.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "RAMDEO MISRA (1908-1998) Reprint 2026-27 Our living world is fascinatingly diverse and amazingly complex.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "When you observe nature around you with a scientific frame of mind you will certainly come up with many interesting questions of both types - Why are night-blooming flowers generally white?",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "How does the chick spures recognise her own mother?, and so on.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "RAMDEO MISRA (1908-1998) Reprint 2026-27 Our living world is fascinatingly diverse and amazingly complex. When you observe nature around you with a scientific frame of mind you will certainly come up with many interesting questions of both types - Why are night-blooming flowers generally white? How does the chick spures recognise her own mother?, and so on.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Sequence a process from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 11 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "Ecology is basically concerned with four levels of biological organisation - organisms, populations, communities and biomes.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract, bacteria in a culture plate and lotus plants in a pond, are some examples of a population.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "Population ecology is, therefore, an important area because it links ecology to population genetics and evolution.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "A population has certain attributes whereas, an individual organism does not.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ecology is basically concerned with four levels of biological organisation - organisms, populations, communities and biomes. All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract, bacteria in a culture plate and lotus plants in a pond, are some examples of a population. Population ecology is, therefore, an important area because it links ecology to population genetics and evolution. A population has certain attributes whereas, an individual organism does not.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "An individual may have births and deaths, but a population has birth rates and death rates.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "In a population these rates refer to per capita births and deaths.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "The rates, hence, expressed are change in numbers (increase or decrease) with respect to members of the population.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "An individual may have births and deaths, but a population has birth rates and death rates. In a population these rates refer to per capita births and deaths. The rates, hence, expressed are change in numbers (increase or decrease) with respect to members of the population.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "Another attribute characteristic of a population is sex ratio.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "An individual is either a male or a female but a population has a sex ratio (e.g., 60 per cent of the population are females and 40 per cent males).",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "A population at any given time is composed of individuals of different ages.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "For human population, the age pyramids generally show age distribution of males and females in a diagram.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Another attribute characteristic of a population is sex ratio. An individual is either a male or a female but a population has a sex ratio (e.g., 60 per cent of the population are females and 40 per cent males). A population at any given time is composed of individuals of different ages. For human population, the age pyramids generally show age distribution of males and females in a diagram.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "The shape of the pyramids reflects the growth status of the population - (a) whether it is growing, (b) stable or (c) declining.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "Reprint 2026-27 192 BIOLOGY The size of the population tells us a lot about its status in the habitat.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The shape of the pyramids reflects the growth status of the population - (a) whether it is growing, (b) stable or (c) declining. Reprint 2026-27 192 BIOLOGY The size of the population tells us a lot about its status in the habitat.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "The size, in nature, could be as low as <10 (Siberian cranes at Bharatpur wetlands in any year) or go into millions (Chlamydomonas in a pond).",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "Population size, technically called population density (designated as N), need not necessarily be measured in numbers only.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The size, in nature, could be as low as <10 (Siberian cranes at Bharatpur wetlands in any year) or go into millions (Chlamydomonas in a pond). Population size, technically called population density (designated as N), need not necessarily be measured in numbers only. Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,8 +2373,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "Diversity is not only a characteristic of living",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "organisms but also of content in biology textbooks.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "Biology is presented either as botany, zoology",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "and microbiology or as classical and modern.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "The latter is a euphemism",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "for molecular aspects of biology.",
+          "text": "The essence of biological understanding is to know how o.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "Luckily we have many threads which weave the",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "different areas of biological information into a unifying principle.",
+          "text": "The answer should use details from Chapter 11.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,8 +2539,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "diversity",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "biology",
+          "text": "The essence of biological understanding is to know how o.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,8 +2677,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "A particular aspect of this is the study of anthropogenic environmental degradation and the socio-political issues it has raised.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "This unit describes as well as takes a critical view of the above aspects.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ecology is one such thread which gives us a holistic perspective to biology. A particular aspect of this is the study of anthropogenic environmental degradation and the socio-political issues it has raised. This unit describes as well as takes a critical view of the above aspects. Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "Ecology is one such thread which",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "gives us a holistic perspective to biology.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "A particular aspect of this is the study of",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "anthropogenic environmental degradation and the socio-political issues it has raised.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "This unit describes as well as takes",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "a critical view of the above aspects.",
+          "text": "The essence of biological understanding is to know how o.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "Born on 26 August 1908, Ramdeo Misra",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "obtained Ph.D in Ecology (1937) under Prof.",
+          "text": "The answer should use details from Chapter 11.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ecology is one such thread which gives us a holistic perspective to biology. A particular aspect of this is the study of anthropogenic environmental degradation and the socio-political issues it has raised. This unit describes as well as takes a critical view of the above aspects. Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "ecology",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "a",
+          "text": "The essence of biological understanding is to know how o.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ecology is one such thread which gives us a holistic perspective to biology. A particular aspect of this is the study of anthropogenic environmental degradation and the socio-political issues it has raised. This unit describes as well as takes a critical view of the above aspects. Born on 26 August 1908, Ramdeo Misra obtained Ph.D in Ecology (1937) under Prof.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Misra formulated the first postgraduate course in ecology in India.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "D degree under his supervision and moved on to other universities and research institutes to initiate ecology teaching and research across the country.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "He was honoured with the Fellowships of the Indian National Science Academy and World Academy of Arts and Science, and the prestigious Sanjay Gandhi Award in Environment and Ecology.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi. Misra formulated the first postgraduate course in ecology in India. D degree under his supervision and moved on to other universities and research institutes to initiate ecology teaching and research across the country. He was honoured with the Fellowships of the Indian National Science Academy and World Academy of Arts and Science, and the prestigious Sanjay Gandhi Award in Environment and Ecology.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "He established teaching and research in ecology at the",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "Department of Botany of the Banaras Hindu University, Varanasi.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Misra formulated the first postgraduate",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "course in ecology in India.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "D degree under his supervision and moved on to other universities",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "and research institutes to initiate ecology teaching and research across the country.",
+          "text": "The essence of biological understanding is to know how o.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "He was honoured with the Fellowships of the Indian National Science Academy and World",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "Academy of Arts and Science, and the prestigious Sanjay Gandhi Award in Environment and Ecology.",
+          "text": "The answer should use details from Chapter 11.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi. Misra formulated the first postgraduate course in ecology in India. D degree under his supervision and moved on to other universities and research institutes to initiate ecology teaching and research across the country. He was honoured with the Fellowships of the Indian National Science Academy and World Academy of Arts and Science, and the prestigious Sanjay Gandhi Award in Environment and Ecology.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "he",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "misra",
+          "text": "The essence of biological understanding is to know how o.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He established teaching and research in ecology at the Department of Botany of the Banaras Hindu University, Varanasi. Misra formulated the first postgraduate course in ecology in India. D degree under his supervision and moved on to other universities and research institutes to initiate ecology teaching and research across the country. He was honoured with the Fellowships of the Indian National Science Academy and World Academy of Arts and Science, and the prestigious Sanjay Gandhi Award in Environment and Ecology.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Define an important term from Chapter 11 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "RAMDEO MISRA (1908-1998) Reprint 2026-27 Our living world is fascinatingly diverse and amazingly complex.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "When you observe nature around you with a scientific frame of mind you will certainly come up with many interesting questions of both types - Why are night-blooming flowers generally white?",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "How does the chick spures recognise her own mother?, and so on.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "Ecology is basically concerned with four levels of biological organisation - organisms, populations, communities and biomes.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "RAMDEO MISRA (1908-1998) Reprint 2026-27 Our living world is fascinatingly diverse and amazingly complex. When you observe nature around you with a scientific frame of mind you will certainly come up with many interesting questions of both types - Why are night-blooming flowers generally white? How does the chick spures recognise her own mother?, and so on. Ecology is basically concerned with four levels of biological organisation - organisms, populations, communities and biomes.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Define an important term from Chapter 11 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "RAMDEO MISRA (1908-1998) Reprint 2026-27 Our living",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "world is fascinatingly diverse and amazingly complex.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "When you observe nature around you with a scientific frame of mind you will certainly",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "come up with many interesting questions of both types - Why are night-blooming flowers generally white?",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "How does the chick spures recognise",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "her own mother?, and so on.",
+          "text": "The essence of biological understanding is to know how o.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "Ecology is basically concerned with four levels of",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "biological organisation - organisms, populations, communities and biomes.",
+          "text": "The answer should use details from Chapter 11.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "RAMDEO MISRA (1908-1998) Reprint 2026-27 Our living world is fascinatingly diverse and amazingly complex. When you observe nature around you with a scientific frame of mind you will certainly come up with many interesting questions of both types - Why are night-blooming flowers generally white? How does the chick spures recognise her own mother?, and so on. Ecology is basically concerned with four levels of biological organisation - organisms, populations, communities and biomes.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Define an important term from Chapter 11 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "ramdeo",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "when",
+          "text": "The essence of biological understanding is to know how o.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "RAMDEO MISRA (1908-1998) Reprint 2026-27 Our living world is fascinatingly diverse and amazingly complex. When you observe nature around you with a scientific frame of mind you will certainly come up with many interesting questions of both types - Why are night-blooming flowers generally white? How does the chick spures recognise her own mother?, and so on. Ecology is basically concerned with four levels of biological organisation - organisms, populations, communities and biomes.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract, bacteria in a culture plate and lotus plants in a pond, are some examples of a population.",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "Population ecology is, therefore, an important area because it links ecology to population genetics and evolution.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "A population has certain attributes whereas, an individual organism does not.",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "An individual may have births and deaths, but a population has birth rates and death rates.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract, bacteria in a culture plate and lotus plants in a pond, are some examples of a population. Population ecology is, therefore, an important area because it links ecology to population genetics and evolution. A population has certain attributes whereas, an individual organism does not. An individual may have births and deaths, but a population has birth rates and death rates.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract,",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "bacteria in a culture plate and lotus plants in a pond, are some examples of a population.",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "Population ecology is, therefore, an important area because",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "it links ecology to population genetics and evolution.",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "A population has certain attributes",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "whereas, an individual organism does not.",
+          "text": "The essence of biological understanding is to know how o.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "An individual may have births and deaths, but",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "a population has birth rates and death rates.",
+          "text": "The answer should use details from Chapter 11.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract, bacteria in a culture plate and lotus plants in a pond, are some examples of a population. Population ecology is, therefore, an important area because it links ecology to population genetics and evolution. A population has certain attributes whereas, an individual organism does not. An individual may have births and deaths, but a population has birth rates and death rates.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Biology, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Biology, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\Biology\\lebo111.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "Biology is presented either as botany, zoology and microbiology or as classical and modern.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "The latter is a euphemism for molecular aspects of biology.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "all",
+          "text": "Ecology is one such thread which gives us a holistic perspective to biology.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "population",
+          "text": "The essence of biological understanding is to know how o.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "All the cormorants in a wetland, rats in an abandoned dwelling, teakwood trees in a forest tract, bacteria in a culture plate and lotus plants in a pond, are some examples of a population. Population ecology is, therefore, an important area because it links ecology to population genetics and evolution. A population has certain attributes whereas, an individual organism does not. An individual may have births and deaths, but a population has birth rates and death rates.",
+      "modelAnswer": "Diversity is not only a characteristic of living organisms but also of content in biology textbooks. Biology is presented either as botany, zoology and microbiology or as classical and modern. The latter is a euphemism for molecular aspects of biology. Luckily we have many threads which weave the different areas of biological information into a unifying principle.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

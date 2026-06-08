@@ -12,7 +12,8 @@
     "chapterNumber": 1,
     "pageCount": null,
     "extractedCharacterCount": 49958,
-    "extractionPreview": "market that decides which subject\nchoice may increase or decrease your\nchances in the job market. The third\nand fourth advice complicate the matter\neven more. It is not just our personal\neffort or just the job market that makes\na difference - our gender and family or\nsocial background also matter.\nIndividual efforts matter a great deal\nbut do not necessarily define outcomes.\nAs we saw there are other social factors\nthat play an important role in the final\noutcome. Here we have only mentioned\nthe"
+    "extractionPreview": "market that decides which subject\nchoice may increase or decrease your\nchances in the job market. The third\nand fourth advice complicate the matter\neven more. It is not just our personal\neffort or just the job market that makes\na difference - our gender and family or\nsocial background also matter.\nIndividual efforts matter a great deal\nbut do not necessarily define outcomes.\nAs we saw there are other social factors\nthat play an important role in the final\noutcome. Here we have only mentioned\nthe",
+    "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 1.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 1?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 1.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 1 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 1, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 1?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 1.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 1?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 1?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
@@ -189,13 +190,13 @@
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,8 +226,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
@@ -259,49 +260,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 1 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "As we saw there are other social factors that play an important role in the final outcome.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "Here we have only mentioned the 'job market', the 'socioeconomic background' and 'gender'.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "We could well ask, \"Who decides what is a 'good job'?\" Do all societies have similar notions of what is a \"good job?\" Is money the criteria?",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "Or is it respect or social recognition or individual satisfaction that decides the worth of a job?",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "As we saw there are other social factors that play an important role in the final outcome. Here we have only mentioned the 'job market', the 'socioeconomic background' and 'gender'. We could well ask, \"Who decides what is a 'good job'?\" Do all societies have similar notions of what is a \"good job?\" Is money the criteria? Or is it respect or social recognition or individual satisfaction that decides the worth of a job?",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 1, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "But how well h/she does is structured by a whole set of societal factors.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Do you think the first advice contradicts the other three?",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "For the first advice suggests that if you work very hard, you will do very well and get a good job.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "The chances of the individual student are affected both by these broader political and economic measures as well as by the social background of her/his family.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But how well h/she does is structured by a whole set of societal factors. Do you think the first advice contradicts the other three? For the first advice suggests that if you work very hard, you will do very well and get a good job. The chances of the individual student are affected both by these broader political and economic measures as well as by the social background of her/his family.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 1 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 1 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "This gives us a preliminary sense of how sociology studies human society as an interconnected whole.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "And how society and the individual interact with each other.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "The problem of choosing subjects in the senior secondary school is a source of personal worry for the individual student.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "That this is a broader public issue, affecting students as a collective entity is self evident.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This gives us a preliminary sense of how sociology studies human society as an interconnected whole. And how society and the individual interact with each other. The problem of choosing subjects in the senior secondary school is a source of personal worry for the individual student. That this is a broader public issue, affecting students as a collective entity is self evident.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 1?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "One of the tasks of sociology is to unravel the connection between a personal problem and a public issue.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "We have already seen that a 'good job' means different things to different societies.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "The social esteem that a particular kind of job has or does not have for an individual depends on the culture of his/her 'relevant society'.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "These ideas and material developments were mainly western but with global consequences.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "One of the tasks of sociology is to unravel the connection between a personal problem and a public issue. We have already seen that a 'good job' means different things to different societies. The social esteem that a particular kind of job has or does not have for an individual depends on the culture of his/her 'relevant society'. These ideas and material developments were mainly western but with global consequences.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 1, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "Fifth, we look at this global aspect and the manner in which sociology emerged in India.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "It is important to remember that just as each of us have a biography, so does a discipline.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "Understanding the history of a discipline helps understand the discipline.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "Finally the scope of sociology and its relationship to other disciplines is discussed.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Fifth, we look at this global aspect and the manner in which sociology emerged in India. It is important to remember that just as each of us have a biography, so does a discipline. Understanding the history of a discipline helps understand the discipline. Finally the scope of sociology and its relationship to other disciplines is discussed.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Complete a passage from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
@@ -825,13 +826,13 @@
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,8 +862,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
@@ -901,48 +902,48 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Classify statements based on Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "As we saw there are other social factors that play an important role in the final outcome.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "Here we have only mentioned the 'job market', the 'socioeconomic background' and 'gender'.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "We could well ask, \"Who decides what is a 'good job'?\" Do all societies have similar notions of what is a \"good job?\" Is money the criteria?",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "Or is it respect or social recognition or individual satisfaction that decides the worth of a job?",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "As we saw there are other social factors that play an important role in the final outcome. Here we have only mentioned the 'job market', the 'socioeconomic background' and 'gender'. We could well ask, \"Who decides what is a 'good job'?\" Do all societies have similar notions of what is a \"good job?\" Is money the criteria? Or is it respect or social recognition or individual satisfaction that decides the worth of a job?",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "List key points from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "But how well h/she does is structured by a whole set of societal factors.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Do you think the first advice contradicts the other three?",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "For the first advice suggests that if you work very hard, you will do very well and get a good job.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "The chances of the individual student are affected both by these broader political and economic measures as well as by the social background of her/his family.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But how well h/she does is structured by a whole set of societal factors. Do you think the first advice contradicts the other three? For the first advice suggests that if you work very hard, you will do very well and get a good job. The chances of the individual student are affected both by these broader political and economic measures as well as by the social background of her/his family.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "This gives us a preliminary sense of how sociology studies human society as an interconnected whole.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "And how society and the individual interact with each other.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "The problem of choosing subjects in the senior secondary school is a source of personal worry for the individual student.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "That this is a broader public issue, affecting students as a collective entity is self evident.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This gives us a preliminary sense of how sociology studies human society as an interconnected whole. And how society and the individual interact with each other. The problem of choosing subjects in the senior secondary school is a source of personal worry for the individual student. That this is a broader public issue, affecting students as a collective entity is self evident.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Use chapter information from Chapter 1 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 1 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "One of the tasks of sociology is to unravel the connection between a personal problem and a public issue.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "We have already seen that a 'good job' means different things to different societies.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "The social esteem that a particular kind of job has or does not have for an individual depends on the culture of his/her 'relevant society'.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "These ideas and material developments were mainly western but with global consequences.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "One of the tasks of sociology is to unravel the connection between a personal problem and a public issue. We have already seen that a 'good job' means different things to different societies. The social esteem that a particular kind of job has or does not have for an individual depends on the culture of his/her 'relevant society'. These ideas and material developments were mainly western but with global consequences.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "Fifth, we look at this global aspect and the manner in which sociology emerged in India.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "It is important to remember that just as each of us have a biography, so does a discipline.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "Understanding the history of a discipline helps understand the discipline.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "Finally the scope of sociology and its relationship to other disciplines is discussed.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "This is a point that sociologists over several generations have been concerned with.",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Fifth, we look at this global aspect and the manner in which sociology emerged in India. It is important to remember that just as each of us have a biography, so does a discipline. Understanding the history of a discipline helps understand the discipline. Finally the scope of sociology and its relationship to other disciplines is discussed. This is a point that sociologists over several generations have been concerned with.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Build a definition from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 1?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
@@ -1469,13 +1470,13 @@
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,8 +1502,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 1 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "As we saw there are other social factors that play an important role in the final outcome.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "Here we have only mentioned the 'job market', the 'socioeconomic background' and 'gender'.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "We could well ask, \"Who decides what is a 'good job'?\" Do all societies have similar notions of what is a \"good job?\" Is money the criteria?",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "Or is it respect or social recognition or individual satisfaction that decides the worth of a job?",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "But how well h/she does is structured by a whole set of societal factors.",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "As we saw there are other social factors that play an important role in the final outcome. Here we have only mentioned the 'job market', the 'socioeconomic background' and 'gender'. We could well ask, \"Who decides what is a 'good job'?\" Do all societies have similar notions of what is a \"good job?\" Is money the criteria? Or is it respect or social recognition or individual satisfaction that decides the worth of a job? But how well h/she does is structured by a whole set of societal factors.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Do you think the first advice contradicts the other three?",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "For the first advice suggests that if you work very hard, you will do very well and get a good job.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "The chances of the individual student are affected both by these broader political and economic measures as well as by the social background of her/his family.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Do you think the first advice contradicts the other three? For the first advice suggests that if you work very hard, you will do very well and get a good job. The chances of the individual student are affected both by these broader political and economic measures as well as by the social background of her/his family.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "This gives us a preliminary sense of how sociology studies human society as an interconnected whole.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "And how society and the individual interact with each other.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "The problem of choosing subjects in the senior secondary school is a source of personal worry for the individual student.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This gives us a preliminary sense of how sociology studies human society as an interconnected whole. And how society and the individual interact with each other. The problem of choosing subjects in the senior secondary school is a source of personal worry for the individual student.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Sequence a process from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 1 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "That this is a broader public issue, affecting students as a collective entity is self evident.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "One of the tasks of sociology is to unravel the connection between a personal problem and a public issue.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "We have already seen that a 'good job' means different things to different societies.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "The social esteem that a particular kind of job has or does not have for an individual depends on the culture of his/her 'relevant society'.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "That this is a broader public issue, affecting students as a collective entity is self evident. One of the tasks of sociology is to unravel the connection between a personal problem and a public issue. We have already seen that a 'good job' means different things to different societies. The social esteem that a particular kind of job has or does not have for an individual depends on the culture of his/her 'relevant society'.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "These ideas and material developments were mainly western but with global consequences.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "Fifth, we look at this global aspect and the manner in which sociology emerged in India.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "It is important to remember that just as each of us have a biography, so does a discipline.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "These ideas and material developments were mainly western but with global consequences. Fifth, we look at this global aspect and the manner in which sociology emerged in India. It is important to remember that just as each of us have a biography, so does a discipline.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "Understanding the history of a discipline helps understand the discipline.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "Finally the scope of sociology and its relationship to other disciplines is discussed.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "This is a point that sociologists over several generations have been concerned with.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "Wright Mills rests his vision of the sociological imagination precisely in the unravelling of how the personal and public are related.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Understanding the history of a discipline helps understand the discipline. Finally the scope of sociology and its relationship to other disciplines is discussed. This is a point that sociologists over several generations have been concerned with. Wright Mills rests his vision of the sociological imagination precisely in the unravelling of how the personal and public are related.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "Reprint 2025-26 3 SOCIOLOGY AND SOCIETY The sociological imagination enables us to grasp history and biography and the relations between the two within society.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "Issues have to do with matters that transcend these local environments of the individual and the range of his inner life.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2025-26 3 SOCIOLOGY AND SOCIETY The sociological imagination enables us to grasp history and biography and the relations between the two within society. Issues have to do with matters that transcend these local environments of the individual and the range of his inner life.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "The facts of contemporary history are also facts about the success and the failure of individual men and women.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "When a society is industrialised, a peasant becomes a worker; a feudal lord is liquidated or becomes a businessman.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The facts of contemporary history are also facts about the success and the failure of individual men and women. When a society is industrialised, a peasant becomes a worker; a feudal lord is liquidated or becomes a businessman. market that decides which subject choice may increase or decrease your chances in the job market.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,8 +2373,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "market that decides which subject choice may increase",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "or decrease your chances in the job market.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "The third and fourth advice",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "complicate the matter even more.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "It is not just our personal effort or just the job market that",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "makes a difference - our gender and family or social background also matter.",
+          "text": "Here we have only mentioned the.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "Individual efforts matter a great deal",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "but do not necessarily define outcomes.",
+          "text": "The answer should use details from Chapter 1.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,8 +2539,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "market",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "the",
+          "text": "Here we have only mentioned the.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,8 +2677,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "As we saw there are other social factors that play an important role in the final outcome.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "Here we have only mentioned the 'job market', the 'socioeconomic background' and 'gender'.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "We could well ask, \"Who decides what is a 'good job'?\" Do all societies have similar notions of what is a \"good job?\" Is money the criteria?",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "Or is it respect or social recognition or individual satisfaction that decides the worth of a job?",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "As we saw there are other social factors that play an important role in the final outcome. Here we have only mentioned the 'job market', the 'socioeconomic background' and 'gender'. We could well ask, \"Who decides what is a 'good job'?\" Do all societies have similar notions of what is a \"good job?\" Is money the criteria? Or is it respect or social recognition or individual satisfaction that decides the worth of a job?",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "As we saw there are other social factors",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "that play an important role in the final outcome.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "Here we have only mentioned the",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "'job market', the 'socioeconomic background' and 'gender'.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "We could well ask, \"Who decides what is a 'good job'?\" Do all",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "societies have similar notions of what is a \"good job?\" Is money the criteria?",
+          "text": "Here we have only mentioned the.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "Or is it respect or social recognition or",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "individual satisfaction that decides the worth of a job?",
+          "text": "The answer should use details from Chapter 1.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "As we saw there are other social factors that play an important role in the final outcome. Here we have only mentioned the 'job market', the 'socioeconomic background' and 'gender'. We could well ask, \"Who decides what is a 'good job'?\" Do all societies have similar notions of what is a \"good job?\" Is money the criteria? Or is it respect or social recognition or individual satisfaction that decides the worth of a job?",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "as",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "here",
+          "text": "Here we have only mentioned the.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "As we saw there are other social factors that play an important role in the final outcome. Here we have only mentioned the 'job market', the 'socioeconomic background' and 'gender'. We could well ask, \"Who decides what is a 'good job'?\" Do all societies have similar notions of what is a \"good job?\" Is money the criteria? Or is it respect or social recognition or individual satisfaction that decides the worth of a job?",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "But how well h/she does is structured by a whole set of societal factors.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Do you think the first advice contradicts the other three?",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "For the first advice suggests that if you work very hard, you will do very well and get a good job.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "The chances of the individual student are affected both by these broader political and economic measures as well as by the social background of her/his family.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But how well h/she does is structured by a whole set of societal factors. Do you think the first advice contradicts the other three? For the first advice suggests that if you work very hard, you will do very well and get a good job. The chances of the individual student are affected both by these broader political and economic measures as well as by the social background of her/his family.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "But how well h/she does is structured",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "by a whole set of societal factors.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Do you think the first",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "advice contradicts the other three?",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "For the first advice suggests that if you work very",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "hard, you will do very well and get a good job.",
+          "text": "Here we have only mentioned the.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "The chances of the individual student are affected both by these broader political",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "and economic measures as well as by the social background of her/his family.",
+          "text": "The answer should use details from Chapter 1.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But how well h/she does is structured by a whole set of societal factors. Do you think the first advice contradicts the other three? For the first advice suggests that if you work very hard, you will do very well and get a good job. The chances of the individual student are affected both by these broader political and economic measures as well as by the social background of her/his family.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "but",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "do",
+          "text": "Here we have only mentioned the.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But how well h/she does is structured by a whole set of societal factors. Do you think the first advice contradicts the other three? For the first advice suggests that if you work very hard, you will do very well and get a good job. The chances of the individual student are affected both by these broader political and economic measures as well as by the social background of her/his family.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Define an important term from Chapter 1 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "This gives us a preliminary sense of how sociology studies human society as an interconnected whole.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "And how society and the individual interact with each other.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "The problem of choosing subjects in the senior secondary school is a source of personal worry for the individual student.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "That this is a broader public issue, affecting students as a collective entity is self evident.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This gives us a preliminary sense of how sociology studies human society as an interconnected whole. And how society and the individual interact with each other. The problem of choosing subjects in the senior secondary school is a source of personal worry for the individual student. That this is a broader public issue, affecting students as a collective entity is self evident.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Define an important term from Chapter 1 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "This gives us a preliminary sense of how",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "sociology studies human society as an interconnected whole.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "And how society and the",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "individual interact with each other.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "The problem of choosing subjects in the senior secondary school",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "is a source of personal worry for the individual student.",
+          "text": "Here we have only mentioned the.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "That this is a broader public issue, affecting",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "students as a collective entity is self evident.",
+          "text": "The answer should use details from Chapter 1.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This gives us a preliminary sense of how sociology studies human society as an interconnected whole. And how society and the individual interact with each other. The problem of choosing subjects in the senior secondary school is a source of personal worry for the individual student. That this is a broader public issue, affecting students as a collective entity is self evident.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Define an important term from Chapter 1 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "this",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "and",
+          "text": "Here we have only mentioned the.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This gives us a preliminary sense of how sociology studies human society as an interconnected whole. And how society and the individual interact with each other. The problem of choosing subjects in the senior secondary school is a source of personal worry for the individual student. That this is a broader public issue, affecting students as a collective entity is self evident.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "One of the tasks of sociology is to unravel the connection between a personal problem and a public issue.",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "We have already seen that a 'good job' means different things to different societies.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "The social esteem that a particular kind of job has or does not have for an individual depends on the culture of his/her 'relevant society'.",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "These ideas and material developments were mainly western but with global consequences.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "One of the tasks of sociology is to unravel the connection between a personal problem and a public issue. We have already seen that a 'good job' means different things to different societies. The social esteem that a particular kind of job has or does not have for an individual depends on the culture of his/her 'relevant society'. These ideas and material developments were mainly western but with global consequences.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "One of the tasks of sociology is to unravel",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "the connection between a personal problem and a public issue.",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "We have already seen that a 'good",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "job' means different things to different societies.",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "The social esteem that a particular kind of job has or does",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "not have for an individual depends on the culture of his/her 'relevant society'.",
+          "text": "Here we have only mentioned the.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "These ideas and material developments were",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "mainly western but with global consequences.",
+          "text": "The answer should use details from Chapter 1.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "One of the tasks of sociology is to unravel the connection between a personal problem and a public issue. We have already seen that a 'good job' means different things to different societies. The social esteem that a particular kind of job has or does not have for an individual depends on the culture of his/her 'relevant society'. These ideas and material developments were mainly western but with global consequences.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Sociology - Introducing Sociology, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Sociology - Introducing Sociology, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 11\\Arts\\Sociology - Introducing Sociology\\kesy101.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "market that decides which subject choice may increase or decrease your chances in the job market.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "The third and fourth advice complicate the matter even more.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "Individual efforts matter a great deal but do not necessarily define outcomes.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "one",
+          "text": "As we saw there are other social factors that play an important role in the final outcome.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "we",
+          "text": "Here we have only mentioned the.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "One of the tasks of sociology is to unravel the connection between a personal problem and a public issue. We have already seen that a 'good job' means different things to different societies. The social esteem that a particular kind of job has or does not have for an individual depends on the culture of his/her 'relevant society'. These ideas and material developments were mainly western but with global consequences.",
+      "modelAnswer": "market that decides which subject choice may increase or decrease your chances in the job market. The third and fourth advice complicate the matter even more. It is not just our personal effort or just the job market that makes a difference - our gender and family or social background also matter. Individual efforts matter a great deal but do not necessarily define outcomes.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

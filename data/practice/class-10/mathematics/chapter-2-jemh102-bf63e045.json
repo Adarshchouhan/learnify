@@ -12,7 +12,8 @@
     "chapterNumber": 2,
     "pageCount": null,
     "extractedCharacterCount": 16597,
-    "extractionPreview": "10\nMATHEMATICS\n2\n2.1 Introduction\nIn Class IX, you have studied polynomials in one variable and their degrees. Recall\nthat if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of\nthe polynomial p(x). For example, 4x + 2 is a polynomial in the variable x of\ndegree 1, 2y2 - 3y + 4 is a polynomial in the variable y of degree 2, 5x3 - 4x2 + x - \n2\nis a polynomial in the variable x of degree 3 and 7u6 - \n4\n2\n3\n4\n8\n2u\nu\nu\n\n\n\n is a polynomial\nin the variable u of degree "
+    "extractionPreview": "10\nMATHEMATICS\n2\n2.1 Introduction\nIn Class IX, you have studied polynomials in one variable and their degrees. Recall\nthat if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of\nthe polynomial p(x). For example, 4x + 2 is a polynomial in the variable x of\ndegree 1, 2y2 - 3y + 4 is a polynomial in the variable y of degree 2, 5x3 - 4x2 + x - \n2\nis a polynomial in the variable x of degree 3 and 7u6 - \n4\n2\n3\n4\n8\n2u\nu\nu\n\n\n\n is a polynomial\nin the variable u of degree ",
+    "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 2.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 2?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 2.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 2 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 2.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 2, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 2 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 2?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 2.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 2?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 2?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
@@ -177,25 +178,25 @@
         },
         {
           "id": "explain-3",
-          "text": "Expressions like 1 1 x  , 2 x  , 2 1 2 3 x x   etc., are not polynomials.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "A polynomial of degree 1 is called a linear polynomial.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Expressions like 1 1 x  , 2 x  , 2 1 2 3 x x   etc., are not polynomials. A polynomial of degree 1 is called a linear polynomial.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 2 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "For example, 2x - 3, 3 5, x  2 y , 2 11 x  , 3z + 4, 2 1 3u , etc., are all linear polynomials.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "Polynomials such as 2x + 5 - x2, x3 + 1, etc., are not linear polynomials.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "A polynomial of degree 2 is called a quadratic polynomial.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "The name 'quadratic' has been derived from the word 'quadrate', which means 'square'.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "For example, 2x - 3, 3 5, x  2 y , 2 11 x  , 3z + 4, 2 1 3u , etc., are all linear polynomials. Polynomials such as 2x + 5 - x2, x3 + 1, etc., are not linear polynomials. A polynomial of degree 2 is called a quadratic polynomial. The name 'quadratic' has been derived from the word 'quadrate', which means 'square'.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 2, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "2 2, 2 3 5 x x   y2 - 2, 2 2 3 , x x   2 2 2 2 1 2 5, 5 , 4 3 3 7 u u v v z     are some examples of quadratic polynomials (whose coefficients are real numbers).",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "More generally, any quadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbers and a  0.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "Some examples of POLYNOMIALS Reprint 2026-27 POLYNOMIALS 11 a cubic polynomial are 2 - x3, x3, 3 2 , x 3 - x2 + x3, 3x3 - 2x2 + x - 1.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "In fact, the most general form of a cubic polynomial is ax3 + bx2 + cx + d, where, a, b, c, d are real numbers and a  0.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "2 2, 2 3 5 x x   y2 - 2, 2 2 3 , x x   2 2 2 2 1 2 5, 5 , 4 3 3 7 u u v v z     are some examples of quadratic polynomials (whose coefficients are real numbers). More generally, any quadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbers and a  0. Some examples of POLYNOMIALS Reprint 2026-27 POLYNOMIALS 11 a cubic polynomial are 2 - x3, x3, 3 2 , x 3 - x2 + x3, 3x3 - 2x2 + x - 1. In fact, the most general form of a cubic polynomial is ax3 + bx2 + cx + d, where, a, b, c, d are real numbers and a  0.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 2 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 2 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "Then, putting x = 2 in the polynomial, we get p(2) = 22 - 3 × 2 - 4 = - 6.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "The value '- 6', obtained by replacing x by 2 in x2 - 3x - 4, is the value of x2 - 3x - 4 at x = 2.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "Similarly, p(0) is the value of p(x) at x = 0, which is - 4.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "If p(x) is a polynomial in x, and if k is any real number, then the value obtained by replacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Then, putting x = 2 in the polynomial, we get p(2) = 22 - 3 × 2 - 4 = - 6. The value '- 6', obtained by replacing x by 2 in x2 - 3x - 4, is the value of x2 - 3x - 4 at x = 2. Similarly, p(0) is the value of p(x) at x = 0, which is - 4. If p(x) is a polynomial in x, and if k is any real number, then the value obtained by replacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 2?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "We have : p(-1) = (-1)2 -{3 × (-1)} - 4 = 0 Also, note that p(4) = 42 - (3  4) - 4 = 0.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "As p(-1) = 0 and p(4) = 0, -1 and 4 are called the zeroes of the quadratic polynomial x2 - 3x - 4.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "More generally, a real number k is said to be a zero of a polynomial p(x), if p(k) = 0.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "You have already studied in Class IX, how to find the zeroes of a linear polynomial.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We have : p(-1) = (-1)2 -{3 × (-1)} - 4 = 0 Also, note that p(4) = 42 - (3  4) - 4 = 0. As p(-1) = 0 and p(4) = 0, -1 and 4 are called the zeroes of the quadratic polynomial x2 - 3x - 4. More generally, a real number k is said to be a zero of a polynomial p(x), if p(k) = 0. You have already studied in Class IX, how to find the zeroes of a linear polynomial.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 2, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "Thus, the zero of a linear polynomial is related to its coefficients.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "For example, are the zeroes of a quadratic polynomial also related to its coefficients?",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "We will also study the division algorithm for polynomials.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "2.2 Geometrical Meaning of the Zeroes of a Polynomial You know that a real number k is a zero of the polynomial p(x) if p(k) = 0.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Thus, the zero of a linear polynomial is related to its coefficients. For example, are the zeroes of a quadratic polynomial also related to its coefficients? We will also study the division algorithm for polynomials. 2.2 Geometrical Meaning of the Zeroes of a Polynomial You know that a real number k is a zero of the polynomial p(x) if p(k) = 0.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Complete a passage from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
@@ -813,25 +814,25 @@
         },
         {
           "id": "fill_blanks-3",
-          "text": "Expressions like 1 1 x  , 2 x  , 2 1 2 3 x x   etc., are not polynomials.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "A polynomial of degree 1 is called a linear polynomial.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Expressions like 1 1 x  , 2 x  , 2 1 2 3 x x   etc., are not polynomials. A polynomial of degree 1 is called a linear polynomial.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Classify statements based on Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "For example, 2x - 3, 3 5, x  2 y , 2 11 x  , 3z + 4, 2 1 3u , etc., are all linear polynomials.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "Polynomials such as 2x + 5 - x2, x3 + 1, etc., are not linear polynomials.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "A polynomial of degree 2 is called a quadratic polynomial.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "The name 'quadratic' has been derived from the word 'quadrate', which means 'square'.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "For example, 2x - 3, 3 5, x  2 y , 2 11 x  , 3z + 4, 2 1 3u , etc., are all linear polynomials. Polynomials such as 2x + 5 - x2, x3 + 1, etc., are not linear polynomials. A polynomial of degree 2 is called a quadratic polynomial. The name 'quadratic' has been derived from the word 'quadrate', which means 'square'.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "List key points from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "2 2, 2 3 5 x x   y2 - 2, 2 2 3 , x x   2 2 2 2 1 2 5, 5 , 4 3 3 7 u u v v z     are some examples of quadratic polynomials (whose coefficients are real numbers).",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "More generally, any quadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbers and a  0.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "Some examples of POLYNOMIALS Reprint 2026-27 POLYNOMIALS 11 a cubic polynomial are 2 - x3, x3, 3 2 , x 3 - x2 + x3, 3x3 - 2x2 + x - 1.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "In fact, the most general form of a cubic polynomial is ax3 + bx2 + cx + d, where, a, b, c, d are real numbers and a  0.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "2 2, 2 3 5 x x   y2 - 2, 2 2 3 , x x   2 2 2 2 1 2 5, 5 , 4 3 3 7 u u v v z     are some examples of quadratic polynomials (whose coefficients are real numbers). More generally, any quadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbers and a  0. Some examples of POLYNOMIALS Reprint 2026-27 POLYNOMIALS 11 a cubic polynomial are 2 - x3, x3, 3 2 , x 3 - x2 + x3, 3x3 - 2x2 + x - 1. In fact, the most general form of a cubic polynomial is ax3 + bx2 + cx + d, where, a, b, c, d are real numbers and a  0.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "Then, putting x = 2 in the polynomial, we get p(2) = 22 - 3 × 2 - 4 = - 6.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "The value '- 6', obtained by replacing x by 2 in x2 - 3x - 4, is the value of x2 - 3x - 4 at x = 2.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "Similarly, p(0) is the value of p(x) at x = 0, which is - 4.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "If p(x) is a polynomial in x, and if k is any real number, then the value obtained by replacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Then, putting x = 2 in the polynomial, we get p(2) = 22 - 3 × 2 - 4 = - 6. The value '- 6', obtained by replacing x by 2 in x2 - 3x - 4, is the value of x2 - 3x - 4 at x = 2. Similarly, p(0) is the value of p(x) at x = 0, which is - 4. If p(x) is a polynomial in x, and if k is any real number, then the value obtained by replacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Use chapter information from Chapter 2 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 2 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "We have : p(-1) = (-1)2 -{3 × (-1)} - 4 = 0 Also, note that p(4) = 42 - (3  4) - 4 = 0.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "As p(-1) = 0 and p(4) = 0, -1 and 4 are called the zeroes of the quadratic polynomial x2 - 3x - 4.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "More generally, a real number k is said to be a zero of a polynomial p(x), if p(k) = 0.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "You have already studied in Class IX, how to find the zeroes of a linear polynomial.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We have : p(-1) = (-1)2 -{3 × (-1)} - 4 = 0 Also, note that p(4) = 42 - (3  4) - 4 = 0. As p(-1) = 0 and p(4) = 0, -1 and 4 are called the zeroes of the quadratic polynomial x2 - 3x - 4. More generally, a real number k is said to be a zero of a polynomial p(x), if p(k) = 0. You have already studied in Class IX, how to find the zeroes of a linear polynomial.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "Thus, the zero of a linear polynomial is related to its coefficients.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "For example, are the zeroes of a quadratic polynomial also related to its coefficients?",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "We will also study the division algorithm for polynomials.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "2.2 Geometrical Meaning of the Zeroes of a Polynomial You know that a real number k is a zero of the polynomial p(x) if p(k) = 0.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "To answer this, first we will see the geometrical representations of linear and quadratic polynomials and the geometrical meaning of their zeroes.",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Thus, the zero of a linear polynomial is related to its coefficients. For example, are the zeroes of a quadratic polynomial also related to its coefficients? We will also study the division algorithm for polynomials. 2.2 Geometrical Meaning of the Zeroes of a Polynomial You know that a real number k is a zero of the polynomial p(x) if p(k) = 0. To answer this, first we will see the geometrical representations of linear and quadratic polynomials and the geometrical meaning of their zeroes.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Build a definition from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 2?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
@@ -1457,25 +1458,25 @@
         },
         {
           "id": "definition_term-3",
-          "text": "Expressions like 1 1 x  , 2 x  , 2 1 2 3 x x   etc., are not polynomials.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "A polynomial of degree 1 is called a linear polynomial.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Expressions like 1 1 x  , 2 x  , 2 1 2 3 x x   etc., are not polynomials. A polynomial of degree 1 is called a linear polynomial.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 2 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "For example, 2x - 3, 3 5, x  2 y , 2 11 x  , 3z + 4, 2 1 3u , etc., are all linear polynomials.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "Polynomials such as 2x + 5 - x2, x3 + 1, etc., are not linear polynomials.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "A polynomial of degree 2 is called a quadratic polynomial.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "The name 'quadratic' has been derived from the word 'quadrate', which means 'square'.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "2 2, 2 3 5 x x   y2 - 2, 2 2 3 , x x   2 2 2 2 1 2 5, 5 , 4 3 3 7 u u v v z     are some examples of quadratic polynomials (whose coefficients are real numbers).",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "For example, 2x - 3, 3 5, x  2 y , 2 11 x  , 3z + 4, 2 1 3u , etc., are all linear polynomials. Polynomials such as 2x + 5 - x2, x3 + 1, etc., are not linear polynomials. A polynomial of degree 2 is called a quadratic polynomial. The name 'quadratic' has been derived from the word 'quadrate', which means 'square'. 2 2, 2 3 5 x x   y2 - 2, 2 2 3 , x x   2 2 2 2 1 2 5, 5 , 4 3 3 7 u u v v z     are some examples of quadratic polynomials (whose coefficients are real numbers).",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "More generally, any quadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbers and a  0.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "Some examples of POLYNOMIALS Reprint 2026-27 POLYNOMIALS 11 a cubic polynomial are 2 - x3, x3, 3 2 , x 3 - x2 + x3, 3x3 - 2x2 + x - 1.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "In fact, the most general form of a cubic polynomial is ax3 + bx2 + cx + d, where, a, b, c, d are real numbers and a  0.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "More generally, any quadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbers and a  0. Some examples of POLYNOMIALS Reprint 2026-27 POLYNOMIALS 11 a cubic polynomial are 2 - x3, x3, 3 2 , x 3 - x2 + x3, 3x3 - 2x2 + x - 1. In fact, the most general form of a cubic polynomial is ax3 + bx2 + cx + d, where, a, b, c, d are real numbers and a  0.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "Then, putting x = 2 in the polynomial, we get p(2) = 22 - 3 × 2 - 4 = - 6.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "The value '- 6', obtained by replacing x by 2 in x2 - 3x - 4, is the value of x2 - 3x - 4 at x = 2.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "Similarly, p(0) is the value of p(x) at x = 0, which is - 4.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Then, putting x = 2 in the polynomial, we get p(2) = 22 - 3 × 2 - 4 = - 6. The value '- 6', obtained by replacing x by 2 in x2 - 3x - 4, is the value of x2 - 3x - 4 at x = 2. Similarly, p(0) is the value of p(x) at x = 0, which is - 4.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Sequence a process from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 2 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "If p(x) is a polynomial in x, and if k is any real number, then the value obtained by replacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "We have : p(-1) = (-1)2 -{3 × (-1)} - 4 = 0 Also, note that p(4) = 42 - (3  4) - 4 = 0.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "As p(-1) = 0 and p(4) = 0, -1 and 4 are called the zeroes of the quadratic polynomial x2 - 3x - 4.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "More generally, a real number k is said to be a zero of a polynomial p(x), if p(k) = 0.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "If p(x) is a polynomial in x, and if k is any real number, then the value obtained by replacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k). We have : p(-1) = (-1)2 -{3 × (-1)} - 4 = 0 Also, note that p(4) = 42 - (3  4) - 4 = 0. As p(-1) = 0 and p(4) = 0, -1 and 4 are called the zeroes of the quadratic polynomial x2 - 3x - 4. More generally, a real number k is said to be a zero of a polynomial p(x), if p(k) = 0.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "You have already studied in Class IX, how to find the zeroes of a linear polynomial.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "Thus, the zero of a linear polynomial is related to its coefficients.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "For example, are the zeroes of a quadratic polynomial also related to its coefficients?",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You have already studied in Class IX, how to find the zeroes of a linear polynomial. Thus, the zero of a linear polynomial is related to its coefficients. For example, are the zeroes of a quadratic polynomial also related to its coefficients?",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "We will also study the division algorithm for polynomials.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "2.2 Geometrical Meaning of the Zeroes of a Polynomial You know that a real number k is a zero of the polynomial p(x) if p(k) = 0.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "To answer this, first we will see the geometrical representations of linear and quadratic polynomials and the geometrical meaning of their zeroes.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "Reprint 2026-27 12 MATHEMATICS Consider first a linear polynomial ax + b, a  0.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We will also study the division algorithm for polynomials. 2.2 Geometrical Meaning of the Zeroes of a Polynomial You know that a real number k is a zero of the polynomial p(x) if p(k) = 0. To answer this, first we will see the geometrical representations of linear and quadratic polynomials and the geometrical meaning of their zeroes. Reprint 2026-27 12 MATHEMATICS Consider first a linear polynomial ax + b, a  0.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "You have studied in Class IX that the graph of y = ax + b is a straight line.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "For example, the graph of y = 2x + 3 is a straight line passing through the points (- 2, -1) and (2, 7).",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You have studied in Class IX that the graph of y = ax + b is a straight line. For example, the graph of y = 2x + 3 is a straight line passing through the points (- 2, -1) and (2, 7).",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "2.1, you can see that the graph of y = 2x + 3 intersects the x-axis mid-way between x = -1 and x = - 2, that is, at the point 3, 0 2        .",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "Thus, the zero of the polynomial 2x + 3 is the x-coordinate of the point where the graph of y = 2x + 3 intersects the x-axis.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "2.1, you can see that the graph of y = 2x + 3 intersects the x-axis mid-way between x = -1 and x = - 2, that is, at the point 3, 0 2        . Thus, the zero of the polynomial 2x + 3 is the x-coordinate of the point where the graph of y = 2x + 3 intersects the x-axis. 10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
@@ -2317,13 +2318,13 @@
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "Expressions like 1 1 x  , 2 x  , 2 1 2 3 x x   etc., are not polynomials.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "A polynomial of degree 1 is called a linear polynomial.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Expressions like 1 1 x  , 2 x  , 2 1 2 3 x x   etc., are not polynomials. A polynomial of degree 1 is called a linear polynomial.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "have studied polynomials in one variable and their degrees.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "Recall that if p(x) is a polynomial in x, the highest power",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "of x in p(x) is called the degree of the polynomial p(x).",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "Expressions like 1 1 x  , 2 x  ,",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "2 1 2 3 x x   etc., are not polynomials.",
+          "text": "Students should arrange the points from Chapter 2 in a sensible order.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "A polynomial of degree 1",
+          "text": "Examples from Chapter 2 help support the answer.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "is called a linear polynomial.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Expressions like 1 1 x  , 2 x  , 2 1 2 3 x x   etc., are not polynomials. A polynomial of degree 1 is called a linear polynomial.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "10",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "recall",
+          "text": "Students should arrange the points from Chapter 2 in a sensible order.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Expressions like 1 1 x  , 2 x  , 2 1 2 3 x x   etc., are not polynomials. A polynomial of degree 1 is called a linear polynomial.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "For example, 2x - 3, 3 5, x  2 y , 2 11 x  , 3z + 4, 2 1 3u , etc., are all linear polynomials.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "Polynomials such as 2x + 5 - x2, x3 + 1, etc., are not linear polynomials.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "A polynomial of degree 2 is called a quadratic polynomial.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "The name 'quadratic' has been derived from the word 'quadrate', which means 'square'.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "For example, 2x - 3, 3 5, x  2 y , 2 11 x  , 3z + 4, 2 1 3u , etc., are all linear polynomials. Polynomials such as 2x + 5 - x2, x3 + 1, etc., are not linear polynomials. A polynomial of degree 2 is called a quadratic polynomial. The name 'quadratic' has been derived from the word 'quadrate', which means 'square'.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "For example, 2x - 3, 3 5, x  2 y , 2 11",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "x  , 3z + 4, 2 1 3u , etc., are all linear polynomials.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "Polynomials such as 2x + 5 - x2,",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "x3 + 1, etc., are not linear polynomials.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "A polynomial of degree 2",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "is called a quadratic polynomial.",
+          "text": "Students should arrange the points from Chapter 2 in a sensible order.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "The name 'quadratic' has been derived",
+          "text": "Examples from Chapter 2 help support the answer.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "from the word 'quadrate', which means 'square'.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "For example, 2x - 3, 3 5, x  2 y , 2 11 x  , 3z + 4, 2 1 3u , etc., are all linear polynomials. Polynomials such as 2x + 5 - x2, x3 + 1, etc., are not linear polynomials. A polynomial of degree 2 is called a quadratic polynomial. The name 'quadratic' has been derived from the word 'quadrate', which means 'square'.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "for",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "polynomials",
+          "text": "Students should arrange the points from Chapter 2 in a sensible order.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "For example, 2x - 3, 3 5, x  2 y , 2 11 x  , 3z + 4, 2 1 3u , etc., are all linear polynomials. Polynomials such as 2x + 5 - x2, x3 + 1, etc., are not linear polynomials. A polynomial of degree 2 is called a quadratic polynomial. The name 'quadratic' has been derived from the word 'quadrate', which means 'square'.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "2 2, 2 3 5 x x   y2 - 2, 2 2 3 , x x   2 2 2 2 1 2 5, 5 , 4 3 3 7 u u v v z     are some examples of quadratic polynomials (whose coefficients are real numbers).",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "More generally, any quadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbers and a  0.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "Some examples of POLYNOMIALS Reprint 2026-27 POLYNOMIALS 11 a cubic polynomial are 2 - x3, x3, 3 2 , x 3 - x2 + x3, 3x3 - 2x2 + x - 1.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "In fact, the most general form of a cubic polynomial is ax3 + bx2 + cx + d, where, a, b, c, d are real numbers and a  0.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "2 2, 2 3 5 x x   y2 - 2, 2 2 3 , x x   2 2 2 2 1 2 5, 5 , 4 3 3 7 u u v v z     are some examples of quadratic polynomials (whose coefficients are real numbers). More generally, any quadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbers and a  0. Some examples of POLYNOMIALS Reprint 2026-27 POLYNOMIALS 11 a cubic polynomial are 2 - x3, x3, 3 2 , x 3 - x2 + x3, 3x3 - 2x2 + x - 1. In fact, the most general form of a cubic polynomial is ax3 + bx2 + cx + d, where, a, b, c, d are real numbers and a  0.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "2 2, 2 3 5 x x   y2 - 2, 2 2 3 , x x   2 2 2 2 1 2",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "5, 5 , 4 3 3 7 u u v v z     are some examples of quadratic polynomials (whose coefficients are real numbers).",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "More generally, any quadratic polynomial in x is of the form ax2 +",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "bx + c, where a, b, c are real numbers and a  0.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "Some examples of POLYNOMIALS Reprint 2026-27 POLYNOMIALS 11 a cubic polynomial are 2 - x3, x3,",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "3 2 , x 3 - x2 + x3, 3x3 - 2x2 + x - 1.",
+          "text": "Students should arrange the points from Chapter 2 in a sensible order.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "In fact, the most general form of a cubic polynomial is ax3 + bx2 +",
+          "text": "Examples from Chapter 2 help support the answer.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "cx + d, where, a, b, c, d are real numbers and a  0.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "2 2, 2 3 5 x x   y2 - 2, 2 2 3 , x x   2 2 2 2 1 2 5, 5 , 4 3 3 7 u u v v z     are some examples of quadratic polynomials (whose coefficients are real numbers). More generally, any quadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbers and a  0. Some examples of POLYNOMIALS Reprint 2026-27 POLYNOMIALS 11 a cubic polynomial are 2 - x3, x3, 3 2 , x 3 - x2 + x3, 3x3 - 2x2 + x - 1. In fact, the most general form of a cubic polynomial is ax3 + bx2 + cx + d, where, a, b, c, d are real numbers and a  0.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "2",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "more",
+          "text": "Students should arrange the points from Chapter 2 in a sensible order.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "2 2, 2 3 5 x x   y2 - 2, 2 2 3 , x x   2 2 2 2 1 2 5, 5 , 4 3 3 7 u u v v z     are some examples of quadratic polynomials (whose coefficients are real numbers). More generally, any quadratic polynomial in x is of the form ax2 + bx + c, where a, b, c are real numbers and a  0. Some examples of POLYNOMIALS Reprint 2026-27 POLYNOMIALS 11 a cubic polynomial are 2 - x3, x3, 3 2 , x 3 - x2 + x3, 3x3 - 2x2 + x - 1. In fact, the most general form of a cubic polynomial is ax3 + bx2 + cx + d, where, a, b, c, d are real numbers and a  0.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Define an important term from Chapter 2 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "Then, putting x = 2 in the polynomial, we get p(2) = 22 - 3 × 2 - 4 = - 6.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "The value '- 6', obtained by replacing x by 2 in x2 - 3x - 4, is the value of x2 - 3x - 4 at x = 2.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "Similarly, p(0) is the value of p(x) at x = 0, which is - 4.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "If p(x) is a polynomial in x, and if k is any real number, then the value obtained by replacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Then, putting x = 2 in the polynomial, we get p(2) = 22 - 3 × 2 - 4 = - 6. The value '- 6', obtained by replacing x by 2 in x2 - 3x - 4, is the value of x2 - 3x - 4 at x = 2. Similarly, p(0) is the value of p(x) at x = 0, which is - 4. If p(x) is a polynomial in x, and if k is any real number, then the value obtained by replacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Define an important term from Chapter 2 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "Then, putting x = 2 in the polynomial, we get p(2)",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "= 22 - 3 × 2 - 4 = - 6.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "The value '- 6', obtained by replacing x by 2 in x2 - 3x",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "- 4, is the value of x2 - 3x - 4 at x = 2.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "Similarly, p(0) is the value of p(x)",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "at x = 0, which is - 4.",
+          "text": "Students should arrange the points from Chapter 2 in a sensible order.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "If p(x) is a polynomial in x, and if k is any real number, then the value obtained by replacing",
+          "text": "Examples from Chapter 2 help support the answer.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Then, putting x = 2 in the polynomial, we get p(2) = 22 - 3 × 2 - 4 = - 6. The value '- 6', obtained by replacing x by 2 in x2 - 3x - 4, is the value of x2 - 3x - 4 at x = 2. Similarly, p(0) is the value of p(x) at x = 0, which is - 4. If p(x) is a polynomial in x, and if k is any real number, then the value obtained by replacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Define an important term from Chapter 2 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "then,",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "the",
+          "text": "Students should arrange the points from Chapter 2 in a sensible order.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Then, putting x = 2 in the polynomial, we get p(2) = 22 - 3 × 2 - 4 = - 6. The value '- 6', obtained by replacing x by 2 in x2 - 3x - 4, is the value of x2 - 3x - 4 at x = 2. Similarly, p(0) is the value of p(x) at x = 0, which is - 4. If p(x) is a polynomial in x, and if k is any real number, then the value obtained by replacing x by k in p(x), is called the value of p(x) at x = k, and is denoted by p(k).",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "We have : p(-1) = (-1)2 -{3 × (-1)} - 4 = 0 Also, note that p(4) = 42 - (3  4) - 4 = 0.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "As p(-1) = 0 and p(4) = 0, -1 and 4 are called the zeroes of the quadratic polynomial x2 - 3x - 4.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "More generally, a real number k is said to be a zero of a polynomial p(x), if p(k) = 0.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "You have already studied in Class IX, how to find the zeroes of a linear polynomial.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We have : p(-1) = (-1)2 -{3 × (-1)} - 4 = 0 Also, note that p(4) = 42 - (3  4) - 4 = 0. As p(-1) = 0 and p(4) = 0, -1 and 4 are called the zeroes of the quadratic polynomial x2 - 3x - 4. More generally, a real number k is said to be a zero of a polynomial p(x), if p(k) = 0. You have already studied in Class IX, how to find the zeroes of a linear polynomial.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "We have : p(-1) = (-1)2 -{3 × (-1)} - 4 = 0",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "Also, note that p(4) = 42 - (3  4) - 4 = 0.",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "As p(-1) = 0 and p(4) = 0, -1 and 4 are",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "called the zeroes of the quadratic polynomial x2 - 3x - 4.",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "More generally, a real number k is said to be",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "a zero of a polynomial p(x), if p(k) = 0.",
+          "text": "Students should arrange the points from Chapter 2 in a sensible order.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "You have already studied in Class IX, how",
+          "text": "Examples from Chapter 2 help support the answer.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "to find the zeroes of a linear polynomial.",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We have : p(-1) = (-1)2 -{3 × (-1)} - 4 = 0 Also, note that p(4) = 42 - (3  4) - 4 = 0. As p(-1) = 0 and p(4) = 0, -1 and 4 are called the zeroes of the quadratic polynomial x2 - 3x - 4. More generally, a real number k is said to be a zero of a polynomial p(x), if p(k) = 0. You have already studied in Class IX, how to find the zeroes of a linear polynomial.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class10\\Mathematics\\jemh102.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x).",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "The answer should use details from Chapter 2.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "we",
+          "text": "A clear response should stay connected to Chapter 2.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "as",
+          "text": "Students should arrange the points from Chapter 2 in a sensible order.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We have : p(-1) = (-1)2 -{3 × (-1)} - 4 = 0 Also, note that p(4) = 42 - (3  4) - 4 = 0. As p(-1) = 0 and p(4) = 0, -1 and 4 are called the zeroes of the quadratic polynomial x2 - 3x - 4. More generally, a real number k is said to be a zero of a polynomial p(x), if p(k) = 0. You have already studied in Class IX, how to find the zeroes of a linear polynomial.",
+      "modelAnswer": "10 MATHEMATICS 2 2.1 Introduction In Class IX, you have studied polynomials in one variable and their degrees. Recall that if p(x) is a polynomial in x, the highest power of x in p(x) is called the degree of the polynomial p(x). Chapter 2 has important ideas that students can explain in simple words. The answer should use details from Chapter 2.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

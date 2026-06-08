@@ -1,0 +1,12 @@
+{
+  "name": "learnify",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "powershell -ExecutionPolicy Bypass -File .\\scripts\\start_learnify.ps1",
+    "start": "python server.py"
+  },
+  "devDependencies": {
+    "playwright": "^1.60.0"
+  }
+}

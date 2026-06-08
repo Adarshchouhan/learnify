@@ -12,7 +12,8 @@
     "chapterNumber": 7,
     "pageCount": null,
     "extractedCharacterCount": 25375,
-    "extractionPreview": "7\n7.1 Rectangle and Squares\nHow many different ways can you divide a square into 4 parts of equal \narea?\nOne can actually think of infinitely many such ways! Consider a \ndivision, such as -\nand alter each part as follows.\nIn each part, the area is compressed along one edge and expanded \nalong another edge. If both the compression and expansion are of the \nsame magnitude, then all 4 parts still have the same area!\nTry to think of different creative ways to divide a square into \n4 parts of equal a"
+    "extractionPreview": "7\n7.1 Rectangle and Squares\nHow many different ways can you divide a square into 4 parts of equal \narea?\nOne can actually think of infinitely many such ways! Consider a \ndivision, such as -\nand alter each part as follows.\nIn each part, the area is compressed along one edge and expanded \nalong another edge. If both the compression and expansion are of the \nsame magnitude, then all 4 parts still have the same area!\nTry to think of different creative ways to divide a square into \n4 parts of equal a",
+    "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 7.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 7?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 7.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 7 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 7.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 7, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 7 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 7?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 7.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 7?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 7?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
@@ -172,30 +173,30 @@
         },
         {
           "id": "explain-2",
-          "text": "Consider a division, such as - and alter each part as follows.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "explain-3",
-          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge. If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 7 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "Try to think of different creative ways to divide a square into 4 parts of equal area.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "Math Talk AREA Area 149 You might have seen the rangoli art form, in which regions of different shapes are beautifully coloured using rangoli powder.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "Which of these rectangles requires more rangoli powder to be coloured, if the colouring is done evenly?",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "We can answer this by counting the number of non-overlapping unit squares (squares of sidelength 1 cm in this case) that can be packed into each of the rectangles.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Try to think of different creative ways to divide a square into 4 parts of equal area. Math Talk AREA Area 149 You might have seen the rangoli art form, in which regions of different shapes are beautifully coloured using rangoli powder. Which of these rectangles requires more rangoli powder to be coloured, if the colouring is done evenly? We can answer this by counting the number of non-overlapping unit squares (squares of sidelength 1 cm in this case) that can be packed into each of the rectangles.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 7, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "Clearly, the rectangle having sidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares, and the rectangle having sidelengths 8 cm and 3 cm contains 8 × 3 = 24 unit squares.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Thus, the rectangle of sidelengths 7 cm and 4 cm requires more powder to be coloured.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "Recall that we measure the area of a region by finding the number of unit squares (which can also be a fraction) whose area equals that of the given region.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "We have seen that the number of unit squares contained in a rectangle is given by the product of its length and width - Area of a rectangle = length × width.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Clearly, the rectangle having sidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares, and the rectangle having sidelengths 8 cm and 3 cm contains 8 × 3 = 24 unit squares. Thus, the rectangle of sidelengths 7 cm and 4 cm requires more powder to be coloured. Recall that we measure the area of a region by finding the number of unit squares (which can also be a fraction) whose area equals that of the given region. We have seen that the number of unit squares contained in a rectangle is given by the product of its length and width - Area of a rectangle = length × width.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 7 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 7 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "The areas of the rectangles as seen in the previous problem are generally written as 28 sq.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "4 cm 7 cm 3 cm 8 cm Ganita Prakash | Grade 8 | Part-II 150 What is the area of each triangle in this rectangle?",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "We have seen that the diagonal of a rectangle divides it into two congruent triangles.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "So, the area of each triangle is half the area of the rectangle.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The areas of the rectangles as seen in the previous problem are generally written as 28 sq. 4 cm 7 cm 3 cm 8 cm Ganita Prakash | Grade 8 | Part-II 150 What is the area of each triangle in this rectangle? We have seen that the diagonal of a rectangle divides it into two congruent triangles. So, the area of each triangle is half the area of the rectangle.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 7?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "In terms of unit squares, half the area fills exactly half the number of unit squares.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "Why do we count the number of unit squares to assign measures for area?",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "Couldn't we have just used the perimeter of a region, i.e., the length of its boundary as a measure of its area?",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "If two regions have the same perimeter, can't we conclude that they have the same area?",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In terms of unit squares, half the area fills exactly half the number of unit squares. Why do we count the number of unit squares to assign measures for area? Couldn't we have just used the perimeter of a region, i.e., the length of its boundary as a measure of its area? If two regions have the same perimeter, can't we conclude that they have the same area?",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 7, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "Or, if one region has a larger perimeter than another region, can't we conclude that it also has a larger area?",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "The perimeter of a region is not indicative of its area.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "The reason is that regions can have the same perimeter but different areas, and vice versa.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "We can even find two regions, Region 1 and Region 2, such that Perimeter of Region 1 > Perimeter of Region 2, but Area of Region 1 < Area of Region 2.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Or, if one region has a larger perimeter than another region, can't we conclude that it also has a larger area? The perimeter of a region is not indicative of its area. The reason is that regions can have the same perimeter but different areas, and vice versa. We can even find two regions, Region 1 and Region 2, such that Perimeter of Region 1 > Perimeter of Region 2, but Area of Region 1 < Area of Region 2.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Complete a passage from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
@@ -808,30 +809,30 @@
         },
         {
           "id": "fill_blanks-2",
-          "text": "Consider a division, such as - and alter each part as follows.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "fill_blanks-3",
-          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge. If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Classify statements based on Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "Try to think of different creative ways to divide a square into 4 parts of equal area.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "Math Talk AREA Area 149 You might have seen the rangoli art form, in which regions of different shapes are beautifully coloured using rangoli powder.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "Which of these rectangles requires more rangoli powder to be coloured, if the colouring is done evenly?",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "We can answer this by counting the number of non-overlapping unit squares (squares of sidelength 1 cm in this case) that can be packed into each of the rectangles.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Try to think of different creative ways to divide a square into 4 parts of equal area. Math Talk AREA Area 149 You might have seen the rangoli art form, in which regions of different shapes are beautifully coloured using rangoli powder. Which of these rectangles requires more rangoli powder to be coloured, if the colouring is done evenly? We can answer this by counting the number of non-overlapping unit squares (squares of sidelength 1 cm in this case) that can be packed into each of the rectangles.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "List key points from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "Clearly, the rectangle having sidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares, and the rectangle having sidelengths 8 cm and 3 cm contains 8 × 3 = 24 unit squares.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Thus, the rectangle of sidelengths 7 cm and 4 cm requires more powder to be coloured.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "Recall that we measure the area of a region by finding the number of unit squares (which can also be a fraction) whose area equals that of the given region.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "We have seen that the number of unit squares contained in a rectangle is given by the product of its length and width - Area of a rectangle = length × width.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Clearly, the rectangle having sidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares, and the rectangle having sidelengths 8 cm and 3 cm contains 8 × 3 = 24 unit squares. Thus, the rectangle of sidelengths 7 cm and 4 cm requires more powder to be coloured. Recall that we measure the area of a region by finding the number of unit squares (which can also be a fraction) whose area equals that of the given region. We have seen that the number of unit squares contained in a rectangle is given by the product of its length and width - Area of a rectangle = length × width.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "The areas of the rectangles as seen in the previous problem are generally written as 28 sq.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "4 cm 7 cm 3 cm 8 cm Ganita Prakash | Grade 8 | Part-II 150 What is the area of each triangle in this rectangle?",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "We have seen that the diagonal of a rectangle divides it into two congruent triangles.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "So, the area of each triangle is half the area of the rectangle.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The areas of the rectangles as seen in the previous problem are generally written as 28 sq. 4 cm 7 cm 3 cm 8 cm Ganita Prakash | Grade 8 | Part-II 150 What is the area of each triangle in this rectangle? We have seen that the diagonal of a rectangle divides it into two congruent triangles. So, the area of each triangle is half the area of the rectangle.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Use chapter information from Chapter 7 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 7 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "In terms of unit squares, half the area fills exactly half the number of unit squares.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "Why do we count the number of unit squares to assign measures for area?",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "Couldn't we have just used the perimeter of a region, i.e., the length of its boundary as a measure of its area?",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "If two regions have the same perimeter, can't we conclude that they have the same area?",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In terms of unit squares, half the area fills exactly half the number of unit squares. Why do we count the number of unit squares to assign measures for area? Couldn't we have just used the perimeter of a region, i.e., the length of its boundary as a measure of its area? If two regions have the same perimeter, can't we conclude that they have the same area?",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "Or, if one region has a larger perimeter than another region, can't we conclude that it also has a larger area?",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "The perimeter of a region is not indicative of its area.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "The reason is that regions can have the same perimeter but different areas, and vice versa.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "We can even find two regions, Region 1 and Region 2, such that Perimeter of Region 1 > Perimeter of Region 2, but Area of Region 1 < Area of Region 2.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "If needed, use a grid paper (given at the end of the book) for this.",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Or, if one region has a larger perimeter than another region, can't we conclude that it also has a larger area? The perimeter of a region is not indicative of its area. The reason is that regions can have the same perimeter but different areas, and vice versa. We can even find two regions, Region 1 and Region 2, such that Perimeter of Region 1 > Perimeter of Region 2, but Area of Region 1 < Area of Region 2. If needed, use a grid paper (given at the end of the book) for this.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Build a definition from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 7?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
@@ -1452,30 +1453,30 @@
         },
         {
           "id": "definition_term-2",
-          "text": "Consider a division, such as - and alter each part as follows.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "definition_term-3",
-          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge. If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 7 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "Try to think of different creative ways to divide a square into 4 parts of equal area.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "Math Talk AREA Area 149 You might have seen the rangoli art form, in which regions of different shapes are beautifully coloured using rangoli powder.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "Which of these rectangles requires more rangoli powder to be coloured, if the colouring is done evenly?",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "We can answer this by counting the number of non-overlapping unit squares (squares of sidelength 1 cm in this case) that can be packed into each of the rectangles.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "Clearly, the rectangle having sidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares, and the rectangle having sidelengths 8 cm and 3 cm contains 8 × 3 = 24 unit squares.",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Try to think of different creative ways to divide a square into 4 parts of equal area. Math Talk AREA Area 149 You might have seen the rangoli art form, in which regions of different shapes are beautifully coloured using rangoli powder. Which of these rectangles requires more rangoli powder to be coloured, if the colouring is done evenly? We can answer this by counting the number of non-overlapping unit squares (squares of sidelength 1 cm in this case) that can be packed into each of the rectangles. Clearly, the rectangle having sidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares, and the rectangle having sidelengths 8 cm and 3 cm contains 8 × 3 = 24 unit squares.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Thus, the rectangle of sidelengths 7 cm and 4 cm requires more powder to be coloured.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "Recall that we measure the area of a region by finding the number of unit squares (which can also be a fraction) whose area equals that of the given region.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "We have seen that the number of unit squares contained in a rectangle is given by the product of its length and width - Area of a rectangle = length × width.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Thus, the rectangle of sidelengths 7 cm and 4 cm requires more powder to be coloured. Recall that we measure the area of a region by finding the number of unit squares (which can also be a fraction) whose area equals that of the given region. We have seen that the number of unit squares contained in a rectangle is given by the product of its length and width - Area of a rectangle = length × width.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "The areas of the rectangles as seen in the previous problem are generally written as 28 sq.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "4 cm 7 cm 3 cm 8 cm Ganita Prakash | Grade 8 | Part-II 150 What is the area of each triangle in this rectangle?",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "We have seen that the diagonal of a rectangle divides it into two congruent triangles.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The areas of the rectangles as seen in the previous problem are generally written as 28 sq. 4 cm 7 cm 3 cm 8 cm Ganita Prakash | Grade 8 | Part-II 150 What is the area of each triangle in this rectangle? We have seen that the diagonal of a rectangle divides it into two congruent triangles.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Sequence a process from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 7 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "So, the area of each triangle is half the area of the rectangle.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "In terms of unit squares, half the area fills exactly half the number of unit squares.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "Why do we count the number of unit squares to assign measures for area?",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "Couldn't we have just used the perimeter of a region, i.e., the length of its boundary as a measure of its area?",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "So, the area of each triangle is half the area of the rectangle. In terms of unit squares, half the area fills exactly half the number of unit squares. Why do we count the number of unit squares to assign measures for area? Couldn't we have just used the perimeter of a region, i.e., the length of its boundary as a measure of its area?",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "If two regions have the same perimeter, can't we conclude that they have the same area?",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "Or, if one region has a larger perimeter than another region, can't we conclude that it also has a larger area?",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "The perimeter of a region is not indicative of its area.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "If two regions have the same perimeter, can't we conclude that they have the same area? Or, if one region has a larger perimeter than another region, can't we conclude that it also has a larger area? The perimeter of a region is not indicative of its area.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "The reason is that regions can have the same perimeter but different areas, and vice versa.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "We can even find two regions, Region 1 and Region 2, such that Perimeter of Region 1 > Perimeter of Region 2, but Area of Region 1 < Area of Region 2.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "If needed, use a grid paper (given at the end of the book) for this.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "Also give an example of two regions of other shapes, where the region with the larger perimeter has the smaller area!",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The reason is that regions can have the same perimeter but different areas, and vice versa. We can even find two regions, Region 1 and Region 2, such that Perimeter of Region 1 > Perimeter of Region 2, but Area of Region 1 < Area of Region 2. If needed, use a grid paper (given at the end of the book) for this. Also give an example of two regions of other shapes, where the region with the larger perimeter has the smaller area!",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "This property should be visually clear in your example.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "11 m2 Area = 50 m2 (ii) 7 cm 4 cm Math Talk Area 151 2.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This property should be visually clear in your example. 11 m2 Area = 50 m2 (ii) 7 cm 4 cm Math Talk Area 151 2.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 7.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "(i) What measurements do you need to find the area of the path?",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "Once you identify the lengths to be measured, assign possible values of your choice to these measurements and find the area of the path.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 7 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "(i) What measurements do you need to find the area of the path? Once you identify the lengths to be measured, assign possible values of your choice to these measurements and find the area of the path. 7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
@@ -2311,19 +2312,19 @@
         },
         {
           "id": "chapter-q01-chapter-overview-e-2",
-          "text": "Consider a division, such as - and alter each part as follows.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2,
           "section": "Key idea 1"
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge. If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "7 7.1 Rectangle and Squares How many different ways can",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "you divide a square into 4 parts of equal area?",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "Consider a division, such as -",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "and alter each part as follows.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "In each part, the area is compressed",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "along one edge and expanded along another edge.",
+          "text": "Try to think of different creative ways to divide a square into 4 parts of equal a.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "If both the compression and expansion are of the same",
+          "text": "Chapter 7 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "magnitude, then all 4 parts still have the same area!",
+          "text": "The answer should use details from Chapter 7.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge. If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "7",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "consider",
+          "text": "Try to think of different creative ways to divide a square into 4 parts of equal a.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge. If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "Try to think of different creative ways to divide a square into 4 parts of equal area.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "Math Talk AREA Area 149 You might have seen the rangoli art form, in which regions of different shapes are beautifully coloured using rangoli powder.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "Which of these rectangles requires more rangoli powder to be coloured, if the colouring is done evenly?",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "We can answer this by counting the number of non-overlapping unit squares (squares of sidelength 1 cm in this case) that can be packed into each of the rectangles.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Try to think of different creative ways to divide a square into 4 parts of equal area. Math Talk AREA Area 149 You might have seen the rangoli art form, in which regions of different shapes are beautifully coloured using rangoli powder. Which of these rectangles requires more rangoli powder to be coloured, if the colouring is done evenly? We can answer this by counting the number of non-overlapping unit squares (squares of sidelength 1 cm in this case) that can be packed into each of the rectangles.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "Try to think of different creative ways to",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "divide a square into 4 parts of equal area.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "Math Talk AREA Area 149 You might have seen the rangoli art",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "form, in which regions of different shapes are beautifully coloured using rangoli powder.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "Which of these rectangles requires more rangoli powder",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "to be coloured, if the colouring is done evenly?",
+          "text": "Try to think of different creative ways to divide a square into 4 parts of equal a.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "We can answer this by counting the number of non-overlapping unit squares (squares of",
+          "text": "Chapter 7 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "sidelength 1 cm in this case) that can be packed into each of the rectangles.",
+          "text": "The answer should use details from Chapter 7.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Try to think of different creative ways to divide a square into 4 parts of equal area. Math Talk AREA Area 149 You might have seen the rangoli art form, in which regions of different shapes are beautifully coloured using rangoli powder. Which of these rectangles requires more rangoli powder to be coloured, if the colouring is done evenly? We can answer this by counting the number of non-overlapping unit squares (squares of sidelength 1 cm in this case) that can be packed into each of the rectangles.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "try",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "math",
+          "text": "Try to think of different creative ways to divide a square into 4 parts of equal a.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Try to think of different creative ways to divide a square into 4 parts of equal area. Math Talk AREA Area 149 You might have seen the rangoli art form, in which regions of different shapes are beautifully coloured using rangoli powder. Which of these rectangles requires more rangoli powder to be coloured, if the colouring is done evenly? We can answer this by counting the number of non-overlapping unit squares (squares of sidelength 1 cm in this case) that can be packed into each of the rectangles.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "Clearly, the rectangle having sidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares, and the rectangle having sidelengths 8 cm and 3 cm contains 8 × 3 = 24 unit squares.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Thus, the rectangle of sidelengths 7 cm and 4 cm requires more powder to be coloured.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "Recall that we measure the area of a region by finding the number of unit squares (which can also be a fraction) whose area equals that of the given region.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "We have seen that the number of unit squares contained in a rectangle is given by the product of its length and width - Area of a rectangle = length × width.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Clearly, the rectangle having sidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares, and the rectangle having sidelengths 8 cm and 3 cm contains 8 × 3 = 24 unit squares. Thus, the rectangle of sidelengths 7 cm and 4 cm requires more powder to be coloured. Recall that we measure the area of a region by finding the number of unit squares (which can also be a fraction) whose area equals that of the given region. We have seen that the number of unit squares contained in a rectangle is given by the product of its length and width - Area of a rectangle = length × width.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "Clearly, the rectangle having sidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares,",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "and the rectangle having sidelengths 8 cm and 3 cm contains 8 × 3 = 24 unit squares.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Thus, the rectangle of sidelengths 7 cm and",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "4 cm requires more powder to be coloured.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "Recall that we measure the area of a region by finding the number of unit",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "squares (which can also be a fraction) whose area equals that of the given region.",
+          "text": "Try to think of different creative ways to divide a square into 4 parts of equal a.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "We have seen that the number of unit squares contained in a rectangle is given by",
+          "text": "Chapter 7 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "the product of its length and width - Area of a rectangle = length × width.",
+          "text": "The answer should use details from Chapter 7.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Clearly, the rectangle having sidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares, and the rectangle having sidelengths 8 cm and 3 cm contains 8 × 3 = 24 unit squares. Thus, the rectangle of sidelengths 7 cm and 4 cm requires more powder to be coloured. Recall that we measure the area of a region by finding the number of unit squares (which can also be a fraction) whose area equals that of the given region. We have seen that the number of unit squares contained in a rectangle is given by the product of its length and width - Area of a rectangle = length × width.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "clearly,",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "thus,",
+          "text": "Try to think of different creative ways to divide a square into 4 parts of equal a.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Clearly, the rectangle having sidelengths 7 cm and 4 cm contains 7 × 4 = 28 unit squares, and the rectangle having sidelengths 8 cm and 3 cm contains 8 × 3 = 24 unit squares. Thus, the rectangle of sidelengths 7 cm and 4 cm requires more powder to be coloured. Recall that we measure the area of a region by finding the number of unit squares (which can also be a fraction) whose area equals that of the given region. We have seen that the number of unit squares contained in a rectangle is given by the product of its length and width - Area of a rectangle = length × width.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Define an important term from Chapter 7 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "The areas of the rectangles as seen in the previous problem are generally written as 28 sq.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "4 cm 7 cm 3 cm 8 cm Ganita Prakash | Grade 8 | Part-II 150 What is the area of each triangle in this rectangle?",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "We have seen that the diagonal of a rectangle divides it into two congruent triangles.",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "So, the area of each triangle is half the area of the rectangle.",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The areas of the rectangles as seen in the previous problem are generally written as 28 sq. 4 cm 7 cm 3 cm 8 cm Ganita Prakash | Grade 8 | Part-II 150 What is the area of each triangle in this rectangle? We have seen that the diagonal of a rectangle divides it into two congruent triangles. So, the area of each triangle is half the area of the rectangle.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Define an important term from Chapter 7 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "The areas of the rectangles as seen in",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "the previous problem are generally written as 28 sq.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "4 cm 7 cm 3 cm 8 cm Ganita Prakash | Grade 8",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "| Part-II 150 What is the area of each triangle in this rectangle?",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "We have seen that the diagonal of",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "a rectangle divides it into two congruent triangles.",
+          "text": "Try to think of different creative ways to divide a square into 4 parts of equal a.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "So, the area of each triangle",
+          "text": "Chapter 7 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "is half the area of the rectangle.",
+          "text": "The answer should use details from Chapter 7.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The areas of the rectangles as seen in the previous problem are generally written as 28 sq. 4 cm 7 cm 3 cm 8 cm Ganita Prakash | Grade 8 | Part-II 150 What is the area of each triangle in this rectangle? We have seen that the diagonal of a rectangle divides it into two congruent triangles. So, the area of each triangle is half the area of the rectangle.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Define an important term from Chapter 7 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "the",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "4",
+          "text": "Try to think of different creative ways to divide a square into 4 parts of equal a.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The areas of the rectangles as seen in the previous problem are generally written as 28 sq. 4 cm 7 cm 3 cm 8 cm Ganita Prakash | Grade 8 | Part-II 150 What is the area of each triangle in this rectangle? We have seen that the diagonal of a rectangle divides it into two congruent triangles. So, the area of each triangle is half the area of the rectangle.",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "In terms of unit squares, half the area fills exactly half the number of unit squares.",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "Why do we count the number of unit squares to assign measures for area?",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "Couldn't we have just used the perimeter of a region, i.e., the length of its boundary as a measure of its area?",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "If two regions have the same perimeter, can't we conclude that they have the same area?",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In terms of unit squares, half the area fills exactly half the number of unit squares. Why do we count the number of unit squares to assign measures for area? Couldn't we have just used the perimeter of a region, i.e., the length of its boundary as a measure of its area? If two regions have the same perimeter, can't we conclude that they have the same area?",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "In terms of unit squares, half the area",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "fills exactly half the number of unit squares.",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "Why do we count the number of",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "unit squares to assign measures for area?",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "Couldn't we have just used the perimeter of a region, i.e.,",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "the length of its boundary as a measure of its area?",
+          "text": "Try to think of different creative ways to divide a square into 4 parts of equal a.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "If two regions have the same perimeter, can't",
+          "text": "Chapter 7 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "we conclude that they have the same area?",
+          "text": "The answer should use details from Chapter 7.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In terms of unit squares, half the area fills exactly half the number of unit squares. Why do we count the number of unit squares to assign measures for area? Couldn't we have just used the perimeter of a region, i.e., the length of its boundary as a measure of its area? If two regions have the same perimeter, can't we conclude that they have the same area?",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 7",
       "chapterNumber": 7,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 7.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 7.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 2, Chapter Chapter 7.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 2, lesson: Chapter 7.",
       "sourceChapter": "Chapter 7",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 2\\hegp207.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area?",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "One can actually think of infinitely many such ways!",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "Consider a division, such as - and alter each part as follows.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "In each part, the area is compressed along one edge and expanded along another edge.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "in",
+          "text": "If both the compression and expansion are of the same magnitude, then all 4 parts still have the same area!",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "why",
+          "text": "Try to think of different creative ways to divide a square into 4 parts of equal a.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 7 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 7.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 7.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In terms of unit squares, half the area fills exactly half the number of unit squares. Why do we count the number of unit squares to assign measures for area? Couldn't we have just used the perimeter of a region, i.e., the length of its boundary as a measure of its area? If two regions have the same perimeter, can't we conclude that they have the same area?",
+      "modelAnswer": "7 7.1 Rectangle and Squares How many different ways can you divide a square into 4 parts of equal area? One can actually think of infinitely many such ways! Consider a division, such as - and alter each part as follows. In each part, the area is compressed along one edge and expanded along another edge.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

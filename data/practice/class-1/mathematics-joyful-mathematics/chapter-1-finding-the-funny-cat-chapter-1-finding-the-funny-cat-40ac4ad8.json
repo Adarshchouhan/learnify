@@ -1,0 +1,4558 @@
+{
+  "version": 1,
+  "generatedBy": "scripts/build_practice_data.py",
+  "source": {
+    "root": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf",
+    "pdfPath": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+    "classLevel": 1,
+    "stream": null,
+    "subject": "Mathematics",
+    "book": "Mathematics - Joyful Mathematics",
+    "chapter": "Chapter 1: Finding the Funny Cat!",
+    "chapterNumber": 1,
+    "pageCount": null,
+    "extractedCharacterCount": 5280,
+    "extractionPreview": "Finding the \nFurry Cat!\n1\nLet us Sing\nLooking, looking, looking \nLooking for my furry cat!\nAre you \nsitting\non the \nwindow\nshed?\nAre you sleeping under \nmy bed?\nWhere are you \nmy furry cat?\nLooking, looking, looking\nLooking for my furry cat!\nAre you inside\nthe backpack?\nAre you outside the \nred rack?\nWhere are you\nmy furry cat?\nReprint 2025-26\n\n2\nSaw you hiding below \nthe mat\nHere comes my furry cat!\nCome, come, come\nCome to me my furry cat! \nSaw you hopping above \nthe hat.\nCome, come, come\nCome"
+  },
+  "coverage": {
+    "classes": [
+      1
+    ],
+    "questionTypeCount": 21,
+    "answerBuilderModes": [
+      "easy",
+      "moderate",
+      "difficult"
+    ],
+    "activityCount": 38,
+    "chapterQuestionCount": 4,
+    "layoutProfileCount": 8,
+    "generationMode": "source-derived-draft"
+  },
+  "layoutProfiles": {
+    "sequence": {
+      "label": "Sequence Builder",
+      "primaryType": "process_sequence",
+      "slotStrategy": "ordered_placeholders",
+      "layout": "numbered vertical slots with exact-order validation"
+    },
+    "explain": {
+      "label": "Explanation Builder",
+      "primaryType": "explain",
+      "slotStrategy": "structured_answer",
+      "layout": "introduction, key points, conclusion"
+    },
+    "compare": {
+      "label": "Compare and Contrast Builder",
+      "primaryType": "compare_contrast",
+      "slotStrategy": "two_column_table",
+      "layout": "similarities and differences columns"
+    },
+    "cause_effect": {
+      "label": "Cause-Effect Builder",
+      "primaryType": "cause_effect",
+      "slotStrategy": "paired_connections",
+      "layout": "cause column, effect column and explanation box"
+    },
+    "experiment": {
+      "label": "Experiment/Observation Builder",
+      "primaryType": "evidence_support_statement",
+      "slotStrategy": "aim_observation_reason",
+      "layout": "aim, materials, observation, inference"
+    },
+    "data": {
+      "label": "Data Interpretation Builder",
+      "primaryType": "data_chart_table",
+      "slotStrategy": "table_or_chart_inference",
+      "layout": "data table with inference slots"
+    },
+    "definition": {
+      "label": "Definition Builder",
+      "primaryType": "definition_term",
+      "slotStrategy": "term_definition_parts",
+      "layout": "term, key phrase slots, final definition"
+    },
+    "assertion_reason": {
+      "label": "Assertion-Reason Builder",
+      "primaryType": "assertion_reason",
+      "slotStrategy": "truth_and_relationship",
+      "layout": "assertion, reason, relationship choice"
+    }
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "chapter-q01-cat-room-places",
+      "question": "Where can we see the cat in the room?",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "chapter-q02-position-words",
+      "question": "Which position words tell where the cat is?",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "chapter-q03-cat-movement",
+      "question": "How did the cat move in the song?",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "chapter-q04-find-hidden-cat",
+      "question": "How can we find the hidden cat?",
+      "questionIdentifier": {
+        "label": "Explanation Builder",
+        "primaryType": "explain",
+        "slotStrategy": "structured_answer",
+        "layout": "introduction, key points, conclusion",
+        "id": "explain"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-01-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 3,
+      "question": "What is 'Finding the Funny Cat!' about?",
+      "instructions": "Choose the correct cards for this Class 1 activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "c1-short_answer_key_points-1",
+          "text": "1 Let us Sing Looking, looking, looking Looking for my furry cat!",
+          "order": 1
+        },
+        {
+          "id": "c1-short_answer_key_points-2",
+          "text": "Reprint 2025-26 2 Saw you hiding below the mat Here comes my furry cat!",
+          "order": 2
+        },
+        {
+          "id": "c1-short_answer_key_points-3",
+          "text": "Children can look at the pictures and tell what all they see and discuss the things which are above, below, on, under, and so on with the class.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c1-short_answer_key_points-x1",
+          "text": "This card is not about the chapter.",
+          "misconception": "Unrelated card."
+        },
+        {
+          "id": "c1-short_answer_key_points-x2",
+          "text": "This card does not complete the answer.",
+          "misconception": "Incomplete answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "c1-short_answer_key_points-1",
+          "c1-short_answer_key_points-2",
+          "c1-short_answer_key_points-3"
+        ]
+      },
+      "hints": [
+        "Read the question first.",
+        "Pick only the cards that match the lesson."
+      ],
+      "modelAnswer": "1 Let us Sing Looking, looking, looking Looking for my furry cat! Reprint 2025-26 2 Saw you hiding below the mat Here comes my furry cat! Children can look at the pictures and tell what all they see and discuss the things which are above, below, on, under, and so on with the class.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-02-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 3,
+      "question": "Complete simple lines from 'Finding the Funny Cat!'.",
+      "instructions": "Choose the correct cards for this Class 1 activity.",
+      "structureHelp": [
+        "Line 1",
+        "Line 2",
+        "Line 3"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "c1-fill_blanks-1",
+          "text": "Encourage them to talk about the animals that they see around them, like cats, dogs, cows, etc.",
+          "order": 1
+        },
+        {
+          "id": "c1-fill_blanks-2",
+          "text": "Reprint 2025-26 3 Look at the pictures of the poem and encircle the correct word.",
+          "order": 2
+        },
+        {
+          "id": "c1-fill_blanks-3",
+          "text": "One team will hide a few things like white chalk, red ball and other items and ask the other team to find them.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c1-fill_blanks-x1",
+          "text": "This card is not about the chapter.",
+          "misconception": "Unrelated card."
+        },
+        {
+          "id": "c1-fill_blanks-x2",
+          "text": "This card does not complete the answer.",
+          "misconception": "Incomplete answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Line 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Line 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Line 3"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "c1-fill_blanks-1",
+          "c1-fill_blanks-2",
+          "c1-fill_blanks-3"
+        ]
+      },
+      "hints": [
+        "Read the question first.",
+        "Pick only the cards that match the lesson."
+      ],
+      "modelAnswer": "Encourage them to talk about the animals that they see around them, like cats, dogs, cows, etc. Reprint 2025-26 3 Look at the pictures of the poem and encircle the correct word. One team will hide a few things like white chalk, red ball and other items and ask the other team to find them.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "c1-fill_blanks-1",
+        "c1-fill_blanks-2",
+        "c1-fill_blanks-3"
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-03-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 3,
+      "question": "Match words from 'Finding the Funny Cat!'.",
+      "instructions": "Choose the correct cards for this Class 1 activity.",
+      "structureHelp": [
+        "Word 1",
+        "Word 2",
+        "Word 3",
+        "Word 4"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "c1-match_following-1",
+          "text": "finding is an important word.",
+          "order": 1
+        },
+        {
+          "id": "c1-match_following-2",
+          "text": "the is an important word.",
+          "order": 2
+        },
+        {
+          "id": "c1-match_following-3",
+          "text": "furry is an important word.",
+          "order": 3
+        },
+        {
+          "id": "c1-match_following-4",
+          "text": "cat is an important word.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c1-match_following-x1",
+          "text": "This card is not about the chapter.",
+          "misconception": "Unrelated card."
+        },
+        {
+          "id": "c1-match_following-x2",
+          "text": "This card does not complete the answer.",
+          "misconception": "Incomplete answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Word 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Word 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Word 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Word 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "c1-match_following-1",
+          "c1-match_following-2",
+          "c1-match_following-3",
+          "c1-match_following-4"
+        ]
+      },
+      "hints": [
+        "Read the question first.",
+        "Pick only the cards that match the lesson."
+      ],
+      "modelAnswer": "finding is an important word. the is an important word. furry is an important word. cat is an important word.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-04-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 3,
+      "question": "Put the answer about 'Finding the Funny Cat!' in order.",
+      "instructions": "Choose the correct cards for this Class 1 activity.",
+      "structureHelp": [
+        "First",
+        "Next",
+        "Last"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "c1-sequencing_steps_process-1",
+          "text": "Children can give verbal instructions to find the things using positional words like inside/outside, far/near, above/below, etc.",
+          "order": 1
+        },
+        {
+          "id": "c1-sequencing_steps_process-2",
+          "text": "For example: ● Look for a white thing which is hidden near the board and under the table.",
+          "order": 2
+        },
+        {
+          "id": "c1-sequencing_steps_process-3",
+          "text": "● Look for a red thing which is outside the classroom and under the tree.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c1-sequencing_steps_process-x1",
+          "text": "This card is not about the chapter.",
+          "misconception": "Unrelated card."
+        },
+        {
+          "id": "c1-sequencing_steps_process-x2",
+          "text": "This card does not complete the answer.",
+          "misconception": "Incomplete answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "First"
+        },
+        {
+          "id": "slot-2",
+          "label": "Next"
+        },
+        {
+          "id": "slot-3",
+          "label": "Last"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "c1-sequencing_steps_process-1",
+          "c1-sequencing_steps_process-2",
+          "c1-sequencing_steps_process-3"
+        ]
+      },
+      "hints": [
+        "Read the question first.",
+        "Pick only the cards that match the lesson."
+      ],
+      "modelAnswer": "Children can give verbal instructions to find the things using positional words like inside/outside, far/near, above/below, etc. For example: ● Look for a white thing which is hidden near the board and under the table. ● Look for a red thing which is outside the classroom and under the tree.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "c1-sequencing_steps_process-1",
+        "c1-sequencing_steps_process-2",
+        "c1-sequencing_steps_process-3"
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-05-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 3,
+      "question": "Choose the correct ending for each sentence and fill in the gaps.\n1. 1 Let us Sing Looking, looking, looking Looking ________.\n2. Reprint 2025-26 2 Saw you hiding below the mat Here ________.\n3. Children can look at the pictures and tell what all they see and discuss the things which are above, below, on, ________.",
+      "instructions": "Choose the correct ending for each blank.",
+      "structureHelp": [
+        "Sentence",
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "c1-choose_correct_ending-1",
+          "text": "for my furry cat",
+          "order": 1
+        },
+        {
+          "id": "c1-choose_correct_ending-2",
+          "text": "comes my furry cat",
+          "order": 2
+        },
+        {
+          "id": "c1-choose_correct_ending-3",
+          "text": "under, and so on with the class",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c1-choose_correct_ending-x1",
+          "text": "not about the chapter.",
+          "misconception": "This ending does not complete the sentence correctly."
+        },
+        {
+          "id": "c1-choose_correct_ending-x2",
+          "text": "a correct ending.",
+          "misconception": "This ending does not complete the sentence correctly."
+        },
+        {
+          "id": "c1-choose_correct_ending-x3",
+          "text": "to another lesson.",
+          "misconception": "This ending does not complete the sentence correctly."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "ending-1",
+          "label": "Gap 1",
+          "expectedItemId": "c1-choose_correct_ending-1"
+        },
+        {
+          "id": "ending-2",
+          "label": "Gap 2",
+          "expectedItemId": "c1-choose_correct_ending-2"
+        },
+        {
+          "id": "ending-3",
+          "label": "Gap 3",
+          "expectedItemId": "c1-choose_correct_ending-3"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "c1-choose_correct_ending-1",
+          "c1-choose_correct_ending-2",
+          "c1-choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Read the sentence before the blank.",
+        "Choose the ending that completes the meaning."
+      ],
+      "modelAnswer": "1. 1 Let us Sing Looking, looking, looking Looking for my furry cat. 2. Reprint 2025-26 2 Saw you hiding below the mat Here comes my furry cat. 3. Children can look at the pictures and tell what all they see and discuss the things which are above, below, on, under, and so on with the class.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "c1-choose_correct_ending-1",
+        "c1-choose_correct_ending-2",
+        "c1-choose_correct_ending-3"
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-06-explain-standard",
+      "type": "explain",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Explain the main idea of Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Opening",
+        "Key point",
+        "Support",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "explain-1",
+          "text": "1 Let us Sing Looking, looking, looking Looking for my furry cat!",
+          "order": 1
+        },
+        {
+          "id": "explain-2",
+          "text": "Reprint 2025-26 2 Saw you hiding below the mat Here comes my furry cat!",
+          "order": 2
+        },
+        {
+          "id": "explain-3",
+          "text": "Children can look at the pictures and tell what all they see and discuss the things which are above, below, on, under, and so on with the class.",
+          "order": 3
+        },
+        {
+          "id": "explain-4",
+          "text": "Encourage them to talk about the animals that they see around them, like cats, dogs, cows, etc.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "explain-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "explain-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "slot-2",
+          "label": "Key point"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support"
+        },
+        {
+          "id": "slot-4",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "explain-1",
+          "explain-2",
+          "explain-3",
+          "explain-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "1 Let us Sing Looking, looking, looking Looking for my furry cat! Reprint 2025-26 2 Saw you hiding below the mat Here comes my furry cat! Children can look at the pictures and tell what all they see and discuss the things which are above, below, on, under, and so on with the class. Encourage them to talk about the animals that they see around them, like cats, dogs, cows, etc.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-07-compare_contrast-standard",
+      "type": "compare_contrast",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Compare two important ideas from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Idea A",
+        "Idea B",
+        "Similarity",
+        "Difference"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "compare_contrast-1",
+          "text": "Reprint 2025-26 3 Look at the pictures of the poem and encircle the correct word.",
+          "order": 1
+        },
+        {
+          "id": "compare_contrast-2",
+          "text": "One team will hide a few things like white chalk, red ball and other items and ask the other team to find them.",
+          "order": 2
+        },
+        {
+          "id": "compare_contrast-3",
+          "text": "Children can give verbal instructions to find the things using positional words like inside/outside, far/near, above/below, etc.",
+          "order": 3
+        },
+        {
+          "id": "compare_contrast-4",
+          "text": "For example: ● Look for a white thing which is hidden near the board and under the table.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "compare_contrast-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "compare_contrast-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Idea A"
+        },
+        {
+          "id": "slot-2",
+          "label": "Idea B"
+        },
+        {
+          "id": "slot-3",
+          "label": "Similarity"
+        },
+        {
+          "id": "slot-4",
+          "label": "Difference"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "compare_contrast-1",
+          "compare_contrast-2",
+          "compare_contrast-3",
+          "compare_contrast-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Reprint 2025-26 3 Look at the pictures of the poem and encircle the correct word. One team will hide a few things like white chalk, red ball and other items and ask the other team to find them. Children can give verbal instructions to find the things using positional words like inside/outside, far/near, above/below, etc. For example: ● Look for a white thing which is hidden near the board and under the table.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-08-cause_effect-standard",
+      "type": "cause_effect",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Connect causes and effects from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Cause 1",
+        "Effect 1",
+        "Cause 2",
+        "Effect 2"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "cause_effect-1",
+          "text": "● Look for a red thing which is outside the classroom and under the tree.",
+          "order": 1
+        },
+        {
+          "id": "cause_effect-2",
+          "text": "Let us Play - Find the Things Let us Play - Find the Things Reprint 2025-26 4 A.",
+          "order": 2
+        },
+        {
+          "id": "cause_effect-3",
+          "text": "When the ball goes inside, other children will say IN and when it goes outside the basket, they say OUT.",
+          "order": 3
+        },
+        {
+          "id": "cause_effect-4",
+          "text": "Draw a smile below the nose and eyebrows above the eyes.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "cause_effect-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "cause_effect-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Cause 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Effect 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Cause 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Effect 2"
+        }
+      ],
+      "answerKey": {
+        "pairs": [
+          [
+            "cause_effect-1",
+            "cause_effect-2"
+          ],
+          [
+            "cause_effect-3",
+            "cause_effect-4"
+          ]
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "● Look for a red thing which is outside the classroom and under the tree. Let us Play - Find the Things Let us Play - Find the Things Reprint 2025-26 4 A. When the ball goes inside, other children will say IN and when it goes outside the basket, they say OUT. Draw a smile below the nose and eyebrows above the eyes.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-09-process_sequence-standard",
+      "type": "process_sequence",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange key steps or ideas from Chapter 1: Finding the Funny Cat! in order.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "process_sequence-1",
+          "text": "Look at our National Flag which is also known as tiranga.",
+          "order": 1
+        },
+        {
+          "id": "process_sequence-2",
+          "text": "on a corner/in the middle/on a side Discuss with children when, where and why do we hoist the National Flag.",
+          "order": 2
+        },
+        {
+          "id": "process_sequence-3",
+          "text": "Let the children express their feelings about the National celebrations.",
+          "order": 3
+        },
+        {
+          "id": "process_sequence-4",
+          "text": "Ask children to make their own tiranga and sing the National Anthem in standing position facing the tiranga.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "process_sequence-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "process_sequence-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "process_sequence-1",
+          "process_sequence-2",
+          "process_sequence-3",
+          "process_sequence-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Look at our National Flag which is also known as tiranga. on a corner/in the middle/on a side Discuss with children when, where and why do we hoist the National Flag. Let the children express their feelings about the National celebrations. Ask children to make their own tiranga and sing the National Anthem in standing position facing the tiranga.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "process_sequence-1",
+        "process_sequence-2",
+        "process_sequence-3",
+        "process_sequence-4"
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-10-pros_cons-standard",
+      "type": "pros_cons",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Sort useful and less useful statements about Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Useful",
+        "Less useful"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "pros_cons-1",
+          "text": "Bogies before my bogie, Bogies after my bogie, Make a chain, Over the rivers and in the rain.",
+          "order": 1
+        },
+        {
+          "id": "pros_cons-2",
+          "text": "Fill the orange colour in the bogies after the red bogie.",
+          "order": 2
+        },
+        {
+          "id": "pros_cons-3",
+          "text": "Fill the blue colour in the bogies before the red bogie.",
+          "order": 3
+        },
+        {
+          "id": "pros_cons-4",
+          "text": "Ask children to share experiences of their train journey.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "pros_cons-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "pros_cons-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Useful"
+        },
+        {
+          "id": "slot-2",
+          "label": "Less useful"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "pros_cons-1",
+          "pros_cons-2",
+          "pros_cons-3",
+          "pros_cons-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Bogies before my bogie, Bogies after my bogie, Make a chain, Over the rivers and in the rain. Fill the orange colour in the bogies after the red bogie. Fill the blue colour in the bogies before the red bogie. Ask children to share experiences of their train journey.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-11-problem_solution-standard",
+      "type": "problem_solution",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Identify a problem and solution connected to Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Problem",
+        "Evidence",
+        "Solution",
+        "Result"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "problem_solution-1",
+          "text": "Children who have never travelled by train may ask questions about the journey.",
+          "order": 1
+        },
+        {
+          "id": "problem_solution-2",
+          "text": "Ask them to draw a train on the paper or they can make a train by using waste materials like used boxes or cans.",
+          "order": 2
+        },
+        {
+          "id": "problem_solution-3",
+          "text": "Reprint 2025-26 8 Children will sing the rhyme and play a game where they all will form a train by holding each other's shoulders.",
+          "order": 3
+        },
+        {
+          "id": "problem_solution-4",
+          "text": "Everyone will tell who is before and after each child in the train.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "problem_solution-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "problem_solution-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Problem"
+        },
+        {
+          "id": "slot-2",
+          "label": "Evidence"
+        },
+        {
+          "id": "slot-3",
+          "label": "Solution"
+        },
+        {
+          "id": "slot-4",
+          "label": "Result"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "problem_solution-1",
+          "problem_solution-2",
+          "problem_solution-3",
+          "problem_solution-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Children who have never travelled by train may ask questions about the journey. Ask them to draw a train on the paper or they can make a train by using waste materials like used boxes or cans. Reprint 2025-26 8 Children will sing the rhyme and play a game where they all will form a train by holding each other's shoulders. Everyone will tell who is before and after each child in the train.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-12-fill_blanks-standard",
+      "type": "fill_blanks",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Complete a passage from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Blank 1",
+        "Blank 2",
+        "Blank 3",
+        "Blank 4"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "fill_blanks-1",
+          "text": "1 Let us Sing Looking, looking, looking Looking for my furry cat!",
+          "order": 1
+        },
+        {
+          "id": "fill_blanks-2",
+          "text": "Reprint 2025-26 2 Saw you hiding below the mat Here comes my furry cat!",
+          "order": 2
+        },
+        {
+          "id": "fill_blanks-3",
+          "text": "Children can look at the pictures and tell what all they see and discuss the things which are above, below, on, under, and so on with the class.",
+          "order": 3
+        },
+        {
+          "id": "fill_blanks-4",
+          "text": "Encourage them to talk about the animals that they see around them, like cats, dogs, cows, etc.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "fill_blanks-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "fill_blanks-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Blank 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Blank 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Blank 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Blank 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "fill_blanks-1",
+          "fill_blanks-2",
+          "fill_blanks-3",
+          "fill_blanks-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "1 Let us Sing Looking, looking, looking Looking for my furry cat! Reprint 2025-26 2 Saw you hiding below the mat Here comes my furry cat! Children can look at the pictures and tell what all they see and discuss the things which are above, below, on, under, and so on with the class. Encourage them to talk about the animals that they see around them, like cats, dogs, cows, etc.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "fill_blanks-1",
+        "fill_blanks-2",
+        "fill_blanks-3",
+        "fill_blanks-4"
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-13-true_false_not_given-standard",
+      "type": "true_false_not_given",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Classify statements based on Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "True",
+        "False",
+        "Not Given"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "true_false_not_given-1",
+          "text": "Reprint 2025-26 3 Look at the pictures of the poem and encircle the correct word.",
+          "order": 1
+        },
+        {
+          "id": "true_false_not_given-2",
+          "text": "One team will hide a few things like white chalk, red ball and other items and ask the other team to find them.",
+          "order": 2
+        },
+        {
+          "id": "true_false_not_given-3",
+          "text": "Children can give verbal instructions to find the things using positional words like inside/outside, far/near, above/below, etc.",
+          "order": 3
+        },
+        {
+          "id": "true_false_not_given-4",
+          "text": "For example: ● Look for a white thing which is hidden near the board and under the table.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "true_false_not_given-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "true_false_not_given-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "True"
+        },
+        {
+          "id": "slot-2",
+          "label": "False"
+        },
+        {
+          "id": "slot-3",
+          "label": "Not Given"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "true_false_not_given-1",
+          "true_false_not_given-2",
+          "true_false_not_given-3",
+          "true_false_not_given-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Reprint 2025-26 3 Look at the pictures of the poem and encircle the correct word. One team will hide a few things like white chalk, red ball and other items and ask the other team to find them. Children can give verbal instructions to find the things using positional words like inside/outside, far/near, above/below, etc. For example: ● Look for a white thing which is hidden near the board and under the table.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-14-short_answer_key_points-standard",
+      "type": "short_answer_key_points",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "List key points from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "short_answer_key_points-1",
+          "text": "● Look for a red thing which is outside the classroom and under the tree.",
+          "order": 1
+        },
+        {
+          "id": "short_answer_key_points-2",
+          "text": "Let us Play - Find the Things Let us Play - Find the Things Reprint 2025-26 4 A.",
+          "order": 2
+        },
+        {
+          "id": "short_answer_key_points-3",
+          "text": "When the ball goes inside, other children will say IN and when it goes outside the basket, they say OUT.",
+          "order": 3
+        },
+        {
+          "id": "short_answer_key_points-4",
+          "text": "Draw a smile below the nose and eyebrows above the eyes.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "short_answer_key_points-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "short_answer_key_points-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Point 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Point 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Point 3"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "short_answer_key_points-1",
+          "short_answer_key_points-2",
+          "short_answer_key_points-3",
+          "short_answer_key_points-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "● Look for a red thing which is outside the classroom and under the tree. Let us Play - Find the Things Let us Play - Find the Things Reprint 2025-26 4 A. When the ball goes inside, other children will say IN and when it goes outside the basket, they say OUT. Draw a smile below the nose and eyebrows above the eyes.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-15-match_following-standard",
+      "type": "match_following",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Match ideas and meanings from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Match 1",
+        "Match 2",
+        "Match 3",
+        "Match 4"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "match_following-1",
+          "text": "Look at our National Flag which is also known as tiranga.",
+          "order": 1
+        },
+        {
+          "id": "match_following-2",
+          "text": "on a corner/in the middle/on a side Discuss with children when, where and why do we hoist the National Flag.",
+          "order": 2
+        },
+        {
+          "id": "match_following-3",
+          "text": "Let the children express their feelings about the National celebrations.",
+          "order": 3
+        },
+        {
+          "id": "match_following-4",
+          "text": "Ask children to make their own tiranga and sing the National Anthem in standing position facing the tiranga.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "match_following-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "match_following-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Match 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Match 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Match 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Match 4"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "match_following-1",
+          "match_following-2",
+          "match_following-3",
+          "match_following-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Look at our National Flag which is also known as tiranga. on a corner/in the middle/on a side Discuss with children when, where and why do we hoist the National Flag. Let the children express their feelings about the National celebrations. Ask children to make their own tiranga and sing the National Anthem in standing position facing the tiranga.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-16-data_chart_table-standard",
+      "type": "data_chart_table",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Use chapter information from Chapter 1: Finding the Funny Cat! to make inferences.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Data",
+        "Inference 1",
+        "Inference 2"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "data_chart_table-1",
+          "text": "Bogies before my bogie, Bogies after my bogie, Make a chain, Over the rivers and in the rain.",
+          "order": 1
+        },
+        {
+          "id": "data_chart_table-2",
+          "text": "Fill the orange colour in the bogies after the red bogie.",
+          "order": 2
+        },
+        {
+          "id": "data_chart_table-3",
+          "text": "Fill the blue colour in the bogies before the red bogie.",
+          "order": 3
+        },
+        {
+          "id": "data_chart_table-4",
+          "text": "Ask children to share experiences of their train journey.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "data_chart_table-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "data_chart_table-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Data"
+        },
+        {
+          "id": "slot-2",
+          "label": "Inference 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Inference 2"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "data_chart_table-1",
+          "data_chart_table-2",
+          "data_chart_table-3",
+          "data_chart_table-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Bogies before my bogie, Bogies after my bogie, Make a chain, Over the rivers and in the rain. Fill the orange colour in the bogies after the red bogie. Fill the blue colour in the bogies before the red bogie. Ask children to share experiences of their train journey.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-17-paragraph_essay_structure-standard",
+      "type": "paragraph_essay_structure",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange a paragraph about Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Topic",
+        "Support 1",
+        "Support 2",
+        "Support 3",
+        "Conclusion"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "paragraph_essay_structure-1",
+          "text": "Children who have never travelled by train may ask questions about the journey.",
+          "order": 1
+        },
+        {
+          "id": "paragraph_essay_structure-2",
+          "text": "Ask them to draw a train on the paper or they can make a train by using waste materials like used boxes or cans.",
+          "order": 2
+        },
+        {
+          "id": "paragraph_essay_structure-3",
+          "text": "Reprint 2025-26 8 Children will sing the rhyme and play a game where they all will form a train by holding each other's shoulders.",
+          "order": 3
+        },
+        {
+          "id": "paragraph_essay_structure-4",
+          "text": "Everyone will tell who is before and after each child in the train.",
+          "order": 4
+        },
+        {
+          "id": "paragraph_essay_structure-5",
+          "text": "Here goes our train, Here goes our train No one is before me and Meera is after me Suwali and Rohit are making some groups of objects.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "paragraph_essay_structure-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "paragraph_essay_structure-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Topic"
+        },
+        {
+          "id": "slot-2",
+          "label": "Support 1"
+        },
+        {
+          "id": "slot-3",
+          "label": "Support 2"
+        },
+        {
+          "id": "slot-4",
+          "label": "Support 3"
+        },
+        {
+          "id": "slot-5",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "paragraph_essay_structure-1",
+          "paragraph_essay_structure-2",
+          "paragraph_essay_structure-3",
+          "paragraph_essay_structure-4",
+          "paragraph_essay_structure-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Children who have never travelled by train may ask questions about the journey. Ask them to draw a train on the paper or they can make a train by using waste materials like used boxes or cans. Reprint 2025-26 8 Children will sing the rhyme and play a game where they all will form a train by holding each other's shoulders. Everyone will tell who is before and after each child in the train. Here goes our train, Here goes our train No one is before me and Meera is after me Suwali and Rohit are making some groups of objects.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "paragraph_essay_structure-1",
+        "paragraph_essay_structure-2",
+        "paragraph_essay_structure-3",
+        "paragraph_essay_structure-4",
+        "paragraph_essay_structure-5"
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-18-definition_term-standard",
+      "type": "definition_term",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Build a definition from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Term",
+        "Meaning",
+        "Example"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "definition_term-1",
+          "text": "1 Let us Sing Looking, looking, looking Looking for my furry cat!",
+          "order": 1
+        },
+        {
+          "id": "definition_term-2",
+          "text": "Reprint 2025-26 2 Saw you hiding below the mat Here comes my furry cat!",
+          "order": 2
+        },
+        {
+          "id": "definition_term-3",
+          "text": "Children can look at the pictures and tell what all they see and discuss the things which are above, below, on, under, and so on with the class.",
+          "order": 3
+        },
+        {
+          "id": "definition_term-4",
+          "text": "Encourage them to talk about the animals that they see around them, like cats, dogs, cows, etc.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "definition_term-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "definition_term-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Term"
+        },
+        {
+          "id": "slot-2",
+          "label": "Meaning"
+        },
+        {
+          "id": "slot-3",
+          "label": "Example"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "definition_term-1",
+          "definition_term-2",
+          "definition_term-3",
+          "definition_term-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "1 Let us Sing Looking, looking, looking Looking for my furry cat! Reprint 2025-26 2 Saw you hiding below the mat Here comes my furry cat! Children can look at the pictures and tell what all they see and discuss the things which are above, below, on, under, and so on with the class. Encourage them to talk about the animals that they see around them, like cats, dogs, cows, etc.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-19-timeline_chronological_order-standard",
+      "type": "timeline_chronological_order",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Arrange chronological or logical ideas from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "timeline_chronological_order-1",
+          "text": "Reprint 2025-26 3 Look at the pictures of the poem and encircle the correct word.",
+          "order": 1
+        },
+        {
+          "id": "timeline_chronological_order-2",
+          "text": "One team will hide a few things like white chalk, red ball and other items and ask the other team to find them.",
+          "order": 2
+        },
+        {
+          "id": "timeline_chronological_order-3",
+          "text": "Children can give verbal instructions to find the things using positional words like inside/outside, far/near, above/below, etc.",
+          "order": 3
+        },
+        {
+          "id": "timeline_chronological_order-4",
+          "text": "For example: ● Look for a white thing which is hidden near the board and under the table.",
+          "order": 4
+        },
+        {
+          "id": "timeline_chronological_order-5",
+          "text": "● Look for a red thing which is outside the classroom and under the tree.",
+          "order": 5
+        }
+      ],
+      "distractors": [
+        {
+          "id": "timeline_chronological_order-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "timeline_chronological_order-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "1"
+        },
+        {
+          "id": "slot-2",
+          "label": "2"
+        },
+        {
+          "id": "slot-3",
+          "label": "3"
+        },
+        {
+          "id": "slot-4",
+          "label": "4"
+        },
+        {
+          "id": "slot-5",
+          "label": "5"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "timeline_chronological_order-1",
+          "timeline_chronological_order-2",
+          "timeline_chronological_order-3",
+          "timeline_chronological_order-4",
+          "timeline_chronological_order-5"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Reprint 2025-26 3 Look at the pictures of the poem and encircle the correct word. One team will hide a few things like white chalk, red ball and other items and ask the other team to find them. Children can give verbal instructions to find the things using positional words like inside/outside, far/near, above/below, etc. For example: ● Look for a white thing which is hidden near the board and under the table. ● Look for a red thing which is outside the classroom and under the tree.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "timeline_chronological_order-1",
+        "timeline_chronological_order-2",
+        "timeline_chronological_order-3",
+        "timeline_chronological_order-4",
+        "timeline_chronological_order-5"
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-20-identify_main_idea-standard",
+      "type": "identify_main_idea",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Identify the main idea of a passage from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Main idea"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "identify_main_idea-1",
+          "text": "Let us Play - Find the Things Let us Play - Find the Things Reprint 2025-26 4 A.",
+          "order": 1
+        },
+        {
+          "id": "identify_main_idea-2",
+          "text": "When the ball goes inside, other children will say IN and when it goes outside the basket, they say OUT.",
+          "order": 2
+        },
+        {
+          "id": "identify_main_idea-3",
+          "text": "Draw a smile below the nose and eyebrows above the eyes.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "identify_main_idea-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "identify_main_idea-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Main idea"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "identify_main_idea-1",
+          "identify_main_idea-2",
+          "identify_main_idea-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Let us Play - Find the Things Let us Play - Find the Things Reprint 2025-26 4 A. When the ball goes inside, other children will say IN and when it goes outside the basket, they say OUT. Draw a smile below the nose and eyebrows above the eyes.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-21-evidence_support_statement-standard",
+      "type": "evidence_support_statement",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Choose evidence that supports a statement from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Evidence"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "evidence_support_statement-1",
+          "text": "Look at our National Flag which is also known as tiranga.",
+          "order": 1
+        },
+        {
+          "id": "evidence_support_statement-2",
+          "text": "on a corner/in the middle/on a side Discuss with children when, where and why do we hoist the National Flag.",
+          "order": 2
+        },
+        {
+          "id": "evidence_support_statement-3",
+          "text": "Let the children express their feelings about the National celebrations.",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "evidence_support_statement-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "evidence_support_statement-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Evidence"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "evidence_support_statement-1",
+          "evidence_support_statement-2",
+          "evidence_support_statement-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Look at our National Flag which is also known as tiranga. on a corner/in the middle/on a side Discuss with children when, where and why do we hoist the National Flag. Let the children express their feelings about the National celebrations.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-22-sequencing_steps_process-standard",
+      "type": "sequencing_steps_process",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Sequence a process from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Step 1",
+        "Step 2",
+        "Step 3",
+        "Step 4"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "sequencing_steps_process-1",
+          "text": "Ask children to make their own tiranga and sing the National Anthem in standing position facing the tiranga.",
+          "order": 1
+        },
+        {
+          "id": "sequencing_steps_process-2",
+          "text": "Bogies before my bogie, Bogies after my bogie, Make a chain, Over the rivers and in the rain.",
+          "order": 2
+        },
+        {
+          "id": "sequencing_steps_process-3",
+          "text": "Fill the orange colour in the bogies after the red bogie.",
+          "order": 3
+        },
+        {
+          "id": "sequencing_steps_process-4",
+          "text": "Fill the blue colour in the bogies before the red bogie.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "sequencing_steps_process-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "sequencing_steps_process-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Step 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Step 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Step 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Step 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "sequencing_steps_process-1",
+          "sequencing_steps_process-2",
+          "sequencing_steps_process-3",
+          "sequencing_steps_process-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Ask children to make their own tiranga and sing the National Anthem in standing position facing the tiranga. Bogies before my bogie, Bogies after my bogie, Make a chain, Over the rivers and in the rain. Fill the orange colour in the bogies after the red bogie. Fill the blue colour in the bogies before the red bogie.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "sequencing_steps_process-1",
+        "sequencing_steps_process-2",
+        "sequencing_steps_process-3",
+        "sequencing_steps_process-4"
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-23-choose_correct_ending-standard",
+      "type": "choose_correct_ending",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Choose the correct ending for each sentence and fill in the gaps.\n1. Ask children to share experiences of ________.\n2. Children who have never travelled by train may ask ________.\n3. Ask them to draw a train on the paper or they can make a train by using ________.",
+      "instructions": "Choose the correct ending for each blank.",
+      "structureHelp": [
+        "Sentence",
+        "Ending"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "choose_correct_ending-1",
+          "text": "their train journey",
+          "order": 1
+        },
+        {
+          "id": "choose_correct_ending-2",
+          "text": "questions about the journey",
+          "order": 2
+        },
+        {
+          "id": "choose_correct_ending-3",
+          "text": "waste materials like used boxes or cans",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "choose_correct_ending-x1",
+          "text": "without using chapter facts.",
+          "misconception": "This ending does not complete the sentence correctly."
+        },
+        {
+          "id": "choose_correct_ending-x2",
+          "text": "a factual answer.",
+          "misconception": "This ending does not complete the sentence correctly."
+        },
+        {
+          "id": "choose_correct_ending-x3",
+          "text": "does not match the chapter idea.",
+          "misconception": "This ending does not complete the sentence correctly."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "ending-1",
+          "label": "Gap 1",
+          "expectedItemId": "choose_correct_ending-1"
+        },
+        {
+          "id": "ending-2",
+          "label": "Gap 2",
+          "expectedItemId": "choose_correct_ending-2"
+        },
+        {
+          "id": "ending-3",
+          "label": "Gap 3",
+          "expectedItemId": "choose_correct_ending-3"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "choose_correct_ending-1",
+          "choose_correct_ending-2",
+          "choose_correct_ending-3"
+        ]
+      },
+      "hints": [
+        "Read the sentence before the blank.",
+        "Choose the ending that completes the meaning."
+      ],
+      "modelAnswer": "1. Ask children to share experiences of their train journey. 2. Children who have never travelled by train may ask questions about the journey. 3. Ask them to draw a train on the paper or they can make a train by using waste materials like used boxes or cans.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "choose_correct_ending-1",
+        "choose_correct_ending-2",
+        "choose_correct_ending-3"
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-24-multiple_correct_answers-standard",
+      "type": "multiple_correct_answers",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Select all correct statements from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Correct statements"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "multiple_correct_answers-1",
+          "text": "Reprint 2025-26 8 Children will sing the rhyme and play a game where they all will form a train by holding each other's shoulders.",
+          "order": 1
+        },
+        {
+          "id": "multiple_correct_answers-2",
+          "text": "Everyone will tell who is before and after each child in the train.",
+          "order": 2
+        },
+        {
+          "id": "multiple_correct_answers-3",
+          "text": "Here goes our train, Here goes our train No one is before me and Meera is after me Suwali and Rohit are making some groups of objects.",
+          "order": 3
+        },
+        {
+          "id": "multiple_correct_answers-4",
+          "text": "Let us Play Let us Play I have put all the leaves in one group and chalk pieces in another group.",
+          "order": 4
+        }
+      ],
+      "distractors": [
+        {
+          "id": "multiple_correct_answers-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "multiple_correct_answers-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Correct statements"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "multiple_correct_answers-1",
+          "multiple_correct_answers-2",
+          "multiple_correct_answers-3",
+          "multiple_correct_answers-4"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Reprint 2025-26 8 Children will sing the rhyme and play a game where they all will form a train by holding each other's shoulders. Everyone will tell who is before and after each child in the train. Here goes our train, Here goes our train No one is before me and Meera is after me Suwali and Rohit are making some groups of objects. Let us Play Let us Play I have put all the leaves in one group and chalk pieces in another group.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-25-formulate_question-standard",
+      "type": "formulate_question",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Formulate a question for an answer from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Question"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "formulate_question-1",
+          "text": "Let the children do similar activities of sorting the objects like seeds, leaves, beads, etc.",
+          "order": 1
+        },
+        {
+          "id": "formulate_question-2",
+          "text": "Reprint 2025-26 9 Suwali has placed all the buttons in three groups.",
+          "order": 2
+        }
+      ],
+      "distractors": [
+        {
+          "id": "formulate_question-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "formulate_question-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Question"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "formulate_question-1",
+          "formulate_question-2"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Let the children do similar activities of sorting the objects like seeds, leaves, beads, etc. Reprint 2025-26 9 Suwali has placed all the buttons in three groups.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-26-assertion_reason-standard",
+      "type": "assertion_reason",
+      "difficulty": "standard",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Build an assertion-reason answer from Chapter 1: Finding the Funny Cat!.",
+      "instructions": "Use the source-based options to complete this activity.",
+      "structureHelp": [
+        "Assertion",
+        "Reason",
+        "Relationship"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "assertion_reason-1",
+          "text": "Let us Do Let us Do Help Suwali to sort these buttons in other ways by drawing them.",
+          "order": 1
+        },
+        {
+          "id": "assertion_reason-2",
+          "text": "Ask them to put objects using positional vocabulary like put two objects in the bottom rack, one object in the top rack, etc.",
+          "order": 2
+        },
+        {
+          "id": "assertion_reason-3",
+          "text": "1 Let us Sing Looking, looking, looking Looking for my furry cat!",
+          "order": 3
+        }
+      ],
+      "distractors": [
+        {
+          "id": "assertion_reason-x1",
+          "text": "Chapter 1: Finding the Funny Cat! should be answered without using chapter facts.",
+          "misconception": "Rejects source evidence."
+        },
+        {
+          "id": "assertion_reason-x2",
+          "text": "An unrelated statement can replace a factual answer.",
+          "misconception": "Irrelevant distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Assertion"
+        },
+        {
+          "id": "slot-2",
+          "label": "Reason"
+        },
+        {
+          "id": "slot-3",
+          "label": "Relationship"
+        }
+      ],
+      "answerKey": {
+        "requiredItemIds": [
+          "assertion_reason-1",
+          "assertion_reason-2",
+          "assertion_reason-3"
+        ]
+      },
+      "hints": [
+        "Use only statements supported by the chapter.",
+        "Ignore unrelated distractors."
+      ],
+      "modelAnswer": "Let us Do Let us Do Help Suwali to sort these buttons in other ways by drawing them. Ask them to put objects using positional vocabulary like put two objects in the bottom rack, one object in the top rack, etc. 1 Let us Sing Looking, looking, looking Looking for my furry cat!",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-27-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Where can we see the cat in the room?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "On",
+        "Under",
+        "Inside",
+        "Outside"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-cat-room-places-e-1",
+          "text": "The cat is on the window shed.",
+          "order": 1,
+          "section": "On"
+        },
+        {
+          "id": "chapter-q01-cat-room-places-e-2",
+          "text": "The cat is under the bed.",
+          "order": 2,
+          "section": "Under"
+        },
+        {
+          "id": "chapter-q01-cat-room-places-e-3",
+          "text": "The cat is inside the backpack.",
+          "order": 3,
+          "section": "Inside"
+        },
+        {
+          "id": "chapter-q01-cat-room-places-e-4",
+          "text": "The cat is outside the red rack.",
+          "order": 4,
+          "section": "Outside"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-cat-room-places-e-x1",
+          "text": "The cat is sleeping in the sky.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-cat-room-places-e-x2",
+          "text": "Count the mangoes only.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q01-cat-room-places-e-x3",
+          "text": "This tells a different story.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-cat-room-places-e-1",
+          "chapter-q01-cat-room-places-e-2",
+          "chapter-q01-cat-room-places-e-3",
+          "chapter-q01-cat-room-places-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The cat is on the window shed. The cat is under the bed. The cat is inside the backpack. The cat is outside the red rack.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-cat-room-places-e-1",
+        "chapter-q01-cat-room-places-e-2",
+        "chapter-q01-cat-room-places-e-3",
+        "chapter-q01-cat-room-places-e-4"
+      ],
+      "questionGroupId": "chapter-q01-cat-room-places",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/cat-room-places.png"
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-28-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Where can we see the cat in the room?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "On",
+        "Under",
+        "Inside",
+        "Outside"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-cat-room-places-m-1a",
+          "text": "The cat is",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-cat-room-places-m-1b",
+          "text": "on the window shed.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-cat-room-places-m-2a",
+          "text": "The cat is",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-cat-room-places-m-2b",
+          "text": "under the bed.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-cat-room-places-m-3a",
+          "text": "The cat is",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-cat-room-places-m-3b",
+          "text": "inside the backpack.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q01-cat-room-places-m-4a",
+          "text": "The cat is",
+          "order": 7
+        },
+        {
+          "id": "chapter-q01-cat-room-places-m-4b",
+          "text": "outside the red rack.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-cat-room-places-m-x1",
+          "text": "The cat is sleeping in the sky.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-cat-room-places-m-x2",
+          "text": "Count the mangoes only.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q01-cat-room-places-m-x3",
+          "text": "This tells a different story.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q01-cat-room-places-m-1a",
+          "chapter-q01-cat-room-places-m-1b",
+          "chapter-q01-cat-room-places-m-2a",
+          "chapter-q01-cat-room-places-m-2b",
+          "chapter-q01-cat-room-places-m-3a",
+          "chapter-q01-cat-room-places-m-3b",
+          "chapter-q01-cat-room-places-m-4a",
+          "chapter-q01-cat-room-places-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The cat is on the window shed. The cat is under the bed. The cat is inside the backpack. The cat is outside the red rack.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-cat-room-places-m-1a",
+        "chapter-q01-cat-room-places-m-1b",
+        "chapter-q01-cat-room-places-m-2a",
+        "chapter-q01-cat-room-places-m-2b",
+        "chapter-q01-cat-room-places-m-3a",
+        "chapter-q01-cat-room-places-m-3b",
+        "chapter-q01-cat-room-places-m-4a",
+        "chapter-q01-cat-room-places-m-4b"
+      ],
+      "questionGroupId": "chapter-q01-cat-room-places",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/cat-room-places.png"
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-29-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Where can we see the cat in the room?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "On",
+        "Under",
+        "Inside",
+        "Outside"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q01-cat-room-places-d-1",
+          "text": "on",
+          "order": 1
+        },
+        {
+          "id": "chapter-q01-cat-room-places-d-2",
+          "text": "under",
+          "order": 2
+        },
+        {
+          "id": "chapter-q01-cat-room-places-d-3",
+          "text": "inside",
+          "order": 3
+        },
+        {
+          "id": "chapter-q01-cat-room-places-d-4",
+          "text": "outside",
+          "order": 4
+        },
+        {
+          "id": "chapter-q01-cat-room-places-d-5",
+          "text": "the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q01-cat-room-places-d-6",
+          "text": "the",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q01-cat-room-places-d-x1",
+          "text": "The cat is sleeping in the sky.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-cat-room-places-d-x2",
+          "text": "Count the mangoes only.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q01-cat-room-places-d-x3",
+          "text": "This tells a different story.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q01-cat-room-places-d-1",
+          "chapter-q01-cat-room-places-d-2",
+          "chapter-q01-cat-room-places-d-3",
+          "chapter-q01-cat-room-places-d-4",
+          "chapter-q01-cat-room-places-d-5",
+          "chapter-q01-cat-room-places-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The cat is on the window shed. The cat is under the bed. The cat is inside the backpack. The cat is outside the red rack.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q01-cat-room-places-d-1",
+        "chapter-q01-cat-room-places-d-2",
+        "chapter-q01-cat-room-places-d-3",
+        "chapter-q01-cat-room-places-d-4",
+        "chapter-q01-cat-room-places-d-5",
+        "chapter-q01-cat-room-places-d-6"
+      ],
+      "questionGroupId": "chapter-q01-cat-room-places",
+      "chapterQuestionNumber": 1,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/cat-room-places.png"
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-30-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Which position words tell where the cat is?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "On",
+        "Under",
+        "Inside",
+        "Outside"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-position-words-e-1",
+          "text": "On means above and touching.",
+          "order": 1,
+          "section": "On"
+        },
+        {
+          "id": "chapter-q02-position-words-e-2",
+          "text": "Under means below something.",
+          "order": 2,
+          "section": "Under"
+        },
+        {
+          "id": "chapter-q02-position-words-e-3",
+          "text": "Inside means in something.",
+          "order": 3,
+          "section": "Inside"
+        },
+        {
+          "id": "chapter-q02-position-words-e-4",
+          "text": "Outside means not in something.",
+          "order": 4,
+          "section": "Outside"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-position-words-e-x1",
+          "text": "Blue is a colour word.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-position-words-e-x2",
+          "text": "Seven is a number word.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q02-position-words-e-x3",
+          "text": "Run is an action word.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-position-words-e-1",
+          "chapter-q02-position-words-e-2",
+          "chapter-q02-position-words-e-3",
+          "chapter-q02-position-words-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "On means above and touching. Under means below something. Inside means in something. Outside means not in something.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-position-words-e-1",
+        "chapter-q02-position-words-e-2",
+        "chapter-q02-position-words-e-3",
+        "chapter-q02-position-words-e-4"
+      ],
+      "questionGroupId": "chapter-q02-position-words",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/position-words.png"
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-31-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Which position words tell where the cat is?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "On",
+        "Under",
+        "Inside",
+        "Outside"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-position-words-m-1a",
+          "text": "On means",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-position-words-m-1b",
+          "text": "above and touching.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-position-words-m-2a",
+          "text": "Under means",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-position-words-m-2b",
+          "text": "below something.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-position-words-m-3a",
+          "text": "Inside means",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-position-words-m-3b",
+          "text": "in something.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q02-position-words-m-4a",
+          "text": "Outside means",
+          "order": 7
+        },
+        {
+          "id": "chapter-q02-position-words-m-4b",
+          "text": "not in something.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-position-words-m-x1",
+          "text": "Blue is a colour word.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-position-words-m-x2",
+          "text": "Seven is a number word.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q02-position-words-m-x3",
+          "text": "Run is an action word.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q02-position-words-m-1a",
+          "chapter-q02-position-words-m-1b",
+          "chapter-q02-position-words-m-2a",
+          "chapter-q02-position-words-m-2b",
+          "chapter-q02-position-words-m-3a",
+          "chapter-q02-position-words-m-3b",
+          "chapter-q02-position-words-m-4a",
+          "chapter-q02-position-words-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "On means above and touching. Under means below something. Inside means in something. Outside means not in something.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-position-words-m-1a",
+        "chapter-q02-position-words-m-1b",
+        "chapter-q02-position-words-m-2a",
+        "chapter-q02-position-words-m-2b",
+        "chapter-q02-position-words-m-3a",
+        "chapter-q02-position-words-m-3b",
+        "chapter-q02-position-words-m-4a",
+        "chapter-q02-position-words-m-4b"
+      ],
+      "questionGroupId": "chapter-q02-position-words",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/position-words.png"
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-32-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "Which position words tell where the cat is?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "On",
+        "Under",
+        "Inside",
+        "Outside"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q02-position-words-d-1",
+          "text": "on",
+          "order": 1
+        },
+        {
+          "id": "chapter-q02-position-words-d-2",
+          "text": "under",
+          "order": 2
+        },
+        {
+          "id": "chapter-q02-position-words-d-3",
+          "text": "inside",
+          "order": 3
+        },
+        {
+          "id": "chapter-q02-position-words-d-4",
+          "text": "outside",
+          "order": 4
+        },
+        {
+          "id": "chapter-q02-position-words-d-5",
+          "text": "on",
+          "order": 5
+        },
+        {
+          "id": "chapter-q02-position-words-d-6",
+          "text": "under",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q02-position-words-d-x1",
+          "text": "Blue is a colour word.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-position-words-d-x2",
+          "text": "Seven is a number word.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q02-position-words-d-x3",
+          "text": "Run is an action word.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q02-position-words-d-1",
+          "chapter-q02-position-words-d-2",
+          "chapter-q02-position-words-d-3",
+          "chapter-q02-position-words-d-4",
+          "chapter-q02-position-words-d-5",
+          "chapter-q02-position-words-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "On means above and touching. Under means below something. Inside means in something. Outside means not in something.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q02-position-words-d-1",
+        "chapter-q02-position-words-d-2",
+        "chapter-q02-position-words-d-3",
+        "chapter-q02-position-words-d-4",
+        "chapter-q02-position-words-d-5",
+        "chapter-q02-position-words-d-6"
+      ],
+      "questionGroupId": "chapter-q02-position-words",
+      "chapterQuestionNumber": 2,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/position-words.png"
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-33-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "How did the cat move in the song?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Below",
+        "Above",
+        "Bottom",
+        "Top"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cat-movement-e-1",
+          "text": "The cat hid below the mat.",
+          "order": 1,
+          "section": "Below"
+        },
+        {
+          "id": "chapter-q03-cat-movement-e-2",
+          "text": "The cat hopped above the hat.",
+          "order": 2,
+          "section": "Above"
+        },
+        {
+          "id": "chapter-q03-cat-movement-e-3",
+          "text": "The cat scratched the bottom of the jar.",
+          "order": 3,
+          "section": "Bottom"
+        },
+        {
+          "id": "chapter-q03-cat-movement-e-4",
+          "text": "The cat played at the top of the car.",
+          "order": 4,
+          "section": "Top"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cat-movement-e-x1",
+          "text": "The cat counted ten pencils.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cat-movement-e-x2",
+          "text": "The cat wrote a long sentence.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q03-cat-movement-e-x3",
+          "text": "The cat became a big tree.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cat-movement-e-1",
+          "chapter-q03-cat-movement-e-2",
+          "chapter-q03-cat-movement-e-3",
+          "chapter-q03-cat-movement-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The cat hid below the mat. The cat hopped above the hat. The cat scratched the bottom of the jar. The cat played at the top of the car.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cat-movement-e-1",
+        "chapter-q03-cat-movement-e-2",
+        "chapter-q03-cat-movement-e-3",
+        "chapter-q03-cat-movement-e-4"
+      ],
+      "questionGroupId": "chapter-q03-cat-movement",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/cat-movement.png"
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-34-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "How did the cat move in the song?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Below",
+        "Above",
+        "Bottom",
+        "Top"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cat-movement-m-1a",
+          "text": "The cat hid",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cat-movement-m-1b",
+          "text": "below the mat.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cat-movement-m-2a",
+          "text": "The cat hopped",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cat-movement-m-2b",
+          "text": "above the hat.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cat-movement-m-3a",
+          "text": "The cat scratched the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cat-movement-m-3b",
+          "text": "bottom of the jar.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q03-cat-movement-m-4a",
+          "text": "The cat played at",
+          "order": 7
+        },
+        {
+          "id": "chapter-q03-cat-movement-m-4b",
+          "text": "the top of the car.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cat-movement-m-x1",
+          "text": "The cat counted ten pencils.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cat-movement-m-x2",
+          "text": "The cat wrote a long sentence.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q03-cat-movement-m-x3",
+          "text": "The cat became a big tree.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q03-cat-movement-m-1a",
+          "chapter-q03-cat-movement-m-1b",
+          "chapter-q03-cat-movement-m-2a",
+          "chapter-q03-cat-movement-m-2b",
+          "chapter-q03-cat-movement-m-3a",
+          "chapter-q03-cat-movement-m-3b",
+          "chapter-q03-cat-movement-m-4a",
+          "chapter-q03-cat-movement-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The cat hid below the mat. The cat hopped above the hat. The cat scratched the bottom of the jar. The cat played at the top of the car.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cat-movement-m-1a",
+        "chapter-q03-cat-movement-m-1b",
+        "chapter-q03-cat-movement-m-2a",
+        "chapter-q03-cat-movement-m-2b",
+        "chapter-q03-cat-movement-m-3a",
+        "chapter-q03-cat-movement-m-3b",
+        "chapter-q03-cat-movement-m-4a",
+        "chapter-q03-cat-movement-m-4b"
+      ],
+      "questionGroupId": "chapter-q03-cat-movement",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/cat-movement.png"
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-35-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "How did the cat move in the song?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Below",
+        "Above",
+        "Bottom",
+        "Top"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q03-cat-movement-d-1",
+          "text": "below",
+          "order": 1
+        },
+        {
+          "id": "chapter-q03-cat-movement-d-2",
+          "text": "above",
+          "order": 2
+        },
+        {
+          "id": "chapter-q03-cat-movement-d-3",
+          "text": "bottom",
+          "order": 3
+        },
+        {
+          "id": "chapter-q03-cat-movement-d-4",
+          "text": "top",
+          "order": 4
+        },
+        {
+          "id": "chapter-q03-cat-movement-d-5",
+          "text": "the",
+          "order": 5
+        },
+        {
+          "id": "chapter-q03-cat-movement-d-6",
+          "text": "the",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q03-cat-movement-d-x1",
+          "text": "The cat counted ten pencils.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cat-movement-d-x2",
+          "text": "The cat wrote a long sentence.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q03-cat-movement-d-x3",
+          "text": "The cat became a big tree.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q03-cat-movement-d-1",
+          "chapter-q03-cat-movement-d-2",
+          "chapter-q03-cat-movement-d-3",
+          "chapter-q03-cat-movement-d-4",
+          "chapter-q03-cat-movement-d-5",
+          "chapter-q03-cat-movement-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "The cat hid below the mat. The cat hopped above the hat. The cat scratched the bottom of the jar. The cat played at the top of the car.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q03-cat-movement-d-1",
+        "chapter-q03-cat-movement-d-2",
+        "chapter-q03-cat-movement-d-3",
+        "chapter-q03-cat-movement-d-4",
+        "chapter-q03-cat-movement-d-5",
+        "chapter-q03-cat-movement-d-6"
+      ],
+      "questionGroupId": "chapter-q03-cat-movement",
+      "chapterQuestionNumber": 3,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/cat-movement.png"
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-36-answer_builder-easy",
+      "type": "answer_builder",
+      "difficulty": "easy",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "How can we find the hidden cat?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Look",
+        "Listen",
+        "Check",
+        "Say"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-find-hidden-cat-e-1",
+          "text": "Look around the room.",
+          "order": 1,
+          "section": "Look"
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-e-2",
+          "text": "Listen to the position words.",
+          "order": 2,
+          "section": "Listen"
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-e-3",
+          "text": "Check each place carefully.",
+          "order": 3,
+          "section": "Check"
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-e-4",
+          "text": "Say where the cat is.",
+          "order": 4,
+          "section": "Say"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-find-hidden-cat-e-x1",
+          "text": "Close your eyes and guess.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-e-x2",
+          "text": "Look only at the ceiling.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-e-x3",
+          "text": "Forget the position words.",
+          "misconception": "Distractor from the same chapter but not correct for this answer."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Sentence 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Sentence 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Sentence 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Sentence 4"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-find-hidden-cat-e-1",
+          "chapter-q04-find-hidden-cat-e-2",
+          "chapter-q04-find-hidden-cat-e-3",
+          "chapter-q04-find-hidden-cat-e-4"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Look around the room. Listen to the position words. Check each place carefully. Say where the cat is.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-find-hidden-cat-e-1",
+        "chapter-q04-find-hidden-cat-e-2",
+        "chapter-q04-find-hidden-cat-e-3",
+        "chapter-q04-find-hidden-cat-e-4"
+      ],
+      "questionGroupId": "chapter-q04-find-hidden-cat",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/find-hidden-cat.png"
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-37-answer_builder-moderate",
+      "type": "answer_builder",
+      "difficulty": "moderate",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "How can we find the hidden cat?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Look",
+        "Listen",
+        "Check",
+        "Say"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-find-hidden-cat-m-1a",
+          "text": "Look around",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-m-1b",
+          "text": "the room.",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-m-2a",
+          "text": "Listen to",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-m-2b",
+          "text": "the position words.",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-m-3a",
+          "text": "Check each",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-m-3b",
+          "text": "place carefully.",
+          "order": 6
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-m-4a",
+          "text": "Say where",
+          "order": 7
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-m-4b",
+          "text": "the cat is.",
+          "order": 8
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-find-hidden-cat-m-x1",
+          "text": "Close your eyes and guess.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-m-x2",
+          "text": "Look only at the ceiling.",
+          "misconception": "Incorrect half-sentence distractor."
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-m-x3",
+          "text": "Forget the position words.",
+          "misconception": "Incorrect half-sentence distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "slot-1",
+          "label": "Part 1"
+        },
+        {
+          "id": "slot-2",
+          "label": "Part 2"
+        },
+        {
+          "id": "slot-3",
+          "label": "Part 3"
+        },
+        {
+          "id": "slot-4",
+          "label": "Part 4"
+        },
+        {
+          "id": "slot-5",
+          "label": "Part 5"
+        },
+        {
+          "id": "slot-6",
+          "label": "Part 6"
+        },
+        {
+          "id": "slot-7",
+          "label": "Part 7"
+        },
+        {
+          "id": "slot-8",
+          "label": "Part 8"
+        }
+      ],
+      "answerKey": {
+        "orderedItemIds": [
+          "chapter-q04-find-hidden-cat-m-1a",
+          "chapter-q04-find-hidden-cat-m-1b",
+          "chapter-q04-find-hidden-cat-m-2a",
+          "chapter-q04-find-hidden-cat-m-2b",
+          "chapter-q04-find-hidden-cat-m-3a",
+          "chapter-q04-find-hidden-cat-m-3b",
+          "chapter-q04-find-hidden-cat-m-4a",
+          "chapter-q04-find-hidden-cat-m-4b"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Look around the room. Listen to the position words. Check each place carefully. Say where the cat is.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-find-hidden-cat-m-1a",
+        "chapter-q04-find-hidden-cat-m-1b",
+        "chapter-q04-find-hidden-cat-m-2a",
+        "chapter-q04-find-hidden-cat-m-2b",
+        "chapter-q04-find-hidden-cat-m-3a",
+        "chapter-q04-find-hidden-cat-m-3b",
+        "chapter-q04-find-hidden-cat-m-4a",
+        "chapter-q04-find-hidden-cat-m-4b"
+      ],
+      "questionGroupId": "chapter-q04-find-hidden-cat",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/find-hidden-cat.png"
+    },
+    {
+      "id": "class-1-mathematics-chapter-1-finding-the-funny-cat-38-answer_builder-difficult",
+      "type": "answer_builder",
+      "difficulty": "difficult",
+      "classLevel": 1,
+      "stream": null,
+      "subject": "Mathematics",
+      "book": "Mathematics - Joyful Mathematics",
+      "chapter": "Chapter 1: Finding the Funny Cat!",
+      "chapterNumber": 1,
+      "marks": 5,
+      "question": "How can we find the hidden cat?",
+      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "structureHelp": [
+        "Look",
+        "Listen",
+        "Check",
+        "Say"
+      ],
+      "sourceTextSummary": "Generated from Mathematics - Joyful Mathematics, Chapter Chapter 1: Finding the Funny Cat!.",
+      "sourceChapter": "Chapter 1: Finding the Funny Cat!",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\class 1\\Mathematics - Joyful Mathematics\\Chapter 1 - Finding the Funny Cat!.pdf",
+      "correctItems": [
+        {
+          "id": "chapter-q04-find-hidden-cat-d-1",
+          "text": "look",
+          "order": 1
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-d-2",
+          "text": "listen",
+          "order": 2
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-d-3",
+          "text": "check",
+          "order": 3
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-d-4",
+          "text": "say",
+          "order": 4
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-d-5",
+          "text": "look",
+          "order": 5
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-d-6",
+          "text": "listen",
+          "order": 6
+        }
+      ],
+      "distractors": [
+        {
+          "id": "chapter-q04-find-hidden-cat-d-x1",
+          "text": "Close your eyes and guess.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-d-x2",
+          "text": "Look only at the ceiling.",
+          "misconception": "Incorrect phrase distractor."
+        },
+        {
+          "id": "chapter-q04-find-hidden-cat-d-x3",
+          "text": "Forget the position words.",
+          "misconception": "Incorrect phrase distractor."
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "intro",
+          "label": "Opening"
+        },
+        {
+          "id": "body",
+          "label": "Main explanation"
+        },
+        {
+          "id": "end",
+          "label": "Conclusion"
+        }
+      ],
+      "answerKey": {
+        "requiredConceptIds": [
+          "chapter-q04-find-hidden-cat-d-1",
+          "chapter-q04-find-hidden-cat-d-2",
+          "chapter-q04-find-hidden-cat-d-3",
+          "chapter-q04-find-hidden-cat-d-4",
+          "chapter-q04-find-hidden-cat-d-5",
+          "chapter-q04-find-hidden-cat-d-6"
+        ]
+      },
+      "hints": [
+        "Follow the sequence of the concept.",
+        "Leave distractors unused until you submit."
+      ],
+      "modelAnswer": "Look around the room. Listen to the position words. Check each place carefully. Say where the cat is.",
+      "scoringRubric": [
+        {
+          "criterion": "Correct facts",
+          "marks": 2
+        },
+        {
+          "criterion": "Logical structure or matching",
+          "marks": 1
+        },
+        {
+          "criterion": "Relevant vocabulary",
+          "marks": 1
+        },
+        {
+          "criterion": "No incorrect distractors selected",
+          "marks": 1
+        }
+      ],
+      "correctSequence": [
+        "chapter-q04-find-hidden-cat-d-1",
+        "chapter-q04-find-hidden-cat-d-2",
+        "chapter-q04-find-hidden-cat-d-3",
+        "chapter-q04-find-hidden-cat-d-4",
+        "chapter-q04-find-hidden-cat-d-5",
+        "chapter-q04-find-hidden-cat-d-6"
+      ],
+      "questionGroupId": "chapter-q04-find-hidden-cat",
+      "chapterQuestionNumber": 4,
+      "questionIdentifier": {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion"
+      },
+      "visualArt": "assets/question-art/class1-math-ai/find-hidden-cat.png"
+    }
+  ]
+}

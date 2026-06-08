@@ -73,8 +73,13 @@ def validate(path: Path) -> list[str]:
         require(field in data, f"Missing root field: {field}", errors)
 
     activities = data.get("activities", [])
+    coverage = data.get("coverage", {})
+    is_table_only_pack = coverage.get("tablePracticeMode") == "continuous-table-drag-drop"
     require(isinstance(activities, list), "activities must be an array", errors)
-    require(len(activities) >= 24, "pilot dataset should include 21 types plus 3 answer-builder modes", errors)
+    if is_table_only_pack:
+        require(len(activities) >= 10, "table-only topic pack should include at least 10 table activities", errors)
+    else:
+        require(len(activities) >= 24, "pilot dataset should include 21 types plus 3 answer-builder modes", errors)
 
     seen_ids: set[str] = set()
     seen_types: set[str] = set()
@@ -102,15 +107,17 @@ def validate(path: Path) -> list[str]:
         require(activity.get("sourceChapter") == data.get("source", {}).get("chapter"), f"{label} sourceChapter mismatch", errors)
         require(activity.get("sourcePdf") == data.get("source", {}).get("pdfPath"), f"{label} sourcePdf mismatch", errors)
 
-    missing_types = EXPECTED_QUESTION_TYPES - seen_types
-    require(not missing_types, f"Missing question types: {sorted(missing_types)}", errors)
-    require(
-        {"easy", "moderate", "difficult"}.issubset(answer_builder_modes),
-        f"Missing answer-builder modes: {sorted({'easy', 'moderate', 'difficult'} - answer_builder_modes)}",
-        errors,
-    )
+    if is_table_only_pack:
+        require(seen_types == {"data_chart_table"}, f"Table-only topic pack should only contain data_chart_table activities, found {sorted(seen_types)}", errors)
+    else:
+        missing_types = EXPECTED_QUESTION_TYPES - seen_types
+        require(not missing_types, f"Missing question types: {sorted(missing_types)}", errors)
+        require(
+            {"easy", "moderate", "difficult"}.issubset(answer_builder_modes),
+            f"Missing answer-builder modes: {sorted({'easy', 'moderate', 'difficult'} - answer_builder_modes)}",
+            errors,
+        )
 
-    coverage = data.get("coverage", {})
     require(coverage.get("activityCount") == len(activities), "coverage.activityCount must match activities length", errors)
     return errors
 

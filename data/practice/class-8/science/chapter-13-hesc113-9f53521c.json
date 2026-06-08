@@ -12,7 +12,8 @@
     "chapterNumber": 13,
     "pageCount": null,
     "extractedCharacterCount": 28822,
-    "extractionPreview": "LIGHT\nLIGHT\nT\nhe world is largely known through\nthe senses. The sense of sight\nis one of the most important\nsenses. Through it we see mountains,\nrivers, trees, plants, chairs, people and\nso many other things around us. We also\nsee clouds, rainbows and birds flying\nin the sky. At night we see the moon\nand the stars. You are able to see the\nwords and sentences printed on this\npage. How is seeing made possible?\n13.1 What makes Things\nVisible\nHave you ever thought how we see\nvarious objects? You may"
+    "extractionPreview": "LIGHT\nLIGHT\nT\nhe world is largely known through\nthe senses. The sense of sight\nis one of the most important\nsenses. Through it we see mountains,\nrivers, trees, plants, chairs, people and\nso many other things around us. We also\nsee clouds, rainbows and birds flying\nin the sky. At night we see the moon\nand the stars. You are able to see the\nwords and sentences printed on this\npage. How is seeing made possible?\n13.1 What makes Things\nVisible\nHave you ever thought how we see\nvarious objects? You may",
+    "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 13.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 13?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 13.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 13 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 13.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 13, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 13 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 13?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 13.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 13?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 13?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
@@ -189,13 +190,13 @@
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,8 +226,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
@@ -259,49 +260,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 13 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "13.1 What makes Things Visible Have you ever thought how we see various objects?",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "It is only when light from an object enters our eyes that we see the object.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "The light may have been emitted by the object, or may have been reflected by it.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "You learnt in Class VII that a polished or a shiny surface can act as a mirror.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.1 What makes Things Visible Have you ever thought how we see various objects? It is only when light from an object enters our eyes that we see the object. The light may have been emitted by the object, or may have been reflected by it. You learnt in Class VII that a polished or a shiny surface can act as a mirror.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 13, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "A mirror changes the direction of light that falls on it.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Can you tell in which direction the light falling on a surface will be reflected?",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "Take a comb and close all its openings except one in the middle.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "Throw light from a torch through the opening of the comb from one side (Fig.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "A mirror changes the direction of light that falls on it. Can you tell in which direction the light falling on a surface will be reflected? Take a comb and close all its openings except one in the middle. Throw light from a torch through the opening of the comb from one side (Fig.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 13 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 13 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "Place a strip of plane mirror in the path of the light ray (Fig.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "After striking the mirror, the ray of light is reflected in another direction.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "The light ray, which strikes any surface, is called the incident ray.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb. Place a strip of plane mirror in the path of the light ray (Fig. After striking the mirror, the ray of light is reflected in another direction. The light ray, which strikes any surface, is called the incident ray.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 13?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "The ray that comes back from the surface after reflection is known as the reflected ray.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "13.1 : Arrangement for showing reflection 2024-25 SCIENCE 166 A ray of light is an idealisation.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "In reality, we have a narrow beam of light which is made up of several rays.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "For simplicity, we use the term ray for a narrow beam of light.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The ray that comes back from the surface after reflection is known as the reflected ray. 13.1 : Arrangement for showing reflection 2024-25 SCIENCE 166 A ray of light is an idealisation. In reality, we have a narrow beam of light which is made up of several rays. For simplicity, we use the term ray for a narrow beam of light.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 13, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "Draw lines showing the position of the plane mirror, the incident ray and the reflected ray on the paper with the help of your friends.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "Draw a line making an angle of 90º to the line representing the mirror at the point where the incident ray strikes the mirror.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "This line is known as the normal to the reflecting surface at that point (Fig.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "The angle Table 13.1 : Angles of Incidence and Reflection S.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Draw lines showing the position of the plane mirror, the incident ray and the reflected ray on the paper with the help of your friends. Draw a line making an angle of 90º to the line representing the mirror at the point where the incident ray strikes the mirror. This line is known as the normal to the reflecting surface at that point (Fig. The angle Table 13.1 : Angles of Incidence and Reflection S.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Complete a passage from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
@@ -825,13 +826,13 @@
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,8 +862,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
@@ -901,48 +902,48 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Classify statements based on Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "13.1 What makes Things Visible Have you ever thought how we see various objects?",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "It is only when light from an object enters our eyes that we see the object.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "The light may have been emitted by the object, or may have been reflected by it.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "You learnt in Class VII that a polished or a shiny surface can act as a mirror.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.1 What makes Things Visible Have you ever thought how we see various objects? It is only when light from an object enters our eyes that we see the object. The light may have been emitted by the object, or may have been reflected by it. You learnt in Class VII that a polished or a shiny surface can act as a mirror.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "List key points from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "A mirror changes the direction of light that falls on it.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Can you tell in which direction the light falling on a surface will be reflected?",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "Take a comb and close all its openings except one in the middle.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "Throw light from a torch through the opening of the comb from one side (Fig.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "A mirror changes the direction of light that falls on it. Can you tell in which direction the light falling on a surface will be reflected? Take a comb and close all its openings except one in the middle. Throw light from a torch through the opening of the comb from one side (Fig.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "Place a strip of plane mirror in the path of the light ray (Fig.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "After striking the mirror, the ray of light is reflected in another direction.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "The light ray, which strikes any surface, is called the incident ray.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb. Place a strip of plane mirror in the path of the light ray (Fig. After striking the mirror, the ray of light is reflected in another direction. The light ray, which strikes any surface, is called the incident ray.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Use chapter information from Chapter 13 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 13 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "The ray that comes back from the surface after reflection is known as the reflected ray.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "13.1 : Arrangement for showing reflection 2024-25 SCIENCE 166 A ray of light is an idealisation.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "In reality, we have a narrow beam of light which is made up of several rays.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "For simplicity, we use the term ray for a narrow beam of light.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The ray that comes back from the surface after reflection is known as the reflected ray. 13.1 : Arrangement for showing reflection 2024-25 SCIENCE 166 A ray of light is an idealisation. In reality, we have a narrow beam of light which is made up of several rays. For simplicity, we use the term ray for a narrow beam of light.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "Draw lines showing the position of the plane mirror, the incident ray and the reflected ray on the paper with the help of your friends.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "Draw a line making an angle of 90º to the line representing the mirror at the point where the incident ray strikes the mirror.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "This line is known as the normal to the reflecting surface at that point (Fig.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "The angle Table 13.1 : Angles of Incidence and Reflection S.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "Do you see any relation between the angle of incidence and the angle of reflection.",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Draw lines showing the position of the plane mirror, the incident ray and the reflected ray on the paper with the help of your friends. Draw a line making an angle of 90º to the line representing the mirror at the point where the incident ray strikes the mirror. This line is known as the normal to the reflecting surface at that point (Fig. The angle Table 13.1 : Angles of Incidence and Reflection S. Do you see any relation between the angle of incidence and the angle of reflection.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Build a definition from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 13?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
@@ -1469,13 +1470,13 @@
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,8 +1502,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 13 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "13.1 What makes Things Visible Have you ever thought how we see various objects?",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "It is only when light from an object enters our eyes that we see the object.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "The light may have been emitted by the object, or may have been reflected by it.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "You learnt in Class VII that a polished or a shiny surface can act as a mirror.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "A mirror changes the direction of light that falls on it.",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.1 What makes Things Visible Have you ever thought how we see various objects? It is only when light from an object enters our eyes that we see the object. The light may have been emitted by the object, or may have been reflected by it. You learnt in Class VII that a polished or a shiny surface can act as a mirror. A mirror changes the direction of light that falls on it.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Can you tell in which direction the light falling on a surface will be reflected?",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "Take a comb and close all its openings except one in the middle.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "Throw light from a torch through the opening of the comb from one side (Fig.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Can you tell in which direction the light falling on a surface will be reflected? Take a comb and close all its openings except one in the middle. Throw light from a torch through the opening of the comb from one side (Fig.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "Place a strip of plane mirror in the path of the light ray (Fig.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "After striking the mirror, the ray of light is reflected in another direction.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb. Place a strip of plane mirror in the path of the light ray (Fig. After striking the mirror, the ray of light is reflected in another direction.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Sequence a process from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 13 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "The light ray, which strikes any surface, is called the incident ray.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "The ray that comes back from the surface after reflection is known as the reflected ray.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "13.1 : Arrangement for showing reflection 2024-25 SCIENCE 166 A ray of light is an idealisation.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "In reality, we have a narrow beam of light which is made up of several rays.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The light ray, which strikes any surface, is called the incident ray. The ray that comes back from the surface after reflection is known as the reflected ray. 13.1 : Arrangement for showing reflection 2024-25 SCIENCE 166 A ray of light is an idealisation. In reality, we have a narrow beam of light which is made up of several rays.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "For simplicity, we use the term ray for a narrow beam of light.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "Draw lines showing the position of the plane mirror, the incident ray and the reflected ray on the paper with the help of your friends.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "Draw a line making an angle of 90º to the line representing the mirror at the point where the incident ray strikes the mirror.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "For simplicity, we use the term ray for a narrow beam of light. Draw lines showing the position of the plane mirror, the incident ray and the reflected ray on the paper with the help of your friends. Draw a line making an angle of 90º to the line representing the mirror at the point where the incident ray strikes the mirror.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "This line is known as the normal to the reflecting surface at that point (Fig.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "The angle Table 13.1 : Angles of Incidence and Reflection S.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "Do you see any relation between the angle of incidence and the angle of reflection.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "If the experiment is carried out carefully, it is seen that the angle of incidence is always equal to the angle of reflection.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This line is known as the normal to the reflecting surface at that point (Fig. The angle Table 13.1 : Angles of Incidence and Reflection S. Do you see any relation between the angle of incidence and the angle of reflection. If the experiment is carried out carefully, it is seen that the angle of incidence is always equal to the angle of reflection.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "What would happen if I threw the light on the mirror along the normal.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "Let the sheet project a little beyond the edge of the Table (Fig.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "What would happen if I threw the light on the mirror along the normal. Let the sheet project a little beyond the edge of the Table (Fig.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "Make sure that the reflected ray extends to the projected portion of the paper.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "Bend that part of the projected portion on which the reflected ray falls.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "LIGHT LIGHT T he world is largely known through the senses.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Make sure that the reflected ray extends to the projected portion of the paper. Bend that part of the projected portion on which the reflected ray falls. LIGHT LIGHT T he world is largely known through the senses.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,8 +2373,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "LIGHT LIGHT T he world",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "is largely known through the senses.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "The sense of sight is",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "one of the most important senses.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "Through it we see mountains, rivers, trees, plants,",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "chairs, people and so many other things around us.",
+          "text": "How is seeing made possible?",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "We also see clouds, rainbows",
+          "text": "13.1 What makes Things Visible Have you ever thought how we see various objects?",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "and birds flying in the sky.",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,8 +2539,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "light",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "the",
+          "text": "How is seeing made possible?",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,8 +2677,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "13.1 What makes Things Visible Have you ever thought how we see various objects?",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "It is only when light from an object enters our eyes that we see the object.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "The light may have been emitted by the object, or may have been reflected by it.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "You learnt in Class VII that a polished or a shiny surface can act as a mirror.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.1 What makes Things Visible Have you ever thought how we see various objects? It is only when light from an object enters our eyes that we see the object. The light may have been emitted by the object, or may have been reflected by it. You learnt in Class VII that a polished or a shiny surface can act as a mirror.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "13.1 What makes Things Visible Have you",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "ever thought how we see various objects?",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "It is only when light from an object",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "enters our eyes that we see the object.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "The light may have been emitted by the",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "object, or may have been reflected by it.",
+          "text": "How is seeing made possible?",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "You learnt in Class VII that a polished",
+          "text": "13.1 What makes Things Visible Have you ever thought how we see various objects?",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "or a shiny surface can act as a mirror.",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.1 What makes Things Visible Have you ever thought how we see various objects? It is only when light from an object enters our eyes that we see the object. The light may have been emitted by the object, or may have been reflected by it. You learnt in Class VII that a polished or a shiny surface can act as a mirror.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "13.1",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "it",
+          "text": "How is seeing made possible?",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.1 What makes Things Visible Have you ever thought how we see various objects? It is only when light from an object enters our eyes that we see the object. The light may have been emitted by the object, or may have been reflected by it. You learnt in Class VII that a polished or a shiny surface can act as a mirror.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "A mirror changes the direction of light that falls on it.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Can you tell in which direction the light falling on a surface will be reflected?",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "Take a comb and close all its openings except one in the middle.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "Throw light from a torch through the opening of the comb from one side (Fig.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "A mirror changes the direction of light that falls on it. Can you tell in which direction the light falling on a surface will be reflected? Take a comb and close all its openings except one in the middle. Throw light from a torch through the opening of the comb from one side (Fig.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "A mirror changes the direction",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "of light that falls on it.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Can you tell in which direction the",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "light falling on a surface will be reflected?",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "Take a comb and close all",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "its openings except one in the middle.",
+          "text": "How is seeing made possible?",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "Throw light from a torch through the",
+          "text": "13.1 What makes Things Visible Have you ever thought how we see various objects?",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "opening of the comb from one side (Fig.",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "A mirror changes the direction of light that falls on it. Can you tell in which direction the light falling on a surface will be reflected? Take a comb and close all its openings except one in the middle. Throw light from a torch through the opening of the comb from one side (Fig.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "a",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "can",
+          "text": "How is seeing made possible?",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "A mirror changes the direction of light that falls on it. Can you tell in which direction the light falling on a surface will be reflected? Take a comb and close all its openings except one in the middle. Throw light from a torch through the opening of the comb from one side (Fig.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Define an important term from Chapter 13 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "Place a strip of plane mirror in the path of the light ray (Fig.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "After striking the mirror, the ray of light is reflected in another direction.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "The light ray, which strikes any surface, is called the incident ray.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb. Place a strip of plane mirror in the path of the light ray (Fig. After striking the mirror, the ray of light is reflected in another direction. The light ray, which strikes any surface, is called the incident ray.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Define an important term from Chapter 13 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "With slight adjustment of the torch and the comb you will see a",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "ray of light along the paper on the other side of the comb.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "Place a strip of plane mirror in",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "the path of the light ray (Fig.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "After striking the mirror, the ray",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "of light is reflected in another direction.",
+          "text": "How is seeing made possible?",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "The light ray, which strikes any",
+          "text": "13.1 What makes Things Visible Have you ever thought how we see various objects?",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "surface, is called the incident ray.",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb. Place a strip of plane mirror in the path of the light ray (Fig. After striking the mirror, the ray of light is reflected in another direction. The light ray, which strikes any surface, is called the incident ray.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Define an important term from Chapter 13 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "with",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "place",
+          "text": "How is seeing made possible?",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "With slight adjustment of the torch and the comb you will see a ray of light along the paper on the other side of the comb. Place a strip of plane mirror in the path of the light ray (Fig. After striking the mirror, the ray of light is reflected in another direction. The light ray, which strikes any surface, is called the incident ray.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "The ray that comes back from the surface after reflection is known as the reflected ray.",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "13.1 : Arrangement for showing reflection 2024-25 SCIENCE 166 A ray of light is an idealisation.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "In reality, we have a narrow beam of light which is made up of several rays.",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "For simplicity, we use the term ray for a narrow beam of light.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The ray that comes back from the surface after reflection is known as the reflected ray. 13.1 : Arrangement for showing reflection 2024-25 SCIENCE 166 A ray of light is an idealisation. In reality, we have a narrow beam of light which is made up of several rays. For simplicity, we use the term ray for a narrow beam of light.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "The ray that comes back from the surface",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "after reflection is known as the reflected ray.",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "13.1 : Arrangement for showing reflection 2024-25 SCIENCE",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "166 A ray of light is an idealisation.",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "In reality, we have a narrow beam of",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "light which is made up of several rays.",
+          "text": "How is seeing made possible?",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "For simplicity, we use the term",
+          "text": "13.1 What makes Things Visible Have you ever thought how we see various objects?",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "ray for a narrow beam of light.",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The ray that comes back from the surface after reflection is known as the reflected ray. 13.1 : Arrangement for showing reflection 2024-25 SCIENCE 166 A ray of light is an idealisation. In reality, we have a narrow beam of light which is made up of several rays. For simplicity, we use the term ray for a narrow beam of light.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Science, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Science\\hesc113.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "LIGHT LIGHT T he world is largely known through the senses.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "The sense of sight is one of the most important senses.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "We also see clouds, rainbows and birds flying in the sky.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "the",
+          "text": "At night we see the moon and the stars.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "13.1",
+          "text": "How is seeing made possible?",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The ray that comes back from the surface after reflection is known as the reflected ray. 13.1 : Arrangement for showing reflection 2024-25 SCIENCE 166 A ray of light is an idealisation. In reality, we have a narrow beam of light which is made up of several rays. For simplicity, we use the term ray for a narrow beam of light.",
+      "modelAnswer": "LIGHT LIGHT T he world is largely known through the senses. The sense of sight is one of the most important senses. Through it we see mountains, rivers, trees, plants, chairs, people and so many other things around us. We also see clouds, rainbows and birds flying in the sky.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

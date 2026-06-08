@@ -12,7 +12,8 @@
     "chapterNumber": 1,
     "pageCount": null,
     "extractedCharacterCount": 18857,
-    "extractionPreview": "Introduction: \nHow, When and Where\n1\nHow Important are Dates?\nThere was a time when historians were \nfascinated with dates. There were heated \ndebates about the dates on which rulers \nwere crowned or battles were fought. In \nthe common-sense notion, history was \nsynonymous with dates. You may have \nheard people say, \"I find history boring \nbecause it is all about memorising \ndates.\" Is such a conception true?\nHistory is certainly about changes \nthat occur over time. It is about \nfinding out how "
+    "extractionPreview": "Introduction: \nHow, When and Where\n1\nHow Important are Dates?\nThere was a time when historians were \nfascinated with dates. There were heated \ndebates about the dates on which rulers \nwere crowned or battles were fought. In \nthe common-sense notion, history was \nsynonymous with dates. You may have \nheard people say, \"I find history boring \nbecause it is all about memorising \ndates.\" Is such a conception true?\nHistory is certainly about changes \nthat occur over time. It is about \nfinding out how ",
+    "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 1.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 1?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 1.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 1 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 1, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 1?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 1.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 1?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 1?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
@@ -189,13 +190,13 @@
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,8 +226,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
@@ -259,49 +260,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 1 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "History is certainly about changes that occur over time.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "It is about finding out how things were in the past and how things have changed.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "As soon as we compare the past with the present, we refer to time, we talk of \"before\" and \"after\".",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true? History is certainly about changes that occur over time. It is about finding out how things were in the past and how things have changed. As soon as we compare the past with the present, we refer to time, we talk of \"before\" and \"after\".",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 1, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "Living in the world we do not always ask historical questions about what we see around us.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "We take things for granted, as if what we see has always been in the world we inhabit.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "Watching someone sip a cup of tea at a roadside tea stall, you may wonder - when did people begin to drink tea or coffee?",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Living in the world we do not always ask historical questions about what we see around us. We take things for granted, as if what we see has always been in the world we inhabit. But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical. Watching someone sip a cup of tea at a roadside tea stall, you may wonder - when did people begin to drink tea or coffee?",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 1 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 1 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "Looking out of the window of a train you may ask yourself - when were railways built and how did people travel long distances before the age of railways?",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "1 - Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Looking out of the window of a train you may ask yourself - when were railways built and how did people travel long distances before the age of railways? Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed. 1 - Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 1?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": " Reprint 2024-25 2 OUR PASTS - III All such historical questions refer us back to notions of time.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "But time does not have to be always precisely dated in terms of a particular year or a month.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "People in India did not begin drinking tea one fine day; they developed a taste for it over time.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": " Reprint 2024-25 2 OUR PASTS - III All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 1, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "There can be no one clear date for a process such as this.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "We can only refer to a span of time, an approximate period over which particular changes became visible.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "Why, then, do we continue to associate history with a string of dates?",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There can be no one clear date for a process such as this. Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society. We can only refer to a span of time, an approximate period over which particular changes became visible. Why, then, do we continue to associate history with a string of dates?",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Complete a passage from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
@@ -825,13 +826,13 @@
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,8 +862,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
@@ -901,48 +902,48 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Classify statements based on Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "History is certainly about changes that occur over time.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "It is about finding out how things were in the past and how things have changed.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "As soon as we compare the past with the present, we refer to time, we talk of \"before\" and \"after\".",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true? History is certainly about changes that occur over time. It is about finding out how things were in the past and how things have changed. As soon as we compare the past with the present, we refer to time, we talk of \"before\" and \"after\".",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "List key points from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "Living in the world we do not always ask historical questions about what we see around us.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "We take things for granted, as if what we see has always been in the world we inhabit.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "Watching someone sip a cup of tea at a roadside tea stall, you may wonder - when did people begin to drink tea or coffee?",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Living in the world we do not always ask historical questions about what we see around us. We take things for granted, as if what we see has always been in the world we inhabit. But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical. Watching someone sip a cup of tea at a roadside tea stall, you may wonder - when did people begin to drink tea or coffee?",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "Looking out of the window of a train you may ask yourself - when were railways built and how did people travel long distances before the age of railways?",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "1 - Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Looking out of the window of a train you may ask yourself - when were railways built and how did people travel long distances before the age of railways? Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed. 1 - Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Use chapter information from Chapter 1 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 1 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": " Reprint 2024-25 2 OUR PASTS - III All such historical questions refer us back to notions of time.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "But time does not have to be always precisely dated in terms of a particular year or a month.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "People in India did not begin drinking tea one fine day; they developed a taste for it over time.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": " Reprint 2024-25 2 OUR PASTS - III All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "There can be no one clear date for a process such as this.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "We can only refer to a span of time, an approximate period over which particular changes became visible.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "Why, then, do we continue to associate history with a string of dates?",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "There was a time when history was an account of battles and big events.",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There can be no one clear date for a process such as this. Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society. We can only refer to a span of time, an approximate period over which particular changes became visible. Why, then, do we continue to associate history with a string of dates? There was a time when history was an account of battles and big events.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Build a definition from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 1?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
@@ -1469,13 +1470,13 @@
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,8 +1502,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 1 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "History is certainly about changes that occur over time.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "It is about finding out how things were in the past and how things have changed.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "As soon as we compare the past with the present, we refer to time, we talk of \"before\" and \"after\".",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "Living in the world we do not always ask historical questions about what we see around us.",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true? History is certainly about changes that occur over time. It is about finding out how things were in the past and how things have changed. As soon as we compare the past with the present, we refer to time, we talk of \"before\" and \"after\". Living in the world we do not always ask historical questions about what we see around us.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "We take things for granted, as if what we see has always been in the world we inhabit.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "Watching someone sip a cup of tea at a roadside tea stall, you may wonder - when did people begin to drink tea or coffee?",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We take things for granted, as if what we see has always been in the world we inhabit. But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical. Watching someone sip a cup of tea at a roadside tea stall, you may wonder - when did people begin to drink tea or coffee?",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "Looking out of the window of a train you may ask yourself - when were railways built and how did people travel long distances before the age of railways?",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "1 - Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Looking out of the window of a train you may ask yourself - when were railways built and how did people travel long distances before the age of railways? Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed. 1 - Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Sequence a process from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 1 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": " Reprint 2024-25 2 OUR PASTS - III All such historical questions refer us back to notions of time.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "But time does not have to be always precisely dated in terms of a particular year or a month.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination.  Reprint 2024-25 2 OUR PASTS - III All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "People in India did not begin drinking tea one fine day; they developed a taste for it over time.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "There can be no one clear date for a process such as this.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "People in India did not begin drinking tea one fine day; they developed a taste for it over time. There can be no one clear date for a process such as this. Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "We can only refer to a span of time, an approximate period over which particular changes became visible.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "Why, then, do we continue to associate history with a string of dates?",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "There was a time when history was an account of battles and big events.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "For events such as these, specific dates can be determined, and in histories such as these, debates about dates continue to be important.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We can only refer to a span of time, an approximate period over which particular changes became visible. Why, then, do we continue to associate history with a string of dates? There was a time when history was an account of battles and big events. For events such as these, specific dates can be determined, and in histories such as these, debates about dates continue to be important.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "As you have seen in the history textbooks of the past two years, historians now write about a host of other issues, and other questions.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "By what criteria do we choose a set of dates as important?",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "As you have seen in the history textbooks of the past two years, historians now write about a host of other issues, and other questions. By what criteria do we choose a set of dates as important?",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "The dates we select, the dates around which we compose our story of the past, are not important on their own.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "They become vital because we focus on a particular set of events as important.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "Introduction: How, When and Where 1 How Important are Dates?",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The dates we select, the dates around which we compose our story of the past, are not important on their own. They become vital because we focus on a particular set of events as important. Introduction: How, When and Where 1 How Important are Dates?",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,8 +2373,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "Introduction: How, When and Where",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "1 How Important are Dates?",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "There was a time when",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "historians were fascinated with dates.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "There were heated debates about the dates on",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "which rulers were crowned or battles were fought.",
+          "text": "History is certainly about changes that occur over time.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "In the common-sense notion,",
+          "text": "It is about finding out how.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "history was synonymous with dates.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,8 +2539,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "introduction:",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "there",
+          "text": "History is certainly about changes that occur over time.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,8 +2677,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "History is certainly about changes that occur over time.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "It is about finding out how things were in the past and how things have changed.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "As soon as we compare the past with the present, we refer to time, we talk of \"before\" and \"after\".",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true? History is certainly about changes that occur over time. It is about finding out how things were in the past and how things have changed. As soon as we compare the past with the present, we refer to time, we talk of \"before\" and \"after\".",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "You may have heard people say, \"I find history boring because",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "it is all about memorising dates.\" Is such a conception true?",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "History is certainly about",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "changes that occur over time.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "It is about finding out how things were",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "in the past and how things have changed.",
+          "text": "History is certainly about changes that occur over time.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "As soon as we compare the past with the present,",
+          "text": "It is about finding out how.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "we refer to time, we talk of \"before\" and \"after\".",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true? History is certainly about changes that occur over time. It is about finding out how things were in the past and how things have changed. As soon as we compare the past with the present, we refer to time, we talk of \"before\" and \"after\".",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "you",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "history",
+          "text": "History is certainly about changes that occur over time.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true? History is certainly about changes that occur over time. It is about finding out how things were in the past and how things have changed. As soon as we compare the past with the present, we refer to time, we talk of \"before\" and \"after\".",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "Living in the world we do not always ask historical questions about what we see around us.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "We take things for granted, as if what we see has always been in the world we inhabit.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "Watching someone sip a cup of tea at a roadside tea stall, you may wonder - when did people begin to drink tea or coffee?",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Living in the world we do not always ask historical questions about what we see around us. We take things for granted, as if what we see has always been in the world we inhabit. But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical. Watching someone sip a cup of tea at a roadside tea stall, you may wonder - when did people begin to drink tea or coffee?",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "Living in the world we do not always",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "ask historical questions about what we see around us.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "We take things for granted, as if what we",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "see has always been in the world we inhabit.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "But most of us have our moments of wonder, when",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "we are curious, and we ask questions that actually are historical.",
+          "text": "History is certainly about changes that occur over time.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "Watching someone sip a cup of tea at a roadside tea stall,",
+          "text": "It is about finding out how.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "you may wonder - when did people begin to drink tea or coffee?",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Living in the world we do not always ask historical questions about what we see around us. We take things for granted, as if what we see has always been in the world we inhabit. But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical. Watching someone sip a cup of tea at a roadside tea stall, you may wonder - when did people begin to drink tea or coffee?",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "living",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "we",
+          "text": "History is certainly about changes that occur over time.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Living in the world we do not always ask historical questions about what we see around us. We take things for granted, as if what we see has always been in the world we inhabit. But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical. Watching someone sip a cup of tea at a roadside tea stall, you may wonder - when did people begin to drink tea or coffee?",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Define an important term from Chapter 1 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "Looking out of the window of a train you may ask yourself - when were railways built and how did people travel long distances before the age of railways?",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "1 - Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Looking out of the window of a train you may ask yourself - when were railways built and how did people travel long distances before the age of railways? Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed. 1 - Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Define an important term from Chapter 1 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "Looking out of the window of a train you may ask yourself - when",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "were railways built and how did people travel long distances before the age of railways?",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "Reading the newspaper in the morning you may be curious to know",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "how people got to hear about things before newspapers began to be printed.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "1 - Brahmans offering the Shastras to Britannia, frontispiece to the first map produced",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan.",
+          "text": "History is certainly about changes that occur over time.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "An enthusiastic supporter of British conquest of India, Rennel saw",
+          "text": "It is about finding out how.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "preparation of maps as essential to the process of domination.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Looking out of the window of a train you may ask yourself - when were railways built and how did people travel long distances before the age of railways? Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed. 1 - Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Define an important term from Chapter 1 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "looking",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "reading",
+          "text": "History is certainly about changes that occur over time.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Looking out of the window of a train you may ask yourself - when were railways built and how did people travel long distances before the age of railways? Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed. 1 - Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": " Reprint 2024-25 2 OUR PASTS - III All such historical questions refer us back to notions of time.",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "But time does not have to be always precisely dated in terms of a particular year or a month.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time.",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "People in India did not begin drinking tea one fine day; they developed a taste for it over time.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": " Reprint 2024-25 2 OUR PASTS - III All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": " Reprint 2024-25 2 OUR PASTS - III All",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "such historical questions refer us back to notions of time.",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "But time does not have to be always precisely",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "dated in terms of a particular year or a month.",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "Sometimes it is actually incorrect to fix precise dates",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "to processes that happen over a period of time.",
+          "text": "History is certainly about changes that occur over time.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "People in India did not begin drinking tea one",
+          "text": "It is about finding out how.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "fine day; they developed a taste for it over time.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": " Reprint 2024-25 2 OUR PASTS - III All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Social-Science, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Social-Science, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class8\\Social-Science\\hess201.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "Introduction: How, When and Where 1 How Important are Dates?",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "There was a time when historians were fascinated with dates.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "There were heated debates about the dates on which rulers were crowned or battles were fought.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "In the common-sense notion, history was synonymous with dates.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "",
+          "text": "You may have heard people say, \"I find history boring because it is all about memorising dates.\" Is such a conception true?",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "but",
+          "text": "History is certainly about changes that occur over time.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": " Reprint 2024-25 2 OUR PASTS - III All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time.",
+      "modelAnswer": "Introduction: How, When and Where 1 How Important are Dates? There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

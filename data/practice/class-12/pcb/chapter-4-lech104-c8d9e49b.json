@@ -12,7 +12,8 @@
     "chapterNumber": 4,
     "pageCount": null,
     "extractedCharacterCount": 75779,
-    "extractionPreview": "The d-block of the periodic table contains the elements\nof the groups 3-12 in which the d orbitals are\nprogressively filled in each of the four long periods.\nThe f-block consists of elements in which 4 f and 5 f\norbitals are progressively filled. They are placed in a\nseparate panel at the bottom of the periodic table. The\nnames transition metals and inner transition metals\nare often used to refer to the elements of d-and\nf-blocks respectively.\nThere are mainly four series of the transition metal"
+    "extractionPreview": "The d-block of the periodic table contains the elements\nof the groups 3-12 in which the d orbitals are\nprogressively filled in each of the four long periods.\nThe f-block consists of elements in which 4 f and 5 f\norbitals are progressively filled. They are placed in a\nseparate panel at the bottom of the periodic table. The\nnames transition metals and inner transition metals\nare often used to refer to the elements of d-and\nf-blocks respectively.\nThere are mainly four series of the transition metal",
+    "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 4.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 4?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 4.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 4 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 4.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 4, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 4 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 4?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 4.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 4?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,49 +154,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 4?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "explain-1",
-          "text": "The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "explain-2",
-          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "explain-3",
-          "text": "They are placed in a separate panel at the bottom of the periodic table.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods. The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 4 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd), 5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "The two series of the inner transition metals; 4f (Ce to Lu) and 5f (Th to Lr) are known as lanthanoids and actinoids respectively.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "Originally the name transition metals was derived from the fact that their chemical properties were transitional between those of s and p-block elements.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd), 5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn. The two series of the inner transition metals; 4f (Ce to Lu) and 5f (Th to Lr) are known as lanthanoids and actinoids respectively. Originally the name transition metals was derived from the fact that their chemical properties were transitional between those of s and p-block elements. Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 4, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "Zinc, cadmium and mercury of group 12 have full d 10 configuration in their ground state as well as in their common oxidation states and hence, are not regarded as transition metals.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "However, being the end members of the 3d, 4d and 5d transition series, respectively, their chemistry is studied along with the chemistry of the transition metals.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "Objectives Iron, copper, silver and gold are among the transition elements that have played important roles in the development of human civilisation.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "The inner transition elements such as Th, Pa and U are proving excellent sources of nuclear energy in modern times.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Zinc, cadmium and mercury of group 12 have full d 10 configuration in their ground state as well as in their common oxidation states and hence, are not regarded as transition metals. However, being the end members of the 3d, 4d and 5d transition series, respectively, their chemistry is studied along with the chemistry of the transition metals. Objectives Iron, copper, silver and gold are among the transition elements that have played important roles in the development of human civilisation. The inner transition elements such as Th, Pa and U are proving excellent sources of nuclear energy in modern times.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 4 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 4 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "4 Unit Unit Unit Unit Unit4 Reprint 2025-26 90 Chemistry the non-transition elements.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "Hence, transition elements and their compounds are studied separately.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "However, the usual theory of valence as applicable to the non- transition elements can be applied successfully to the transition elements also.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "Various precious metals such as silver, gold and platinum and industrially important metals like iron, copper and titanium belong to the transition metals series.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "4 Unit Unit Unit Unit Unit4 Reprint 2025-26 90 Chemistry the non-transition elements. Hence, transition elements and their compounds are studied separately. However, the usual theory of valence as applicable to the non- transition elements can be applied successfully to the transition elements also. Various precious metals such as silver, gold and platinum and industrially important metals like iron, copper and titanium belong to the transition metals series.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 4?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "THE TRANSITION ELEMENTS (d-BLOCK) The d-block occupies the large middle section of the periodic table flanked between s- and p- blocks in the periodic table.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "The d-orbitals of the penultimate energy level of atoms receive electrons giving rise to four rows of the transition metals, i.e., 3d, 4d, 5d and 6d.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "All these series of transition elements are shown in Table 4.1.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "In general the electronic configuration of outer orbitals of these elements is (n-1)d 1- 10ns 1-2except for Pd where its electronic configuration is 4d105s0.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "THE TRANSITION ELEMENTS (d-BLOCK) The d-block occupies the large middle section of the periodic table flanked between s- and p- blocks in the periodic table. The d-orbitals of the penultimate energy level of atoms receive electrons giving rise to four rows of the transition metals, i.e., 3d, 4d, 5d and 6d. All these series of transition elements are shown in Table 4.1. In general the electronic configuration of outer orbitals of these elements is (n-1)d 1- 10ns 1-2except for Pd where its electronic configuration is 4d105s0.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 4, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "The (n-1) stands for the inner d orbitals which may have one to ten electrons and the outermost ns orbital may have one or two electrons.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "However, this generalisation has several exceptions because of very little energy difference between (n-1)d and ns orbitals.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "Furthermore, half and completely filled sets of orbitals are relatively more stable.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "A consequence of this factor is reflected in the electronic configurations of Cr and Cu in the 3d series.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The (n-1) stands for the inner d orbitals which may have one to ten electrons and the outermost ns orbital may have one or two electrons. However, this generalisation has several exceptions because of very little energy difference between (n-1)d and ns orbitals. Furthermore, half and completely filled sets of orbitals are relatively more stable. A consequence of this factor is reflected in the electronic configurations of Cr and Cu in the 3d series.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,49 +790,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Complete a passage from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "fill_blanks-1",
-          "text": "The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "fill_blanks-2",
-          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "fill_blanks-3",
-          "text": "They are placed in a separate panel at the bottom of the periodic table.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods. The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Classify statements based on Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd), 5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "The two series of the inner transition metals; 4f (Ce to Lu) and 5f (Th to Lr) are known as lanthanoids and actinoids respectively.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "Originally the name transition metals was derived from the fact that their chemical properties were transitional between those of s and p-block elements.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd), 5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn. The two series of the inner transition metals; 4f (Ce to Lu) and 5f (Th to Lr) are known as lanthanoids and actinoids respectively. Originally the name transition metals was derived from the fact that their chemical properties were transitional between those of s and p-block elements. Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "List key points from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "Zinc, cadmium and mercury of group 12 have full d 10 configuration in their ground state as well as in their common oxidation states and hence, are not regarded as transition metals.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "However, being the end members of the 3d, 4d and 5d transition series, respectively, their chemistry is studied along with the chemistry of the transition metals.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "Objectives Iron, copper, silver and gold are among the transition elements that have played important roles in the development of human civilisation.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "The inner transition elements such as Th, Pa and U are proving excellent sources of nuclear energy in modern times.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Zinc, cadmium and mercury of group 12 have full d 10 configuration in their ground state as well as in their common oxidation states and hence, are not regarded as transition metals. However, being the end members of the 3d, 4d and 5d transition series, respectively, their chemistry is studied along with the chemistry of the transition metals. Objectives Iron, copper, silver and gold are among the transition elements that have played important roles in the development of human civilisation. The inner transition elements such as Th, Pa and U are proving excellent sources of nuclear energy in modern times.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "4 Unit Unit Unit Unit Unit4 Reprint 2025-26 90 Chemistry the non-transition elements.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "Hence, transition elements and their compounds are studied separately.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "However, the usual theory of valence as applicable to the non- transition elements can be applied successfully to the transition elements also.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "Various precious metals such as silver, gold and platinum and industrially important metals like iron, copper and titanium belong to the transition metals series.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "4 Unit Unit Unit Unit Unit4 Reprint 2025-26 90 Chemistry the non-transition elements. Hence, transition elements and their compounds are studied separately. However, the usual theory of valence as applicable to the non- transition elements can be applied successfully to the transition elements also. Various precious metals such as silver, gold and platinum and industrially important metals like iron, copper and titanium belong to the transition metals series.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Use chapter information from Chapter 4 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 4 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "THE TRANSITION ELEMENTS (d-BLOCK) The d-block occupies the large middle section of the periodic table flanked between s- and p- blocks in the periodic table.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "The d-orbitals of the penultimate energy level of atoms receive electrons giving rise to four rows of the transition metals, i.e., 3d, 4d, 5d and 6d.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "All these series of transition elements are shown in Table 4.1.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "In general the electronic configuration of outer orbitals of these elements is (n-1)d 1- 10ns 1-2except for Pd where its electronic configuration is 4d105s0.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "THE TRANSITION ELEMENTS (d-BLOCK) The d-block occupies the large middle section of the periodic table flanked between s- and p- blocks in the periodic table. The d-orbitals of the penultimate energy level of atoms receive electrons giving rise to four rows of the transition metals, i.e., 3d, 4d, 5d and 6d. All these series of transition elements are shown in Table 4.1. In general the electronic configuration of outer orbitals of these elements is (n-1)d 1- 10ns 1-2except for Pd where its electronic configuration is 4d105s0.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "The (n-1) stands for the inner d orbitals which may have one to ten electrons and the outermost ns orbital may have one or two electrons.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "However, this generalisation has several exceptions because of very little energy difference between (n-1)d and ns orbitals.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "Furthermore, half and completely filled sets of orbitals are relatively more stable.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "A consequence of this factor is reflected in the electronic configurations of Cr and Cu in the 3d series.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "Similarly in case of Cu, the configuration is 3d 104s 1 and not 3d 94s 2.",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The (n-1) stands for the inner d orbitals which may have one to ten electrons and the outermost ns orbital may have one or two electrons. However, this generalisation has several exceptions because of very little energy difference between (n-1)d and ns orbitals. Furthermore, half and completely filled sets of orbitals are relatively more stable. A consequence of this factor is reflected in the electronic configurations of Cr and Cu in the 3d series. Similarly in case of Cu, the configuration is 3d 104s 1 and not 3d 94s 2.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,48 +1435,48 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Build a definition from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 4?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "definition_term-1",
-          "text": "The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "definition_term-2",
-          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "definition_term-3",
-          "text": "They are placed in a separate panel at the bottom of the periodic table.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods. The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 4 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd), 5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "The two series of the inner transition metals; 4f (Ce to Lu) and 5f (Th to Lr) are known as lanthanoids and actinoids respectively.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "Originally the name transition metals was derived from the fact that their chemical properties were transitional between those of s and p-block elements.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "Zinc, cadmium and mercury of group 12 have full d 10 configuration in their ground state as well as in their common oxidation states and hence, are not regarded as transition metals.",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd), 5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn. The two series of the inner transition metals; 4f (Ce to Lu) and 5f (Th to Lr) are known as lanthanoids and actinoids respectively. Originally the name transition metals was derived from the fact that their chemical properties were transitional between those of s and p-block elements. Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions. Zinc, cadmium and mercury of group 12 have full d 10 configuration in their ground state as well as in their common oxidation states and hence, are not regarded as transition metals.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "However, being the end members of the 3d, 4d and 5d transition series, respectively, their chemistry is studied along with the chemistry of the transition metals.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "Objectives Iron, copper, silver and gold are among the transition elements that have played important roles in the development of human civilisation.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "The inner transition elements such as Th, Pa and U are proving excellent sources of nuclear energy in modern times.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "However, being the end members of the 3d, 4d and 5d transition series, respectively, their chemistry is studied along with the chemistry of the transition metals. Objectives Iron, copper, silver and gold are among the transition elements that have played important roles in the development of human civilisation. The inner transition elements such as Th, Pa and U are proving excellent sources of nuclear energy in modern times.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "4 Unit Unit Unit Unit Unit4 Reprint 2025-26 90 Chemistry the non-transition elements.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "Hence, transition elements and their compounds are studied separately.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "However, the usual theory of valence as applicable to the non- transition elements can be applied successfully to the transition elements also.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "4 Unit Unit Unit Unit Unit4 Reprint 2025-26 90 Chemistry the non-transition elements. Hence, transition elements and their compounds are studied separately. However, the usual theory of valence as applicable to the non- transition elements can be applied successfully to the transition elements also.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Sequence a process from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 4 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "Various precious metals such as silver, gold and platinum and industrially important metals like iron, copper and titanium belong to the transition metals series.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "THE TRANSITION ELEMENTS (d-BLOCK) The d-block occupies the large middle section of the periodic table flanked between s- and p- blocks in the periodic table.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "The d-orbitals of the penultimate energy level of atoms receive electrons giving rise to four rows of the transition metals, i.e., 3d, 4d, 5d and 6d.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "All these series of transition elements are shown in Table 4.1.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Various precious metals such as silver, gold and platinum and industrially important metals like iron, copper and titanium belong to the transition metals series. THE TRANSITION ELEMENTS (d-BLOCK) The d-block occupies the large middle section of the periodic table flanked between s- and p- blocks in the periodic table. The d-orbitals of the penultimate energy level of atoms receive electrons giving rise to four rows of the transition metals, i.e., 3d, 4d, 5d and 6d. All these series of transition elements are shown in Table 4.1.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "In general the electronic configuration of outer orbitals of these elements is (n-1)d 1- 10ns 1-2except for Pd where its electronic configuration is 4d105s0.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "The (n-1) stands for the inner d orbitals which may have one to ten electrons and the outermost ns orbital may have one or two electrons.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "However, this generalisation has several exceptions because of very little energy difference between (n-1)d and ns orbitals.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In general the electronic configuration of outer orbitals of these elements is (n-1)d 1- 10ns 1-2except for Pd where its electronic configuration is 4d105s0. The (n-1) stands for the inner d orbitals which may have one to ten electrons and the outermost ns orbital may have one or two electrons. However, this generalisation has several exceptions because of very little energy difference between (n-1)d and ns orbitals.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "Furthermore, half and completely filled sets of orbitals are relatively more stable.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "A consequence of this factor is reflected in the electronic configurations of Cr and Cu in the 3d series.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "Similarly in case of Cu, the configuration is 3d 104s 1 and not 3d 94s 2.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "The ground state electronic configurations of the outer orbitals of transition elements are given in Table 4.1.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Furthermore, half and completely filled sets of orbitals are relatively more stable. A consequence of this factor is reflected in the electronic configurations of Cr and Cu in the 3d series. Similarly in case of Cu, the configuration is 3d 104s 1 and not 3d 94s 2. The ground state electronic configurations of the outer orbitals of transition elements are given in Table 4.1.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "The orbitals in these elements are completely filled in the ground state as well as in their common oxidation states.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "Therefore, they are not regarded as transition elements.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The orbitals in these elements are completely filled in the ground state as well as in their common oxidation states. Therefore, they are not regarded as transition elements.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "In some respects, ions of a given d n configuration (n = 1 - 9) have similar magnetic and electronic properties.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "The transition metals and their compounds also exhibit catalytic property and paramagnetic behaviour.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In some respects, ions of a given d n configuration (n = 1 - 9) have similar magnetic and electronic properties. The transition metals and their compounds also exhibit catalytic property and paramagnetic behaviour. The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,39 +2292,39 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-e-1",
-          "text": "The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1,
           "section": "Introduction"
         },
         {
           "id": "chapter-q01-chapter-overview-e-2",
-          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2,
           "section": "Key idea 1"
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "They are placed in a separate panel at the bottom of the periodic table.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods. The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "The d-block of the periodic table contains the elements of the groups 3-12 in",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "which the d orbitals are progressively filled in each of the four long periods.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "The f-block consists of elements in which 4",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "f and 5 f orbitals are progressively filled.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "They are placed in a separate panel",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "at the bottom of the periodic table.",
+          "text": "The answer should use details from Chapter 4.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "The names transition metals and inner transition metals are often",
+          "text": "A clear response should stay connected to Chapter 4.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "used to refer to the elements of d-and f-blocks respectively.",
+          "text": "Students should arrange the points from Chapter 4 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods. The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "the",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "the",
+          "text": "The answer should use details from Chapter 4.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The d-block of the periodic table contains the elements of the groups 3-12 in which the d orbitals are progressively filled in each of the four long periods. The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd), 5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "The two series of the inner transition metals; 4f (Ce to Lu) and 5f (Th to Lr) are known as lanthanoids and actinoids respectively.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "Originally the name transition metals was derived from the fact that their chemical properties were transitional between those of s and p-block elements.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd), 5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn. The two series of the inner transition metals; 4f (Ce to Lu) and 5f (Th to Lr) are known as lanthanoids and actinoids respectively. Originally the name transition metals was derived from the fact that their chemical properties were transitional between those of s and p-block elements. Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd),",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "The two series of the inner transition metals; 4f (Ce to Lu)",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "and 5f (Th to Lr) are known as lanthanoids and actinoids respectively.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "Originally the name transition metals was derived from the fact that",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "their chemical properties were transitional between those of s and p-block elements.",
+          "text": "The answer should use details from Chapter 4.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "Now according to IUPAC, transition metals are defined as metals which",
+          "text": "A clear response should stay connected to Chapter 4.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "have incomplete d subshell either in neutral atom or in their ions.",
+          "text": "Students should arrange the points from Chapter 4 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd), 5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn. The two series of the inner transition metals; 4f (Ce to Lu) and 5f (Th to Lr) are known as lanthanoids and actinoids respectively. Originally the name transition metals was derived from the fact that their chemical properties were transitional between those of s and p-block elements. Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "there",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "the",
+          "text": "The answer should use details from Chapter 4.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There are mainly four series of the transition metals, 3d series (Sc to Zn), 4d series (Y to Cd), 5d series (La and Hf to Hg) and 6d series which has Ac and elements from Rf to Cn. The two series of the inner transition metals; 4f (Ce to Lu) and 5f (Th to Lr) are known as lanthanoids and actinoids respectively. Originally the name transition metals was derived from the fact that their chemical properties were transitional between those of s and p-block elements. Now according to IUPAC, transition metals are defined as metals which have incomplete d subshell either in neutral atom or in their ions.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "Zinc, cadmium and mercury of group 12 have full d 10 configuration in their ground state as well as in their common oxidation states and hence, are not regarded as transition metals.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "However, being the end members of the 3d, 4d and 5d transition series, respectively, their chemistry is studied along with the chemistry of the transition metals.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "Objectives Iron, copper, silver and gold are among the transition elements that have played important roles in the development of human civilisation.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "The inner transition elements such as Th, Pa and U are proving excellent sources of nuclear energy in modern times.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Zinc, cadmium and mercury of group 12 have full d 10 configuration in their ground state as well as in their common oxidation states and hence, are not regarded as transition metals. However, being the end members of the 3d, 4d and 5d transition series, respectively, their chemistry is studied along with the chemistry of the transition metals. Objectives Iron, copper, silver and gold are among the transition elements that have played important roles in the development of human civilisation. The inner transition elements such as Th, Pa and U are proving excellent sources of nuclear energy in modern times.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "Zinc, cadmium and mercury of group 12 have full d 10 configuration in their ground state",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "as well as in their common oxidation states and hence, are not regarded as transition metals.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "However, being the end members of the 3d, 4d and 5d transition series,",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "respectively, their chemistry is studied along with the chemistry of the transition metals.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "Objectives Iron, copper, silver and gold are among the transition elements",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "that have played important roles in the development of human civilisation.",
+          "text": "The answer should use details from Chapter 4.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "The inner transition elements such as Th, Pa and U",
+          "text": "A clear response should stay connected to Chapter 4.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "are proving excellent sources of nuclear energy in modern times.",
+          "text": "Students should arrange the points from Chapter 4 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Zinc, cadmium and mercury of group 12 have full d 10 configuration in their ground state as well as in their common oxidation states and hence, are not regarded as transition metals. However, being the end members of the 3d, 4d and 5d transition series, respectively, their chemistry is studied along with the chemistry of the transition metals. Objectives Iron, copper, silver and gold are among the transition elements that have played important roles in the development of human civilisation. The inner transition elements such as Th, Pa and U are proving excellent sources of nuclear energy in modern times.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "zinc,",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "however,",
+          "text": "The answer should use details from Chapter 4.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Zinc, cadmium and mercury of group 12 have full d 10 configuration in their ground state as well as in their common oxidation states and hence, are not regarded as transition metals. However, being the end members of the 3d, 4d and 5d transition series, respectively, their chemistry is studied along with the chemistry of the transition metals. Objectives Iron, copper, silver and gold are among the transition elements that have played important roles in the development of human civilisation. The inner transition elements such as Th, Pa and U are proving excellent sources of nuclear energy in modern times.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Define an important term from Chapter 4 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "4 Unit Unit Unit Unit Unit4 Reprint 2025-26 90 Chemistry the non-transition elements.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "Hence, transition elements and their compounds are studied separately.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "However, the usual theory of valence as applicable to the non- transition elements can be applied successfully to the transition elements also.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "Various precious metals such as silver, gold and platinum and industrially important metals like iron, copper and titanium belong to the transition metals series.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "4 Unit Unit Unit Unit Unit4 Reprint 2025-26 90 Chemistry the non-transition elements. Hence, transition elements and their compounds are studied separately. However, the usual theory of valence as applicable to the non- transition elements can be applied successfully to the transition elements also. Various precious metals such as silver, gold and platinum and industrially important metals like iron, copper and titanium belong to the transition metals series.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Define an important term from Chapter 4 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "4 Unit Unit Unit Unit Unit4",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "Reprint 2025-26 90 Chemistry the non-transition elements.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "Hence, transition elements and",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "their compounds are studied separately.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "However, the usual theory of valence as applicable to the non-",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "transition elements can be applied successfully to the transition elements also.",
+          "text": "The answer should use details from Chapter 4.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "Various precious metals such as silver, gold and platinum and industrially important",
+          "text": "A clear response should stay connected to Chapter 4.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "metals like iron, copper and titanium belong to the transition metals series.",
+          "text": "Students should arrange the points from Chapter 4 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "4 Unit Unit Unit Unit Unit4 Reprint 2025-26 90 Chemistry the non-transition elements. Hence, transition elements and their compounds are studied separately. However, the usual theory of valence as applicable to the non- transition elements can be applied successfully to the transition elements also. Various precious metals such as silver, gold and platinum and industrially important metals like iron, copper and titanium belong to the transition metals series.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Define an important term from Chapter 4 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "4",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "hence,",
+          "text": "The answer should use details from Chapter 4.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "4 Unit Unit Unit Unit Unit4 Reprint 2025-26 90 Chemistry the non-transition elements. Hence, transition elements and their compounds are studied separately. However, the usual theory of valence as applicable to the non- transition elements can be applied successfully to the transition elements also. Various precious metals such as silver, gold and platinum and industrially important metals like iron, copper and titanium belong to the transition metals series.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "THE TRANSITION ELEMENTS (d-BLOCK) The d-block occupies the large middle section of the periodic table flanked between s- and p- blocks in the periodic table.",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "The d-orbitals of the penultimate energy level of atoms receive electrons giving rise to four rows of the transition metals, i.e., 3d, 4d, 5d and 6d.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "All these series of transition elements are shown in Table 4.1.",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "In general the electronic configuration of outer orbitals of these elements is (n-1)d 1- 10ns 1-2except for Pd where its electronic configuration is 4d105s0.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "THE TRANSITION ELEMENTS (d-BLOCK) The d-block occupies the large middle section of the periodic table flanked between s- and p- blocks in the periodic table. The d-orbitals of the penultimate energy level of atoms receive electrons giving rise to four rows of the transition metals, i.e., 3d, 4d, 5d and 6d. All these series of transition elements are shown in Table 4.1. In general the electronic configuration of outer orbitals of these elements is (n-1)d 1- 10ns 1-2except for Pd where its electronic configuration is 4d105s0.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "THE TRANSITION ELEMENTS (d-BLOCK) The d-block occupies the large middle section of",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "the periodic table flanked between s- and p- blocks in the periodic table.",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "The d-orbitals of the penultimate energy level of atoms receive electrons giving rise",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "to four rows of the transition metals, i.e., 3d, 4d, 5d and 6d.",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "All these series of transition",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "elements are shown in Table 4.1.",
+          "text": "The answer should use details from Chapter 4.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "In general the electronic configuration of outer orbitals of these elements is",
+          "text": "A clear response should stay connected to Chapter 4.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "(n-1)d 1- 10ns 1-2except for Pd where its electronic configuration is 4d105s0.",
+          "text": "Students should arrange the points from Chapter 4 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "THE TRANSITION ELEMENTS (d-BLOCK) The d-block occupies the large middle section of the periodic table flanked between s- and p- blocks in the periodic table. The d-orbitals of the penultimate energy level of atoms receive electrons giving rise to four rows of the transition metals, i.e., 3d, 4d, 5d and 6d. All these series of transition elements are shown in Table 4.1. In general the electronic configuration of outer orbitals of these elements is (n-1)d 1- 10ns 1-2except for Pd where its electronic configuration is 4d105s0.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Chemistry  - Part 1, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from Chemistry  - Part 1, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\Chemistry  - Part 1\\lech104.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "They are placed in a separate panel at the bottom of the periodic table.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "There are mainly four series of the transition metal.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "the",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "the",
+          "text": "The answer should use details from Chapter 4.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "THE TRANSITION ELEMENTS (d-BLOCK) The d-block occupies the large middle section of the periodic table flanked between s- and p- blocks in the periodic table. The d-orbitals of the penultimate energy level of atoms receive electrons giving rise to four rows of the transition metals, i.e., 3d, 4d, 5d and 6d. All these series of transition elements are shown in Table 4.1. In general the electronic configuration of outer orbitals of these elements is (n-1)d 1- 10ns 1-2except for Pd where its electronic configuration is 4d105s0.",
+      "modelAnswer": "The f-block consists of elements in which 4 f and 5 f orbitals are progressively filled. They are placed in a separate panel at the bottom of the periodic table. The names transition metals and inner transition metals are often used to refer to the elements of d-and f-blocks respectively. There are mainly four series of the transition metal.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

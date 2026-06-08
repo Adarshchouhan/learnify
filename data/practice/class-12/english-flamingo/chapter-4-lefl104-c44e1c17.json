@@ -12,7 +12,8 @@
     "chapterNumber": 4,
     "pageCount": null,
     "extractedCharacterCount": 26049,
-    "extractionPreview": "The Rattrap\nAbout the author\nSelma Lagerlöf (1858-1940) was a Swedish writer whose stories \nhave been translated into many languages. A universal theme \nruns through all of them - a belief that the essential goodness \nin a human being can be awakened through understanding and \nlove. This story is set amidst the mines of Sweden, rich in iron \nore, which figure large in the history and legends of that country. \nThe story is told somewhat in the manner of a fairy tale.\nNotice these expressions in t"
+    "extractionPreview": "The Rattrap\nAbout the author\nSelma Lagerlöf (1858-1940) was a Swedish writer whose stories \nhave been translated into many languages. A universal theme \nruns through all of them - a belief that the essential goodness \nin a human being can be awakened through understanding and \nlove. This story is set amidst the mines of Sweden, rich in iron \nore, which figure large in the history and legends of that country. \nThe story is told somewhat in the manner of a fairy tale.\nNotice these expressions in t",
+    "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 4.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 4?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 4.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 4 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 4.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 4, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 4 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 4?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 4.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 4?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 4?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
@@ -177,25 +178,25 @@
         },
         {
           "id": "explain-3",
-          "text": "The story is told somewhat in the manner of a fairy tale.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "He made them himself at odd moments, from the material he got by begging in the stores or at the big farms.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. The story is told somewhat in the manner of a fairy tale. He made them himself at odd moments, from the material he got by begging in the stores or at the big farms.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 4 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "But even so, the business was not especially profitable, so he had to resort to both begging and petty thievery to keep body and soul together.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "Even so, his clothes were in rags, his cheeks were sunken, and hunger gleamed in his eyes.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "No one can imagine how sad and monotonous life can appear to such a vagabond, who plods along the road, left to his own meditations.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "But one day this man had fallen into a line of thought, which really seemed to him entertaining.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But even so, the business was not especially profitable, so he had to resort to both begging and petty thievery to keep body and soul together. Even so, his clothes were in rags, his cheeks were sunken, and hunger gleamed in his eyes. No one can imagine how sad and monotonous life can appear to such a vagabond, who plods along the road, left to his own meditations. But one day this man had fallen into a line of thought, which really seemed to him entertaining.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 4, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "It had never existed for any other purpose than to set baits for people.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "The world had, of course, never been very kind to him, so it gave him unwonted joy to think ill of it in this way.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "One dark evening as he was trudging along the road he caught sight of a little gray cottage by the roadside, and he knocked on the door to ask shelter for the night.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "Instead of the sour faces which ordinarily met him, the owner, who was an old man without wife or child, was happy to get someone to talk to in his loneliness.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It had never existed for any other purpose than to set baits for people. The world had, of course, never been very kind to him, so it gave him unwonted joy to think ill of it in this way. One dark evening as he was trudging along the road he caught sight of a little gray cottage by the roadside, and he knocked on the door to ask shelter for the night. Instead of the sour faces which ordinarily met him, the owner, who was an old man without wife or child, was happy to get someone to talk to in his loneliness.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 4 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 4 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "Immediately he put the porridge pot on the fire and gave him supper; then he carved off such a big slice from his tobacco roll that it was enough both for the stranger's pipe and his own.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "Finally he got out an old pack of cards and played 'mjolis' with his guest until bedtime.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "The old man was just as generous with his confidences as with his porridge and tobacco.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "The guest was informed at once that in his days of prosperity his host had been a crofter at Ramsjo Ironworks and had worked on the land.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Immediately he put the porridge pot on the fire and gave him supper; then he carved off such a big slice from his tobacco roll that it was enough both for the stranger's pipe and his own. Finally he got out an old pack of cards and played 'mjolis' with his guest until bedtime. The old man was just as generous with his confidences as with his porridge and tobacco. The guest was informed at once that in his days of prosperity his host had been a crofter at Ramsjo Ironworks and had worked on the land.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 4?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "Now that he was no longer able to do day labour, it was his cow which supported him.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "She could give milk for the creamery every day, and last month he had received all of thirty kronor in payment.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "These he held up before the eyes of his guest, nodding knowingly, and then stuffed them back into the pouch.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "The crofter was in a hurry to milk his cow, and the other man probably thought he should not stay in bed when the head of the house had gotten up.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now that he was no longer able to do day labour, it was his cow which supported him. She could give milk for the creamery every day, and last month he had received all of thirty kronor in payment. These he held up before the eyes of his guest, nodding knowingly, and then stuffed them back into the pouch. The crofter was in a hurry to milk his cow, and the other man probably thought he should not stay in bed when the head of the house had gotten up.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 4, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "The crofter locked the door and put the key in his pocket.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "The man with the rattraps said good bye and thank you, and thereupon each went his own way.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "Reprint 2026-27 34/Flamingo But half an hour later the rattrap peddler stood again before the door.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "He only went up to the window, smashed a pane, stuck in his hand, and got hold of the pouch with the thirty kronor.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The crofter locked the door and put the key in his pocket. The man with the rattraps said good bye and thank you, and thereupon each went his own way. Reprint 2026-27 34/Flamingo But half an hour later the rattrap peddler stood again before the door. He only went up to the window, smashed a pane, stuck in his hand, and got hold of the pouch with the thirty kronor.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Complete a passage from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
@@ -813,25 +814,25 @@
         },
         {
           "id": "fill_blanks-3",
-          "text": "The story is told somewhat in the manner of a fairy tale.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "He made them himself at odd moments, from the material he got by begging in the stores or at the big farms.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. The story is told somewhat in the manner of a fairy tale. He made them himself at odd moments, from the material he got by begging in the stores or at the big farms.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Classify statements based on Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "But even so, the business was not especially profitable, so he had to resort to both begging and petty thievery to keep body and soul together.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "Even so, his clothes were in rags, his cheeks were sunken, and hunger gleamed in his eyes.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "No one can imagine how sad and monotonous life can appear to such a vagabond, who plods along the road, left to his own meditations.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "But one day this man had fallen into a line of thought, which really seemed to him entertaining.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But even so, the business was not especially profitable, so he had to resort to both begging and petty thievery to keep body and soul together. Even so, his clothes were in rags, his cheeks were sunken, and hunger gleamed in his eyes. No one can imagine how sad and monotonous life can appear to such a vagabond, who plods along the road, left to his own meditations. But one day this man had fallen into a line of thought, which really seemed to him entertaining.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "List key points from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "It had never existed for any other purpose than to set baits for people.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "The world had, of course, never been very kind to him, so it gave him unwonted joy to think ill of it in this way.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "One dark evening as he was trudging along the road he caught sight of a little gray cottage by the roadside, and he knocked on the door to ask shelter for the night.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "Instead of the sour faces which ordinarily met him, the owner, who was an old man without wife or child, was happy to get someone to talk to in his loneliness.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It had never existed for any other purpose than to set baits for people. The world had, of course, never been very kind to him, so it gave him unwonted joy to think ill of it in this way. One dark evening as he was trudging along the road he caught sight of a little gray cottage by the roadside, and he knocked on the door to ask shelter for the night. Instead of the sour faces which ordinarily met him, the owner, who was an old man without wife or child, was happy to get someone to talk to in his loneliness.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "Immediately he put the porridge pot on the fire and gave him supper; then he carved off such a big slice from his tobacco roll that it was enough both for the stranger's pipe and his own.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "Finally he got out an old pack of cards and played 'mjolis' with his guest until bedtime.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "The old man was just as generous with his confidences as with his porridge and tobacco.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "The guest was informed at once that in his days of prosperity his host had been a crofter at Ramsjo Ironworks and had worked on the land.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Immediately he put the porridge pot on the fire and gave him supper; then he carved off such a big slice from his tobacco roll that it was enough both for the stranger's pipe and his own. Finally he got out an old pack of cards and played 'mjolis' with his guest until bedtime. The old man was just as generous with his confidences as with his porridge and tobacco. The guest was informed at once that in his days of prosperity his host had been a crofter at Ramsjo Ironworks and had worked on the land.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Use chapter information from Chapter 4 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 4 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "Now that he was no longer able to do day labour, it was his cow which supported him.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "She could give milk for the creamery every day, and last month he had received all of thirty kronor in payment.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "These he held up before the eyes of his guest, nodding knowingly, and then stuffed them back into the pouch.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "The crofter was in a hurry to milk his cow, and the other man probably thought he should not stay in bed when the head of the house had gotten up.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now that he was no longer able to do day labour, it was his cow which supported him. She could give milk for the creamery every day, and last month he had received all of thirty kronor in payment. These he held up before the eyes of his guest, nodding knowingly, and then stuffed them back into the pouch. The crofter was in a hurry to milk his cow, and the other man probably thought he should not stay in bed when the head of the house had gotten up.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "The crofter locked the door and put the key in his pocket.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "The man with the rattraps said good bye and thank you, and thereupon each went his own way.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "Reprint 2026-27 34/Flamingo But half an hour later the rattrap peddler stood again before the door.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "He only went up to the window, smashed a pane, stuck in his hand, and got hold of the pouch with the thirty kronor.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "Then he hung the leather pouch very carefully back in its place and went away.",
+          "text": "Notice these expressions in t.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The crofter locked the door and put the key in his pocket. The man with the rattraps said good bye and thank you, and thereupon each went his own way. Reprint 2026-27 34/Flamingo But half an hour later the rattrap peddler stood again before the door. He only went up to the window, smashed a pane, stuck in his hand, and got hold of the pouch with the thirty kronor. Then he hung the leather pouch very carefully back in its place and went away.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Build a definition from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 4?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
@@ -1457,25 +1458,25 @@
         },
         {
           "id": "definition_term-3",
-          "text": "The story is told somewhat in the manner of a fairy tale.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "He made them himself at odd moments, from the material he got by begging in the stores or at the big farms.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. The story is told somewhat in the manner of a fairy tale. He made them himself at odd moments, from the material he got by begging in the stores or at the big farms.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 4 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "But even so, the business was not especially profitable, so he had to resort to both begging and petty thievery to keep body and soul together.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "Even so, his clothes were in rags, his cheeks were sunken, and hunger gleamed in his eyes.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "No one can imagine how sad and monotonous life can appear to such a vagabond, who plods along the road, left to his own meditations.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "But one day this man had fallen into a line of thought, which really seemed to him entertaining.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "It had never existed for any other purpose than to set baits for people.",
+          "text": "Notice these expressions in t.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But even so, the business was not especially profitable, so he had to resort to both begging and petty thievery to keep body and soul together. Even so, his clothes were in rags, his cheeks were sunken, and hunger gleamed in his eyes. No one can imagine how sad and monotonous life can appear to such a vagabond, who plods along the road, left to his own meditations. But one day this man had fallen into a line of thought, which really seemed to him entertaining. It had never existed for any other purpose than to set baits for people.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "The world had, of course, never been very kind to him, so it gave him unwonted joy to think ill of it in this way.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "One dark evening as he was trudging along the road he caught sight of a little gray cottage by the roadside, and he knocked on the door to ask shelter for the night.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "Instead of the sour faces which ordinarily met him, the owner, who was an old man without wife or child, was happy to get someone to talk to in his loneliness.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The world had, of course, never been very kind to him, so it gave him unwonted joy to think ill of it in this way. One dark evening as he was trudging along the road he caught sight of a little gray cottage by the roadside, and he knocked on the door to ask shelter for the night. Instead of the sour faces which ordinarily met him, the owner, who was an old man without wife or child, was happy to get someone to talk to in his loneliness.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "Immediately he put the porridge pot on the fire and gave him supper; then he carved off such a big slice from his tobacco roll that it was enough both for the stranger's pipe and his own.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "Finally he got out an old pack of cards and played 'mjolis' with his guest until bedtime.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "The old man was just as generous with his confidences as with his porridge and tobacco.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Immediately he put the porridge pot on the fire and gave him supper; then he carved off such a big slice from his tobacco roll that it was enough both for the stranger's pipe and his own. Finally he got out an old pack of cards and played 'mjolis' with his guest until bedtime. The old man was just as generous with his confidences as with his porridge and tobacco.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Sequence a process from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 4 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "The guest was informed at once that in his days of prosperity his host had been a crofter at Ramsjo Ironworks and had worked on the land.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "Now that he was no longer able to do day labour, it was his cow which supported him.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "She could give milk for the creamery every day, and last month he had received all of thirty kronor in payment.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "These he held up before the eyes of his guest, nodding knowingly, and then stuffed them back into the pouch.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The guest was informed at once that in his days of prosperity his host had been a crofter at Ramsjo Ironworks and had worked on the land. Now that he was no longer able to do day labour, it was his cow which supported him. She could give milk for the creamery every day, and last month he had received all of thirty kronor in payment. These he held up before the eyes of his guest, nodding knowingly, and then stuffed them back into the pouch.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "The crofter was in a hurry to milk his cow, and the other man probably thought he should not stay in bed when the head of the house had gotten up.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "The crofter locked the door and put the key in his pocket.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "The man with the rattraps said good bye and thank you, and thereupon each went his own way.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The crofter was in a hurry to milk his cow, and the other man probably thought he should not stay in bed when the head of the house had gotten up. The crofter locked the door and put the key in his pocket. The man with the rattraps said good bye and thank you, and thereupon each went his own way.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "Reprint 2026-27 34/Flamingo But half an hour later the rattrap peddler stood again before the door.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "He only went up to the window, smashed a pane, stuck in his hand, and got hold of the pouch with the thirty kronor.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "Then he hung the leather pouch very carefully back in its place and went away.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "As he walked along with the money in his pocket he felt quite pleased with his smartness.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2026-27 34/Flamingo But half an hour later the rattrap peddler stood again before the door. He only went up to the window, smashed a pane, stuck in his hand, and got hold of the pouch with the thirty kronor. Then he hung the leather pouch very carefully back in its place and went away. As he walked along with the money in his pocket he felt quite pleased with his smartness.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "He realised, of course, that at first he dared not continue on the public highway, but must turn off the road, into the woods.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "Later in the day it became worse, for it was a big and confusing forest which he had gotten into.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He realised, of course, that at first he dared not continue on the public highway, but must turn off the road, into the woods. Later in the day it became worse, for it was a big and confusing forest which he had gotten into.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 4.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "He tried, to be sure, to walk in a definite direction, but the paths twisted back and forth so strangely!",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "He walked and walked without coming to the end of the wood, and finally he realised that he had only been walking around in the same part of the forest.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 4 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He tried, to be sure, to walk in a definite direction, but the paths twisted back and forth so strangely! He walked and walked without coming to the end of the wood, and finally he realised that he had only been walking around in the same part of the forest. The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
@@ -2317,13 +2318,13 @@
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "The story is told somewhat in the manner of a fairy tale.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "He made them himself at odd moments, from the material he got by begging in the stores or at the big farms.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. The story is told somewhat in the manner of a fairy tale. He made them himself at odd moments, from the material he got by begging in the stores or at the big farms.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "Swedish writer whose stories have been translated into many languages.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "A universal theme runs through all of them - a belief that the",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "essential goodness in a human being can be awakened through understanding and love.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "The story is told somewhat in",
+          "text": "Notice these expressions in t.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "the manner of a fairy tale.",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "He made them himself at odd moments, from the material he",
+          "text": "The answer should use details from Chapter 4.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "got by begging in the stores or at the big farms.",
+          "text": "A clear response should stay connected to Chapter 4.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. The story is told somewhat in the manner of a fairy tale. He made them himself at odd moments, from the material he got by begging in the stores or at the big farms.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "the",
+          "text": "Notice these expressions in t.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "a",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. The story is told somewhat in the manner of a fairy tale. He made them himself at odd moments, from the material he got by begging in the stores or at the big farms.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "But even so, the business was not especially profitable, so he had to resort to both begging and petty thievery to keep body and soul together.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "Even so, his clothes were in rags, his cheeks were sunken, and hunger gleamed in his eyes.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "No one can imagine how sad and monotonous life can appear to such a vagabond, who plods along the road, left to his own meditations.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "But one day this man had fallen into a line of thought, which really seemed to him entertaining.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But even so, the business was not especially profitable, so he had to resort to both begging and petty thievery to keep body and soul together. Even so, his clothes were in rags, his cheeks were sunken, and hunger gleamed in his eyes. No one can imagine how sad and monotonous life can appear to such a vagabond, who plods along the road, left to his own meditations. But one day this man had fallen into a line of thought, which really seemed to him entertaining.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "But even so, the business was not especially profitable, so he had to",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "resort to both begging and petty thievery to keep body and soul together.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "Even so, his clothes were in rags, his",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "cheeks were sunken, and hunger gleamed in his eyes.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "No one can imagine how sad and monotonous life can appear to",
+          "text": "Notice these expressions in t.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "such a vagabond, who plods along the road, left to his own meditations.",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "But one day this man had fallen into a",
+          "text": "The answer should use details from Chapter 4.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "line of thought, which really seemed to him entertaining.",
+          "text": "A clear response should stay connected to Chapter 4.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But even so, the business was not especially profitable, so he had to resort to both begging and petty thievery to keep body and soul together. Even so, his clothes were in rags, his cheeks were sunken, and hunger gleamed in his eyes. No one can imagine how sad and monotonous life can appear to such a vagabond, who plods along the road, left to his own meditations. But one day this man had fallen into a line of thought, which really seemed to him entertaining.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "but",
+          "text": "Notice these expressions in t.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "even",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But even so, the business was not especially profitable, so he had to resort to both begging and petty thievery to keep body and soul together. Even so, his clothes were in rags, his cheeks were sunken, and hunger gleamed in his eyes. No one can imagine how sad and monotonous life can appear to such a vagabond, who plods along the road, left to his own meditations. But one day this man had fallen into a line of thought, which really seemed to him entertaining.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "It had never existed for any other purpose than to set baits for people.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "The world had, of course, never been very kind to him, so it gave him unwonted joy to think ill of it in this way.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "One dark evening as he was trudging along the road he caught sight of a little gray cottage by the roadside, and he knocked on the door to ask shelter for the night.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "Instead of the sour faces which ordinarily met him, the owner, who was an old man without wife or child, was happy to get someone to talk to in his loneliness.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It had never existed for any other purpose than to set baits for people. The world had, of course, never been very kind to him, so it gave him unwonted joy to think ill of it in this way. One dark evening as he was trudging along the road he caught sight of a little gray cottage by the roadside, and he knocked on the door to ask shelter for the night. Instead of the sour faces which ordinarily met him, the owner, who was an old man without wife or child, was happy to get someone to talk to in his loneliness.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "It had never existed for any other",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "purpose than to set baits for people.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "The world had, of course, never been very kind to him, so",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "it gave him unwonted joy to think ill of it in this way.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "One dark evening as he was trudging along the road he caught sight of a little",
+          "text": "Notice these expressions in t.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "gray cottage by the roadside, and he knocked on the door to ask shelter for the night.",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "Instead of the sour faces which ordinarily met him, the owner, who was an old",
+          "text": "The answer should use details from Chapter 4.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "man without wife or child, was happy to get someone to talk to in his loneliness.",
+          "text": "A clear response should stay connected to Chapter 4.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It had never existed for any other purpose than to set baits for people. The world had, of course, never been very kind to him, so it gave him unwonted joy to think ill of it in this way. One dark evening as he was trudging along the road he caught sight of a little gray cottage by the roadside, and he knocked on the door to ask shelter for the night. Instead of the sour faces which ordinarily met him, the owner, who was an old man without wife or child, was happy to get someone to talk to in his loneliness.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "it",
+          "text": "Notice these expressions in t.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "the",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It had never existed for any other purpose than to set baits for people. The world had, of course, never been very kind to him, so it gave him unwonted joy to think ill of it in this way. One dark evening as he was trudging along the road he caught sight of a little gray cottage by the roadside, and he knocked on the door to ask shelter for the night. Instead of the sour faces which ordinarily met him, the owner, who was an old man without wife or child, was happy to get someone to talk to in his loneliness.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Define an important term from Chapter 4 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "Immediately he put the porridge pot on the fire and gave him supper; then he carved off such a big slice from his tobacco roll that it was enough both for the stranger's pipe and his own.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "Finally he got out an old pack of cards and played 'mjolis' with his guest until bedtime.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "The old man was just as generous with his confidences as with his porridge and tobacco.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "The guest was informed at once that in his days of prosperity his host had been a crofter at Ramsjo Ironworks and had worked on the land.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Immediately he put the porridge pot on the fire and gave him supper; then he carved off such a big slice from his tobacco roll that it was enough both for the stranger's pipe and his own. Finally he got out an old pack of cards and played 'mjolis' with his guest until bedtime. The old man was just as generous with his confidences as with his porridge and tobacco. The guest was informed at once that in his days of prosperity his host had been a crofter at Ramsjo Ironworks and had worked on the land.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Define an important term from Chapter 4 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "Immediately he put the porridge pot on the fire and gave him supper; then he carved off such",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "a big slice from his tobacco roll that it was enough both for the stranger's pipe and his own.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "Finally he got out an old pack of",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "cards and played 'mjolis' with his guest until bedtime.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "The old man was just as generous with",
+          "text": "Notice these expressions in t.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "his confidences as with his porridge and tobacco.",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "The guest was informed at once that in his days of prosperity his",
+          "text": "The answer should use details from Chapter 4.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "host had been a crofter at Ramsjo Ironworks and had worked on the land.",
+          "text": "A clear response should stay connected to Chapter 4.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Immediately he put the porridge pot on the fire and gave him supper; then he carved off such a big slice from his tobacco roll that it was enough both for the stranger's pipe and his own. Finally he got out an old pack of cards and played 'mjolis' with his guest until bedtime. The old man was just as generous with his confidences as with his porridge and tobacco. The guest was informed at once that in his days of prosperity his host had been a crofter at Ramsjo Ironworks and had worked on the land.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Define an important term from Chapter 4 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "immediately",
+          "text": "Notice these expressions in t.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "finally",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Immediately he put the porridge pot on the fire and gave him supper; then he carved off such a big slice from his tobacco roll that it was enough both for the stranger's pipe and his own. Finally he got out an old pack of cards and played 'mjolis' with his guest until bedtime. The old man was just as generous with his confidences as with his porridge and tobacco. The guest was informed at once that in his days of prosperity his host had been a crofter at Ramsjo Ironworks and had worked on the land.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "Now that he was no longer able to do day labour, it was his cow which supported him.",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "She could give milk for the creamery every day, and last month he had received all of thirty kronor in payment.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "These he held up before the eyes of his guest, nodding knowingly, and then stuffed them back into the pouch.",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "The crofter was in a hurry to milk his cow, and the other man probably thought he should not stay in bed when the head of the house had gotten up.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now that he was no longer able to do day labour, it was his cow which supported him. She could give milk for the creamery every day, and last month he had received all of thirty kronor in payment. These he held up before the eyes of his guest, nodding knowingly, and then stuffed them back into the pouch. The crofter was in a hurry to milk his cow, and the other man probably thought he should not stay in bed when the head of the house had gotten up.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "Now that he was no longer able to do",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "day labour, it was his cow which supported him.",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "She could give milk for the creamery every day, and",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "last month he had received all of thirty kronor in payment.",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "These he held up before the eyes of his guest,",
+          "text": "Notice these expressions in t.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "nodding knowingly, and then stuffed them back into the pouch.",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "The crofter was in a hurry to milk his cow, and the other man probably",
+          "text": "The answer should use details from Chapter 4.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "thought he should not stay in bed when the head of the house had gotten up.",
+          "text": "A clear response should stay connected to Chapter 4.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now that he was no longer able to do day labour, it was his cow which supported him. She could give milk for the creamery every day, and last month he had received all of thirty kronor in payment. These he held up before the eyes of his guest, nodding knowingly, and then stuffed them back into the pouch. The crofter was in a hurry to milk his cow, and the other man probably thought he should not stay in bed when the head of the house had gotten up.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 4",
       "chapterNumber": 4,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 4.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 4.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from English-Flamingo, Chapter Chapter 4.",
+      "sourceTextSummary": "Practice questions generated from English-Flamingo, lesson: Chapter 4.",
       "sourceChapter": "Chapter 4",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class12\\English-Flamingo\\lefl104.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "The story is told somewhat in the manner of a fairy tale.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "now",
+          "text": "Notice these expressions in t.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "she",
+          "text": "Chapter 4 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 4 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 4.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 4.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now that he was no longer able to do day labour, it was his cow which supported him. She could give milk for the creamery every day, and last month he had received all of thirty kronor in payment. These he held up before the eyes of his guest, nodding knowingly, and then stuffed them back into the pouch. The crofter was in a hurry to milk his cow, and the other man probably thought he should not stay in bed when the head of the house had gotten up.",
+      "modelAnswer": "The Rattrap About the author Selma Lagerlöf (1858-1940) was a Swedish writer whose stories have been translated into many languages. A universal theme runs through all of them - a belief that the essential goodness in a human being can be awakened through understanding and love. This story is set amidst the mines of Sweden, rich in iron ore, which figure large in the history and legends of that country. The story is told somewhat in the manner of a fairy tale.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

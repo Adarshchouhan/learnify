@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Learnify | Answer Writing Practice Platform</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="styles.css?v=class1-english-ai-1" />
   </head>
   <body>
     <div id="app">
@@ -31,7 +31,7 @@
         <main>
           <section class="hero-section">
             <div class="hero-copy">
-              <span class="tag">Class 6-12 Practice Platform</span>
+              <span class="tag">Class 1-12 Practice Platform</span>
               <h1>Students learn answer writing by building answers, not memorising them.</h1>
               <p>
                 Learnify turns textbook chapters into drag-and-drop answer builders, sequence tasks,
@@ -146,6 +146,11 @@
               <label id="classField">
                 Class
                 <select id="classInput">
+                  <option value="1">Class 1</option>
+                  <option value="2">Class 2</option>
+                  <option value="3">Class 3</option>
+                  <option value="4">Class 4</option>
+                  <option value="5">Class 5</option>
                   <option value="6">Class 6</option>
                   <option value="7" selected>Class 7</option>
                   <option value="8">Class 8</option>
@@ -225,6 +230,29 @@
           </header>
 
           <section id="practiceView" class="view active-view">
+            <section class="dataset-picker" aria-label="Choose practice material">
+              <label>
+                Class
+                <select id="datasetClassSelect"></select>
+              </label>
+              <label>
+                Subject
+                <select id="datasetSubjectSelect"></select>
+              </label>
+              <label>
+                Book
+                <select id="datasetBookSelect"></select>
+              </label>
+              <label>
+                Chapter
+                <select id="datasetChapterSelect"></select>
+              </label>
+              <div class="dataset-current">
+                <span>Now Practising</span>
+                <strong id="currentDatasetSummary">Loading material...</strong>
+              </div>
+            </section>
+
             <section class="question-card">
               <div>
                 <span class="tag">Question</span>
@@ -248,6 +276,14 @@
                 <div class="panel-heading">
                   <div>
                     <h3>Build Your Answer</h3>
+                    <div class="builder-question" aria-live="polite">
+                      <div id="questionVisual" class="question-visual" aria-hidden="true">?</div>
+                      <div>
+                        <span>Teacher asks</span>
+                        <strong id="builderQuestionText">Loading...</strong>
+                        <small id="builderTaskText">Pick the answer cards and put them in order.</small>
+                      </div>
+                    </div>
                     <p id="instructionsText"></p>
                   </div>
                   <span id="placedCount" class="counter">0 placed</span>
@@ -262,6 +298,7 @@
                 <div class="question-nav">
                   <button id="prevQuestionButton" class="secondary-button nav-step-button" type="button">Previous</button>
                   <span id="questionNavText">Question 1 / 1</span>
+                  <button id="randomQuestionButton" class="secondary-button nav-step-button" type="button">New Question</button>
                   <button id="nextQuestionButton" class="secondary-button nav-step-button" type="button">Next Question</button>
                 </div>
                 <button id="checkButton" class="primary-button" type="button">Check Answer</button>
@@ -273,10 +310,6 @@
                   <div>
                     <h3 id="optionTitle">Options</h3>
                     <p>Drag items into the answer area.</p>
-                  </div>
-                  <div class="legend">
-                    <span class="legend-correct">Correct</span>
-                    <span class="legend-wrong">Distractor</span>
                   </div>
                 </div>
                 <div id="optionBank" class="option-bank"></div>
@@ -333,7 +366,7 @@
             <section class="empty-state">
               <div class="title-icon">D</div>
               <h2>Content Library</h2>
-              <p id="librarySummary">The pilot dataset is loading from Class 7 Science, Chapter 9.</p>
+              <p id="librarySummary">Choose any active subject and chapter for your class.</p>
               <div id="datasetList" class="dataset-list"></div>
             </section>
           </section>
@@ -366,10 +399,63 @@
               </div>
             </section>
           </section>
+
+          <section id="imageStudioView" class="view">
+            <section class="section-heading standalone">
+              <div>
+                <span class="tag">SDXL-Lightning</span>
+                <h2>Image Studio</h2>
+                <p id="imageStudioSummary">Generate Learnify image assets with the local SDXL-Lightning pipeline.</p>
+              </div>
+            </section>
+            <section class="image-studio-grid">
+              <form id="imageGenerationForm" class="teacher-card image-generator-card">
+                <h3>Create Image Asset</h3>
+                <label>
+                  Prompt
+                  <textarea id="imagePromptInput" rows="6" maxlength="1200" placeholder="Warm Indian primary school textbook illustration of children learning fractions with paper shapes, no text"></textarea>
+                </label>
+                <label>
+                  Negative prompt
+                  <input id="imageNegativeInput" value="text, watermark, logo, blurry, distorted hands" />
+                </label>
+                <div class="image-settings-row">
+                  <label>
+                    Size
+                    <select id="imageSizeInput">
+                      <option value="1024x1024">1024 x 1024</option>
+                      <option value="1216x832">1216 x 832</option>
+                      <option value="832x1216">832 x 1216</option>
+                    </select>
+                  </label>
+                  <label>
+                    Steps
+                    <select id="imageStepsInput">
+                      <option value="4" selected>4</option>
+                      <option value="2">2</option>
+                      <option value="8">8</option>
+                    </select>
+                  </label>
+                  <label>
+                    Seed
+                    <input id="imageSeedInput" inputmode="numeric" placeholder="Optional" />
+                  </label>
+                </div>
+                <button id="imageGenerateButton" class="primary-button" type="submit">Generate Image</button>
+              </form>
+              <div class="teacher-card image-preview-card">
+                <h3>Latest Output</h3>
+                <div id="imageGenerationStatus" class="form-message">No image generated yet.</div>
+                <img id="imageGenerationPreview" alt="Generated SDXL-Lightning output" hidden />
+                <code id="imageGenerationPath"></code>
+              </div>
+            </section>
+          </section>
         </main>
       </section>
     </div>
 
-    <script src="app.js"></script>
+    <script src="app.js?v=no-question-art-v1"></script>
   </body>
 </html>
+

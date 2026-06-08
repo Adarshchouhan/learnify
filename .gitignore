@@ -1,15 +1,31 @@
 # Python
 __pycache__/
 *.py[cod]
+.venv/
+.venv-*/
 
 # Local runtime state
 *.log
 data/*.sqlite3
 data/*.sqlite3-shm
 data/*.sqlite3-wal
+logs/
 
 # OS/editor noise
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
+
+# Node / test output
+node_modules/
+playwright-report/
+test-results/
+
+# Generated local image/probe artifacts
+assets/generated/
+assets/question-art/
+*.png
+*.jpg
+*.jpeg
+*.webp

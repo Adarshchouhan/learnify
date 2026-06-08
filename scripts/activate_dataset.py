@@ -10,6 +10,12 @@ ACTIVE_PATH = ROOT / "data" / "catalog" / "active-datasets.json"
 
 
 def normalize(path: str) -> str:
+    candidate = Path(path)
+    if candidate.is_absolute():
+        try:
+            path = str(candidate.resolve().relative_to(ROOT))
+        except ValueError:
+            path = str(candidate)
     return path.replace("\\", "/").removesuffix(".json") + ".json"
 
 

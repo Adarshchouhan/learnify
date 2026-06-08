@@ -12,7 +12,8 @@
     "chapterNumber": 5,
     "pageCount": null,
     "extractedCharacterCount": 19832,
-    "extractionPreview": "Indigo\nAbout the author\nLouis Fischer (1896-1970) was born in Philadelphia. He served \nas a volunteer in the British Army between 1918 and 1920. \nFischer made a career as a journalist and wrote for The New \nYork Times, The Saturday Review and for European and Asian \npublications. He was also a member of the faculty at Princeton \nUniversity. The following is an excerpt from his book- The Life of \nMahatma Gandhi. The book has been reviewed as one of the best \nbooks ever written on Gandhi by Times "
+    "extractionPreview": "Indigo\nAbout the author\nLouis Fischer (1896-1970) was born in Philadelphia. He served \nas a volunteer in the British Army between 1918 and 1920. \nFischer made a career as a journalist and wrote for The New \nYork Times, The Saturday Review and for European and Asian \npublications. He was also a member of the faculty at Princeton \nUniversity. The following is an excerpt from his book- The Life of \nMahatma Gandhi. The book has been reviewed as one of the best \nbooks ever written on Gandhi by Times ",
+    "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 5.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 5?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 5.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 5 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 5.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 5, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 5 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 5?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 5.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 5?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 5?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
@@ -189,13 +190,13 @@
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,8 +226,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
@@ -259,49 +260,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 5 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times Educational Supplement.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "It was in 1917.\" He had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "During the proceedings, Gandhi recounted, \"a peasant came up to me looking like any other peasant in India, poor and emaciated, and said, 'I am Rajkumar Shukla.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The following is an excerpt from his book- The Life of Mahatma Gandhi. The book has been reviewed as one of the best books ever written on Gandhi by Times Educational Supplement. It was in 1917.\" He had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow. During the proceedings, Gandhi recounted, \"a peasant came up to me looking like any other peasant in India, poor and emaciated, and said, 'I am Rajkumar Shukla.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 5, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "I am from Champaran, and I want you to come to my district'!'' Gandhi had never heard of the place.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "It was in the foothills of the towering Himalayas, near the kingdom of Nepal.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "Under an ancient arrangement, the Champaran peasants were sharecroppers.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "Impressed by the sharecropper's tenacity and story Gandhi said, ''I have to be in Calcutta on such-and- such a date.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "I am from Champaran, and I want you to come to my district'!'' Gandhi had never heard of the place. It was in the foothills of the towering Himalayas, near the kingdom of Nepal. Under an ancient arrangement, the Champaran peasants were sharecroppers. Impressed by the sharecropper's tenacity and story Gandhi said, ''I have to be in Calcutta on such-and- such a date.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 5 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 5 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "Come and meet me and take me from there.\" Months passed.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "Then the two of them boarded a train for the city of Patna in Bihar.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "There Shukla led him to the house of a lawyer named Rajendra Prasad who later became President of the Congress party and of India.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Come and meet me and take me from there.\" Months passed. Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free. Then the two of them boarded a train for the city of Patna in Bihar. There Shukla led him to the house of a lawyer named Rajendra Prasad who later became President of the Congress party and of India.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 5?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "Rajendra Prasad was out of town, but the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "So they let him stay on the grounds with his companion, Gandhi, whom they took to be another peasant.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "But Gandhi was not permitted to draw water from the well lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable?",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "Gandhi decided to go first to Muzzafarpur, which was en route to Champaran, to obtain more complete information about conditions than Shukla was capable of imparting.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Rajendra Prasad was out of town, but the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers. So they let him stay on the grounds with his companion, Gandhi, whom they took to be another peasant. But Gandhi was not permitted to draw water from the well lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable? Gandhi decided to go first to Muzzafarpur, which was en route to Champaran, to obtain more complete information about conditions than Shukla was capable of imparting.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 5, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "Kripalani, of the Arts College in Muzzafarpur, whom he had seen at Tagore's Shantiniketan school.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "Kripalani was waiting at the station with a large body of students.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "Gandhi stayed there for two days in the home of Professor Malkani, a teacher in a government school.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "''It was an extraordinary thing 'in those days,'' Gandhi commented, \"for a government professor to harbour a man like me\".",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Kripalani, of the Arts College in Muzzafarpur, whom he had seen at Tagore's Shantiniketan school. Kripalani was waiting at the station with a large body of students. Gandhi stayed there for two days in the home of Professor Malkani, a teacher in a government school. ''It was an extraordinary thing 'in those days,'' Gandhi commented, \"for a government professor to harbour a man like me\".",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Complete a passage from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
@@ -825,13 +826,13 @@
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,8 +862,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
@@ -901,48 +902,48 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Classify statements based on Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times Educational Supplement.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "It was in 1917.\" He had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "During the proceedings, Gandhi recounted, \"a peasant came up to me looking like any other peasant in India, poor and emaciated, and said, 'I am Rajkumar Shukla.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The following is an excerpt from his book- The Life of Mahatma Gandhi. The book has been reviewed as one of the best books ever written on Gandhi by Times Educational Supplement. It was in 1917.\" He had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow. During the proceedings, Gandhi recounted, \"a peasant came up to me looking like any other peasant in India, poor and emaciated, and said, 'I am Rajkumar Shukla.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "List key points from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "I am from Champaran, and I want you to come to my district'!'' Gandhi had never heard of the place.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "It was in the foothills of the towering Himalayas, near the kingdom of Nepal.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "Under an ancient arrangement, the Champaran peasants were sharecroppers.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "Impressed by the sharecropper's tenacity and story Gandhi said, ''I have to be in Calcutta on such-and- such a date.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "I am from Champaran, and I want you to come to my district'!'' Gandhi had never heard of the place. It was in the foothills of the towering Himalayas, near the kingdom of Nepal. Under an ancient arrangement, the Champaran peasants were sharecroppers. Impressed by the sharecropper's tenacity and story Gandhi said, ''I have to be in Calcutta on such-and- such a date.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "Come and meet me and take me from there.\" Months passed.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "Then the two of them boarded a train for the city of Patna in Bihar.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "There Shukla led him to the house of a lawyer named Rajendra Prasad who later became President of the Congress party and of India.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Come and meet me and take me from there.\" Months passed. Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free. Then the two of them boarded a train for the city of Patna in Bihar. There Shukla led him to the house of a lawyer named Rajendra Prasad who later became President of the Congress party and of India.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Use chapter information from Chapter 5 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 5 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "Rajendra Prasad was out of town, but the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "So they let him stay on the grounds with his companion, Gandhi, whom they took to be another peasant.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "But Gandhi was not permitted to draw water from the well lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable?",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "Gandhi decided to go first to Muzzafarpur, which was en route to Champaran, to obtain more complete information about conditions than Shukla was capable of imparting.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Rajendra Prasad was out of town, but the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers. So they let him stay on the grounds with his companion, Gandhi, whom they took to be another peasant. But Gandhi was not permitted to draw water from the well lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable? Gandhi decided to go first to Muzzafarpur, which was en route to Champaran, to obtain more complete information about conditions than Shukla was capable of imparting.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "Kripalani, of the Arts College in Muzzafarpur, whom he had seen at Tagore's Shantiniketan school.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "Kripalani was waiting at the station with a large body of students.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "Gandhi stayed there for two days in the home of Professor Malkani, a teacher in a government school.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "''It was an extraordinary thing 'in those days,'' Gandhi commented, \"for a government professor to harbour a man like me\".",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "Why do you think the servants thought Gandhi to be another peasant?",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Kripalani, of the Arts College in Muzzafarpur, whom he had seen at Tagore's Shantiniketan school. Kripalani was waiting at the station with a large body of students. Gandhi stayed there for two days in the home of Professor Malkani, a teacher in a government school. ''It was an extraordinary thing 'in those days,'' Gandhi commented, \"for a government professor to harbour a man like me\". Why do you think the servants thought Gandhi to be another peasant?",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Build a definition from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 5?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
@@ -1469,13 +1470,13 @@
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,8 +1502,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 5 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times Educational Supplement.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "It was in 1917.\" He had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "During the proceedings, Gandhi recounted, \"a peasant came up to me looking like any other peasant in India, poor and emaciated, and said, 'I am Rajkumar Shukla.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "I am from Champaran, and I want you to come to my district'!'' Gandhi had never heard of the place.",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The following is an excerpt from his book- The Life of Mahatma Gandhi. The book has been reviewed as one of the best books ever written on Gandhi by Times Educational Supplement. It was in 1917.\" He had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow. During the proceedings, Gandhi recounted, \"a peasant came up to me looking like any other peasant in India, poor and emaciated, and said, 'I am Rajkumar Shukla. I am from Champaran, and I want you to come to my district'!'' Gandhi had never heard of the place.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "It was in the foothills of the towering Himalayas, near the kingdom of Nepal.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "Under an ancient arrangement, the Champaran peasants were sharecroppers.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "Impressed by the sharecropper's tenacity and story Gandhi said, ''I have to be in Calcutta on such-and- such a date.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It was in the foothills of the towering Himalayas, near the kingdom of Nepal. Under an ancient arrangement, the Champaran peasants were sharecroppers. Impressed by the sharecropper's tenacity and story Gandhi said, ''I have to be in Calcutta on such-and- such a date.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "Come and meet me and take me from there.\" Months passed.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "Then the two of them boarded a train for the city of Patna in Bihar.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Come and meet me and take me from there.\" Months passed. Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free. Then the two of them boarded a train for the city of Patna in Bihar.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Sequence a process from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 5 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "There Shukla led him to the house of a lawyer named Rajendra Prasad who later became President of the Congress party and of India.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "Rajendra Prasad was out of town, but the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "So they let him stay on the grounds with his companion, Gandhi, whom they took to be another peasant.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "But Gandhi was not permitted to draw water from the well lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable?",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There Shukla led him to the house of a lawyer named Rajendra Prasad who later became President of the Congress party and of India. Rajendra Prasad was out of town, but the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers. So they let him stay on the grounds with his companion, Gandhi, whom they took to be another peasant. But Gandhi was not permitted to draw water from the well lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable?",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "Gandhi decided to go first to Muzzafarpur, which was en route to Champaran, to obtain more complete information about conditions than Shukla was capable of imparting.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "Kripalani, of the Arts College in Muzzafarpur, whom he had seen at Tagore's Shantiniketan school.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "Kripalani was waiting at the station with a large body of students.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Gandhi decided to go first to Muzzafarpur, which was en route to Champaran, to obtain more complete information about conditions than Shukla was capable of imparting. Kripalani, of the Arts College in Muzzafarpur, whom he had seen at Tagore's Shantiniketan school. Kripalani was waiting at the station with a large body of students.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "Gandhi stayed there for two days in the home of Professor Malkani, a teacher in a government school.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "''It was an extraordinary thing 'in those days,'' Gandhi commented, \"for a government professor to harbour a man like me\".",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "Why do you think the servants thought Gandhi to be another peasant?",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "Reprint 2025-26 Indigo/47 localities, the Indians were afraid to show sympathy for advocates of home-rule.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Gandhi stayed there for two days in the home of Professor Malkani, a teacher in a government school. ''It was an extraordinary thing 'in those days,'' Gandhi commented, \"for a government professor to harbour a man like me\". Why do you think the servants thought Gandhi to be another peasant? Reprint 2025-26 Indigo/47 localities, the Indians were afraid to show sympathy for advocates of home-rule.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "The news of Gandhi's advent and of the nature of his mission spread quickly through Muzzafarpur and to Champaran.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "Sharecroppers from Champaran began arriving on foot and by conveyance to see their champion.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The news of Gandhi's advent and of the nature of his mission spread quickly through Muzzafarpur and to Champaran. Sharecroppers from Champaran began arriving on foot and by conveyance to see their champion.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "Muzzafarpur lawyers called on Gandhi to brief him; they frequently represented peasant groups in court; they told him about their cases and reported the size of their fee.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "Gandhi chided the lawyers for collecting big fee from the sharecroppers.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Muzzafarpur lawyers called on Gandhi to brief him; they frequently represented peasant groups in court; they told him about their cases and reported the size of their fee. Gandhi chided the lawyers for collecting big fee from the sharecroppers. Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,8 +2373,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "Indigo About the author Louis",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "Fischer (1896-1970) was born in Philadelphia.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "He served as a volunteer in",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "the British Army between 1918 and 1920.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "Fischer made a career as a journalist and wrote for The",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "New York Times, The Saturday Review and for European and Asian publications.",
+          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "He was also a member",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "of the faculty at Princeton University.",
+          "text": "The answer should use details from Chapter 5.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,8 +2539,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "indigo",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "he",
+          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,8 +2677,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times Educational Supplement.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "It was in 1917.\" He had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "During the proceedings, Gandhi recounted, \"a peasant came up to me looking like any other peasant in India, poor and emaciated, and said, 'I am Rajkumar Shukla.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The following is an excerpt from his book- The Life of Mahatma Gandhi. The book has been reviewed as one of the best books ever written on Gandhi by Times Educational Supplement. It was in 1917.\" He had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow. During the proceedings, Gandhi recounted, \"a peasant came up to me looking like any other peasant in India, poor and emaciated, and said, 'I am Rajkumar Shukla.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "The following is an excerpt from",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "his book- The Life of Mahatma Gandhi.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "The book has been reviewed as one of the",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "best books ever written on Gandhi by Times Educational Supplement.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "It was in 1917.\" He had gone to the December",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "1916 annual convention of the Indian National Congress party in Lucknow.",
+          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "During the proceedings, Gandhi recounted, \"a peasant came up to me looking like",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "any other peasant in India, poor and emaciated, and said, 'I am Rajkumar Shukla.",
+          "text": "The answer should use details from Chapter 5.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The following is an excerpt from his book- The Life of Mahatma Gandhi. The book has been reviewed as one of the best books ever written on Gandhi by Times Educational Supplement. It was in 1917.\" He had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow. During the proceedings, Gandhi recounted, \"a peasant came up to me looking like any other peasant in India, poor and emaciated, and said, 'I am Rajkumar Shukla.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "the",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "the",
+          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The following is an excerpt from his book- The Life of Mahatma Gandhi. The book has been reviewed as one of the best books ever written on Gandhi by Times Educational Supplement. It was in 1917.\" He had gone to the December 1916 annual convention of the Indian National Congress party in Lucknow. During the proceedings, Gandhi recounted, \"a peasant came up to me looking like any other peasant in India, poor and emaciated, and said, 'I am Rajkumar Shukla.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "I am from Champaran, and I want you to come to my district'!'' Gandhi had never heard of the place.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "It was in the foothills of the towering Himalayas, near the kingdom of Nepal.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "Under an ancient arrangement, the Champaran peasants were sharecroppers.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "Impressed by the sharecropper's tenacity and story Gandhi said, ''I have to be in Calcutta on such-and- such a date.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "I am from Champaran, and I want you to come to my district'!'' Gandhi had never heard of the place. It was in the foothills of the towering Himalayas, near the kingdom of Nepal. Under an ancient arrangement, the Champaran peasants were sharecroppers. Impressed by the sharecropper's tenacity and story Gandhi said, ''I have to be in Calcutta on such-and- such a date.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "I am from Champaran, and I want you to come",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "to my district'!'' Gandhi had never heard of the place.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "It was in the foothills of the",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "towering Himalayas, near the kingdom of Nepal.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "Under an ancient arrangement,",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "the Champaran peasants were sharecroppers.",
+          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "Impressed by the sharecropper's tenacity and story Gandhi said, ''I",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "have to be in Calcutta on such-and- such a date.",
+          "text": "The answer should use details from Chapter 5.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "I am from Champaran, and I want you to come to my district'!'' Gandhi had never heard of the place. It was in the foothills of the towering Himalayas, near the kingdom of Nepal. Under an ancient arrangement, the Champaran peasants were sharecroppers. Impressed by the sharecropper's tenacity and story Gandhi said, ''I have to be in Calcutta on such-and- such a date.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "i",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "it",
+          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "I am from Champaran, and I want you to come to my district'!'' Gandhi had never heard of the place. It was in the foothills of the towering Himalayas, near the kingdom of Nepal. Under an ancient arrangement, the Champaran peasants were sharecroppers. Impressed by the sharecropper's tenacity and story Gandhi said, ''I have to be in Calcutta on such-and- such a date.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Define an important term from Chapter 5 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "Come and meet me and take me from there.\" Months passed.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "Then the two of them boarded a train for the city of Patna in Bihar.",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "There Shukla led him to the house of a lawyer named Rajendra Prasad who later became President of the Congress party and of India.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Come and meet me and take me from there.\" Months passed. Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free. Then the two of them boarded a train for the city of Patna in Bihar. There Shukla led him to the house of a lawyer named Rajendra Prasad who later became President of the Congress party and of India.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Define an important term from Chapter 5 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "Come and meet me and",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "take me from there.\" Months passed.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "Shukla was sitting on his haunches at the appointed spot",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "in Calcutta when Gandhi arrived; he waited till Gandhi was free.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "Then the two of them boarded a",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "train for the city of Patna in Bihar.",
+          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "There Shukla led him to the house of a lawyer named Rajendra",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "Prasad who later became President of the Congress party and of India.",
+          "text": "The answer should use details from Chapter 5.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Come and meet me and take me from there.\" Months passed. Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free. Then the two of them boarded a train for the city of Patna in Bihar. There Shukla led him to the house of a lawyer named Rajendra Prasad who later became President of the Congress party and of India.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Define an important term from Chapter 5 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "come",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "shukla",
+          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Come and meet me and take me from there.\" Months passed. Shukla was sitting on his haunches at the appointed spot in Calcutta when Gandhi arrived; he waited till Gandhi was free. Then the two of them boarded a train for the city of Patna in Bihar. There Shukla led him to the house of a lawyer named Rajendra Prasad who later became President of the Congress party and of India.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "Rajendra Prasad was out of town, but the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers.",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "So they let him stay on the grounds with his companion, Gandhi, whom they took to be another peasant.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "But Gandhi was not permitted to draw water from the well lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable?",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "Gandhi decided to go first to Muzzafarpur, which was en route to Champaran, to obtain more complete information about conditions than Shukla was capable of imparting.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Rajendra Prasad was out of town, but the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers. So they let him stay on the grounds with his companion, Gandhi, whom they took to be another peasant. But Gandhi was not permitted to draw water from the well lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable? Gandhi decided to go first to Muzzafarpur, which was en route to Champaran, to obtain more complete information about conditions than Shukla was capable of imparting.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "Rajendra Prasad was out of town, but the servants knew Shukla as",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "a poor yeoman who pestered their master to help the indigo sharecroppers.",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "So they let him stay on the grounds with",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "his companion, Gandhi, whom they took to be another peasant.",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "But Gandhi was not permitted to draw water from the well lest some drops from",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "his bucket pollute the entire source; how did they know that he was not an untouchable?",
+          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "Gandhi decided to go first to Muzzafarpur, which was en route to Champaran,",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "to obtain more complete information about conditions than Shukla was capable of imparting.",
+          "text": "The answer should use details from Chapter 5.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Rajendra Prasad was out of town, but the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers. So they let him stay on the grounds with his companion, Gandhi, whom they took to be another peasant. But Gandhi was not permitted to draw water from the well lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable? Gandhi decided to go first to Muzzafarpur, which was en route to Champaran, to obtain more complete information about conditions than Shukla was capable of imparting.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\PCB\\English - Flamingo\\lefl105.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "He served as a volunteer in the British Army between 1918 and 1920.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "He was also a member of the faculty at Princeton University.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "rajendra",
+          "text": "The following is an excerpt from his book- The Life of Mahatma Gandhi.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "so",
+          "text": "The book has been reviewed as one of the best books ever written on Gandhi by Times.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Rajendra Prasad was out of town, but the servants knew Shukla as a poor yeoman who pestered their master to help the indigo sharecroppers. So they let him stay on the grounds with his companion, Gandhi, whom they took to be another peasant. But Gandhi was not permitted to draw water from the well lest some drops from his bucket pollute the entire source; how did they know that he was not an untouchable? Gandhi decided to go first to Muzzafarpur, which was en route to Champaran, to obtain more complete information about conditions than Shukla was capable of imparting.",
+      "modelAnswer": "Indigo About the author Louis Fischer (1896-1970) was born in Philadelphia. He served as a volunteer in the British Army between 1918 and 1920. Fischer made a career as a journalist and wrote for The New York Times, The Saturday Review and for European and Asian publications. He was also a member of the faculty at Princeton University.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

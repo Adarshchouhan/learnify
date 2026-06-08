@@ -12,7 +12,8 @@
     "chapterNumber": 11,
     "pageCount": null,
     "extractedCharacterCount": 31303,
-    "extractionPreview": "Nature's Treasures\n11\nChapter\nSchool vacations are always fun for Bhoomi and Surya. This \nvacation, they visit their Ajji (grandmother). Ajji lives in a \nvillage on the edge of a forest in the Western Ghats. The air \nin the village is fresh and cooler than in the city. They can \nsee beautiful hills, streams, and many interesting plants, \nanimals and birds around them. \nOne afternoon, Bhoomi and Surya ask Ajji to tell them \nmore about the place. Ajji says, \"Children, do you know that \nthis place "
+    "extractionPreview": "Nature's Treasures\n11\nChapter\nSchool vacations are always fun for Bhoomi and Surya. This \nvacation, they visit their Ajji (grandmother). Ajji lives in a \nvillage on the edge of a forest in the Western Ghats. The air \nin the village is fresh and cooler than in the city. They can \nsee beautiful hills, streams, and many interesting plants, \nanimals and birds around them. \nOne afternoon, Bhoomi and Surya ask Ajji to tell them \nmore about the place. Ajji says, \"Children, do you know that \nthis place ",
+    "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 11.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 11?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 11.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 11 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 11.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 11, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 11 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 11?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 11.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 11?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,49 +154,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 11?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "explain-1",
-          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "explain-2",
-          "text": "The air in the village is fresh and cooler than in the city.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "explain-3",
-          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city. They can see beautiful hills, streams, and many interesting plants, animals and birds around them. One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 11 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "Ajji says, \"Children, do you know that this place has several treasures of nature that enrich our lives?",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "The pure air is refreshing and the soil is so fertile that it supports a variety of living beings.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "Moreover, this place gets plenty of sunlight which is useful in many ways.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "Different varieties of trees provide food and shelter to animals including various birds and insects.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji says, \"Children, do you know that this place has several treasures of nature that enrich our lives? The pure air is refreshing and the soil is so fertile that it supports a variety of living beings. Moreover, this place gets plenty of sunlight which is useful in many ways. Different varieties of trees provide food and shelter to animals including various birds and insects.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 11, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "We need these treasures for our survival and for making our lives more comfortable.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Without these treasures of nature, any form of life on Earth is not possible.\" We all are a part of nature.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "Ajji explains the importance of air around us and how it is essential for our survival.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "She says, \"I am taking deep breaths in, and letting them out.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We need these treasures for our survival and for making our lives more comfortable. Without these treasures of nature, any form of life on Earth is not possible.\" We all are a part of nature. Ajji explains the importance of air around us and how it is essential for our survival. She says, \"I am taking deep breaths in, and letting them out.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 11 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 11 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "This helps in getting more fresh air in the lungs to stay healthy.\" Bhoomi and Surya sit with Ajji and start taking deep breaths.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "  Hold your breath for as long as you can and then breathe out slowly.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "When we hold our breath for a long time, the body does not get enough oxygen to perform its functions.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "Similarly, most of the living beings also need oxygen for their survival.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This helps in getting more fresh air in the lungs to stay healthy.\" Bhoomi and Surya sit with Ajji and start taking deep breaths.   Hold your breath for as long as you can and then breathe out slowly. When we hold our breath for a long time, the body does not get enough oxygen to perform its functions. Similarly, most of the living beings also need oxygen for their survival.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 11?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "Reprint 2025-26 Nature's Treasures 209 We can survive without food or water for a few days, but we cannot survive without oxygen for even a few minutes.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "Sometimes it blows fast, for example, during a storm, and sometimes it blows gently as a breeze.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "You must have played with a firki (paper pinwheel) many times.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "The air which surrounds the Earth is a mixture of gases.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2025-26 Nature's Treasures 209 We can survive without food or water for a few days, but we cannot survive without oxygen for even a few minutes. Sometimes it blows fast, for example, during a storm, and sometimes it blows gently as a breeze. You must have played with a firki (paper pinwheel) many times. The air which surrounds the Earth is a mixture of gases.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 11, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "Air contains nitrogen, oxygen, argon, carbon dioxide and other gases in small quantities.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "Out of 100 squares, 78 are occupied by nitrogen, 21 are occupied by oxygen, and 1 by argon, carbon dioxide and other gases.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "When you move it a little back and forth, the firki rotates.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "The working of a windmill is similar to that of a firki.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Air contains nitrogen, oxygen, argon, carbon dioxide and other gases in small quantities. Out of 100 squares, 78 are occupied by nitrogen, 21 are occupied by oxygen, and 1 by argon, carbon dioxide and other gases. When you move it a little back and forth, the firki rotates. The working of a windmill is similar to that of a firki.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,49 +790,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Complete a passage from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "fill_blanks-1",
-          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "fill_blanks-2",
-          "text": "The air in the village is fresh and cooler than in the city.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "fill_blanks-3",
-          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city. They can see beautiful hills, streams, and many interesting plants, animals and birds around them. One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Classify statements based on Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "Ajji says, \"Children, do you know that this place has several treasures of nature that enrich our lives?",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "The pure air is refreshing and the soil is so fertile that it supports a variety of living beings.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "Moreover, this place gets plenty of sunlight which is useful in many ways.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "Different varieties of trees provide food and shelter to animals including various birds and insects.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji says, \"Children, do you know that this place has several treasures of nature that enrich our lives? The pure air is refreshing and the soil is so fertile that it supports a variety of living beings. Moreover, this place gets plenty of sunlight which is useful in many ways. Different varieties of trees provide food and shelter to animals including various birds and insects.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "List key points from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "We need these treasures for our survival and for making our lives more comfortable.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Without these treasures of nature, any form of life on Earth is not possible.\" We all are a part of nature.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "Ajji explains the importance of air around us and how it is essential for our survival.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "She says, \"I am taking deep breaths in, and letting them out.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We need these treasures for our survival and for making our lives more comfortable. Without these treasures of nature, any form of life on Earth is not possible.\" We all are a part of nature. Ajji explains the importance of air around us and how it is essential for our survival. She says, \"I am taking deep breaths in, and letting them out.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "This helps in getting more fresh air in the lungs to stay healthy.\" Bhoomi and Surya sit with Ajji and start taking deep breaths.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "  Hold your breath for as long as you can and then breathe out slowly.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "When we hold our breath for a long time, the body does not get enough oxygen to perform its functions.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "Similarly, most of the living beings also need oxygen for their survival.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This helps in getting more fresh air in the lungs to stay healthy.\" Bhoomi and Surya sit with Ajji and start taking deep breaths.   Hold your breath for as long as you can and then breathe out slowly. When we hold our breath for a long time, the body does not get enough oxygen to perform its functions. Similarly, most of the living beings also need oxygen for their survival.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Use chapter information from Chapter 11 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 11 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "Reprint 2025-26 Nature's Treasures 209 We can survive without food or water for a few days, but we cannot survive without oxygen for even a few minutes.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "Sometimes it blows fast, for example, during a storm, and sometimes it blows gently as a breeze.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "You must have played with a firki (paper pinwheel) many times.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "The air which surrounds the Earth is a mixture of gases.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2025-26 Nature's Treasures 209 We can survive without food or water for a few days, but we cannot survive without oxygen for even a few minutes. Sometimes it blows fast, for example, during a storm, and sometimes it blows gently as a breeze. You must have played with a firki (paper pinwheel) many times. The air which surrounds the Earth is a mixture of gases.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "Air contains nitrogen, oxygen, argon, carbon dioxide and other gases in small quantities.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "Out of 100 squares, 78 are occupied by nitrogen, 21 are occupied by oxygen, and 1 by argon, carbon dioxide and other gases.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "When you move it a little back and forth, the firki rotates.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "The working of a windmill is similar to that of a firki.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "Windmills can be used to run flour mills, to pull up water from a well, or to generate electricity.",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Air contains nitrogen, oxygen, argon, carbon dioxide and other gases in small quantities. Out of 100 squares, 78 are occupied by nitrogen, 21 are occupied by oxygen, and 1 by argon, carbon dioxide and other gases. When you move it a little back and forth, the firki rotates. The working of a windmill is similar to that of a firki. Windmills can be used to run flour mills, to pull up water from a well, or to generate electricity.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,48 +1435,48 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Build a definition from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 11?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "definition_term-1",
-          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "definition_term-2",
-          "text": "The air in the village is fresh and cooler than in the city.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "definition_term-3",
-          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city. They can see beautiful hills, streams, and many interesting plants, animals and birds around them. One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 11 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "Ajji says, \"Children, do you know that this place has several treasures of nature that enrich our lives?",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "The pure air is refreshing and the soil is so fertile that it supports a variety of living beings.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "Moreover, this place gets plenty of sunlight which is useful in many ways.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "Different varieties of trees provide food and shelter to animals including various birds and insects.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "We need these treasures for our survival and for making our lives more comfortable.",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji says, \"Children, do you know that this place has several treasures of nature that enrich our lives? The pure air is refreshing and the soil is so fertile that it supports a variety of living beings. Moreover, this place gets plenty of sunlight which is useful in many ways. Different varieties of trees provide food and shelter to animals including various birds and insects. We need these treasures for our survival and for making our lives more comfortable.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Without these treasures of nature, any form of life on Earth is not possible.\" We all are a part of nature.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "Ajji explains the importance of air around us and how it is essential for our survival.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "She says, \"I am taking deep breaths in, and letting them out.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Without these treasures of nature, any form of life on Earth is not possible.\" We all are a part of nature. Ajji explains the importance of air around us and how it is essential for our survival. She says, \"I am taking deep breaths in, and letting them out.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "This helps in getting more fresh air in the lungs to stay healthy.\" Bhoomi and Surya sit with Ajji and start taking deep breaths.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "  Hold your breath for as long as you can and then breathe out slowly.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "When we hold our breath for a long time, the body does not get enough oxygen to perform its functions.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This helps in getting more fresh air in the lungs to stay healthy.\" Bhoomi and Surya sit with Ajji and start taking deep breaths.   Hold your breath for as long as you can and then breathe out slowly. When we hold our breath for a long time, the body does not get enough oxygen to perform its functions.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Sequence a process from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 11 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "Similarly, most of the living beings also need oxygen for their survival.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "Reprint 2025-26 Nature's Treasures 209 We can survive without food or water for a few days, but we cannot survive without oxygen for even a few minutes.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "Sometimes it blows fast, for example, during a storm, and sometimes it blows gently as a breeze.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "You must have played with a firki (paper pinwheel) many times.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Similarly, most of the living beings also need oxygen for their survival. Reprint 2025-26 Nature's Treasures 209 We can survive without food or water for a few days, but we cannot survive without oxygen for even a few minutes. Sometimes it blows fast, for example, during a storm, and sometimes it blows gently as a breeze. You must have played with a firki (paper pinwheel) many times.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "The air which surrounds the Earth is a mixture of gases.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "Air contains nitrogen, oxygen, argon, carbon dioxide and other gases in small quantities.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "Out of 100 squares, 78 are occupied by nitrogen, 21 are occupied by oxygen, and 1 by argon, carbon dioxide and other gases.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The air which surrounds the Earth is a mixture of gases. Air contains nitrogen, oxygen, argon, carbon dioxide and other gases in small quantities. Out of 100 squares, 78 are occupied by nitrogen, 21 are occupied by oxygen, and 1 by argon, carbon dioxide and other gases.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "When you move it a little back and forth, the firki rotates.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "The working of a windmill is similar to that of a firki.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "Windmills can be used to run flour mills, to pull up water from a well, or to generate electricity.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "A windmill farm is an area that has a large number of windmills which use the energy of the wind to generate electricity (Fig.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "When you move it a little back and forth, the firki rotates. The working of a windmill is similar to that of a firki. Windmills can be used to run flour mills, to pull up water from a well, or to generate electricity. A windmill farm is an area that has a large number of windmills which use the energy of the wind to generate electricity (Fig.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "Fig 11.3: A windmill farm Muppandal Wind Farm in Tamil Nadu, Jaisalmer Wind Park in Rajasthan and Brahmanvel Wind Farm in Maharashtra are some of the leading windmill farms in our country.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "11.2: Firki 1 3 2 4 5 Reprint 2025-26 Nature's Treasures 211 We have learnt that air is very important for us.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Fig 11.3: A windmill farm Muppandal Wind Farm in Tamil Nadu, Jaisalmer Wind Park in Rajasthan and Brahmanvel Wind Farm in Maharashtra are some of the leading windmill farms in our country. 11.2: Firki 1 3 2 4 5 Reprint 2025-26 Nature's Treasures 211 We have learnt that air is very important for us.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,25 +2197,25 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "How do you feel when you cannot get water to drink, especially when you are thirsty?",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "11.2 Water Bhoomi and Surya help Ajji in filling the troughs of water for the cows.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
@@ -2226,13 +2227,13 @@
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "How do you feel when you cannot get water to drink, especially when you are thirsty? 11.2 Water Bhoomi and Surya help Ajji in filling the troughs of water for the cows. Ajji lives in a village on the edge of a forest in the Western Ghats.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,39 +2292,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-e-1",
-          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1,
           "section": "Introduction"
         },
         {
           "id": "chapter-q01-chapter-overview-e-2",
-          "text": "The air in the village is fresh and cooler than in the city.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2,
           "section": "Key idea 1"
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city. They can see beautiful hills, streams, and many interesting plants, animals and birds around them. One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "Ajji lives in a village on the",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "edge of a forest in the Western Ghats.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "The air in the village is",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "fresh and cooler than in the city.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "They can see beautiful hills, streams, and",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "many interesting plants, animals and birds around them.",
+          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "One afternoon, Bhoomi and Surya ask Ajji",
+          "text": "Ajji says, \"Children, do you know that this place.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "to tell them more about the place.",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city. They can see beautiful hills, streams, and many interesting plants, animals and birds around them. One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "ajji",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "the",
+          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city. They can see beautiful hills, streams, and many interesting plants, animals and birds around them. One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "Ajji says, \"Children, do you know that this place has several treasures of nature that enrich our lives?",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "The pure air is refreshing and the soil is so fertile that it supports a variety of living beings.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "Moreover, this place gets plenty of sunlight which is useful in many ways.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "Different varieties of trees provide food and shelter to animals including various birds and insects.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji says, \"Children, do you know that this place has several treasures of nature that enrich our lives? The pure air is refreshing and the soil is so fertile that it supports a variety of living beings. Moreover, this place gets plenty of sunlight which is useful in many ways. Different varieties of trees provide food and shelter to animals including various birds and insects.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "Ajji says, \"Children, do you know that this place",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "has several treasures of nature that enrich our lives?",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "The pure air is refreshing and the soil is",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "so fertile that it supports a variety of living beings.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "Moreover, this place gets plenty of",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "sunlight which is useful in many ways.",
+          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "Different varieties of trees provide food and",
+          "text": "Ajji says, \"Children, do you know that this place.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "shelter to animals including various birds and insects.",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji says, \"Children, do you know that this place has several treasures of nature that enrich our lives? The pure air is refreshing and the soil is so fertile that it supports a variety of living beings. Moreover, this place gets plenty of sunlight which is useful in many ways. Different varieties of trees provide food and shelter to animals including various birds and insects.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "ajji",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "the",
+          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Ajji says, \"Children, do you know that this place has several treasures of nature that enrich our lives? The pure air is refreshing and the soil is so fertile that it supports a variety of living beings. Moreover, this place gets plenty of sunlight which is useful in many ways. Different varieties of trees provide food and shelter to animals including various birds and insects.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "We need these treasures for our survival and for making our lives more comfortable.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Without these treasures of nature, any form of life on Earth is not possible.\" We all are a part of nature.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "Ajji explains the importance of air around us and how it is essential for our survival.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "She says, \"I am taking deep breaths in, and letting them out.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We need these treasures for our survival and for making our lives more comfortable. Without these treasures of nature, any form of life on Earth is not possible.\" We all are a part of nature. Ajji explains the importance of air around us and how it is essential for our survival. She says, \"I am taking deep breaths in, and letting them out.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "We need these treasures for our survival",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "and for making our lives more comfortable.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Without these treasures of nature, any form of life on",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "Earth is not possible.\" We all are a part of nature.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "Ajji explains the importance of air around us",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "and how it is essential for our survival.",
+          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "She says, \"I am taking deep",
+          "text": "Ajji says, \"Children, do you know that this place.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "breaths in, and letting them out.",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We need these treasures for our survival and for making our lives more comfortable. Without these treasures of nature, any form of life on Earth is not possible.\" We all are a part of nature. Ajji explains the importance of air around us and how it is essential for our survival. She says, \"I am taking deep breaths in, and letting them out.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "we",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "without",
+          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We need these treasures for our survival and for making our lives more comfortable. Without these treasures of nature, any form of life on Earth is not possible.\" We all are a part of nature. Ajji explains the importance of air around us and how it is essential for our survival. She says, \"I am taking deep breaths in, and letting them out.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Define an important term from Chapter 11 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "This helps in getting more fresh air in the lungs to stay healthy.\" Bhoomi and Surya sit with Ajji and start taking deep breaths.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "  Hold your breath for as long as you can and then breathe out slowly.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "When we hold our breath for a long time, the body does not get enough oxygen to perform its functions.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "Similarly, most of the living beings also need oxygen for their survival.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This helps in getting more fresh air in the lungs to stay healthy.\" Bhoomi and Surya sit with Ajji and start taking deep breaths.   Hold your breath for as long as you can and then breathe out slowly. When we hold our breath for a long time, the body does not get enough oxygen to perform its functions. Similarly, most of the living beings also need oxygen for their survival.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Define an important term from Chapter 11 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "This helps in getting more fresh air in the lungs to stay",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "healthy.\" Bhoomi and Surya sit with Ajji and start taking deep breaths.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "  Hold your breath for as long",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "as you can and then breathe out slowly.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "When we hold our breath for a long time, the",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "body does not get enough oxygen to perform its functions.",
+          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "Similarly, most of the living beings",
+          "text": "Ajji says, \"Children, do you know that this place.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "also need oxygen for their survival.",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This helps in getting more fresh air in the lungs to stay healthy.\" Bhoomi and Surya sit with Ajji and start taking deep breaths.   Hold your breath for as long as you can and then breathe out slowly. When we hold our breath for a long time, the body does not get enough oxygen to perform its functions. Similarly, most of the living beings also need oxygen for their survival.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Define an important term from Chapter 11 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "this",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "",
+          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This helps in getting more fresh air in the lungs to stay healthy.\" Bhoomi and Surya sit with Ajji and start taking deep breaths.   Hold your breath for as long as you can and then breathe out slowly. When we hold our breath for a long time, the body does not get enough oxygen to perform its functions. Similarly, most of the living beings also need oxygen for their survival.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "Reprint 2025-26 Nature's Treasures 209 We can survive without food or water for a few days, but we cannot survive without oxygen for even a few minutes.",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "Sometimes it blows fast, for example, during a storm, and sometimes it blows gently as a breeze.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "You must have played with a firki (paper pinwheel) many times.",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "The air which surrounds the Earth is a mixture of gases.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2025-26 Nature's Treasures 209 We can survive without food or water for a few days, but we cannot survive without oxygen for even a few minutes. Sometimes it blows fast, for example, during a storm, and sometimes it blows gently as a breeze. You must have played with a firki (paper pinwheel) many times. The air which surrounds the Earth is a mixture of gases.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "Reprint 2025-26 Nature's Treasures 209 We can survive without food or water for",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "a few days, but we cannot survive without oxygen for even a few minutes.",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "Sometimes it blows fast, for example, during a",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "storm, and sometimes it blows gently as a breeze.",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "You must have played with",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "a firki (paper pinwheel) many times.",
+          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "The air which surrounds the",
+          "text": "Ajji says, \"Children, do you know that this place.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "Earth is a mixture of gases.",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2025-26 Nature's Treasures 209 We can survive without food or water for a few days, but we cannot survive without oxygen for even a few minutes. Sometimes it blows fast, for example, during a storm, and sometimes it blows gently as a breeze. You must have played with a firki (paper pinwheel) many times. The air which surrounds the Earth is a mixture of gases.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Science - Curiosity\\fecu111.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "This vacation, they visit their Ajji (grandmother).",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "Ajji lives in a village on the edge of a forest in the Western Ghats.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "The air in the village is fresh and cooler than in the city.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "reprint",
+          "text": "They can see beautiful hills, streams, and many interesting plants, animals and birds around them.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "sometimes",
+          "text": "One afternoon, Bhoomi and Surya ask Ajji to tell them more about the place.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2025-26 Nature's Treasures 209 We can survive without food or water for a few days, but we cannot survive without oxygen for even a few minutes. Sometimes it blows fast, for example, during a storm, and sometimes it blows gently as a breeze. You must have played with a firki (paper pinwheel) many times. The air which surrounds the Earth is a mixture of gases.",
+      "modelAnswer": "Nature's Treasures 11 Chapter School vacations are always fun for Bhoomi and Surya. This vacation, they visit their Ajji (grandmother). Ajji lives in a village on the edge of a forest in the Western Ghats. The air in the village is fresh and cooler than in the city.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

@@ -12,7 +12,8 @@
     "chapterNumber": 2,
     "pageCount": null,
     "extractedCharacterCount": 43139,
-    "extractionPreview": "2\nPOWER PLAY\n2.1 Experiencing the Power Play ...\nAn Impossible Venture!\nTake a sheet of paper, as large a sheet as you can find. Fold it once. Fold \nit again, and again. \nHow many times can you fold it over and over?\nEstu says \"I heard that a sheet of paper can't be folded more than \n7 times\".\nRoxie replies \"What if we use a thinner paper, like a newspaper or a \ntissue paper?\"\nTry it with different types of paper and see what happens.\nSay you can fold a sheet of paper as many times as you wish. "
+    "extractionPreview": "2\nPOWER PLAY\n2.1 Experiencing the Power Play ...\nAn Impossible Venture!\nTake a sheet of paper, as large a sheet as you can find. Fold it once. Fold \nit again, and again. \nHow many times can you fold it over and over?\nEstu says \"I heard that a sheet of paper can't be folded more than \n7 times\".\nRoxie replies \"What if we use a thinner paper, like a newspaper or a \ntissue paper?\"\nTry it with different types of paper and see what happens.\nSay you can fold a sheet of paper as many times as you wish. ",
+    "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 2.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 2?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 2.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 2 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 2.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 2, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 2 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 2?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 2.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 2?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,49 +154,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 2?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "explain-1",
-          "text": "Take a sheet of paper, as large a sheet as you can find.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "explain-2",
-          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "explain-3",
-          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "Say you can fold a sheet of paper as many times as you wish.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Take a sheet of paper, as large a sheet as you can find. Estu says \"I heard that a sheet of paper can't be folded more than 7 times\". Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens. Say you can fold a sheet of paper as many times as you wish.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 2 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "Let us find out how thick a sheet of paper will be after 46 folds.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "If you can fold a paper 46 times, it will be so thick that it can reach the Moon!",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "Ganita Prakash | Grade 8 20 The following table lists the thickness after each fold.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "After 17 folds, the thickness is about 131 cm (a little more than 4 feet).",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Let us find out how thick a sheet of paper will be after 46 folds. If you can fold a paper 46 times, it will be so thick that it can reach the Moon! Ganita Prakash | Grade 8 20 The following table lists the thickness after each fold. After 17 folds, the thickness is about 131 cm (a little more than 4 feet).",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 2, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "Now, what do you think the thickness would be after 30 folds?",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Fold Thickness Fold Thickness Fold Thickness 18 ≈ 262 cm 21 24 19 ≈ 524 cm 22 25 20 ≈ 10.4 m 23 26 After 26 folds, the thickness is approximately 670 m.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "Burj Khalifa in Dubai, the tallest building in the world, is 830 m tall.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "Fold Thickness Fold Thickness 27 ≈ 1.3 km 29 28 30 After 30 folds, the thickness of the paper is about 10.7 km, the typical height at which planes fly.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, what do you think the thickness would be after 30 folds? Fold Thickness Fold Thickness Fold Thickness 18 ≈ 262 cm 21 24 19 ≈ 524 cm 22 25 20 ≈ 10.4 m 23 26 After 26 folds, the thickness is approximately 670 m. Burj Khalifa in Dubai, the tallest building in the world, is 830 m tall. Fold Thickness Fold Thickness 27 ≈ 1.3 km 29 28 30 After 30 folds, the thickness of the paper is about 10.7 km, the typical height at which planes fly.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 2 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 2 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "The deepest point discovered in the oceans is the Mariana Trench, with a depth of 11 km.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "This is the power of multiplicative growth, also called exponential growth.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "We have seen that the thickness doubles after every fold.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "After any 3 folds, the thickness increases 8 times (= 2 × 2 × 2).",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The deepest point discovered in the oceans is the Mariana Trench, with a depth of 11 km. This is the power of multiplicative growth, also called exponential growth. We have seen that the thickness doubles after every fold. After any 3 folds, the thickness increases 8 times (= 2 × 2 × 2).",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 2?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "Similarly, from any point, the thickness after 10 folds increases by 1024 times (= 2 multiplied by itself 10 times), as shown in the table below.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "Upon folding once, its thickness became 0.001 cm × 2 = 0.002 cm.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "Folding it twice, its thickness became - 0.001 cm × 2 × 2 = 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand).",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "Upon folding it thrice, its thickness became - 0.001 cm × 2 × 2 × 2, or 0.001 cm × 23 = 0.008 cm.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Similarly, from any point, the thickness after 10 folds increases by 1024 times (= 2 multiplied by itself 10 times), as shown in the table below. Upon folding once, its thickness became 0.001 cm × 2 = 0.002 cm. Folding it twice, its thickness became - 0.001 cm × 2 × 2 = 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand). Upon folding it thrice, its thickness became - 0.001 cm × 2 × 2 × 2, or 0.001 cm × 23 = 0.008 cm.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 2, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "When folded four times, its thickness became - 0.001 cm × 2 × 2 × 2 × 2, or 0.001 cm × 24 = 0.016 cm.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "Similarly, the expression for the thickness of the paper when folded 7 times will be 0.001 cm × 2 × 2 × 2 × 2 × 2 × 2 × 2, or 0.001 cm × 27 = 0.128 cm.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "We have seen that square numbers can be expressed as n2 and cube numbers as n3.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "In general, we write na to denote n multiplied by itself a times.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "When folded four times, its thickness became - 0.001 cm × 2 × 2 × 2 × 2, or 0.001 cm × 24 = 0.016 cm. Similarly, the expression for the thickness of the paper when folded 7 times will be 0.001 cm × 2 × 2 × 2 × 2 × 2 × 2 × 2, or 0.001 cm × 27 = 0.128 cm. We have seen that square numbers can be expressed as n2 and cube numbers as n3. In general, we write na to denote n multiplied by itself a times.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,49 +790,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Complete a passage from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "fill_blanks-1",
-          "text": "Take a sheet of paper, as large a sheet as you can find.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "fill_blanks-2",
-          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "fill_blanks-3",
-          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "Say you can fold a sheet of paper as many times as you wish.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Take a sheet of paper, as large a sheet as you can find. Estu says \"I heard that a sheet of paper can't be folded more than 7 times\". Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens. Say you can fold a sheet of paper as many times as you wish.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Classify statements based on Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "Let us find out how thick a sheet of paper will be after 46 folds.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "If you can fold a paper 46 times, it will be so thick that it can reach the Moon!",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "Ganita Prakash | Grade 8 20 The following table lists the thickness after each fold.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "After 17 folds, the thickness is about 131 cm (a little more than 4 feet).",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Let us find out how thick a sheet of paper will be after 46 folds. If you can fold a paper 46 times, it will be so thick that it can reach the Moon! Ganita Prakash | Grade 8 20 The following table lists the thickness after each fold. After 17 folds, the thickness is about 131 cm (a little more than 4 feet).",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "List key points from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "Now, what do you think the thickness would be after 30 folds?",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Fold Thickness Fold Thickness Fold Thickness 18 ≈ 262 cm 21 24 19 ≈ 524 cm 22 25 20 ≈ 10.4 m 23 26 After 26 folds, the thickness is approximately 670 m.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "Burj Khalifa in Dubai, the tallest building in the world, is 830 m tall.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "Fold Thickness Fold Thickness 27 ≈ 1.3 km 29 28 30 After 30 folds, the thickness of the paper is about 10.7 km, the typical height at which planes fly.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, what do you think the thickness would be after 30 folds? Fold Thickness Fold Thickness Fold Thickness 18 ≈ 262 cm 21 24 19 ≈ 524 cm 22 25 20 ≈ 10.4 m 23 26 After 26 folds, the thickness is approximately 670 m. Burj Khalifa in Dubai, the tallest building in the world, is 830 m tall. Fold Thickness Fold Thickness 27 ≈ 1.3 km 29 28 30 After 30 folds, the thickness of the paper is about 10.7 km, the typical height at which planes fly.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "The deepest point discovered in the oceans is the Mariana Trench, with a depth of 11 km.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "This is the power of multiplicative growth, also called exponential growth.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "We have seen that the thickness doubles after every fold.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "After any 3 folds, the thickness increases 8 times (= 2 × 2 × 2).",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The deepest point discovered in the oceans is the Mariana Trench, with a depth of 11 km. This is the power of multiplicative growth, also called exponential growth. We have seen that the thickness doubles after every fold. After any 3 folds, the thickness increases 8 times (= 2 × 2 × 2).",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Use chapter information from Chapter 2 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 2 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "Similarly, from any point, the thickness after 10 folds increases by 1024 times (= 2 multiplied by itself 10 times), as shown in the table below.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "Upon folding once, its thickness became 0.001 cm × 2 = 0.002 cm.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "Folding it twice, its thickness became - 0.001 cm × 2 × 2 = 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand).",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "Upon folding it thrice, its thickness became - 0.001 cm × 2 × 2 × 2, or 0.001 cm × 23 = 0.008 cm.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Similarly, from any point, the thickness after 10 folds increases by 1024 times (= 2 multiplied by itself 10 times), as shown in the table below. Upon folding once, its thickness became 0.001 cm × 2 = 0.002 cm. Folding it twice, its thickness became - 0.001 cm × 2 × 2 = 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand). Upon folding it thrice, its thickness became - 0.001 cm × 2 × 2 × 2, or 0.001 cm × 23 = 0.008 cm.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "When folded four times, its thickness became - 0.001 cm × 2 × 2 × 2 × 2, or 0.001 cm × 24 = 0.016 cm.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "Similarly, the expression for the thickness of the paper when folded 7 times will be 0.001 cm × 2 × 2 × 2 × 2 × 2 × 2 × 2, or 0.001 cm × 27 = 0.128 cm.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "We have seen that square numbers can be expressed as n2 and cube numbers as n3.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "In general, we write na to denote n multiplied by itself a times.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "Exponents of the form 5n are called powers of 5: 51, 52, 53, 54, etc.",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "When folded four times, its thickness became - 0.001 cm × 2 × 2 × 2 × 2, or 0.001 cm × 24 = 0.016 cm. Similarly, the expression for the thickness of the paper when folded 7 times will be 0.001 cm × 2 × 2 × 2 × 2 × 2 × 2 × 2, or 0.001 cm × 27 = 0.128 cm. We have seen that square numbers can be expressed as n2 and cube numbers as n3. In general, we write na to denote n multiplied by itself a times. Exponents of the form 5n are called powers of 5: 51, 52, 53, 54, etc.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,48 +1435,48 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Build a definition from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 2?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "definition_term-1",
-          "text": "Take a sheet of paper, as large a sheet as you can find.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "definition_term-2",
-          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "definition_term-3",
-          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "Say you can fold a sheet of paper as many times as you wish.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Take a sheet of paper, as large a sheet as you can find. Estu says \"I heard that a sheet of paper can't be folded more than 7 times\". Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens. Say you can fold a sheet of paper as many times as you wish.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 2 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "Let us find out how thick a sheet of paper will be after 46 folds.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "If you can fold a paper 46 times, it will be so thick that it can reach the Moon!",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "Ganita Prakash | Grade 8 20 The following table lists the thickness after each fold.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "After 17 folds, the thickness is about 131 cm (a little more than 4 feet).",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "Now, what do you think the thickness would be after 30 folds?",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Let us find out how thick a sheet of paper will be after 46 folds. If you can fold a paper 46 times, it will be so thick that it can reach the Moon! Ganita Prakash | Grade 8 20 The following table lists the thickness after each fold. After 17 folds, the thickness is about 131 cm (a little more than 4 feet). Now, what do you think the thickness would be after 30 folds?",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Fold Thickness Fold Thickness Fold Thickness 18 ≈ 262 cm 21 24 19 ≈ 524 cm 22 25 20 ≈ 10.4 m 23 26 After 26 folds, the thickness is approximately 670 m.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "Burj Khalifa in Dubai, the tallest building in the world, is 830 m tall.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "Fold Thickness Fold Thickness 27 ≈ 1.3 km 29 28 30 After 30 folds, the thickness of the paper is about 10.7 km, the typical height at which planes fly.",
+          "text": "Fold it again, and again.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Fold Thickness Fold Thickness Fold Thickness 18 ≈ 262 cm 21 24 19 ≈ 524 cm 22 25 20 ≈ 10.4 m 23 26 After 26 folds, the thickness is approximately 670 m. Burj Khalifa in Dubai, the tallest building in the world, is 830 m tall. Fold Thickness Fold Thickness 27 ≈ 1.3 km 29 28 30 After 30 folds, the thickness of the paper is about 10.7 km, the typical height at which planes fly.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "The deepest point discovered in the oceans is the Mariana Trench, with a depth of 11 km.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "This is the power of multiplicative growth, also called exponential growth.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "We have seen that the thickness doubles after every fold.",
+          "text": "Fold it again, and again.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The deepest point discovered in the oceans is the Mariana Trench, with a depth of 11 km. This is the power of multiplicative growth, also called exponential growth. We have seen that the thickness doubles after every fold.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Sequence a process from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 2 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "After any 3 folds, the thickness increases 8 times (= 2 × 2 × 2).",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "Similarly, from any point, the thickness after 10 folds increases by 1024 times (= 2 multiplied by itself 10 times), as shown in the table below.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "Upon folding once, its thickness became 0.001 cm × 2 = 0.002 cm.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "Folding it twice, its thickness became - 0.001 cm × 2 × 2 = 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand).",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "After any 3 folds, the thickness increases 8 times (= 2 × 2 × 2). Similarly, from any point, the thickness after 10 folds increases by 1024 times (= 2 multiplied by itself 10 times), as shown in the table below. Upon folding once, its thickness became 0.001 cm × 2 = 0.002 cm. Folding it twice, its thickness became - 0.001 cm × 2 × 2 = 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand).",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "Upon folding it thrice, its thickness became - 0.001 cm × 2 × 2 × 2, or 0.001 cm × 23 = 0.008 cm.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "When folded four times, its thickness became - 0.001 cm × 2 × 2 × 2 × 2, or 0.001 cm × 24 = 0.016 cm.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "Similarly, the expression for the thickness of the paper when folded 7 times will be 0.001 cm × 2 × 2 × 2 × 2 × 2 × 2 × 2, or 0.001 cm × 27 = 0.128 cm.",
+          "text": "Fold it again, and again.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Upon folding it thrice, its thickness became - 0.001 cm × 2 × 2 × 2, or 0.001 cm × 23 = 0.008 cm. When folded four times, its thickness became - 0.001 cm × 2 × 2 × 2 × 2, or 0.001 cm × 24 = 0.016 cm. Similarly, the expression for the thickness of the paper when folded 7 times will be 0.001 cm × 2 × 2 × 2 × 2 × 2 × 2 × 2, or 0.001 cm × 27 = 0.128 cm.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "We have seen that square numbers can be expressed as n2 and cube numbers as n3.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "In general, we write na to denote n multiplied by itself a times.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "Exponents of the form 5n are called powers of 5: 51, 52, 53, 54, etc.",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "There, it meant that after every 10 folds, the thickness increased 1024 times.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We have seen that square numbers can be expressed as n2 and cube numbers as n3. In general, we write na to denote n multiplied by itself a times. Exponents of the form 5n are called powers of 5: 51, 52, 53, 54, etc. There, it meant that after every 10 folds, the thickness increased 1024 times.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "Which expression describes the thickness of a sheet of paper after it is folded 10 times?",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "The initial thickness is represented by the letter-number v.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Which expression describes the thickness of a sheet of paper after it is folded 10 times? The initial thickness is represented by the letter-number v.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 2.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "(i) 10v (ii) 10 + v (iii) 2 × 10 × v (iv) 210 (v) 210v (vi) 102v Some more examples of exponential notation: 4 × 4 × 4 = 43 = 64.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "Similarly, a × a × a × b × b can be expressed as a3b2 (read as a cubed b squared).",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "Take a sheet of paper, as large a sheet as you can find.",
+          "text": "Fold it again, and again.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 2 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "(i) 10v (ii) 10 + v (iii) 2 × 10 × v (iv) 210 (v) 210v (vi) 102v Some more examples of exponential notation: 4 × 4 × 4 = 43 = 64. Similarly, a × a × a × b × b can be expressed as a3b2 (read as a cubed b squared). Take a sheet of paper, as large a sheet as you can find.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,39 +2292,39 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-e-1",
-          "text": "Take a sheet of paper, as large a sheet as you can find.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1,
           "section": "Introduction"
         },
         {
           "id": "chapter-q01-chapter-overview-e-2",
-          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2,
           "section": "Key idea 1"
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
+          "text": "Fold it again, and again.",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "Say you can fold a sheet of paper as many times as you wish.",
+          "text": "How many times can you fold it over and over?",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Take a sheet of paper, as large a sheet as you can find. Estu says \"I heard that a sheet of paper can't be folded more than 7 times\". Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens. Say you can fold a sheet of paper as many times as you wish.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "Take a sheet of paper, as",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "large a sheet as you can find.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "Estu says \"I heard that a sheet of",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "paper can't be folded more than 7 times\".",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "a tissue paper?\" Try it with different types of paper and see what happens.",
+          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "Say you can fold a sheet of",
+          "text": "Say you can fold a sheet of paper as many times as you wish.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "paper as many times as you wish.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Take a sheet of paper, as large a sheet as you can find. Estu says \"I heard that a sheet of paper can't be folded more than 7 times\". Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens. Say you can fold a sheet of paper as many times as you wish.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "take",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "estu",
+          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Take a sheet of paper, as large a sheet as you can find. Estu says \"I heard that a sheet of paper can't be folded more than 7 times\". Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens. Say you can fold a sheet of paper as many times as you wish.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "Let us find out how thick a sheet of paper will be after 46 folds.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "If you can fold a paper 46 times, it will be so thick that it can reach the Moon!",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "Ganita Prakash | Grade 8 20 The following table lists the thickness after each fold.",
+          "text": "Fold it again, and again.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "After 17 folds, the thickness is about 131 cm (a little more than 4 feet).",
+          "text": "How many times can you fold it over and over?",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Let us find out how thick a sheet of paper will be after 46 folds. If you can fold a paper 46 times, it will be so thick that it can reach the Moon! Ganita Prakash | Grade 8 20 The following table lists the thickness after each fold. After 17 folds, the thickness is about 131 cm (a little more than 4 feet).",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "Let us find out how thick a",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "sheet of paper will be after 46 folds.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "If you can fold a paper 46 times, it",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "will be so thick that it can reach the Moon!",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "Ganita Prakash | Grade 8 20 The",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "following table lists the thickness after each fold.",
+          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "After 17 folds, the thickness is about",
+          "text": "Say you can fold a sheet of paper as many times as you wish.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "131 cm (a little more than 4 feet).",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Let us find out how thick a sheet of paper will be after 46 folds. If you can fold a paper 46 times, it will be so thick that it can reach the Moon! Ganita Prakash | Grade 8 20 The following table lists the thickness after each fold. After 17 folds, the thickness is about 131 cm (a little more than 4 feet).",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "let",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "if",
+          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Let us find out how thick a sheet of paper will be after 46 folds. If you can fold a paper 46 times, it will be so thick that it can reach the Moon! Ganita Prakash | Grade 8 20 The following table lists the thickness after each fold. After 17 folds, the thickness is about 131 cm (a little more than 4 feet).",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "Now, what do you think the thickness would be after 30 folds?",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Fold Thickness Fold Thickness Fold Thickness 18 ≈ 262 cm 21 24 19 ≈ 524 cm 22 25 20 ≈ 10.4 m 23 26 After 26 folds, the thickness is approximately 670 m.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "Burj Khalifa in Dubai, the tallest building in the world, is 830 m tall.",
+          "text": "Fold it again, and again.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "Fold Thickness Fold Thickness 27 ≈ 1.3 km 29 28 30 After 30 folds, the thickness of the paper is about 10.7 km, the typical height at which planes fly.",
+          "text": "How many times can you fold it over and over?",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, what do you think the thickness would be after 30 folds? Fold Thickness Fold Thickness Fold Thickness 18 ≈ 262 cm 21 24 19 ≈ 524 cm 22 25 20 ≈ 10.4 m 23 26 After 26 folds, the thickness is approximately 670 m. Burj Khalifa in Dubai, the tallest building in the world, is 830 m tall. Fold Thickness Fold Thickness 27 ≈ 1.3 km 29 28 30 After 30 folds, the thickness of the paper is about 10.7 km, the typical height at which planes fly.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "Now, what do you think the",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "thickness would be after 30 folds?",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Fold Thickness Fold Thickness Fold Thickness 18 ≈ 262 cm 21 24 19 ≈ 524 cm",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "22 25 20 ≈ 10.4 m 23 26 After 26 folds, the thickness is approximately 670 m.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "Burj Khalifa in Dubai, the tallest building",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "in the world, is 830 m tall.",
+          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "Fold Thickness Fold Thickness 27 ≈ 1.3 km 29 28 30 After 30 folds, the",
+          "text": "Say you can fold a sheet of paper as many times as you wish.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "thickness of the paper is about 10.7 km, the typical height at which planes fly.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, what do you think the thickness would be after 30 folds? Fold Thickness Fold Thickness Fold Thickness 18 ≈ 262 cm 21 24 19 ≈ 524 cm 22 25 20 ≈ 10.4 m 23 26 After 26 folds, the thickness is approximately 670 m. Burj Khalifa in Dubai, the tallest building in the world, is 830 m tall. Fold Thickness Fold Thickness 27 ≈ 1.3 km 29 28 30 After 30 folds, the thickness of the paper is about 10.7 km, the typical height at which planes fly.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "now,",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "fold",
+          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, what do you think the thickness would be after 30 folds? Fold Thickness Fold Thickness Fold Thickness 18 ≈ 262 cm 21 24 19 ≈ 524 cm 22 25 20 ≈ 10.4 m 23 26 After 26 folds, the thickness is approximately 670 m. Burj Khalifa in Dubai, the tallest building in the world, is 830 m tall. Fold Thickness Fold Thickness 27 ≈ 1.3 km 29 28 30 After 30 folds, the thickness of the paper is about 10.7 km, the typical height at which planes fly.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Define an important term from Chapter 2 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "The deepest point discovered in the oceans is the Mariana Trench, with a depth of 11 km.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "This is the power of multiplicative growth, also called exponential growth.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "We have seen that the thickness doubles after every fold.",
+          "text": "Fold it again, and again.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "After any 3 folds, the thickness increases 8 times (= 2 × 2 × 2).",
+          "text": "How many times can you fold it over and over?",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The deepest point discovered in the oceans is the Mariana Trench, with a depth of 11 km. This is the power of multiplicative growth, also called exponential growth. We have seen that the thickness doubles after every fold. After any 3 folds, the thickness increases 8 times (= 2 × 2 × 2).",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Define an important term from Chapter 2 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "The deepest point discovered in the oceans is",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "the Mariana Trench, with a depth of 11 km.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "This is the power of",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "multiplicative growth, also called exponential growth.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "We have seen that the",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "thickness doubles after every fold.",
+          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "After any 3 folds, the thickness increases",
+          "text": "Say you can fold a sheet of paper as many times as you wish.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "8 times (= 2 × 2 × 2).",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The deepest point discovered in the oceans is the Mariana Trench, with a depth of 11 km. This is the power of multiplicative growth, also called exponential growth. We have seen that the thickness doubles after every fold. After any 3 folds, the thickness increases 8 times (= 2 × 2 × 2).",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Define an important term from Chapter 2 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "the",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "this",
+          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The deepest point discovered in the oceans is the Mariana Trench, with a depth of 11 km. This is the power of multiplicative growth, also called exponential growth. We have seen that the thickness doubles after every fold. After any 3 folds, the thickness increases 8 times (= 2 × 2 × 2).",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "Similarly, from any point, the thickness after 10 folds increases by 1024 times (= 2 multiplied by itself 10 times), as shown in the table below.",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "Upon folding once, its thickness became 0.001 cm × 2 = 0.002 cm.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "Folding it twice, its thickness became - 0.001 cm × 2 × 2 = 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand).",
+          "text": "Fold it again, and again.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "Upon folding it thrice, its thickness became - 0.001 cm × 2 × 2 × 2, or 0.001 cm × 23 = 0.008 cm.",
+          "text": "How many times can you fold it over and over?",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Similarly, from any point, the thickness after 10 folds increases by 1024 times (= 2 multiplied by itself 10 times), as shown in the table below. Upon folding once, its thickness became 0.001 cm × 2 = 0.002 cm. Folding it twice, its thickness became - 0.001 cm × 2 × 2 = 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand). Upon folding it thrice, its thickness became - 0.001 cm × 2 × 2 × 2, or 0.001 cm × 23 = 0.008 cm.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "Similarly, from any point, the thickness after 10 folds increases by 1024 times",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "(= 2 multiplied by itself 10 times), as shown in the table below.",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "Upon folding once, its thickness became",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "0.001 cm × 2 = 0.002 cm.",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "Folding it twice, its thickness became - 0.001 cm × 2 × 2",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "= 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand).",
+          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "Upon folding it thrice, its thickness became - 0.001 cm × 2",
+          "text": "Say you can fold a sheet of paper as many times as you wish.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "× 2 × 2, or 0.001 cm × 23 = 0.008 cm.",
+          "text": "Chapter 2 has important ideas that students can explain in simple words.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Similarly, from any point, the thickness after 10 folds increases by 1024 times (= 2 multiplied by itself 10 times), as shown in the table below. Upon folding once, its thickness became 0.001 cm × 2 = 0.002 cm. Folding it twice, its thickness became - 0.001 cm × 2 × 2 = 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand). Upon folding it thrice, its thickness became - 0.001 cm × 2 × 2 × 2, or 0.001 cm × 23 = 0.008 cm.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 2",
       "chapterNumber": 2,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 2.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 2.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash Part 1, Chapter Chapter 2.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash Part 1, lesson: Chapter 2.",
       "sourceChapter": "Chapter 2",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Mathematics - Ganita Prakash Part 1\\hegp102.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "2 POWER PLAY 2.1 Experiencing the Power Play.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "Take a sheet of paper, as large a sheet as you can find.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "Fold it again, and again.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "How many times can you fold it over and over?",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "similarly,",
+          "text": "Estu says \"I heard that a sheet of paper can't be folded more than 7 times\".",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "upon",
+          "text": "Roxie replies \"What if we use a thinner paper, like a newspaper or a tissue paper?\" Try it with different types of paper and see what happens.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 2 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 2.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 2.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Similarly, from any point, the thickness after 10 folds increases by 1024 times (= 2 multiplied by itself 10 times), as shown in the table below. Upon folding once, its thickness became 0.001 cm × 2 = 0.002 cm. Folding it twice, its thickness became - 0.001 cm × 2 × 2 = 0.004 cm, or 0.001 cm × 22 = 0.004 cm (in shorthand). Upon folding it thrice, its thickness became - 0.001 cm × 2 × 2 × 2, or 0.001 cm × 23 = 0.008 cm.",
+      "modelAnswer": "2 POWER PLAY 2.1 Experiencing the Power Play. Take a sheet of paper, as large a sheet as you can find. Fold it again, and again. How many times can you fold it over and over?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

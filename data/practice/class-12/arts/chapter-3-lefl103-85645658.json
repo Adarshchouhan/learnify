@@ -12,7 +12,8 @@
     "chapterNumber": 3,
     "pageCount": null,
     "extractedCharacterCount": 14948,
-    "extractionPreview": "Deep Water\nAbout the author\nWilliam Douglas (1898-1980) was born in Maine, Minnesota. After \ngraduating with a Bachelors of Arts in English and Economics, \nhe spent two years teaching high school in Yakima. However, \nhe got tired of this and decided to pursue a legal career. He met \nFranklin D. Roosevelt at Yale and became an adviser and friend \nto the President. Douglas was a leading advocate of individual \nrights. He retired in 1975 with a term lasting thirty-six years and \nremains the longest"
+    "extractionPreview": "Deep Water\nAbout the author\nWilliam Douglas (1898-1980) was born in Maine, Minnesota. After \ngraduating with a Bachelors of Arts in English and Economics, \nhe spent two years teaching high school in Yakima. However, \nhe got tired of this and decided to pursue a legal career. He met \nFranklin D. Roosevelt at Yale and became an adviser and friend \nto the President. Douglas was a leading advocate of individual \nrights. He retired in 1975 with a term lasting thirty-six years and \nremains the longest",
+    "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 3.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 3?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 3.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 3 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 3.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 3, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 3 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 3?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 3.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 3?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 3?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
@@ -189,13 +190,13 @@
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,8 +226,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
@@ -259,49 +260,49 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 3 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest-serving Justice in the history of the court.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "The following excerpt is taken from Of Men and Mountains by William O.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "It reveals how as a young boy William Douglas nearly drowned in a swimming pool.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "In this essay he talks about his fear of water and thereafter, how he finally overcame it.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He retired in 1975 with a term lasting thirty-six years and remains the longest-serving Justice in the history of the court. The following excerpt is taken from Of Men and Mountains by William O. It reveals how as a young boy William Douglas nearly drowned in a swimming pool. In this essay he talks about his fear of water and thereafter, how he finally overcame it.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 3, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "Notice how the autobiographical part of the selection is used to support his discussion of fear.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Mother continually warned against it, and kept fresh in my mind the details of each drowning in the river.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "It was only two or three feet deep at the shallow end; and while it was nine feet deep at the other, the drop was gradual.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "From the beginning, however, I had an aversion to the water when I was in it.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Notice how the autobiographical part of the selection is used to support his discussion of fear. Mother continually warned against it, and kept fresh in my mind the details of each drowning in the river. It was only two or three feet deep at the shallow end; and while it was nine feet deep at the other, the drop was gradual. From the beginning, however, I had an aversion to the water when I was in it.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 3 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 3 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "This started when I was three or four years old and 3 Reprint 2025-26 24/Flamingo Sketch map not to scale The Yakima River is a tributary of the Columbia River in eastern Washington, U.S.A.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "the yakima river Reprint 2025-26 Deep Water/25 father took me to the beach in California.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "I hung on to him, yet the waves knocked me down and swept over me.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "Father laughed, but there was terror in my heart at the overpowering force of the waves.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This started when I was three or four years old and 3 Reprint 2025-26 24/Flamingo Sketch map not to scale The Yakima River is a tributary of the Columbia River in eastern Washington, U.S.A. the yakima river Reprint 2025-26 Deep Water/25 father took me to the beach in California. I hung on to him, yet the waves knocked me down and swept over me. Father laughed, but there was terror in my heart at the overpowering force of the waves.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 3?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "swimming pool revived unpleasant memories and stirred childish fears.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "I paddled with my new water wings, watching the other boys and trying to learn by aping them.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "I did this two or three times on different days and was just beginning to feel at ease in the water when the misadventure happened.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "The water was still, and the tiled bottom was as white and clean as a bathtub.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "swimming pool revived unpleasant memories and stirred childish fears. I paddled with my new water wings, watching the other boys and trying to learn by aping them. I did this two or three times on different days and was just beginning to feel at ease in the water when the misadventure happened. The water was still, and the tiled bottom was as white and clean as a bathtub.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 3, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "I was timid about going in alone, so I sat on the side of the pool to wait for others.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "I had not been there long when in came a big bruiser of a boy, probably eighteen years old.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "He was a beautiful physical specimen, with legs and arms that showed rippling muscles.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "How'd you like to be ducked?\" With that he picked me up and tossed me into the deep end.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "I was timid about going in alone, so I sat on the side of the pool to wait for others. I had not been there long when in came a big bruiser of a boy, probably eighteen years old. He was a beautiful physical specimen, with legs and arms that showed rippling muscles. How'd you like to be ducked?\" With that he picked me up and tossed me into the deep end.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Complete a passage from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
@@ -825,13 +826,13 @@
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,8 +862,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
@@ -901,48 +902,48 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Classify statements based on Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest-serving Justice in the history of the court.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "The following excerpt is taken from Of Men and Mountains by William O.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "It reveals how as a young boy William Douglas nearly drowned in a swimming pool.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "In this essay he talks about his fear of water and thereafter, how he finally overcame it.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He retired in 1975 with a term lasting thirty-six years and remains the longest-serving Justice in the history of the court. The following excerpt is taken from Of Men and Mountains by William O. It reveals how as a young boy William Douglas nearly drowned in a swimming pool. In this essay he talks about his fear of water and thereafter, how he finally overcame it.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "List key points from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "Notice how the autobiographical part of the selection is used to support his discussion of fear.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Mother continually warned against it, and kept fresh in my mind the details of each drowning in the river.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "It was only two or three feet deep at the shallow end; and while it was nine feet deep at the other, the drop was gradual.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "From the beginning, however, I had an aversion to the water when I was in it.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Notice how the autobiographical part of the selection is used to support his discussion of fear. Mother continually warned against it, and kept fresh in my mind the details of each drowning in the river. It was only two or three feet deep at the shallow end; and while it was nine feet deep at the other, the drop was gradual. From the beginning, however, I had an aversion to the water when I was in it.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "This started when I was three or four years old and 3 Reprint 2025-26 24/Flamingo Sketch map not to scale The Yakima River is a tributary of the Columbia River in eastern Washington, U.S.A.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "the yakima river Reprint 2025-26 Deep Water/25 father took me to the beach in California.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "I hung on to him, yet the waves knocked me down and swept over me.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "Father laughed, but there was terror in my heart at the overpowering force of the waves.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This started when I was three or four years old and 3 Reprint 2025-26 24/Flamingo Sketch map not to scale The Yakima River is a tributary of the Columbia River in eastern Washington, U.S.A. the yakima river Reprint 2025-26 Deep Water/25 father took me to the beach in California. I hung on to him, yet the waves knocked me down and swept over me. Father laughed, but there was terror in my heart at the overpowering force of the waves.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Use chapter information from Chapter 3 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 3 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "swimming pool revived unpleasant memories and stirred childish fears.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "I paddled with my new water wings, watching the other boys and trying to learn by aping them.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "I did this two or three times on different days and was just beginning to feel at ease in the water when the misadventure happened.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "The water was still, and the tiled bottom was as white and clean as a bathtub.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "swimming pool revived unpleasant memories and stirred childish fears. I paddled with my new water wings, watching the other boys and trying to learn by aping them. I did this two or three times on different days and was just beginning to feel at ease in the water when the misadventure happened. The water was still, and the tiled bottom was as white and clean as a bathtub.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "I was timid about going in alone, so I sat on the side of the pool to wait for others.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "I had not been there long when in came a big bruiser of a boy, probably eighteen years old.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "He was a beautiful physical specimen, with legs and arms that showed rippling muscles.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "How'd you like to be ducked?\" With that he picked me up and tossed me into the deep end.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "I landed in a sitting position, swallowed water, and went at once to the bottom.",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "I was timid about going in alone, so I sat on the side of the pool to wait for others. I had not been there long when in came a big bruiser of a boy, probably eighteen years old. He was a beautiful physical specimen, with legs and arms that showed rippling muscles. How'd you like to be ducked?\" With that he picked me up and tossed me into the deep end. I landed in a sitting position, swallowed water, and went at once to the bottom.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Build a definition from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 3?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
@@ -1469,13 +1470,13 @@
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,8 +1502,8 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 3 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest-serving Justice in the history of the court.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "The following excerpt is taken from Of Men and Mountains by William O.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "It reveals how as a young boy William Douglas nearly drowned in a swimming pool.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "In this essay he talks about his fear of water and thereafter, how he finally overcame it.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "Notice how the autobiographical part of the selection is used to support his discussion of fear.",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He retired in 1975 with a term lasting thirty-six years and remains the longest-serving Justice in the history of the court. The following excerpt is taken from Of Men and Mountains by William O. It reveals how as a young boy William Douglas nearly drowned in a swimming pool. In this essay he talks about his fear of water and thereafter, how he finally overcame it. Notice how the autobiographical part of the selection is used to support his discussion of fear.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Mother continually warned against it, and kept fresh in my mind the details of each drowning in the river.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "It was only two or three feet deep at the shallow end; and while it was nine feet deep at the other, the drop was gradual.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "From the beginning, however, I had an aversion to the water when I was in it.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Mother continually warned against it, and kept fresh in my mind the details of each drowning in the river. It was only two or three feet deep at the shallow end; and while it was nine feet deep at the other, the drop was gradual. From the beginning, however, I had an aversion to the water when I was in it.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "This started when I was three or four years old and 3 Reprint 2025-26 24/Flamingo Sketch map not to scale The Yakima River is a tributary of the Columbia River in eastern Washington, U.S.A.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "the yakima river Reprint 2025-26 Deep Water/25 father took me to the beach in California.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "I hung on to him, yet the waves knocked me down and swept over me.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This started when I was three or four years old and 3 Reprint 2025-26 24/Flamingo Sketch map not to scale The Yakima River is a tributary of the Columbia River in eastern Washington, U.S.A. the yakima river Reprint 2025-26 Deep Water/25 father took me to the beach in California. I hung on to him, yet the waves knocked me down and swept over me.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Sequence a process from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 3 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "Father laughed, but there was terror in my heart at the overpowering force of the waves.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "swimming pool revived unpleasant memories and stirred childish fears.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "I paddled with my new water wings, watching the other boys and trying to learn by aping them.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "I did this two or three times on different days and was just beginning to feel at ease in the water when the misadventure happened.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Father laughed, but there was terror in my heart at the overpowering force of the waves. swimming pool revived unpleasant memories and stirred childish fears. I paddled with my new water wings, watching the other boys and trying to learn by aping them. I did this two or three times on different days and was just beginning to feel at ease in the water when the misadventure happened.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "The water was still, and the tiled bottom was as white and clean as a bathtub.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "I was timid about going in alone, so I sat on the side of the pool to wait for others.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "I had not been there long when in came a big bruiser of a boy, probably eighteen years old.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The water was still, and the tiled bottom was as white and clean as a bathtub. I was timid about going in alone, so I sat on the side of the pool to wait for others. I had not been there long when in came a big bruiser of a boy, probably eighteen years old.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "He was a beautiful physical specimen, with legs and arms that showed rippling muscles.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "How'd you like to be ducked?\" With that he picked me up and tossed me into the deep end.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "I landed in a sitting position, swallowed water, and went at once to the bottom.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "I was frightened, but not yet frightened out of my wits.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He was a beautiful physical specimen, with legs and arms that showed rippling muscles. How'd you like to be ducked?\" With that he picked me up and tossed me into the deep end. I landed in a sitting position, swallowed water, and went at once to the bottom. I was frightened, but not yet frightened out of my wits.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "On the way down I planned: When my feet hit the bottom, I would make a big jump, come to the surface, lie flat on it, and paddle to the edge of the pool.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "Those nine feet were more like ninety, and before I touched bottom my lungs were ready to burst.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "On the way down I planned: When my feet hit the bottom, I would make a big jump, come to the surface, lie flat on it, and paddle to the edge of the pool. Those nine feet were more like ninety, and before I touched bottom my lungs were ready to burst.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 3.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "But when my feet hit bottom I summoned all my strength and made what I thought was a great spring upwards.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "I opened my eyes and saw nothing but water - water that had a dirty yellow tinge to it.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 3 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "But when my feet hit bottom I summoned all my strength and made what I thought was a great spring upwards. I opened my eyes and saw nothing but water - water that had a dirty yellow tinge to it. Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,8 +2373,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "Deep Water About the author William",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "Douglas (1898-1980) was born in Maine, Minnesota.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "After graduating with a Bachelors of Arts in English and",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "Economics, he spent two years teaching high school in Yakima.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "However, he got tired of this",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "and decided to pursue a legal career.",
+          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "Roosevelt at Yale and became an",
+          "text": "Chapter 3 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "adviser and friend to the President.",
+          "text": "The answer should use details from Chapter 3.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,8 +2539,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "deep",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "after",
+          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,8 +2677,8 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
       "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest-serving Justice in the history of the court.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "The following excerpt is taken from Of Men and Mountains by William O.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "It reveals how as a young boy William Douglas nearly drowned in a swimming pool.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "In this essay he talks about his fear of water and thereafter, how he finally overcame it.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He retired in 1975 with a term lasting thirty-six years and remains the longest-serving Justice in the history of the court. The following excerpt is taken from Of Men and Mountains by William O. It reveals how as a young boy William Douglas nearly drowned in a swimming pool. In this essay he talks about his fear of water and thereafter, how he finally overcame it.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "He retired in 1975 with a term lasting thirty-six years",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "and remains the longest-serving Justice in the history of the court.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "The following excerpt is taken from",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "Of Men and Mountains by William O.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "It reveals how as a young boy",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "William Douglas nearly drowned in a swimming pool.",
+          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "In this essay he talks about his fear",
+          "text": "Chapter 3 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "of water and thereafter, how he finally overcame it.",
+          "text": "The answer should use details from Chapter 3.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He retired in 1975 with a term lasting thirty-six years and remains the longest-serving Justice in the history of the court. The following excerpt is taken from Of Men and Mountains by William O. It reveals how as a young boy William Douglas nearly drowned in a swimming pool. In this essay he talks about his fear of water and thereafter, how he finally overcame it.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "he",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "the",
+          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "He retired in 1975 with a term lasting thirty-six years and remains the longest-serving Justice in the history of the court. The following excerpt is taken from Of Men and Mountains by William O. It reveals how as a young boy William Douglas nearly drowned in a swimming pool. In this essay he talks about his fear of water and thereafter, how he finally overcame it.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "Notice how the autobiographical part of the selection is used to support his discussion of fear.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Mother continually warned against it, and kept fresh in my mind the details of each drowning in the river.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "It was only two or three feet deep at the shallow end; and while it was nine feet deep at the other, the drop was gradual.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "From the beginning, however, I had an aversion to the water when I was in it.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Notice how the autobiographical part of the selection is used to support his discussion of fear. Mother continually warned against it, and kept fresh in my mind the details of each drowning in the river. It was only two or three feet deep at the shallow end; and while it was nine feet deep at the other, the drop was gradual. From the beginning, however, I had an aversion to the water when I was in it.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "Notice how the autobiographical part of the selection",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "is used to support his discussion of fear.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Mother continually warned against it, and kept fresh in",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "my mind the details of each drowning in the river.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "It was only two or three feet deep at the shallow end; and",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "while it was nine feet deep at the other, the drop was gradual.",
+          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "From the beginning, however, I had an aversion",
+          "text": "Chapter 3 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "to the water when I was in it.",
+          "text": "The answer should use details from Chapter 3.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Notice how the autobiographical part of the selection is used to support his discussion of fear. Mother continually warned against it, and kept fresh in my mind the details of each drowning in the river. It was only two or three feet deep at the shallow end; and while it was nine feet deep at the other, the drop was gradual. From the beginning, however, I had an aversion to the water when I was in it.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "notice",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "mother",
+          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Notice how the autobiographical part of the selection is used to support his discussion of fear. Mother continually warned against it, and kept fresh in my mind the details of each drowning in the river. It was only two or three feet deep at the shallow end; and while it was nine feet deep at the other, the drop was gradual. From the beginning, however, I had an aversion to the water when I was in it.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Define an important term from Chapter 3 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "This started when I was three or four years old and 3 Reprint 2025-26 24/Flamingo Sketch map not to scale The Yakima River is a tributary of the Columbia River in eastern Washington, U.S.A.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "the yakima river Reprint 2025-26 Deep Water/25 father took me to the beach in California.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "I hung on to him, yet the waves knocked me down and swept over me.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "Father laughed, but there was terror in my heart at the overpowering force of the waves.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This started when I was three or four years old and 3 Reprint 2025-26 24/Flamingo Sketch map not to scale The Yakima River is a tributary of the Columbia River in eastern Washington, U.S.A. the yakima river Reprint 2025-26 Deep Water/25 father took me to the beach in California. I hung on to him, yet the waves knocked me down and swept over me. Father laughed, but there was terror in my heart at the overpowering force of the waves.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Define an important term from Chapter 3 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "This started when I was three or four years old and 3 Reprint 2025-26 24/Flamingo Sketch map",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "not to scale The Yakima River is a tributary of the Columbia River in eastern Washington, U.S.A.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "the yakima river Reprint 2025-26 Deep Water/25",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "father took me to the beach in California.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "I hung on to him, yet the",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "waves knocked me down and swept over me.",
+          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "Father laughed, but there was terror in my",
+          "text": "Chapter 3 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "heart at the overpowering force of the waves.",
+          "text": "The answer should use details from Chapter 3.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This started when I was three or four years old and 3 Reprint 2025-26 24/Flamingo Sketch map not to scale The Yakima River is a tributary of the Columbia River in eastern Washington, U.S.A. the yakima river Reprint 2025-26 Deep Water/25 father took me to the beach in California. I hung on to him, yet the waves knocked me down and swept over me. Father laughed, but there was terror in my heart at the overpowering force of the waves.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Define an important term from Chapter 3 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "this",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "the",
+          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "This started when I was three or four years old and 3 Reprint 2025-26 24/Flamingo Sketch map not to scale The Yakima River is a tributary of the Columbia River in eastern Washington, U.S.A. the yakima river Reprint 2025-26 Deep Water/25 father took me to the beach in California. I hung on to him, yet the waves knocked me down and swept over me. Father laughed, but there was terror in my heart at the overpowering force of the waves.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "swimming pool revived unpleasant memories and stirred childish fears.",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "I paddled with my new water wings, watching the other boys and trying to learn by aping them.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "I did this two or three times on different days and was just beginning to feel at ease in the water when the misadventure happened.",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "The water was still, and the tiled bottom was as white and clean as a bathtub.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "swimming pool revived unpleasant memories and stirred childish fears. I paddled with my new water wings, watching the other boys and trying to learn by aping them. I did this two or three times on different days and was just beginning to feel at ease in the water when the misadventure happened. The water was still, and the tiled bottom was as white and clean as a bathtub.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "swimming pool revived unpleasant",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "memories and stirred childish fears.",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "I paddled with my new water wings, watching the",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "other boys and trying to learn by aping them.",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "I did this two or three times on different days and was",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "just beginning to feel at ease in the water when the misadventure happened.",
+          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "The water was still, and the tiled bottom",
+          "text": "Chapter 3 has important ideas that students can explain in simple words.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "was as white and clean as a bathtub.",
+          "text": "The answer should use details from Chapter 3.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "swimming pool revived unpleasant memories and stirred childish fears. I paddled with my new water wings, watching the other boys and trying to learn by aping them. I did this two or three times on different days and was just beginning to feel at ease in the water when the misadventure happened. The water was still, and the tiled bottom was as white and clean as a bathtub.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 3",
       "chapterNumber": 3,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 3.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 3.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from English - Flamingo, Chapter Chapter 3.",
+      "sourceTextSummary": "Practice questions generated from English - Flamingo, lesson: Chapter 3.",
       "sourceChapter": "Chapter 3",
       "sourcePdf": "D:\\LX\\all class pdf\\Class 12\\Arts\\English - Flamingo\\lefl103.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "However, he got tired of this and decided to pursue a legal career.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "Roosevelt at Yale and became an adviser and friend to the President.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "swimming",
+          "text": "Douglas was a leading advocate of individual rights.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "i",
+          "text": "He retired in 1975 with a term lasting thirty-six years and remains the longest.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 3 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 3.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 3.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "swimming pool revived unpleasant memories and stirred childish fears. I paddled with my new water wings, watching the other boys and trying to learn by aping them. I did this two or three times on different days and was just beginning to feel at ease in the water when the misadventure happened. The water was still, and the tiled bottom was as white and clean as a bathtub.",
+      "modelAnswer": "Deep Water About the author William Douglas (1898-1980) was born in Maine, Minnesota. After graduating with a Bachelors of Arts in English and Economics, he spent two years teaching high school in Yakima. However, he got tired of this and decided to pursue a legal career. Roosevelt at Yale and became an adviser and friend to the President.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

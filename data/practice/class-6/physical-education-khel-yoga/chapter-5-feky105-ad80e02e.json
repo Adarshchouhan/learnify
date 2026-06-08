@@ -12,7 +12,8 @@
     "chapterNumber": 5,
     "pageCount": null,
     "extractedCharacterCount": 69450,
-    "extractionPreview": "UNIT 5\nWelcome to the world of Yoga for holistic \nhealth and well-being. In this unit, let us \nexplore the ancient art and science of Yoga - \na practice that originated in India and endured \nfor thousands of years. Passed down through \ngenerations in India, it is now enjoyed by \npeople all around the world.\nYoga\n\n110\nKhel Yatra\nYoga is a journey of self-discovery to keep our body strong and \nmind calm. We will delve into the rich practices of Yoga, exploring \nits history, philosophy and practica"
+    "extractionPreview": "UNIT 5\nWelcome to the world of Yoga for holistic \nhealth and well-being. In this unit, let us \nexplore the ancient art and science of Yoga - \na practice that originated in India and endured \nfor thousands of years. Passed down through \ngenerations in India, it is now enjoyed by \npeople all around the world.\nYoga\n\n110\nKhel Yatra\nYoga is a journey of self-discovery to keep our body strong and \nmind calm. We will delve into the rich practices of Yoga, exploring \nits history, philosophy and practica",
+    "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 5.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 5?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 5.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 5 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 5.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 5, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 5 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 5?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 5.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 5?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,49 +154,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 5?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "explain-1",
-          "text": "UNIT 5 Welcome to the world of Yoga for holistic health and well-being.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "explain-2",
-          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "explain-3",
-          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "UNIT 5 Welcome to the world of Yoga for holistic health and well-being. In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 5 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practical applications.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "In its true sense, Yoga is a profound science that can unfold the infinite potentials of the human mind and soul.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "Let us embark on this transformative journey, unlocking the secrets of Yoga and discovering the boundless capabilities that lie within each of us.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "111 Yoga Start each Yoga session with a prayer given below.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practical applications. In its true sense, Yoga is a profound science that can unfold the infinite potentials of the human mind and soul. Let us embark on this transformative journey, unlocking the secrets of Yoga and discovering the boundless capabilities that lie within each of us. 111 Yoga Start each Yoga session with a prayer given below.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 5, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "It is about the sacred bond between a student and the teacher.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Both pray together to illuminate their paths with divine protection and nourishment with wisdom.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "After opening prayer, conduct the activities as per the session plan.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "It includes yogic practices like Yama and Niyama, Sūkshṣma Vyāyāma, Śithalīkarana Vyāyāma, Āsanas (Postures), Prānāyāma, Pratyāhāra, Relaxation, Dhārana, Dhyāna and Krīḍā Yoga.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It is about the sacred bond between a student and the teacher. Both pray together to illuminate their paths with divine protection and nourishment with wisdom. After opening prayer, conduct the activities as per the session plan. It includes yogic practices like Yama and Niyama, Sūkshṣma Vyāyāma, Śithalīkarana Vyāyāma, Āsanas (Postures), Prānāyāma, Pratyāhāra, Relaxation, Dhārana, Dhyāna and Krīḍā Yoga.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 5 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 5 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "Yoga Session Structure 112 Khel Yatra End each Yoga session with a prayer given below.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "Closing prayer helps the students to assimilate the knowledge and reinforce the day with positively and happiness.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "General instruction to begin and end a Yoga session: • Sit in a comfortable Sukhāsana posture.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "• Keep the back straight, eyes closed and face relaxed.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Yoga Session Structure 112 Khel Yatra End each Yoga session with a prayer given below. Closing prayer helps the students to assimilate the knowledge and reinforce the day with positively and happiness. General instruction to begin and end a Yoga session: • Sit in a comfortable Sukhāsana posture. • Keep the back straight, eyes closed and face relaxed.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 5?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "• Place your hands in Cin Mudra and become aware of your breath.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "• Observe your breathing for a few seconds and then take a deep breath.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "• Gently place your hands in Namaskāra Mudra and chant the prayer.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "• Gently rub the palms of your hands, cup them and place them on your eyes.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "• Place your hands in Cin Mudra and become aware of your breath. • Observe your breathing for a few seconds and then take a deep breath. • Gently place your hands in Namaskāra Mudra and chant the prayer. • Gently rub the palms of your hands, cup them and place them on your eyes.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 5, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "113 Yoga As students, you have busy schedules filled with classes, activities, projects and homework.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "Yoga can help you manage these activities by keeping your mind clear and focused.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "It can also improve physical health, making it easier to participate in sports and other activities.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "By incorporating Yoga into your daily routine, you will find it easier to stay calm and energised throughout the day.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "113 Yoga As students, you have busy schedules filled with classes, activities, projects and homework. Yoga can help you manage these activities by keeping your mind clear and focused. It can also improve physical health, making it easier to participate in sports and other activities. By incorporating Yoga into your daily routine, you will find it easier to stay calm and energised throughout the day.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,49 +790,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Complete a passage from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "fill_blanks-1",
-          "text": "UNIT 5 Welcome to the world of Yoga for holistic health and well-being.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "fill_blanks-2",
-          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "fill_blanks-3",
-          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "UNIT 5 Welcome to the world of Yoga for holistic health and well-being. In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Classify statements based on Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practical applications.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "In its true sense, Yoga is a profound science that can unfold the infinite potentials of the human mind and soul.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "Let us embark on this transformative journey, unlocking the secrets of Yoga and discovering the boundless capabilities that lie within each of us.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "111 Yoga Start each Yoga session with a prayer given below.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practical applications. In its true sense, Yoga is a profound science that can unfold the infinite potentials of the human mind and soul. Let us embark on this transformative journey, unlocking the secrets of Yoga and discovering the boundless capabilities that lie within each of us. 111 Yoga Start each Yoga session with a prayer given below.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "List key points from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "It is about the sacred bond between a student and the teacher.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Both pray together to illuminate their paths with divine protection and nourishment with wisdom.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "After opening prayer, conduct the activities as per the session plan.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "It includes yogic practices like Yama and Niyama, Sūkshṣma Vyāyāma, Śithalīkarana Vyāyāma, Āsanas (Postures), Prānāyāma, Pratyāhāra, Relaxation, Dhārana, Dhyāna and Krīḍā Yoga.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It is about the sacred bond between a student and the teacher. Both pray together to illuminate their paths with divine protection and nourishment with wisdom. After opening prayer, conduct the activities as per the session plan. It includes yogic practices like Yama and Niyama, Sūkshṣma Vyāyāma, Śithalīkarana Vyāyāma, Āsanas (Postures), Prānāyāma, Pratyāhāra, Relaxation, Dhārana, Dhyāna and Krīḍā Yoga.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "Yoga Session Structure 112 Khel Yatra End each Yoga session with a prayer given below.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "Closing prayer helps the students to assimilate the knowledge and reinforce the day with positively and happiness.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "General instruction to begin and end a Yoga session: • Sit in a comfortable Sukhāsana posture.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "• Keep the back straight, eyes closed and face relaxed.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Yoga Session Structure 112 Khel Yatra End each Yoga session with a prayer given below. Closing prayer helps the students to assimilate the knowledge and reinforce the day with positively and happiness. General instruction to begin and end a Yoga session: • Sit in a comfortable Sukhāsana posture. • Keep the back straight, eyes closed and face relaxed.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Use chapter information from Chapter 5 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 5 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "• Place your hands in Cin Mudra and become aware of your breath.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "• Observe your breathing for a few seconds and then take a deep breath.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "• Gently place your hands in Namaskāra Mudra and chant the prayer.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "• Gently rub the palms of your hands, cup them and place them on your eyes.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "• Place your hands in Cin Mudra and become aware of your breath. • Observe your breathing for a few seconds and then take a deep breath. • Gently place your hands in Namaskāra Mudra and chant the prayer. • Gently rub the palms of your hands, cup them and place them on your eyes.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "113 Yoga As students, you have busy schedules filled with classes, activities, projects and homework.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "Yoga can help you manage these activities by keeping your mind clear and focused.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "It can also improve physical health, making it easier to participate in sports and other activities.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "By incorporating Yoga into your daily routine, you will find it easier to stay calm and energised throughout the day.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "Yoga helps you to focus and be more aware of your thoughts and feelings.",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "113 Yoga As students, you have busy schedules filled with classes, activities, projects and homework. Yoga can help you manage these activities by keeping your mind clear and focused. It can also improve physical health, making it easier to participate in sports and other activities. By incorporating Yoga into your daily routine, you will find it easier to stay calm and energised throughout the day. Yoga helps you to focus and be more aware of your thoughts and feelings.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,48 +1435,48 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Build a definition from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 5?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "definition_term-1",
-          "text": "UNIT 5 Welcome to the world of Yoga for holistic health and well-being.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "definition_term-2",
-          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "definition_term-3",
-          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "UNIT 5 Welcome to the world of Yoga for holistic health and well-being. In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 5 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practical applications.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "In its true sense, Yoga is a profound science that can unfold the infinite potentials of the human mind and soul.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "Let us embark on this transformative journey, unlocking the secrets of Yoga and discovering the boundless capabilities that lie within each of us.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "111 Yoga Start each Yoga session with a prayer given below.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "It is about the sacred bond between a student and the teacher.",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practical applications. In its true sense, Yoga is a profound science that can unfold the infinite potentials of the human mind and soul. Let us embark on this transformative journey, unlocking the secrets of Yoga and discovering the boundless capabilities that lie within each of us. 111 Yoga Start each Yoga session with a prayer given below. It is about the sacred bond between a student and the teacher.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Both pray together to illuminate their paths with divine protection and nourishment with wisdom.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "After opening prayer, conduct the activities as per the session plan.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "It includes yogic practices like Yama and Niyama, Sūkshṣma Vyāyāma, Śithalīkarana Vyāyāma, Āsanas (Postures), Prānāyāma, Pratyāhāra, Relaxation, Dhārana, Dhyāna and Krīḍā Yoga.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Both pray together to illuminate their paths with divine protection and nourishment with wisdom. After opening prayer, conduct the activities as per the session plan. It includes yogic practices like Yama and Niyama, Sūkshṣma Vyāyāma, Śithalīkarana Vyāyāma, Āsanas (Postures), Prānāyāma, Pratyāhāra, Relaxation, Dhārana, Dhyāna and Krīḍā Yoga.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "Yoga Session Structure 112 Khel Yatra End each Yoga session with a prayer given below.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "Closing prayer helps the students to assimilate the knowledge and reinforce the day with positively and happiness.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "General instruction to begin and end a Yoga session: • Sit in a comfortable Sukhāsana posture.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Yoga Session Structure 112 Khel Yatra End each Yoga session with a prayer given below. Closing prayer helps the students to assimilate the knowledge and reinforce the day with positively and happiness. General instruction to begin and end a Yoga session: • Sit in a comfortable Sukhāsana posture.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Sequence a process from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 5 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "• Keep the back straight, eyes closed and face relaxed.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "• Place your hands in Cin Mudra and become aware of your breath.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "• Observe your breathing for a few seconds and then take a deep breath.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "• Gently place your hands in Namaskāra Mudra and chant the prayer.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "• Keep the back straight, eyes closed and face relaxed. • Place your hands in Cin Mudra and become aware of your breath. • Observe your breathing for a few seconds and then take a deep breath. • Gently place your hands in Namaskāra Mudra and chant the prayer.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "• Gently rub the palms of your hands, cup them and place them on your eyes.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "113 Yoga As students, you have busy schedules filled with classes, activities, projects and homework.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "Yoga can help you manage these activities by keeping your mind clear and focused.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "• Gently rub the palms of your hands, cup them and place them on your eyes. 113 Yoga As students, you have busy schedules filled with classes, activities, projects and homework. Yoga can help you manage these activities by keeping your mind clear and focused.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "It can also improve physical health, making it easier to participate in sports and other activities.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "By incorporating Yoga into your daily routine, you will find it easier to stay calm and energised throughout the day.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "Yoga helps you to focus and be more aware of your thoughts and feelings.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "It can improve your concentration, so you might find it easier to pay attention in class or while doing homework.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It can also improve physical health, making it easier to participate in sports and other activities. By incorporating Yoga into your daily routine, you will find it easier to stay calm and energised throughout the day. Yoga helps you to focus and be more aware of your thoughts and feelings. It can improve your concentration, so you might find it easier to pay attention in class or while doing homework.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "Yoga can help you relax by helping you let go of your worries, especially if you are feeling stressed about school or other things.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "Overall, doing Yoga can make you feel happier and more at ease.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Yoga can help you relax by helping you let go of your worries, especially if you are feeling stressed about school or other things. Overall, doing Yoga can make you feel happier and more at ease.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 5.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "Even a few minutes of Yoga each day can make a big difference.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "History of Yoga Yoga's roots can be traced back to the Vedās, the oldest sacred texts of India.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "UNIT 5 Welcome to the world of Yoga for holistic health and well-being.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 5 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Even a few minutes of Yoga each day can make a big difference. History of Yoga Yoga's roots can be traced back to the Vedās, the oldest sacred texts of India. UNIT 5 Welcome to the world of Yoga for holistic health and well-being.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,39 +2292,39 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-e-1",
-          "text": "UNIT 5 Welcome to the world of Yoga for holistic health and well-being.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1,
           "section": "Introduction"
         },
         {
           "id": "chapter-q01-chapter-overview-e-2",
-          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2,
           "section": "Key idea 1"
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "UNIT 5 Welcome to the world of Yoga for holistic health and well-being. In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "UNIT 5 Welcome to the world",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "of Yoga for holistic health and well-being.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "In this unit, let us explore the ancient art and science of Yoga",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "- a practice that originated in India and endured for thousands of years.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "Passed down through generations in India, it is",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "now enjoyed by people all around the world.",
+          "text": "The answer should use details from Chapter 5.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "Yoga 110 Khel Yatra Yoga is a journey of",
+          "text": "A clear response should stay connected to Chapter 5.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "self-discovery to keep our body strong and mind calm.",
+          "text": "Students should arrange the points from Chapter 5 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "UNIT 5 Welcome to the world of Yoga for holistic health and well-being. In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "unit",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "in",
+          "text": "The answer should use details from Chapter 5.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "UNIT 5 Welcome to the world of Yoga for holistic health and well-being. In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practical applications.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "In its true sense, Yoga is a profound science that can unfold the infinite potentials of the human mind and soul.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "Let us embark on this transformative journey, unlocking the secrets of Yoga and discovering the boundless capabilities that lie within each of us.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "111 Yoga Start each Yoga session with a prayer given below.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practical applications. In its true sense, Yoga is a profound science that can unfold the infinite potentials of the human mind and soul. Let us embark on this transformative journey, unlocking the secrets of Yoga and discovering the boundless capabilities that lie within each of us. 111 Yoga Start each Yoga session with a prayer given below.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "We will delve into the rich practices of",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "Yoga, exploring its history, philosophy and practical applications.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "In its true sense, Yoga is a profound science that",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "can unfold the infinite potentials of the human mind and soul.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "Let us embark on this transformative journey, unlocking the secrets of",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "Yoga and discovering the boundless capabilities that lie within each of us.",
+          "text": "The answer should use details from Chapter 5.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "111 Yoga Start each Yoga",
+          "text": "A clear response should stay connected to Chapter 5.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "session with a prayer given below.",
+          "text": "Students should arrange the points from Chapter 5 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practical applications. In its true sense, Yoga is a profound science that can unfold the infinite potentials of the human mind and soul. Let us embark on this transformative journey, unlocking the secrets of Yoga and discovering the boundless capabilities that lie within each of us. 111 Yoga Start each Yoga session with a prayer given below.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "we",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "in",
+          "text": "The answer should use details from Chapter 5.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practical applications. In its true sense, Yoga is a profound science that can unfold the infinite potentials of the human mind and soul. Let us embark on this transformative journey, unlocking the secrets of Yoga and discovering the boundless capabilities that lie within each of us. 111 Yoga Start each Yoga session with a prayer given below.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "It is about the sacred bond between a student and the teacher.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Both pray together to illuminate their paths with divine protection and nourishment with wisdom.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "After opening prayer, conduct the activities as per the session plan.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "It includes yogic practices like Yama and Niyama, Sūkshṣma Vyāyāma, Śithalīkarana Vyāyāma, Āsanas (Postures), Prānāyāma, Pratyāhāra, Relaxation, Dhārana, Dhyāna and Krīḍā Yoga.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It is about the sacred bond between a student and the teacher. Both pray together to illuminate their paths with divine protection and nourishment with wisdom. After opening prayer, conduct the activities as per the session plan. It includes yogic practices like Yama and Niyama, Sūkshṣma Vyāyāma, Śithalīkarana Vyāyāma, Āsanas (Postures), Prānāyāma, Pratyāhāra, Relaxation, Dhārana, Dhyāna and Krīḍā Yoga.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "It is about the sacred bond",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "between a student and the teacher.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Both pray together to illuminate their paths",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "with divine protection and nourishment with wisdom.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "After opening prayer, conduct the",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "activities as per the session plan.",
+          "text": "The answer should use details from Chapter 5.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "It includes yogic practices like Yama and Niyama, Sūkshṣma Vyāyāma, Śithalīkarana",
+          "text": "A clear response should stay connected to Chapter 5.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "Vyāyāma, Āsanas (Postures), Prānāyāma, Pratyāhāra, Relaxation, Dhārana, Dhyāna and Krīḍā Yoga.",
+          "text": "Students should arrange the points from Chapter 5 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It is about the sacred bond between a student and the teacher. Both pray together to illuminate their paths with divine protection and nourishment with wisdom. After opening prayer, conduct the activities as per the session plan. It includes yogic practices like Yama and Niyama, Sūkshṣma Vyāyāma, Śithalīkarana Vyāyāma, Āsanas (Postures), Prānāyāma, Pratyāhāra, Relaxation, Dhārana, Dhyāna and Krīḍā Yoga.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "it",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "both",
+          "text": "The answer should use details from Chapter 5.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It is about the sacred bond between a student and the teacher. Both pray together to illuminate their paths with divine protection and nourishment with wisdom. After opening prayer, conduct the activities as per the session plan. It includes yogic practices like Yama and Niyama, Sūkshṣma Vyāyāma, Śithalīkarana Vyāyāma, Āsanas (Postures), Prānāyāma, Pratyāhāra, Relaxation, Dhārana, Dhyāna and Krīḍā Yoga.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Define an important term from Chapter 5 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "Yoga Session Structure 112 Khel Yatra End each Yoga session with a prayer given below.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "Closing prayer helps the students to assimilate the knowledge and reinforce the day with positively and happiness.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "General instruction to begin and end a Yoga session: • Sit in a comfortable Sukhāsana posture.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "• Keep the back straight, eyes closed and face relaxed.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Yoga Session Structure 112 Khel Yatra End each Yoga session with a prayer given below. Closing prayer helps the students to assimilate the knowledge and reinforce the day with positively and happiness. General instruction to begin and end a Yoga session: • Sit in a comfortable Sukhāsana posture. • Keep the back straight, eyes closed and face relaxed.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Define an important term from Chapter 5 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "Yoga Session Structure 112 Khel Yatra End",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "each Yoga session with a prayer given below.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "Closing prayer helps the students to assimilate the",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "knowledge and reinforce the day with positively and happiness.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "General instruction to begin and end a Yoga",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "session: • Sit in a comfortable Sukhāsana posture.",
+          "text": "The answer should use details from Chapter 5.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "• Keep the back straight,",
+          "text": "A clear response should stay connected to Chapter 5.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "eyes closed and face relaxed.",
+          "text": "Students should arrange the points from Chapter 5 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Yoga Session Structure 112 Khel Yatra End each Yoga session with a prayer given below. Closing prayer helps the students to assimilate the knowledge and reinforce the day with positively and happiness. General instruction to begin and end a Yoga session: • Sit in a comfortable Sukhāsana posture. • Keep the back straight, eyes closed and face relaxed.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Define an important term from Chapter 5 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "yoga",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "closing",
+          "text": "The answer should use details from Chapter 5.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Yoga Session Structure 112 Khel Yatra End each Yoga session with a prayer given below. Closing prayer helps the students to assimilate the knowledge and reinforce the day with positively and happiness. General instruction to begin and end a Yoga session: • Sit in a comfortable Sukhāsana posture. • Keep the back straight, eyes closed and face relaxed.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "• Place your hands in Cin Mudra and become aware of your breath.",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "• Observe your breathing for a few seconds and then take a deep breath.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "• Gently place your hands in Namaskāra Mudra and chant the prayer.",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "• Gently rub the palms of your hands, cup them and place them on your eyes.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "• Place your hands in Cin Mudra and become aware of your breath. • Observe your breathing for a few seconds and then take a deep breath. • Gently place your hands in Namaskāra Mudra and chant the prayer. • Gently rub the palms of your hands, cup them and place them on your eyes.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "• Place your hands in Cin",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "Mudra and become aware of your breath.",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "• Observe your breathing for a few",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "seconds and then take a deep breath.",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "• Gently place your hands in",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "Namaskāra Mudra and chant the prayer.",
+          "text": "The answer should use details from Chapter 5.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "• Gently rub the palms of your hands,",
+          "text": "A clear response should stay connected to Chapter 5.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "cup them and place them on your eyes.",
+          "text": "Students should arrange the points from Chapter 5 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "• Place your hands in Cin Mudra and become aware of your breath. • Observe your breathing for a few seconds and then take a deep breath. • Gently place your hands in Namaskāra Mudra and chant the prayer. • Gently rub the palms of your hands, cup them and place them on your eyes.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 5",
       "chapterNumber": 5,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 5.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 5.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Physical Education - Khel Yoga, Chapter Chapter 5.",
+      "sourceTextSummary": "Practice questions generated from Physical Education - Khel Yoga, lesson: Chapter 5.",
       "sourceChapter": "Chapter 5",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Physical Education - Khel Yoga\\feky105.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "Passed down through generations in India, it is now enjoyed by people all around the world.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "•",
+          "text": "Chapter 5 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "•",
+          "text": "The answer should use details from Chapter 5.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 5 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 5.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 5.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "• Place your hands in Cin Mudra and become aware of your breath. • Observe your breathing for a few seconds and then take a deep breath. • Gently place your hands in Namaskāra Mudra and chant the prayer. • Gently rub the palms of your hands, cup them and place them on your eyes.",
+      "modelAnswer": "In this unit, let us explore the ancient art and science of Yoga - a practice that originated in India and endured for thousands of years. Passed down through generations in India, it is now enjoyed by people all around the world. Yoga 110 Khel Yatra Yoga is a journey of self-discovery to keep our body strong and mind calm. We will delve into the rich practices of Yoga, exploring its history, philosophy and practica.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

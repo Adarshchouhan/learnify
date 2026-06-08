@@ -12,7 +12,8 @@
     "chapterNumber": 11,
     "pageCount": null,
     "extractedCharacterCount": 22015,
-    "extractionPreview": "SURFACE AREAS AND VOLUMES\n137\nCHAPTER 11\nSURFACE AREAS AND VOLUMES\n11.1 Surface Area of a Right Circular Cone\nWe have already studied the surface areas of cube, cuboid and cylinder. We will now\nstudy the surface area of cone.\nSo far, we have been generating solids by stacking up congruent figures. Incidentally,\nsuch figures are called prisms. Now let us look at another kind of solid which is not a\nprism (These kinds of solids are called pyramids.). Let us see how we can generate\nthem.\nActivity :"
+    "extractionPreview": "SURFACE AREAS AND VOLUMES\n137\nCHAPTER 11\nSURFACE AREAS AND VOLUMES\n11.1 Surface Area of a Right Circular Cone\nWe have already studied the surface areas of cube, cuboid and cylinder. We will now\nstudy the surface area of cone.\nSo far, we have been generating solids by stacking up congruent figures. Incidentally,\nsuch figures are called prisms. Now let us look at another kind of solid which is not a\nprism (These kinds of solids are called pyramids.). Let us see how we can generate\nthem.\nActivity :",
+    "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 11.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 11?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 11.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 11 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 11.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 11, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 11 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 11?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 11.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 11?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,49 +154,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 11?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "explain-1",
-          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "explain-2",
-          "text": "Paste a long thick string along one of the perpendicular sides say AB of the triangle [see Fig.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "explain-3",
-          "text": "Hold the string with your hands on either sides of the triangle and rotate the triangle about the string a number of times.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "Do you recognize the shape that the triangle is forming as it rotates around the string [see Fig.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.). Paste a long thick string along one of the perpendicular sides say AB of the triangle [see Fig. Hold the string with your hands on either sides of the triangle and rotate the triangle about the string a number of times. Do you recognize the shape that the triangle is forming as it rotates around the string [see Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 11 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "Does it remind you of the time you had eaten an ice-cream heaped into a container of that shape [see Fig.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "11.1 Reprint 2025-26 138 MATHEMATICS This is called a right circular cone.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "11.1(c) of the right circular cone, the point A is called the vertex, AB is called the height, BC is called the radius and AC is called the slant height of the cone.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "Here B will be the centre of circular base of the cone.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Does it remind you of the time you had eaten an ice-cream heaped into a container of that shape [see Fig. 11.1 Reprint 2025-26 138 MATHEMATICS This is called a right circular cone. 11.1(c) of the right circular cone, the point A is called the vertex, AB is called the height, BC is called the radius and AC is called the slant height of the cone. Here B will be the centre of circular base of the cone.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 11, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "The height, radius and slant height of the cone are usually denoted by h, r and l respectively.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Once again, let us see what kind of cone we can not call a right circular cone.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "(The line along which you cut the cone is the slant height of the cone which is represented by l).",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "(ii) If you now bring the sides marked A and B at the tips together, you can see that the curved portion of Fig.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The height, radius and slant height of the cone are usually denoted by h, r and l respectively. Once again, let us see what kind of cone we can not call a right circular cone. (The line along which you cut the cone is the slant height of the cone which is represented by l). (ii) If you now bring the sides marked A and B at the tips together, you can see that the curved portion of Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 11 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 11 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "11.3 (c) is now cut into hundreds of little pieces, along the lines drawn from the point O, each cut portion is almost a small triangle, whose height is the slant height l of the cone.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "(iv) Now the area of each triangle = 1 2 × base of each triangle × l.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "So, Curved Surface Area of a Cone = 1 2 × l × 2πr = πrl where r is its base radius and l its slant height.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "Therefore, l = 2 2 r h + Now if the base of the cone is to be closed, then a circular piece of paper of radius r is also required whose area is πr2.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "11.3 (c) is now cut into hundreds of little pieces, along the lines drawn from the point O, each cut portion is almost a small triangle, whose height is the slant height l of the cone. (iv) Now the area of each triangle = 1 2 × base of each triangle × l. So, Curved Surface Area of a Cone = 1 2 × l × 2πr = πrl where r is its base radius and l its slant height. Therefore, l = 2 2 r h + Now if the base of the cone is to be closed, then a circular piece of paper of radius r is also required whose area is πr2.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 11?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "So, Total Surface Area of a Cone = πrl + πr2 = πr(l + r) Example 1 : Find the curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "Solution : Curved surface area = πrl = 22 7 × 7 × 10 cm2 = 220 cm2 Example 2 : The height of a cone is 16 cm and its base radius is 12 cm.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "Find the curved surface area and the total surface area of the cone (Use π = 3.14).",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "So, from l2 = h2 + r2, we have l = 2 2 16 12 + cm = 20 cm Fig.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "So, Total Surface Area of a Cone = πrl + πr2 = πr(l + r) Example 1 : Find the curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm. Solution : Curved surface area = πrl = 22 7 × 7 × 10 cm2 = 220 cm2 Example 2 : The height of a cone is 16 cm and its base radius is 12 cm. Find the curved surface area and the total surface area of the cone (Use π = 3.14). So, from l2 = h2 + r2, we have l = 2 2 16 12 + cm = 20 cm Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 11, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "11.5), shaped somewhat like a cone, has the radius of its broadest end as 2.1 cm and length (height) as 20 cm.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "If each 1 cm2 of the surface of the cob carries an average of four grains, find how many grains you would find on the entire cob.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "In this question, we are given the height of the cone, so we need to find its slant height.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "Diameter of the base of a cone is 10.5 cm and its slant height is 10 cm.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "11.5), shaped somewhat like a cone, has the radius of its broadest end as 2.1 cm and length (height) as 20 cm. If each 1 cm2 of the surface of the cob carries an average of four grains, find how many grains you would find on the entire cob. In this question, we are given the height of the cone, so we need to find its slant height. Diameter of the base of a cone is 10.5 cm and its slant height is 10 cm.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,49 +790,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Complete a passage from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "fill_blanks-1",
-          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "fill_blanks-2",
-          "text": "Paste a long thick string along one of the perpendicular sides say AB of the triangle [see Fig.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "fill_blanks-3",
-          "text": "Hold the string with your hands on either sides of the triangle and rotate the triangle about the string a number of times.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "Do you recognize the shape that the triangle is forming as it rotates around the string [see Fig.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.). Paste a long thick string along one of the perpendicular sides say AB of the triangle [see Fig. Hold the string with your hands on either sides of the triangle and rotate the triangle about the string a number of times. Do you recognize the shape that the triangle is forming as it rotates around the string [see Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Classify statements based on Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "Does it remind you of the time you had eaten an ice-cream heaped into a container of that shape [see Fig.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "11.1 Reprint 2025-26 138 MATHEMATICS This is called a right circular cone.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "11.1(c) of the right circular cone, the point A is called the vertex, AB is called the height, BC is called the radius and AC is called the slant height of the cone.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "Here B will be the centre of circular base of the cone.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Does it remind you of the time you had eaten an ice-cream heaped into a container of that shape [see Fig. 11.1 Reprint 2025-26 138 MATHEMATICS This is called a right circular cone. 11.1(c) of the right circular cone, the point A is called the vertex, AB is called the height, BC is called the radius and AC is called the slant height of the cone. Here B will be the centre of circular base of the cone.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "List key points from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "The height, radius and slant height of the cone are usually denoted by h, r and l respectively.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Once again, let us see what kind of cone we can not call a right circular cone.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "(The line along which you cut the cone is the slant height of the cone which is represented by l).",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "(ii) If you now bring the sides marked A and B at the tips together, you can see that the curved portion of Fig.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The height, radius and slant height of the cone are usually denoted by h, r and l respectively. Once again, let us see what kind of cone we can not call a right circular cone. (The line along which you cut the cone is the slant height of the cone which is represented by l). (ii) If you now bring the sides marked A and B at the tips together, you can see that the curved portion of Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "11.3 (c) is now cut into hundreds of little pieces, along the lines drawn from the point O, each cut portion is almost a small triangle, whose height is the slant height l of the cone.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "(iv) Now the area of each triangle = 1 2 × base of each triangle × l.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "So, Curved Surface Area of a Cone = 1 2 × l × 2πr = πrl where r is its base radius and l its slant height.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "Therefore, l = 2 2 r h + Now if the base of the cone is to be closed, then a circular piece of paper of radius r is also required whose area is πr2.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "11.3 (c) is now cut into hundreds of little pieces, along the lines drawn from the point O, each cut portion is almost a small triangle, whose height is the slant height l of the cone. (iv) Now the area of each triangle = 1 2 × base of each triangle × l. So, Curved Surface Area of a Cone = 1 2 × l × 2πr = πrl where r is its base radius and l its slant height. Therefore, l = 2 2 r h + Now if the base of the cone is to be closed, then a circular piece of paper of radius r is also required whose area is πr2.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Use chapter information from Chapter 11 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 11 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "So, Total Surface Area of a Cone = πrl + πr2 = πr(l + r) Example 1 : Find the curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "Solution : Curved surface area = πrl = 22 7 × 7 × 10 cm2 = 220 cm2 Example 2 : The height of a cone is 16 cm and its base radius is 12 cm.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "Find the curved surface area and the total surface area of the cone (Use π = 3.14).",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "So, from l2 = h2 + r2, we have l = 2 2 16 12 + cm = 20 cm Fig.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "So, Total Surface Area of a Cone = πrl + πr2 = πr(l + r) Example 1 : Find the curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm. Solution : Curved surface area = πrl = 22 7 × 7 × 10 cm2 = 220 cm2 Example 2 : The height of a cone is 16 cm and its base radius is 12 cm. Find the curved surface area and the total surface area of the cone (Use π = 3.14). So, from l2 = h2 + r2, we have l = 2 2 16 12 + cm = 20 cm Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "11.5), shaped somewhat like a cone, has the radius of its broadest end as 2.1 cm and length (height) as 20 cm.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "If each 1 cm2 of the surface of the cob carries an average of four grains, find how many grains you would find on the entire cob.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "In this question, we are given the height of the cone, so we need to find its slant height.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "Diameter of the base of a cone is 10.5 cm and its slant height is 10 cm.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "Find the total surface area of a cone, if its slant height is 21 m and diameter of its base is 24 m.",
+          "text": "Let us see how we can generate them.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "11.5), shaped somewhat like a cone, has the radius of its broadest end as 2.1 cm and length (height) as 20 cm. If each 1 cm2 of the surface of the cob carries an average of four grains, find how many grains you would find on the entire cob. In this question, we are given the height of the cone, so we need to find its slant height. Diameter of the base of a cone is 10.5 cm and its slant height is 10 cm. Find the total surface area of a cone, if its slant height is 21 m and diameter of its base is 24 m.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,48 +1435,48 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Build a definition from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 11?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "definition_term-1",
-          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "definition_term-2",
-          "text": "Paste a long thick string along one of the perpendicular sides say AB of the triangle [see Fig.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "definition_term-3",
-          "text": "Hold the string with your hands on either sides of the triangle and rotate the triangle about the string a number of times.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "Do you recognize the shape that the triangle is forming as it rotates around the string [see Fig.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.). Paste a long thick string along one of the perpendicular sides say AB of the triangle [see Fig. Hold the string with your hands on either sides of the triangle and rotate the triangle about the string a number of times. Do you recognize the shape that the triangle is forming as it rotates around the string [see Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 11 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "Does it remind you of the time you had eaten an ice-cream heaped into a container of that shape [see Fig.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "11.1 Reprint 2025-26 138 MATHEMATICS This is called a right circular cone.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "11.1(c) of the right circular cone, the point A is called the vertex, AB is called the height, BC is called the radius and AC is called the slant height of the cone.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "Here B will be the centre of circular base of the cone.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "The height, radius and slant height of the cone are usually denoted by h, r and l respectively.",
+          "text": "Let us see how we can generate them.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Does it remind you of the time you had eaten an ice-cream heaped into a container of that shape [see Fig. 11.1 Reprint 2025-26 138 MATHEMATICS This is called a right circular cone. 11.1(c) of the right circular cone, the point A is called the vertex, AB is called the height, BC is called the radius and AC is called the slant height of the cone. Here B will be the centre of circular base of the cone. The height, radius and slant height of the cone are usually denoted by h, r and l respectively.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Once again, let us see what kind of cone we can not call a right circular cone.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "(The line along which you cut the cone is the slant height of the cone which is represented by l).",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "(ii) If you now bring the sides marked A and B at the tips together, you can see that the curved portion of Fig.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Once again, let us see what kind of cone we can not call a right circular cone. (The line along which you cut the cone is the slant height of the cone which is represented by l). (ii) If you now bring the sides marked A and B at the tips together, you can see that the curved portion of Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "11.3 (c) is now cut into hundreds of little pieces, along the lines drawn from the point O, each cut portion is almost a small triangle, whose height is the slant height l of the cone.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "(iv) Now the area of each triangle = 1 2 × base of each triangle × l.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "So, Curved Surface Area of a Cone = 1 2 × l × 2πr = πrl where r is its base radius and l its slant height.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "11.3 (c) is now cut into hundreds of little pieces, along the lines drawn from the point O, each cut portion is almost a small triangle, whose height is the slant height l of the cone. (iv) Now the area of each triangle = 1 2 × base of each triangle × l. So, Curved Surface Area of a Cone = 1 2 × l × 2πr = πrl where r is its base radius and l its slant height.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Sequence a process from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 11 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "Therefore, l = 2 2 r h + Now if the base of the cone is to be closed, then a circular piece of paper of radius r is also required whose area is πr2.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "So, Total Surface Area of a Cone = πrl + πr2 = πr(l + r) Example 1 : Find the curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "Solution : Curved surface area = πrl = 22 7 × 7 × 10 cm2 = 220 cm2 Example 2 : The height of a cone is 16 cm and its base radius is 12 cm.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "Find the curved surface area and the total surface area of the cone (Use π = 3.14).",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, l = 2 2 r h + Now if the base of the cone is to be closed, then a circular piece of paper of radius r is also required whose area is πr2. So, Total Surface Area of a Cone = πrl + πr2 = πr(l + r) Example 1 : Find the curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm. Solution : Curved surface area = πrl = 22 7 × 7 × 10 cm2 = 220 cm2 Example 2 : The height of a cone is 16 cm and its base radius is 12 cm. Find the curved surface area and the total surface area of the cone (Use π = 3.14).",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "So, from l2 = h2 + r2, we have l = 2 2 16 12 + cm = 20 cm Fig.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "11.5), shaped somewhat like a cone, has the radius of its broadest end as 2.1 cm and length (height) as 20 cm.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "If each 1 cm2 of the surface of the cob carries an average of four grains, find how many grains you would find on the entire cob.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "So, from l2 = h2 + r2, we have l = 2 2 16 12 + cm = 20 cm Fig. 11.5), shaped somewhat like a cone, has the radius of its broadest end as 2.1 cm and length (height) as 20 cm. If each 1 cm2 of the surface of the cob carries an average of four grains, find how many grains you would find on the entire cob.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "In this question, we are given the height of the cone, so we need to find its slant height.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "Diameter of the base of a cone is 10.5 cm and its slant height is 10 cm.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "Find the total surface area of a cone, if its slant height is 21 m and diameter of its base is 24 m.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "Curved surface area of a cone is 308 cm2 and its slant height is 14 cm.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In this question, we are given the height of the cone, so we need to find its slant height. Diameter of the base of a cone is 10.5 cm and its slant height is 10 cm. Find the total surface area of a cone, if its slant height is 21 m and diameter of its base is 24 m. Curved surface area of a cone is 308 cm2 and its slant height is 14 cm.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "Find (i) radius of the base and (ii) total surface area of the cone.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "A conical tent is 10 m high and the radius of its base is 24 m.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Find (i) radius of the base and (ii) total surface area of the cone. A conical tent is 10 m high and the radius of its base is 24 m.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 11.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "(ii) cost of the canvas required to make the tent, if the cost of 1 m2 canvas is ` 70.",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "What length of tarpaulin 3 m wide will be required to make conical tent of height 8 m and base radius 6 m?",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 11 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "(ii) cost of the canvas required to make the tent, if the cost of 1 m2 canvas is ` 70. What length of tarpaulin 3 m wide will be required to make conical tent of height 8 m and base radius 6 m? Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,39 +2292,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-e-1",
-          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
+          "text": "We will now study the surface area of cone.",
           "order": 1,
           "section": "Introduction"
         },
         {
           "id": "chapter-q01-chapter-overview-e-2",
-          "text": "Paste a long thick string along one of the perpendicular sides say AB of the triangle [see Fig.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2,
           "section": "Key idea 1"
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "Hold the string with your hands on either sides of the triangle and rotate the triangle about the string a number of times.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "Do you recognize the shape that the triangle is forming as it rotates around the string [see Fig.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.). Paste a long thick string along one of the perpendicular sides say AB of the triangle [see Fig. Hold the string with your hands on either sides of the triangle and rotate the triangle about the string a number of times. Do you recognize the shape that the triangle is forming as it rotates around the string [see Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "Now let us look at another kind of solid which",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "is not a prism (These kinds of solids are called pyramids.).",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "Paste a long thick string along one of the",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "perpendicular sides say AB of the triangle [see Fig.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "Hold the string with your hands on either sides of the",
+          "text": "Let us see how we can generate them.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "triangle and rotate the triangle about the string a number of times.",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "Do you recognize the shape that the triangle is",
+          "text": "The answer should use details from Chapter 11.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "forming as it rotates around the string [see Fig.",
+          "text": "A clear response should stay connected to Chapter 11.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.). Paste a long thick string along one of the perpendicular sides say AB of the triangle [see Fig. Hold the string with your hands on either sides of the triangle and rotate the triangle about the string a number of times. Do you recognize the shape that the triangle is forming as it rotates around the string [see Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "now",
+          "text": "Let us see how we can generate them.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "paste",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.). Paste a long thick string along one of the perpendicular sides say AB of the triangle [see Fig. Hold the string with your hands on either sides of the triangle and rotate the triangle about the string a number of times. Do you recognize the shape that the triangle is forming as it rotates around the string [see Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "Does it remind you of the time you had eaten an ice-cream heaped into a container of that shape [see Fig.",
+          "text": "We will now study the surface area of cone.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "11.1 Reprint 2025-26 138 MATHEMATICS This is called a right circular cone.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "11.1(c) of the right circular cone, the point A is called the vertex, AB is called the height, BC is called the radius and AC is called the slant height of the cone.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "Here B will be the centre of circular base of the cone.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Does it remind you of the time you had eaten an ice-cream heaped into a container of that shape [see Fig. 11.1 Reprint 2025-26 138 MATHEMATICS This is called a right circular cone. 11.1(c) of the right circular cone, the point A is called the vertex, AB is called the height, BC is called the radius and AC is called the slant height of the cone. Here B will be the centre of circular base of the cone.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "Does it remind you of the time you had eaten",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "an ice-cream heaped into a container of that shape [see Fig.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "11.1 Reprint 2025-26 138 MATHEMATICS This",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "is called a right circular cone.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "11.1(c) of the right circular cone, the point A is called the vertex, AB is called",
+          "text": "Let us see how we can generate them.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "the height, BC is called the radius and AC is called the slant height of the cone.",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "Here B will be the centre",
+          "text": "The answer should use details from Chapter 11.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "of circular base of the cone.",
+          "text": "A clear response should stay connected to Chapter 11.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Does it remind you of the time you had eaten an ice-cream heaped into a container of that shape [see Fig. 11.1 Reprint 2025-26 138 MATHEMATICS This is called a right circular cone. 11.1(c) of the right circular cone, the point A is called the vertex, AB is called the height, BC is called the radius and AC is called the slant height of the cone. Here B will be the centre of circular base of the cone.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "does",
+          "text": "Let us see how we can generate them.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "11.1",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Does it remind you of the time you had eaten an ice-cream heaped into a container of that shape [see Fig. 11.1 Reprint 2025-26 138 MATHEMATICS This is called a right circular cone. 11.1(c) of the right circular cone, the point A is called the vertex, AB is called the height, BC is called the radius and AC is called the slant height of the cone. Here B will be the centre of circular base of the cone.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "The height, radius and slant height of the cone are usually denoted by h, r and l respectively.",
+          "text": "We will now study the surface area of cone.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Once again, let us see what kind of cone we can not call a right circular cone.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "(The line along which you cut the cone is the slant height of the cone which is represented by l).",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "(ii) If you now bring the sides marked A and B at the tips together, you can see that the curved portion of Fig.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The height, radius and slant height of the cone are usually denoted by h, r and l respectively. Once again, let us see what kind of cone we can not call a right circular cone. (The line along which you cut the cone is the slant height of the cone which is represented by l). (ii) If you now bring the sides marked A and B at the tips together, you can see that the curved portion of Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "The height, radius and slant height of the cone",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "are usually denoted by h, r and l respectively.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Once again, let us see what kind of",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "cone we can not call a right circular cone.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "(The line along which you cut the cone is the",
+          "text": "Let us see how we can generate them.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "slant height of the cone which is represented by l).",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "(ii) If you now bring the sides marked A and B at",
+          "text": "The answer should use details from Chapter 11.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "the tips together, you can see that the curved portion of Fig.",
+          "text": "A clear response should stay connected to Chapter 11.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The height, radius and slant height of the cone are usually denoted by h, r and l respectively. Once again, let us see what kind of cone we can not call a right circular cone. (The line along which you cut the cone is the slant height of the cone which is represented by l). (ii) If you now bring the sides marked A and B at the tips together, you can see that the curved portion of Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "the",
+          "text": "Let us see how we can generate them.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "once",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "The height, radius and slant height of the cone are usually denoted by h, r and l respectively. Once again, let us see what kind of cone we can not call a right circular cone. (The line along which you cut the cone is the slant height of the cone which is represented by l). (ii) If you now bring the sides marked A and B at the tips together, you can see that the curved portion of Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Define an important term from Chapter 11 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "11.3 (c) is now cut into hundreds of little pieces, along the lines drawn from the point O, each cut portion is almost a small triangle, whose height is the slant height l of the cone.",
+          "text": "We will now study the surface area of cone.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "(iv) Now the area of each triangle = 1 2 × base of each triangle × l.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "So, Curved Surface Area of a Cone = 1 2 × l × 2πr = πrl where r is its base radius and l its slant height.",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "Therefore, l = 2 2 r h + Now if the base of the cone is to be closed, then a circular piece of paper of radius r is also required whose area is πr2.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "11.3 (c) is now cut into hundreds of little pieces, along the lines drawn from the point O, each cut portion is almost a small triangle, whose height is the slant height l of the cone. (iv) Now the area of each triangle = 1 2 × base of each triangle × l. So, Curved Surface Area of a Cone = 1 2 × l × 2πr = πrl where r is its base radius and l its slant height. Therefore, l = 2 2 r h + Now if the base of the cone is to be closed, then a circular piece of paper of radius r is also required whose area is πr2.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Define an important term from Chapter 11 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "11.3 (c) is now cut into hundreds of little pieces, along the lines drawn from the point O,",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "each cut portion is almost a small triangle, whose height is the slant height l of the cone.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "(iv) Now the area of each triangle =",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "1 2 × base of each triangle × l.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "So, Curved Surface Area of a Cone = 1 2 × l ×",
+          "text": "Let us see how we can generate them.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "2πr = πrl where r is its base radius and l its slant height.",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "Therefore, l = 2 2 r h + Now if the base of the cone is to",
+          "text": "The answer should use details from Chapter 11.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "be closed, then a circular piece of paper of radius r is also required whose area is πr2.",
+          "text": "A clear response should stay connected to Chapter 11.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "11.3 (c) is now cut into hundreds of little pieces, along the lines drawn from the point O, each cut portion is almost a small triangle, whose height is the slant height l of the cone. (iv) Now the area of each triangle = 1 2 × base of each triangle × l. So, Curved Surface Area of a Cone = 1 2 × l × 2πr = πrl where r is its base radius and l its slant height. Therefore, l = 2 2 r h + Now if the base of the cone is to be closed, then a circular piece of paper of radius r is also required whose area is πr2.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Define an important term from Chapter 11 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "11.3",
+          "text": "Let us see how we can generate them.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "(iv)",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "11.3 (c) is now cut into hundreds of little pieces, along the lines drawn from the point O, each cut portion is almost a small triangle, whose height is the slant height l of the cone. (iv) Now the area of each triangle = 1 2 × base of each triangle × l. So, Curved Surface Area of a Cone = 1 2 × l × 2πr = πrl where r is its base radius and l its slant height. Therefore, l = 2 2 r h + Now if the base of the cone is to be closed, then a circular piece of paper of radius r is also required whose area is πr2.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "So, Total Surface Area of a Cone = πrl + πr2 = πr(l + r) Example 1 : Find the curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm.",
+          "text": "We will now study the surface area of cone.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "Solution : Curved surface area = πrl = 22 7 × 7 × 10 cm2 = 220 cm2 Example 2 : The height of a cone is 16 cm and its base radius is 12 cm.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "Find the curved surface area and the total surface area of the cone (Use π = 3.14).",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "So, from l2 = h2 + r2, we have l = 2 2 16 12 + cm = 20 cm Fig.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "So, Total Surface Area of a Cone = πrl + πr2 = πr(l + r) Example 1 : Find the curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm. Solution : Curved surface area = πrl = 22 7 × 7 × 10 cm2 = 220 cm2 Example 2 : The height of a cone is 16 cm and its base radius is 12 cm. Find the curved surface area and the total surface area of the cone (Use π = 3.14). So, from l2 = h2 + r2, we have l = 2 2 16 12 + cm = 20 cm Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "So, Total Surface Area of a Cone = πrl + πr2 = πr(l + r) Example 1 : Find the",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm.",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "Solution : Curved surface area = πrl = 22 7 × 7 × 10 cm2 = 220 cm2",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "Example 2 : The height of a cone is 16 cm and its base radius is 12 cm.",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "Find the curved surface area and the total",
+          "text": "Let us see how we can generate them.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "surface area of the cone (Use π = 3.14).",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "So, from l2 = h2 + r2, we have l",
+          "text": "The answer should use details from Chapter 11.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "= 2 2 16 12 + cm = 20 cm Fig.",
+          "text": "A clear response should stay connected to Chapter 11.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "So, Total Surface Area of a Cone = πrl + πr2 = πr(l + r) Example 1 : Find the curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm. Solution : Curved surface area = πrl = 22 7 × 7 × 10 cm2 = 220 cm2 Example 2 : The height of a cone is 16 cm and its base radius is 12 cm. Find the curved surface area and the total surface area of the cone (Use π = 3.14). So, from l2 = h2 + r2, we have l = 2 2 16 12 + cm = 20 cm Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 11",
       "chapterNumber": 11,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 11.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 11.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 11.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 11.",
       "sourceChapter": "Chapter 11",
       "sourcePdf": "D:\\LX\\all class pdf\\NCERT-2026\\Class9\\Mathematics\\iemh111.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "We will now study the surface area of cone.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "So far, we have been generating solids by stacking up congruent figures.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "Incidentally, such figures are called prisms.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "so,",
+          "text": "Let us see how we can generate them.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "solution",
+          "text": "Chapter 11 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 11 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 11.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 11.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "So, Total Surface Area of a Cone = πrl + πr2 = πr(l + r) Example 1 : Find the curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm. Solution : Curved surface area = πrl = 22 7 × 7 × 10 cm2 = 220 cm2 Example 2 : The height of a cone is 16 cm and its base radius is 12 cm. Find the curved surface area and the total surface area of the cone (Use π = 3.14). So, from l2 = h2 + r2, we have l = 2 2 16 12 + cm = 20 cm Fig.",
+      "modelAnswer": "We will now study the surface area of cone. So far, we have been generating solids by stacking up congruent figures. Incidentally, such figures are called prisms. Now let us look at another kind of solid which is not a prism (These kinds of solids are called pyramids.).",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

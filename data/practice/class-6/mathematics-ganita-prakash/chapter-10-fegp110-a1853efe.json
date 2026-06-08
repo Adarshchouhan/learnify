@@ -12,7 +12,8 @@
     "chapterNumber": 10,
     "pageCount": null,
     "extractedCharacterCount": 55612,
-    "extractionPreview": "Integers\nTHE OTHER SIDE OF \nZERO\n10\nMore and more numbers!\nRecall that the very first numbers we learned about in the study of \nmathematics were the counting numbers 1, 2, 3, 4, … \nThen we learned that there are even more numbers! For example, \nthere is the number 0 (zero), representing nothing, which comes before \n1. The number 0 has a very important history in India and now in the \nworld. For example, around the world we learn to write numbers in \nthe Indian number system using the digits 0 to"
+    "extractionPreview": "Integers\nTHE OTHER SIDE OF \nZERO\n10\nMore and more numbers!\nRecall that the very first numbers we learned about in the study of \nmathematics were the counting numbers 1, 2, 3, 4, … \nThen we learned that there are even more numbers! For example, \nthere is the number 0 (zero), representing nothing, which comes before \n1. The number 0 has a very important history in India and now in the \nworld. For example, around the world we learn to write numbers in \nthe Indian number system using the digits 0 to",
+    "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 10.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 10?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 10.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 10 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 10.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 10, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 10 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 10?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 10.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 10?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 10?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
@@ -172,30 +173,30 @@
         },
         {
           "id": "explain-2",
-          "text": "Recall that the very first numbers we learned about in the study of mathematics were the counting numbers 1, 2, 3, 4, … Then we learned that there are even more numbers!",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "explain-3",
-          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "The number 0 has a very important history in India and now in the world.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! Recall that the very first numbers we learned about in the study of mathematics were the counting numbers 1, 2, 3, 4, … Then we learned that there are even more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 10 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "We then learned about more numbers that exist between the numbers 0, 1, 2, 3, 4, … , such as 1 2 , 3 2 , and 13 6 .",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "Well, 0 is an additional number that we didn't know about earlier, and it comes before 1 and is less than 1.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "Are there perhaps more numbers that come before 0 and are less than 0?",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line?",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We then learned about more numbers that exist between the numbers 0, 1, 2, 3, 4, … , such as 1 2 , 3 2 , and 13 6 . Well, 0 is an additional number that we didn't know about earlier, and it comes before 1 and is less than 1. Are there perhaps more numbers that come before 0 and are less than 0? Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line?",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 10, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "Reprint 2025-26 The Other Side of Zero 243 Can there be a number less than 0?",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Can you think of any ways to have less than 0 of something?",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "10.1 Bela's Building of Fun Children flock to Bela's ice cream factory to see and taste her tasty ice cream.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "To make it even more fun for them, Bela purchased a multi- storied building and filled it with attractions.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2025-26 The Other Side of Zero 243 Can there be a number less than 0? Can you think of any ways to have less than 0 of something? 10.1 Bela's Building of Fun Children flock to Bela's ice cream factory to see and taste her tasty ice cream. To make it even more fun for them, Bela purchased a multi- storied building and filled it with attractions.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 10 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 10 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "Observe that some of the floors in the 'Building of Fun' are below the ground.",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "To go to the Art Centre from the 'Welcome Hall', you must press the '+' button twice.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "To go down two floors, you must press the '-' button twice, which we write as - - or - 2.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "So if you press + 1 (i.e., if you press the '+' button once), then you will go up one floor and if you press - 1 (i.e., if you press the '-' button once), then you will go down 1 floor.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Observe that some of the floors in the 'Building of Fun' are below the ground. To go to the Art Centre from the 'Welcome Hall', you must press the '+' button twice. To go down two floors, you must press the '-' button twice, which we write as - - or - 2. So if you press + 1 (i.e., if you press the '+' button once), then you will go up one floor and if you press - 1 (i.e., if you press the '-' button once), then you will go down 1 floor.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 10?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "Lift button presses and numbers: +++ is written as + 3 - - - - is written as - 4 What do you press to go four floors up?",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "Reprint 2025-26 Ganita Prakash | Grade 6 244 Numbering the floors in the building of fun Entry to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "Starting from the ground floor, you can reach the Food Court by pressing + 1 and can reach the Art Centre by pressing + 2.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "So, we can say that the Food Court is on Floor + 1 and that the Art Centre is on Floor + 2.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Lift button presses and numbers: +++ is written as + 3 - - - - is written as - 4 What do you press to go four floors up? Reprint 2025-26 Ganita Prakash | Grade 6 244 Numbering the floors in the building of fun Entry to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'. Starting from the ground floor, you can reach the Food Court by pressing + 1 and can reach the Art Centre by pressing + 2. So, we can say that the Food Court is on Floor + 1 and that the Art Centre is on Floor + 2.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 10, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "Starting from the ground floor, you must press - 1 to reach the Toy Store.",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "So, the Toy Store is on Floor - 1 similarly starting from the ground floor, you must press - 2 to reach the Video Games shop.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "Did you notice that + 3 is the floor number of the Book Store, but it is also the number of floors you move when you press + 3?",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "Similarly, - 3 is the floor number but it is also the number of floors you go down when you press - 3, i.e., when you press - - - .",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Starting from the ground floor, you must press - 1 to reach the Toy Store. So, the Toy Store is on Floor - 1 similarly starting from the ground floor, you must press - 2 to reach the Video Games shop. Did you notice that + 3 is the floor number of the Book Store, but it is also the number of floors you move when you press + 3? Similarly, - 3 is the floor number but it is also the number of floors you go down when you press - 3, i.e., when you press - - - .",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Complete a passage from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
@@ -808,30 +809,30 @@
         },
         {
           "id": "fill_blanks-2",
-          "text": "Recall that the very first numbers we learned about in the study of mathematics were the counting numbers 1, 2, 3, 4, … Then we learned that there are even more numbers!",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "fill_blanks-3",
-          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "The number 0 has a very important history in India and now in the world.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! Recall that the very first numbers we learned about in the study of mathematics were the counting numbers 1, 2, 3, 4, … Then we learned that there are even more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Classify statements based on Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "We then learned about more numbers that exist between the numbers 0, 1, 2, 3, 4, … , such as 1 2 , 3 2 , and 13 6 .",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "Well, 0 is an additional number that we didn't know about earlier, and it comes before 1 and is less than 1.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "Are there perhaps more numbers that come before 0 and are less than 0?",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line?",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We then learned about more numbers that exist between the numbers 0, 1, 2, 3, 4, … , such as 1 2 , 3 2 , and 13 6 . Well, 0 is an additional number that we didn't know about earlier, and it comes before 1 and is less than 1. Are there perhaps more numbers that come before 0 and are less than 0? Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line?",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "List key points from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "Reprint 2025-26 The Other Side of Zero 243 Can there be a number less than 0?",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Can you think of any ways to have less than 0 of something?",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "10.1 Bela's Building of Fun Children flock to Bela's ice cream factory to see and taste her tasty ice cream.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "To make it even more fun for them, Bela purchased a multi- storied building and filled it with attractions.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2025-26 The Other Side of Zero 243 Can there be a number less than 0? Can you think of any ways to have less than 0 of something? 10.1 Bela's Building of Fun Children flock to Bela's ice cream factory to see and taste her tasty ice cream. To make it even more fun for them, Bela purchased a multi- storied building and filled it with attractions.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "Observe that some of the floors in the 'Building of Fun' are below the ground.",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "To go to the Art Centre from the 'Welcome Hall', you must press the '+' button twice.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "To go down two floors, you must press the '-' button twice, which we write as - - or - 2.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "So if you press + 1 (i.e., if you press the '+' button once), then you will go up one floor and if you press - 1 (i.e., if you press the '-' button once), then you will go down 1 floor.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Observe that some of the floors in the 'Building of Fun' are below the ground. To go to the Art Centre from the 'Welcome Hall', you must press the '+' button twice. To go down two floors, you must press the '-' button twice, which we write as - - or - 2. So if you press + 1 (i.e., if you press the '+' button once), then you will go up one floor and if you press - 1 (i.e., if you press the '-' button once), then you will go down 1 floor.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Use chapter information from Chapter 10 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 10 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "Lift button presses and numbers: +++ is written as + 3 - - - - is written as - 4 What do you press to go four floors up?",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "Reprint 2025-26 Ganita Prakash | Grade 6 244 Numbering the floors in the building of fun Entry to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "Starting from the ground floor, you can reach the Food Court by pressing + 1 and can reach the Art Centre by pressing + 2.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "So, we can say that the Food Court is on Floor + 1 and that the Art Centre is on Floor + 2.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Lift button presses and numbers: +++ is written as + 3 - - - - is written as - 4 What do you press to go four floors up? Reprint 2025-26 Ganita Prakash | Grade 6 244 Numbering the floors in the building of fun Entry to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'. Starting from the ground floor, you can reach the Food Court by pressing + 1 and can reach the Art Centre by pressing + 2. So, we can say that the Food Court is on Floor + 1 and that the Art Centre is on Floor + 2.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "Starting from the ground floor, you must press - 1 to reach the Toy Store.",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "So, the Toy Store is on Floor - 1 similarly starting from the ground floor, you must press - 2 to reach the Video Games shop.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "Did you notice that + 3 is the floor number of the Book Store, but it is also the number of floors you move when you press + 3?",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "Similarly, - 3 is the floor number but it is also the number of floors you go down when you press - 3, i.e., when you press - - - .",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "A number with a '+' sign in front is called a positive number.",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Starting from the ground floor, you must press - 1 to reach the Toy Store. So, the Toy Store is on Floor - 1 similarly starting from the ground floor, you must press - 2 to reach the Video Games shop. Did you notice that + 3 is the floor number of the Book Store, but it is also the number of floors you move when you press + 3? Similarly, - 3 is the floor number but it is also the number of floors you go down when you press - 3, i.e., when you press - - - . A number with a '+' sign in front is called a positive number.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Build a definition from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 10?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
@@ -1452,30 +1453,30 @@
         },
         {
           "id": "definition_term-2",
-          "text": "Recall that the very first numbers we learned about in the study of mathematics were the counting numbers 1, 2, 3, 4, … Then we learned that there are even more numbers!",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "definition_term-3",
-          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "The number 0 has a very important history in India and now in the world.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! Recall that the very first numbers we learned about in the study of mathematics were the counting numbers 1, 2, 3, 4, … Then we learned that there are even more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 10 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "We then learned about more numbers that exist between the numbers 0, 1, 2, 3, 4, … , such as 1 2 , 3 2 , and 13 6 .",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "Well, 0 is an additional number that we didn't know about earlier, and it comes before 1 and is less than 1.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "Are there perhaps more numbers that come before 0 and are less than 0?",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line?",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "Reprint 2025-26 The Other Side of Zero 243 Can there be a number less than 0?",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We then learned about more numbers that exist between the numbers 0, 1, 2, 3, 4, … , such as 1 2 , 3 2 , and 13 6 . Well, 0 is an additional number that we didn't know about earlier, and it comes before 1 and is less than 1. Are there perhaps more numbers that come before 0 and are less than 0? Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line? Reprint 2025-26 The Other Side of Zero 243 Can there be a number less than 0?",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Can you think of any ways to have less than 0 of something?",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "10.1 Bela's Building of Fun Children flock to Bela's ice cream factory to see and taste her tasty ice cream.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "To make it even more fun for them, Bela purchased a multi- storied building and filled it with attractions.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Can you think of any ways to have less than 0 of something? 10.1 Bela's Building of Fun Children flock to Bela's ice cream factory to see and taste her tasty ice cream. To make it even more fun for them, Bela purchased a multi- storied building and filled it with attractions.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "Observe that some of the floors in the 'Building of Fun' are below the ground.",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "To go to the Art Centre from the 'Welcome Hall', you must press the '+' button twice.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "To go down two floors, you must press the '-' button twice, which we write as - - or - 2.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Observe that some of the floors in the 'Building of Fun' are below the ground. To go to the Art Centre from the 'Welcome Hall', you must press the '+' button twice. To go down two floors, you must press the '-' button twice, which we write as - - or - 2.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Sequence a process from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 10 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "So if you press + 1 (i.e., if you press the '+' button once), then you will go up one floor and if you press - 1 (i.e., if you press the '-' button once), then you will go down 1 floor.",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "Lift button presses and numbers: +++ is written as + 3 - - - - is written as - 4 What do you press to go four floors up?",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "Reprint 2025-26 Ganita Prakash | Grade 6 244 Numbering the floors in the building of fun Entry to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "Starting from the ground floor, you can reach the Food Court by pressing + 1 and can reach the Art Centre by pressing + 2.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "So if you press + 1 (i.e., if you press the '+' button once), then you will go up one floor and if you press - 1 (i.e., if you press the '-' button once), then you will go down 1 floor. Lift button presses and numbers: +++ is written as + 3 - - - - is written as - 4 What do you press to go four floors up? Reprint 2025-26 Ganita Prakash | Grade 6 244 Numbering the floors in the building of fun Entry to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'. Starting from the ground floor, you can reach the Food Court by pressing + 1 and can reach the Art Centre by pressing + 2.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "So, we can say that the Food Court is on Floor + 1 and that the Art Centre is on Floor + 2.",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "Starting from the ground floor, you must press - 1 to reach the Toy Store.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "So, the Toy Store is on Floor - 1 similarly starting from the ground floor, you must press - 2 to reach the Video Games shop.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "So, we can say that the Food Court is on Floor + 1 and that the Art Centre is on Floor + 2. Starting from the ground floor, you must press - 1 to reach the Toy Store. So, the Toy Store is on Floor - 1 similarly starting from the ground floor, you must press - 2 to reach the Video Games shop.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "Did you notice that + 3 is the floor number of the Book Store, but it is also the number of floors you move when you press + 3?",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "Similarly, - 3 is the floor number but it is also the number of floors you go down when you press - 3, i.e., when you press - - - .",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "A number with a '+' sign in front is called a positive number.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "A number with a '-' sign in front is called a negative number.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Did you notice that + 3 is the floor number of the Book Store, but it is also the number of floors you move when you press + 3? Similarly, - 3 is the floor number but it is also the number of floors you go down when you press - 3, i.e., when you press - - - . A number with a '+' sign in front is called a positive number. A number with a '-' sign in front is called a negative number.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "In the 'Building of Fun', the floors are numbered using the ground floor, Floor 0, as a reference or starting point.",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "The floors above the ground floor are numbered with positive numbers.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In the 'Building of Fun', the floors are numbered using the ground floor, Floor 0, as a reference or starting point. The floors above the ground floor are numbered with positive numbers.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 10.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "To get to them from the ground floor, one must press the '+' button some number of times.",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "The floors below the ground are numbered with negative numbers.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 10 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "To get to them from the ground floor, one must press the '+' button some number of times. The floors below the ground are numbered with negative numbers. Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
@@ -2311,19 +2312,19 @@
         },
         {
           "id": "chapter-q01-chapter-overview-e-2",
-          "text": "Recall that the very first numbers we learned about in the study of mathematics were the counting numbers 1, 2, 3, 4, … Then we learned that there are even more numbers!",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2,
           "section": "Key idea 1"
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "The number 0 has a very important history in India and now in the world.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! Recall that the very first numbers we learned about in the study of mathematics were the counting numbers 1, 2, 3, 4, … Then we learned that there are even more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "Integers THE OTHER SIDE OF",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "ZERO 10 More and more numbers!",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "Recall that the very first numbers we learned about in the study of mathematics were the",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "counting numbers 1, 2, 3, 4, … Then we learned that there are even more numbers!",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "For example, there is the number 0",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "(zero), representing nothing, which comes before 1.",
+          "text": "The answer should use details from Chapter 10.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "The number 0 has a very important",
+          "text": "A clear response should stay connected to Chapter 10.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "history in India and now in the world.",
+          "text": "Students should arrange the points from Chapter 10 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! Recall that the very first numbers we learned about in the study of mathematics were the counting numbers 1, 2, 3, 4, … Then we learned that there are even more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "integers",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "recall",
+          "text": "The answer should use details from Chapter 10.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! Recall that the very first numbers we learned about in the study of mathematics were the counting numbers 1, 2, 3, 4, … Then we learned that there are even more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "We then learned about more numbers that exist between the numbers 0, 1, 2, 3, 4, … , such as 1 2 , 3 2 , and 13 6 .",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "Well, 0 is an additional number that we didn't know about earlier, and it comes before 1 and is less than 1.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "Are there perhaps more numbers that come before 0 and are less than 0?",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line?",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We then learned about more numbers that exist between the numbers 0, 1, 2, 3, 4, … , such as 1 2 , 3 2 , and 13 6 . Well, 0 is an additional number that we didn't know about earlier, and it comes before 1 and is less than 1. Are there perhaps more numbers that come before 0 and are less than 0? Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line?",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "We then learned about more numbers that exist between the numbers 0, 1, 2, 3,",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "4, … , such as 1 2 , 3 2 , and 13 6 .",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "Well, 0 is an additional number that we didn't know about",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "earlier, and it comes before 1 and is less than 1.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "Are there perhaps more numbers that come",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "before 0 and are less than 0?",
+          "text": "The answer should use details from Chapter 10.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "Do there exist numbers to the left of 0, so that",
+          "text": "A clear response should stay connected to Chapter 10.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "this number ray can be completed to a true number line?",
+          "text": "Students should arrange the points from Chapter 10 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We then learned about more numbers that exist between the numbers 0, 1, 2, 3, 4, … , such as 1 2 , 3 2 , and 13 6 . Well, 0 is an additional number that we didn't know about earlier, and it comes before 1 and is less than 1. Are there perhaps more numbers that come before 0 and are less than 0? Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line?",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "we",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "well,",
+          "text": "The answer should use details from Chapter 10.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "We then learned about more numbers that exist between the numbers 0, 1, 2, 3, 4, … , such as 1 2 , 3 2 , and 13 6 . Well, 0 is an additional number that we didn't know about earlier, and it comes before 1 and is less than 1. Are there perhaps more numbers that come before 0 and are less than 0? Do there exist numbers to the left of 0, so that this number ray can be completed to a true number line?",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "Reprint 2025-26 The Other Side of Zero 243 Can there be a number less than 0?",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Can you think of any ways to have less than 0 of something?",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "10.1 Bela's Building of Fun Children flock to Bela's ice cream factory to see and taste her tasty ice cream.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "To make it even more fun for them, Bela purchased a multi- storied building and filled it with attractions.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2025-26 The Other Side of Zero 243 Can there be a number less than 0? Can you think of any ways to have less than 0 of something? 10.1 Bela's Building of Fun Children flock to Bela's ice cream factory to see and taste her tasty ice cream. To make it even more fun for them, Bela purchased a multi- storied building and filled it with attractions.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "Reprint 2025-26 The Other Side of Zero 243",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "Can there be a number less than 0?",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Can you think of any ways",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "to have less than 0 of something?",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "10.1 Bela's Building of Fun Children flock to Bela's ice",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "cream factory to see and taste her tasty ice cream.",
+          "text": "The answer should use details from Chapter 10.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "To make it even more fun for them, Bela",
+          "text": "A clear response should stay connected to Chapter 10.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "purchased a multi- storied building and filled it with attractions.",
+          "text": "Students should arrange the points from Chapter 10 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2025-26 The Other Side of Zero 243 Can there be a number less than 0? Can you think of any ways to have less than 0 of something? 10.1 Bela's Building of Fun Children flock to Bela's ice cream factory to see and taste her tasty ice cream. To make it even more fun for them, Bela purchased a multi- storied building and filled it with attractions.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "reprint",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "can",
+          "text": "The answer should use details from Chapter 10.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Reprint 2025-26 The Other Side of Zero 243 Can there be a number less than 0? Can you think of any ways to have less than 0 of something? 10.1 Bela's Building of Fun Children flock to Bela's ice cream factory to see and taste her tasty ice cream. To make it even more fun for them, Bela purchased a multi- storied building and filled it with attractions.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Define an important term from Chapter 10 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "Observe that some of the floors in the 'Building of Fun' are below the ground.",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "To go to the Art Centre from the 'Welcome Hall', you must press the '+' button twice.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "To go down two floors, you must press the '-' button twice, which we write as - - or - 2.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "So if you press + 1 (i.e., if you press the '+' button once), then you will go up one floor and if you press - 1 (i.e., if you press the '-' button once), then you will go down 1 floor.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Observe that some of the floors in the 'Building of Fun' are below the ground. To go to the Art Centre from the 'Welcome Hall', you must press the '+' button twice. To go down two floors, you must press the '-' button twice, which we write as - - or - 2. So if you press + 1 (i.e., if you press the '+' button once), then you will go up one floor and if you press - 1 (i.e., if you press the '-' button once), then you will go down 1 floor.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Define an important term from Chapter 10 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "Observe that some of the floors in",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "the 'Building of Fun' are below the ground.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "To go to the Art Centre from the",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "'Welcome Hall', you must press the '+' button twice.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "To go down two floors, you must press the '-'",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "button twice, which we write as - - or - 2.",
+          "text": "The answer should use details from Chapter 10.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "So if you press + 1 (i.e., if you press the '+' button once), then you will go up one floor",
+          "text": "A clear response should stay connected to Chapter 10.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "and if you press - 1 (i.e., if you press the '-' button once), then you will go down 1 floor.",
+          "text": "Students should arrange the points from Chapter 10 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Observe that some of the floors in the 'Building of Fun' are below the ground. To go to the Art Centre from the 'Welcome Hall', you must press the '+' button twice. To go down two floors, you must press the '-' button twice, which we write as - - or - 2. So if you press + 1 (i.e., if you press the '+' button once), then you will go up one floor and if you press - 1 (i.e., if you press the '-' button once), then you will go down 1 floor.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Define an important term from Chapter 10 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "observe",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "to",
+          "text": "The answer should use details from Chapter 10.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Observe that some of the floors in the 'Building of Fun' are below the ground. To go to the Art Centre from the 'Welcome Hall', you must press the '+' button twice. To go down two floors, you must press the '-' button twice, which we write as - - or - 2. So if you press + 1 (i.e., if you press the '+' button once), then you will go up one floor and if you press - 1 (i.e., if you press the '-' button once), then you will go down 1 floor.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "Lift button presses and numbers: +++ is written as + 3 - - - - is written as - 4 What do you press to go four floors up?",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "Reprint 2025-26 Ganita Prakash | Grade 6 244 Numbering the floors in the building of fun Entry to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'.",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "Starting from the ground floor, you can reach the Food Court by pressing + 1 and can reach the Art Centre by pressing + 2.",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "So, we can say that the Food Court is on Floor + 1 and that the Art Centre is on Floor + 2.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Lift button presses and numbers: +++ is written as + 3 - - - - is written as - 4 What do you press to go four floors up? Reprint 2025-26 Ganita Prakash | Grade 6 244 Numbering the floors in the building of fun Entry to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'. Starting from the ground floor, you can reach the Food Court by pressing + 1 and can reach the Art Centre by pressing + 2. So, we can say that the Food Court is on Floor + 1 and that the Art Centre is on Floor + 2.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "Lift button presses and numbers: +++ is written as + 3 - - -",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "- is written as - 4 What do you press to go four floors up?",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "Reprint 2025-26 Ganita Prakash | Grade 6 244 Numbering the floors in the building of fun Entry",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'.",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "Starting from the ground floor, you can reach the Food Court by",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "pressing + 1 and can reach the Art Centre by pressing + 2.",
+          "text": "The answer should use details from Chapter 10.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "So, we can say that the Food Court is on Floor",
+          "text": "A clear response should stay connected to Chapter 10.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "+ 1 and that the Art Centre is on Floor + 2.",
+          "text": "Students should arrange the points from Chapter 10 in a sensible order.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Lift button presses and numbers: +++ is written as + 3 - - - - is written as - 4 What do you press to go four floors up? Reprint 2025-26 Ganita Prakash | Grade 6 244 Numbering the floors in the building of fun Entry to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'. Starting from the ground floor, you can reach the Food Court by pressing + 1 and can reach the Art Centre by pressing + 2. So, we can say that the Food Court is on Floor + 1 and that the Art Centre is on Floor + 2.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 10",
       "chapterNumber": 10,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 10.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 10.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics - Ganita Prakash, Chapter Chapter 10.",
+      "sourceTextSummary": "Practice questions generated from Mathematics - Ganita Prakash, lesson: Chapter 10.",
       "sourceChapter": "Chapter 10",
       "sourcePdf": "D:\\LX\\all class pdf\\class 6\\Mathematics - Ganita Prakash\\fegp110.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers!",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "For example, there is the number 0 (zero), representing nothing, which comes before 1.",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "The number 0 has a very important history in India and now in the world.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "lift",
+          "text": "Chapter 10 has important ideas that students can explain in simple words.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "reprint",
+          "text": "The answer should use details from Chapter 10.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 10 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 10.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 10.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Lift button presses and numbers: +++ is written as + 3 - - - - is written as - 4 What do you press to go four floors up? Reprint 2025-26 Ganita Prakash | Grade 6 244 Numbering the floors in the building of fun Entry to the 'Building of Fun' is at the ground floor level and is called the 'Welcome Hall'. Starting from the ground floor, you can reach the Food Court by pressing + 1 and can reach the Art Centre by pressing + 2. So, we can say that the Food Court is on Floor + 1 and that the Art Centre is on Floor + 2.",
+      "modelAnswer": "Integers THE OTHER SIDE OF ZERO 10 More and more numbers! For example, there is the number 0 (zero), representing nothing, which comes before 1. The number 0 has a very important history in India and now in the world. For example, around the world we learn to write numbers in the Indian number system using the digits 0 to.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

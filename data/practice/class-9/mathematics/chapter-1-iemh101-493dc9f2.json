@@ -12,7 +12,8 @@
     "chapterNumber": 1,
     "pageCount": null,
     "extractedCharacterCount": 33940,
-    "extractionPreview": "NUMBER SYSTEMS\n1\nCHAPTER 1\nNUMBER SYSTEMS\n1.1 Introduction\nIn your earlier classes, you have learnt about the number line and how to represent\nvarious types of numbers on it (see Fig. 1.1).\nFig. 1.1 : The number line\nJust imagine you start from zero and go on walking along this number line in the\npositive direction. As far as your eyes can see, there are numbers, numbers and\nnumbers!\nFig. 1.2\nNow suppose you start walking along the number line, and collecting some of the\nnumbers. Get a bag ready"
+    "extractionPreview": "NUMBER SYSTEMS\n1\nCHAPTER 1\nNUMBER SYSTEMS\n1.1 Introduction\nIn your earlier classes, you have learnt about the number line and how to represent\nvarious types of numbers on it (see Fig. 1.1).\nFig. 1.1 : The number line\nJust imagine you start from zero and go on walking along this number line in the\npositive direction. As far as your eyes can see, there are numbers, numbers and\nnumbers!\nFig. 1.2\nNow suppose you start walking along the number line, and collecting some of the\nnumbers. Get a bag ready",
+    "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 1.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 1?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 1.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 1 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 1.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 1, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 1 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 1?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 1.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 1?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,15 +154,15 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 1?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
@@ -182,20 +183,20 @@
         },
         {
           "id": "explain-4",
-          "text": "(Why is this true?) So, now your bag contains infinitely many natural numbers!",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. (Why is this true?) So, now your bag contains infinitely many natural numbers!",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 1 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "Now turn and walk all the way back, pick up zero and put it into the bag.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "You now have the collection of whole numbers which is denoted by the symbol W.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "Now, stretching in front of you are many, many negative integers.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "Recall that it is the collection of all integers, and it is denoted by the symbol Z.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now turn and walk all the way back, pick up zero and put it into the bag. You now have the collection of whole numbers which is denoted by the symbol W. Now, stretching in front of you are many, many negative integers. Recall that it is the collection of all integers, and it is denoted by the symbol Z.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 1, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "There are numbers like 1 3 , 2 4 , or even 2005 2006 − .",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "If you put all such numbers also into the bag, it will now be the Z comes from the German word \"zahlen\", which means \"to count\".",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "Q -6721 12 1 3 -1 9 81 16 1 4 2005 2006 -12 13 9 14 -6625 -65 60 19 19 999 0 -6 7 27 58 2005 2006 3 -5 16 60 999 4 -8 -6625 58 0 27 71 17 981 -12 13 89 -6 7 2 3 9 14 - Why Z ?",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "Reprint 2025-26 NUMBER SYSTEMS 3 collection of rational numbers.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There are numbers like 1 3 , 2 4 , or even 2005 2006 − . If you put all such numbers also into the bag, it will now be the Z comes from the German word \"zahlen\", which means \"to count\". Q -6721 12 1 3 -1 9 81 16 1 4 2005 2006 -12 13 9 14 -6625 -65 60 19 19 999 0 -6 7 27 58 2005 2006 3 -5 16 60 999 4 -8 -6625 58 0 27 71 17 981 -12 13 89 -6 7 2 3 9 14 - Why Z ? Reprint 2025-26 NUMBER SYSTEMS 3 collection of rational numbers.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 1 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 1 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "'Rational' comes from the word 'ratio', and Q comes from the word 'quotient'.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "You may recall the definition of rational numbers: A number 'r' is called a rational number, if it can be written in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "(Why do we insist that q ≠ 0?) Notice that all the numbers now in the bag can be written in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "For example, -25 can be written as 25; 1 − here p = -25 and q = 1.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "'Rational' comes from the word 'ratio', and Q comes from the word 'quotient'. You may recall the definition of rational numbers: A number 'r' is called a rational number, if it can be written in the form p q , where p and q are integers and q ≠ 0. (Why do we insist that q ≠ 0?) Notice that all the numbers now in the bag can be written in the form p q , where p and q are integers and q ≠ 0. For example, -25 can be written as 25; 1 − here p = -25 and q = 1.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 1?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "Therefore, the rational numbers also include the natural numbers, whole numbers and integers.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "You also know that the rational numbers do not have a unique representation in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "For example, 1 2 = 2 4 = 10 20 = 25 50 = 47 94 , and so on.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "So, on the number line, among the infinitely many fractions equivalent to 1 2 , we will choose 1 2 to represent all of them.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, the rational numbers also include the natural numbers, whole numbers and integers. You also know that the rational numbers do not have a unique representation in the form p q , where p and q are integers and q ≠ 0. For example, 1 2 = 2 4 = 10 20 = 25 50 = 47 94 , and so on. So, on the number line, among the infinitely many fractions equivalent to 1 2 , we will choose 1 2 to represent all of them.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 1, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "Now, let us solve some examples about the different types of numbers, which you have studied in earlier classes.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "Example 1 : Are the following statements true or false?",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "Solution : (i) False, because zero is a whole number but not a natural number.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "(ii) True, because every integer m can be expressed in the form 1 m , and so it is a rational number.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, let us solve some examples about the different types of numbers, which you have studied in earlier classes. Example 1 : Are the following statements true or false? Solution : (i) False, because zero is a whole number but not a natural number. (ii) True, because every integer m can be expressed in the form 1 m , and so it is a rational number.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,15 +790,15 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Complete a passage from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
@@ -818,20 +819,20 @@
         },
         {
           "id": "fill_blanks-4",
-          "text": "(Why is this true?) So, now your bag contains infinitely many natural numbers!",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. (Why is this true?) So, now your bag contains infinitely many natural numbers!",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Classify statements based on Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "Now turn and walk all the way back, pick up zero and put it into the bag.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "You now have the collection of whole numbers which is denoted by the symbol W.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "Now, stretching in front of you are many, many negative integers.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "Recall that it is the collection of all integers, and it is denoted by the symbol Z.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now turn and walk all the way back, pick up zero and put it into the bag. You now have the collection of whole numbers which is denoted by the symbol W. Now, stretching in front of you are many, many negative integers. Recall that it is the collection of all integers, and it is denoted by the symbol Z.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "List key points from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "There are numbers like 1 3 , 2 4 , or even 2005 2006 − .",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "If you put all such numbers also into the bag, it will now be the Z comes from the German word \"zahlen\", which means \"to count\".",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "Q -6721 12 1 3 -1 9 81 16 1 4 2005 2006 -12 13 9 14 -6625 -65 60 19 19 999 0 -6 7 27 58 2005 2006 3 -5 16 60 999 4 -8 -6625 58 0 27 71 17 981 -12 13 89 -6 7 2 3 9 14 - Why Z ?",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "Reprint 2025-26 NUMBER SYSTEMS 3 collection of rational numbers.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There are numbers like 1 3 , 2 4 , or even 2005 2006 − . If you put all such numbers also into the bag, it will now be the Z comes from the German word \"zahlen\", which means \"to count\". Q -6721 12 1 3 -1 9 81 16 1 4 2005 2006 -12 13 9 14 -6625 -65 60 19 19 999 0 -6 7 27 58 2005 2006 3 -5 16 60 999 4 -8 -6625 58 0 27 71 17 981 -12 13 89 -6 7 2 3 9 14 - Why Z ? Reprint 2025-26 NUMBER SYSTEMS 3 collection of rational numbers.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "'Rational' comes from the word 'ratio', and Q comes from the word 'quotient'.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "You may recall the definition of rational numbers: A number 'r' is called a rational number, if it can be written in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "(Why do we insist that q ≠ 0?) Notice that all the numbers now in the bag can be written in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "For example, -25 can be written as 25; 1 − here p = -25 and q = 1.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "'Rational' comes from the word 'ratio', and Q comes from the word 'quotient'. You may recall the definition of rational numbers: A number 'r' is called a rational number, if it can be written in the form p q , where p and q are integers and q ≠ 0. (Why do we insist that q ≠ 0?) Notice that all the numbers now in the bag can be written in the form p q , where p and q are integers and q ≠ 0. For example, -25 can be written as 25; 1 − here p = -25 and q = 1.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Use chapter information from Chapter 1 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 1 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "Therefore, the rational numbers also include the natural numbers, whole numbers and integers.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "You also know that the rational numbers do not have a unique representation in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "For example, 1 2 = 2 4 = 10 20 = 25 50 = 47 94 , and so on.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "So, on the number line, among the infinitely many fractions equivalent to 1 2 , we will choose 1 2 to represent all of them.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, the rational numbers also include the natural numbers, whole numbers and integers. You also know that the rational numbers do not have a unique representation in the form p q , where p and q are integers and q ≠ 0. For example, 1 2 = 2 4 = 10 20 = 25 50 = 47 94 , and so on. So, on the number line, among the infinitely many fractions equivalent to 1 2 , we will choose 1 2 to represent all of them.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "Now, let us solve some examples about the different types of numbers, which you have studied in earlier classes.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "Example 1 : Are the following statements true or false?",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "Solution : (i) False, because zero is a whole number but not a natural number.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "(ii) True, because every integer m can be expressed in the form 1 m , and so it is a rational number.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "Reprint 2025-26 4 MATHEMATICS (iii) False, because 3 5 is not an integer.",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now, let us solve some examples about the different types of numbers, which you have studied in earlier classes. Example 1 : Are the following statements true or false? Solution : (i) False, because zero is a whole number but not a natural number. (ii) True, because every integer m can be expressed in the form 1 m , and so it is a rational number. Reprint 2025-26 4 MATHEMATICS (iii) False, because 3 5 is not an integer.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,14 +1435,14 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Build a definition from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 1?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
@@ -1462,20 +1463,20 @@
         },
         {
           "id": "definition_term-4",
-          "text": "(Why is this true?) So, now your bag contains infinitely many natural numbers!",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. (Why is this true?) So, now your bag contains infinitely many natural numbers!",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 1 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "Now turn and walk all the way back, pick up zero and put it into the bag.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "You now have the collection of whole numbers which is denoted by the symbol W.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "Now, stretching in front of you are many, many negative integers.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "Recall that it is the collection of all integers, and it is denoted by the symbol Z.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "There are numbers like 1 3 , 2 4 , or even 2005 2006 − .",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now turn and walk all the way back, pick up zero and put it into the bag. You now have the collection of whole numbers which is denoted by the symbol W. Now, stretching in front of you are many, many negative integers. Recall that it is the collection of all integers, and it is denoted by the symbol Z. There are numbers like 1 3 , 2 4 , or even 2005 2006 − .",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "If you put all such numbers also into the bag, it will now be the Z comes from the German word \"zahlen\", which means \"to count\".",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "Q -6721 12 1 3 -1 9 81 16 1 4 2005 2006 -12 13 9 14 -6625 -65 60 19 19 999 0 -6 7 27 58 2005 2006 3 -5 16 60 999 4 -8 -6625 58 0 27 71 17 981 -12 13 89 -6 7 2 3 9 14 - Why Z ?",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "Reprint 2025-26 NUMBER SYSTEMS 3 collection of rational numbers.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "If you put all such numbers also into the bag, it will now be the Z comes from the German word \"zahlen\", which means \"to count\". Q -6721 12 1 3 -1 9 81 16 1 4 2005 2006 -12 13 9 14 -6625 -65 60 19 19 999 0 -6 7 27 58 2005 2006 3 -5 16 60 999 4 -8 -6625 58 0 27 71 17 981 -12 13 89 -6 7 2 3 9 14 - Why Z ? Reprint 2025-26 NUMBER SYSTEMS 3 collection of rational numbers.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "'Rational' comes from the word 'ratio', and Q comes from the word 'quotient'.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "You may recall the definition of rational numbers: A number 'r' is called a rational number, if it can be written in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "(Why do we insist that q ≠ 0?) Notice that all the numbers now in the bag can be written in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "'Rational' comes from the word 'ratio', and Q comes from the word 'quotient'. You may recall the definition of rational numbers: A number 'r' is called a rational number, if it can be written in the form p q , where p and q are integers and q ≠ 0. (Why do we insist that q ≠ 0?) Notice that all the numbers now in the bag can be written in the form p q , where p and q are integers and q ≠ 0.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Sequence a process from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 1 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "For example, -25 can be written as 25; 1 − here p = -25 and q = 1.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "Therefore, the rational numbers also include the natural numbers, whole numbers and integers.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "You also know that the rational numbers do not have a unique representation in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "For example, 1 2 = 2 4 = 10 20 = 25 50 = 47 94 , and so on.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "For example, -25 can be written as 25; 1 − here p = -25 and q = 1. Therefore, the rational numbers also include the natural numbers, whole numbers and integers. You also know that the rational numbers do not have a unique representation in the form p q , where p and q are integers and q ≠ 0. For example, 1 2 = 2 4 = 10 20 = 25 50 = 47 94 , and so on.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "So, on the number line, among the infinitely many fractions equivalent to 1 2 , we will choose 1 2 to represent all of them.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "Now, let us solve some examples about the different types of numbers, which you have studied in earlier classes.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "Example 1 : Are the following statements true or false?",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "So, on the number line, among the infinitely many fractions equivalent to 1 2 , we will choose 1 2 to represent all of them. Now, let us solve some examples about the different types of numbers, which you have studied in earlier classes. Example 1 : Are the following statements true or false?",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "Solution : (i) False, because zero is a whole number but not a natural number.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "(ii) True, because every integer m can be expressed in the form 1 m , and so it is a rational number.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "Reprint 2025-26 4 MATHEMATICS (iii) False, because 3 5 is not an integer.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "Example 2 : Find five rational numbers between 1 and 2.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Solution : (i) False, because zero is a whole number but not a natural number. (ii) True, because every integer m can be expressed in the form 1 m , and so it is a rational number. Reprint 2025-26 4 MATHEMATICS (iii) False, because 3 5 is not an integer. Example 2 : Find five rational numbers between 1 and 2.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "Solution 1 : Recall that to find a rational number between r and s, you can add r and s and divide the sum by 2, that is 2 r s + lies between r and s.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "You can proceed in this manner to find four more rational numbers between 1 and 2.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Solution 1 : Recall that to find a rational number between r and s, you can add r and s and divide the sum by 2, that is 2 r s + lies between r and s. You can proceed in this manner to find four more rational numbers between 1 and 2.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 1.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": ", , and 4 8 8 4 Solution 2 : The other option is to find all the five rational numbers in one step.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "Since we want five numbers, we write 1 and 2 as rational numbers with denominator 5 + 1, i.e., 1 = 6 6 and 2 = 12 6 .",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 1 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": ", , and 4 8 8 4 Solution 2 : The other option is to find all the five rational numbers in one step. Since we want five numbers, we write 1 and 2 as rational numbers with denominator 5 + 1, i.e., 1 = 6 6 and 2 = 12 6 . 1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,15 +2292,15 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
@@ -2323,7 +2324,7 @@
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "(Why is this true?) So, now your bag contains infinitely many natural numbers!",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. (Why is this true?) So, now your bag contains infinitely many natural numbers!",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "1.1 : The number line Just imagine you start from zero",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "and go on walking along this number line in the positive direction.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "As far as your eyes can",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "see, there are numbers, numbers and numbers!",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "1.2 Now suppose you start walking along the",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "number line, and collecting some of the numbers.",
+          "text": "A clear response should stay connected to Chapter 1.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "(Why is this true?) So, now",
+          "text": "Students should arrange the points from Chapter 1 in a sensible order.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "your bag contains infinitely many natural numbers!",
+          "text": "Examples from Chapter 1 help support the answer.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. (Why is this true?) So, now your bag contains infinitely many natural numbers!",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "1.1",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "as",
+          "text": "A clear response should stay connected to Chapter 1.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. (Why is this true?) So, now your bag contains infinitely many natural numbers!",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "Now turn and walk all the way back, pick up zero and put it into the bag.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "You now have the collection of whole numbers which is denoted by the symbol W.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "Now, stretching in front of you are many, many negative integers.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "Recall that it is the collection of all integers, and it is denoted by the symbol Z.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now turn and walk all the way back, pick up zero and put it into the bag. You now have the collection of whole numbers which is denoted by the symbol W. Now, stretching in front of you are many, many negative integers. Recall that it is the collection of all integers, and it is denoted by the symbol Z.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "Now turn and walk all the way back,",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "pick up zero and put it into the bag.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "You now have the collection of whole",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "numbers which is denoted by the symbol W.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "Now, stretching in front of",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "you are many, many negative integers.",
+          "text": "A clear response should stay connected to Chapter 1.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "Recall that it is the collection of all",
+          "text": "Students should arrange the points from Chapter 1 in a sensible order.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "integers, and it is denoted by the symbol Z.",
+          "text": "Examples from Chapter 1 help support the answer.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now turn and walk all the way back, pick up zero and put it into the bag. You now have the collection of whole numbers which is denoted by the symbol W. Now, stretching in front of you are many, many negative integers. Recall that it is the collection of all integers, and it is denoted by the symbol Z.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "now",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "you",
+          "text": "A clear response should stay connected to Chapter 1.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Now turn and walk all the way back, pick up zero and put it into the bag. You now have the collection of whole numbers which is denoted by the symbol W. Now, stretching in front of you are many, many negative integers. Recall that it is the collection of all integers, and it is denoted by the symbol Z.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "There are numbers like 1 3 , 2 4 , or even 2005 2006 − .",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "If you put all such numbers also into the bag, it will now be the Z comes from the German word \"zahlen\", which means \"to count\".",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "Q -6721 12 1 3 -1 9 81 16 1 4 2005 2006 -12 13 9 14 -6625 -65 60 19 19 999 0 -6 7 27 58 2005 2006 3 -5 16 60 999 4 -8 -6625 58 0 27 71 17 981 -12 13 89 -6 7 2 3 9 14 - Why Z ?",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "Reprint 2025-26 NUMBER SYSTEMS 3 collection of rational numbers.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There are numbers like 1 3 , 2 4 , or even 2005 2006 − . If you put all such numbers also into the bag, it will now be the Z comes from the German word \"zahlen\", which means \"to count\". Q -6721 12 1 3 -1 9 81 16 1 4 2005 2006 -12 13 9 14 -6625 -65 60 19 19 999 0 -6 7 27 58 2005 2006 3 -5 16 60 999 4 -8 -6625 58 0 27 71 17 981 -12 13 89 -6 7 2 3 9 14 - Why Z ? Reprint 2025-26 NUMBER SYSTEMS 3 collection of rational numbers.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "There are numbers like 1 3 , 2",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "4 , or even 2005 2006 − .",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "If you put all such numbers also into the bag, it will now",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "be the Z comes from the German word \"zahlen\", which means \"to count\".",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "Q -6721 12 1 3 -1 9 81 16 1 4 2005 2006 -12 13 9 14 -6625 -65 60 19 19 999 0 -6 7 27 58",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "2005 2006 3 -5 16 60 999 4 -8 -6625 58 0 27 71 17 981 -12 13 89 -6 7 2 3 9 14 - Why Z ?",
+          "text": "A clear response should stay connected to Chapter 1.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "Reprint 2025-26 NUMBER SYSTEMS",
+          "text": "Students should arrange the points from Chapter 1 in a sensible order.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "3 collection of rational numbers.",
+          "text": "Examples from Chapter 1 help support the answer.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There are numbers like 1 3 , 2 4 , or even 2005 2006 − . If you put all such numbers also into the bag, it will now be the Z comes from the German word \"zahlen\", which means \"to count\". Q -6721 12 1 3 -1 9 81 16 1 4 2005 2006 -12 13 9 14 -6625 -65 60 19 19 999 0 -6 7 27 58 2005 2006 3 -5 16 60 999 4 -8 -6625 58 0 27 71 17 981 -12 13 89 -6 7 2 3 9 14 - Why Z ? Reprint 2025-26 NUMBER SYSTEMS 3 collection of rational numbers.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "there",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "if",
+          "text": "A clear response should stay connected to Chapter 1.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "There are numbers like 1 3 , 2 4 , or even 2005 2006 − . If you put all such numbers also into the bag, it will now be the Z comes from the German word \"zahlen\", which means \"to count\". Q -6721 12 1 3 -1 9 81 16 1 4 2005 2006 -12 13 9 14 -6625 -65 60 19 19 999 0 -6 7 27 58 2005 2006 3 -5 16 60 999 4 -8 -6625 58 0 27 71 17 981 -12 13 89 -6 7 2 3 9 14 - Why Z ? Reprint 2025-26 NUMBER SYSTEMS 3 collection of rational numbers.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Define an important term from Chapter 1 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "'Rational' comes from the word 'ratio', and Q comes from the word 'quotient'.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "You may recall the definition of rational numbers: A number 'r' is called a rational number, if it can be written in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "(Why do we insist that q ≠ 0?) Notice that all the numbers now in the bag can be written in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "For example, -25 can be written as 25; 1 − here p = -25 and q = 1.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "'Rational' comes from the word 'ratio', and Q comes from the word 'quotient'. You may recall the definition of rational numbers: A number 'r' is called a rational number, if it can be written in the form p q , where p and q are integers and q ≠ 0. (Why do we insist that q ≠ 0?) Notice that all the numbers now in the bag can be written in the form p q , where p and q are integers and q ≠ 0. For example, -25 can be written as 25; 1 − here p = -25 and q = 1.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Define an important term from Chapter 1 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "'Rational' comes from the word 'ratio',",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "and Q comes from the word 'quotient'.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "You may recall the definition of rational numbers: A number 'r' is called a rational number, if it",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "can be written in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "(Why do we insist that q ≠ 0?) Notice that all the numbers now in the bag can",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "be written in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "A clear response should stay connected to Chapter 1.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "For example, -25 can be written as 25; 1",
+          "text": "Students should arrange the points from Chapter 1 in a sensible order.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "− here p = -25 and q = 1.",
+          "text": "Examples from Chapter 1 help support the answer.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "'Rational' comes from the word 'ratio', and Q comes from the word 'quotient'. You may recall the definition of rational numbers: A number 'r' is called a rational number, if it can be written in the form p q , where p and q are integers and q ≠ 0. (Why do we insist that q ≠ 0?) Notice that all the numbers now in the bag can be written in the form p q , where p and q are integers and q ≠ 0. For example, -25 can be written as 25; 1 − here p = -25 and q = 1.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Define an important term from Chapter 1 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "'rational'",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "you",
+          "text": "A clear response should stay connected to Chapter 1.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "'Rational' comes from the word 'ratio', and Q comes from the word 'quotient'. You may recall the definition of rational numbers: A number 'r' is called a rational number, if it can be written in the form p q , where p and q are integers and q ≠ 0. (Why do we insist that q ≠ 0?) Notice that all the numbers now in the bag can be written in the form p q , where p and q are integers and q ≠ 0. For example, -25 can be written as 25; 1 − here p = -25 and q = 1.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "Therefore, the rational numbers also include the natural numbers, whole numbers and integers.",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "You also know that the rational numbers do not have a unique representation in the form p q , where p and q are integers and q ≠ 0.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "For example, 1 2 = 2 4 = 10 20 = 25 50 = 47 94 , and so on.",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "So, on the number line, among the infinitely many fractions equivalent to 1 2 , we will choose 1 2 to represent all of them.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, the rational numbers also include the natural numbers, whole numbers and integers. You also know that the rational numbers do not have a unique representation in the form p q , where p and q are integers and q ≠ 0. For example, 1 2 = 2 4 = 10 20 = 25 50 = 47 94 , and so on. So, on the number line, among the infinitely many fractions equivalent to 1 2 , we will choose 1 2 to represent all of them.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "Therefore, the rational numbers also include",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "the natural numbers, whole numbers and integers.",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "You also know that the rational numbers do not have a unique representation in",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "the form p q , where p and q are integers and q ≠ 0.",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "For example, 1 2 = 2 4 = 10 20",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "= 25 50 = 47 94 , and so on.",
+          "text": "A clear response should stay connected to Chapter 1.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "So, on the number line, among the infinitely many fractions equivalent to",
+          "text": "Students should arrange the points from Chapter 1 in a sensible order.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "1 2 , we will choose 1 2 to represent all of them.",
+          "text": "Examples from Chapter 1 help support the answer.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, the rational numbers also include the natural numbers, whole numbers and integers. You also know that the rational numbers do not have a unique representation in the form p q , where p and q are integers and q ≠ 0. For example, 1 2 = 2 4 = 10 20 = 25 50 = 47 94 , and so on. So, on the number line, among the infinitely many fractions equivalent to 1 2 , we will choose 1 2 to represent all of them.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 1",
       "chapterNumber": 1,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 1.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 1.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Mathematics, Chapter Chapter 1.",
+      "sourceTextSummary": "Practice questions generated from Mathematics, lesson: Chapter 1.",
       "sourceChapter": "Chapter 1",
       "sourcePdf": "D:\\LX\\all class pdf\\class 9\\Mathematics\\iemh101.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "As far as your eyes can see, there are numbers, numbers and numbers!",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "1.2 Now suppose you start walking along the number line, and collecting some of the numbers.",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "Chapter 1 has important ideas that students can explain in simple words.",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "therefore,",
+          "text": "The answer should use details from Chapter 1.",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "you",
+          "text": "A clear response should stay connected to Chapter 1.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 1 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 1.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 1.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Therefore, the rational numbers also include the natural numbers, whole numbers and integers. You also know that the rational numbers do not have a unique representation in the form p q , where p and q are integers and q ≠ 0. For example, 1 2 = 2 4 = 10 20 = 25 50 = 47 94 , and so on. So, on the number line, among the infinitely many fractions equivalent to 1 2 , we will choose 1 2 to represent all of them.",
+      "modelAnswer": "1.1 : The number line Just imagine you start from zero and go on walking along this number line in the positive direction. As far as your eyes can see, there are numbers, numbers and numbers! 1.2 Now suppose you start walking along the number line, and collecting some of the numbers. Chapter 1 has important ideas that students can explain in simple words.",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

@@ -12,7 +12,8 @@
     "chapterNumber": 13,
     "pageCount": null,
     "extractedCharacterCount": 40147,
-    "extractionPreview": "210\nCuriosity - Textbook of Science for Grade 8\nOur Home: \nEarth, a Unique Life \nSustaining Planet \n13\nProbe and ponder\n \nz What do you think Earth would look like if there were no life \non it at all?\n \nz Life on Earth has survived for billions of years. What allows it \nto keep going despite major changes and disasters?\n \nz Why don't dogs lay eggs? Or hens give birth to live chicks?\n \nz If a spaceship carried soil and water to Mars, could plants start \ngrowing there?\n \nShare your questions \n \n \n"
+    "extractionPreview": "210\nCuriosity - Textbook of Science for Grade 8\nOur Home: \nEarth, a Unique Life \nSustaining Planet \n13\nProbe and ponder\n \nz What do you think Earth would look like if there were no life \non it at all?\n \nz Life on Earth has survived for billions of years. What allows it \nto keep going despite major changes and disasters?\n \nz Why don't dogs lay eggs? Or hens give birth to live chicks?\n \nz If a spaceship carried soil and water to Mars, could plants start \ngrowing there?\n \nShare your questions \n \n \n",
+    "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13."
   },
   "coverage": {
     "classes": [
@@ -82,8 +83,8 @@
   "chapterQuestions": [
     {
       "number": 1,
-      "groupId": "chapter-q01-chapter-overview",
-      "question": "Explain the main ideas of Chapter 13.",
+      "groupId": "chapter-q01-explain",
+      "question": "What are the main ideas in Chapter 13?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -94,8 +95,8 @@
     },
     {
       "number": 2,
-      "groupId": "chapter-q02-important-process",
-      "question": "Arrange and explain an important process from Chapter 13.",
+      "groupId": "chapter-q02-process_sequence",
+      "question": "Put the events or ideas from Chapter 13 in the correct order.",
       "questionIdentifier": {
         "label": "Sequence Builder",
         "primaryType": "process_sequence",
@@ -106,8 +107,8 @@
     },
     {
       "number": 3,
-      "groupId": "chapter-q03-cause-effect",
-      "question": "Explain one cause-effect relationship from Chapter 13.",
+      "groupId": "chapter-q03-cause_effect",
+      "question": "What happens in Chapter 13, and why does it happen?",
       "questionIdentifier": {
         "label": "Cause-Effect Builder",
         "primaryType": "cause_effect",
@@ -118,8 +119,8 @@
     },
     {
       "number": 4,
-      "groupId": "chapter-q04-definition-and-example",
-      "question": "Define an important term from Chapter 13 and support it with examples.",
+      "groupId": "chapter-q04-definition_term",
+      "question": "What important word or idea do we learn in Chapter 13?",
       "questionIdentifier": {
         "label": "Definition Builder",
         "primaryType": "definition_term",
@@ -130,8 +131,8 @@
     },
     {
       "number": 5,
-      "groupId": "chapter-q05-short-answer",
-      "question": "Write a short answer using key points from Chapter 13.",
+      "groupId": "chapter-q05-explain",
+      "question": "What are the main ideas in Chapter 13?",
       "questionIdentifier": {
         "label": "Explanation Builder",
         "primaryType": "explain",
@@ -153,49 +154,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain the main idea of Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the main ideas in Chapter 13?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Opening",
         "Key point",
         "Support",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "explain-1",
-          "text": "What allows it to keep going despite major changes and disasters?",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "explain-2",
-          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "explain-3",
-          "text": "It is time to put together all that we have seen and learnt and try to understand why our home, planet Earth, is like no other place in the known universe.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "explain-4",
-          "text": "As you have learnt in Curiosity, Grades 6 and 7, the Earth is a planet orbiting the Sun.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "explain-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "explain-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -225,10 +226,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "What allows it to keep going despite major changes and disasters? z If a spaceship carried soil and water to Mars, could plants start growing there? It is time to put together all that we have seen and learnt and try to understand why our home, planet Earth, is like no other place in the known universe. As you have learnt in Curiosity, Grades 6 and 7, the Earth is a planet orbiting the Sun.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -259,49 +260,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Compare two important ideas from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "How are two ideas in Chapter 13 similar or different?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Idea A",
         "Idea B",
         "Similarity",
         "Difference"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "compare_contrast-1",
-          "text": "It is a planet that sustains life - full of diverse landscapes, from towering mountains and vast oceans to endless deserts and lush forests.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "compare_contrast-2",
-          "text": "Today, our satellites allow us to take amazing pictures of our planet.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "compare_contrast-3",
-          "text": "Although it looks beautiful, it's a false colour image, where scientists use different colours to show different types of information.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "compare_contrast-4",
-          "text": "These satellite images help us study plants on land and tiny organisms in the ocean, and can even detect things like ocean temperature, oil spills, and wind direction.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "compare_contrast-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "compare_contrast-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -331,10 +332,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It is a planet that sustains life - full of diverse landscapes, from towering mountains and vast oceans to endless deserts and lush forests. Today, our satellites allow us to take amazing pictures of our planet. Although it looks beautiful, it's a false colour image, where scientists use different colours to show different types of information. These satellite images help us study plants on land and tiny organisms in the ocean, and can even detect things like ocean temperature, oil spills, and wind direction.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -365,49 +366,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Connect causes and effects from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What happens in Chapter 13, and why does it happen?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause 1",
         "Effect 1",
         "Cause 2",
         "Effect 2"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "cause_effect-1",
-          "text": "While there are perhaps billions of planets in the universe, Earth is the only one where life, as we know today, exists and thrives in all its forms.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "cause_effect-2",
-          "text": "Have you ever wondered where all life on Earth actually exists?",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "cause_effect-3",
-          "text": "All the mountains, rivers, forests, animals, and people are found on just a very thin layer on the surface of our planet.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "cause_effect-4",
-          "text": "From the tallest mountain to the deepest ocean trench, the crust, where all of life exists, is tiny compared to the size of Earth.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "cause_effect-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "cause_effect-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -441,10 +442,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "While there are perhaps billions of planets in the universe, Earth is the only one where life, as we know today, exists and thrives in all its forms. Have you ever wondered where all life on Earth actually exists? All the mountains, rivers, forests, animals, and people are found on just a very thin layer on the surface of our planet. From the tallest mountain to the deepest ocean trench, the crust, where all of life exists, is tiny compared to the size of Earth.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -475,49 +476,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange key steps or ideas from Chapter 13 in order.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Put the events or ideas from Chapter 13 in the correct order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "process_sequence-1",
-          "text": "If Earth were the size of an apple, the crust would be as thin as the apple's skin as shown in Fig.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "process_sequence-2",
-          "text": "This delicate, life supporting layer is what makes Earth truly special.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "process_sequence-3",
-          "text": "The air we breathe doesn't fly off and disappear into space.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "process_sequence-4",
-          "text": "Table 13.1: Interesting features about the Earth Discuss the features you have listed with your teacher and friends.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "process_sequence-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "process_sequence-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -547,10 +548,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "If Earth were the size of an apple, the crust would be as thin as the apple's skin as shown in Fig. This delicate, life supporting layer is what makes Earth truly special. The air we breathe doesn't fly off and disappear into space. Table 13.1: Interesting features about the Earth Discuss the features you have listed with your teacher and friends.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -587,47 +588,47 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Sort useful and less useful statements about Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What are the helpful and difficult points in Chapter 13?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Useful",
         "Less useful"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "pros_cons-1",
-          "text": "You may realise that the Earth is interesting and important to us in many ways.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "pros_cons-2",
-          "text": "It provides us with the air that we breathe, the water that we drink, and the soil that helps in growing crops.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "pros_cons-3",
-          "text": "The Earth also provides us materials like rock and timber with which we build our homes, buildings, and roads.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "pros_cons-4",
-          "text": "You must be curious to know what makes the Earth a unique planet which not only allows life like us to exist but also sustains it.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "pros_cons-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "pros_cons-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -649,10 +650,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You may realise that the Earth is interesting and important to us in many ways. It provides us with the air that we breathe, the water that we drink, and the soil that helps in growing crops. The Earth also provides us materials like rock and timber with which we build our homes, buildings, and roads. You must be curious to know what makes the Earth a unique planet which not only allows life like us to exist but also sustains it.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -683,49 +684,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Identify a problem and solution connected to Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What problem is shown in Chapter 13, and how can it be solved?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Problem",
         "Evidence",
         "Solution",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "problem_solution-1",
-          "text": "13.2 \u0007What Do the Planets of Our Solar System Look Like?",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "problem_solution-2",
-          "text": "Our solar system has eight planets that go around the Sun in nearly circular orbits.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "problem_solution-3",
-          "text": "In order of their increasing distance from the Sun, they are Mercury, Venus, Earth, Mars, Jupiter, I wonder what makes the Earth unique for living beings to grow and survive!",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "problem_solution-4",
-          "text": "Out of all these planets, Mercury, Venus, Earth, and Mars, are relatively small and rocky planets, while Jupiter, Saturn, Uranus, and Neptune are large planets, mostly made of gases.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "problem_solution-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "problem_solution-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -755,10 +756,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.2 \u0007What Do the Planets of Our Solar System Look Like? Our solar system has eight planets that go around the Sun in nearly circular orbits. In order of their increasing distance from the Sun, they are Mercury, Venus, Earth, Mars, Jupiter, I wonder what makes the Earth unique for living beings to grow and survive! Out of all these planets, Mercury, Venus, Earth, and Mars, are relatively small and rocky planets, while Jupiter, Saturn, Uranus, and Neptune are large planets, mostly made of gases.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -789,49 +790,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Complete a passage from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Complete the sentences using ideas from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Blank 1",
         "Blank 2",
         "Blank 3",
         "Blank 4"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "fill_blanks-1",
-          "text": "What allows it to keep going despite major changes and disasters?",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "fill_blanks-2",
-          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "fill_blanks-3",
-          "text": "It is time to put together all that we have seen and learnt and try to understand why our home, planet Earth, is like no other place in the known universe.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "fill_blanks-4",
-          "text": "As you have learnt in Curiosity, Grades 6 and 7, the Earth is a planet orbiting the Sun.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "fill_blanks-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "fill_blanks-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -861,10 +862,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "What allows it to keep going despite major changes and disasters? z If a spaceship carried soil and water to Mars, could plants start growing there? It is time to put together all that we have seen and learnt and try to understand why our home, planet Earth, is like no other place in the known universe. As you have learnt in Curiosity, Grades 6 and 7, the Earth is a planet orbiting the Sun.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -901,48 +902,48 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Classify statements based on Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Decide which statements match Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "True",
         "False",
         "Not Given"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "true_false_not_given-1",
-          "text": "It is a planet that sustains life - full of diverse landscapes, from towering mountains and vast oceans to endless deserts and lush forests.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "true_false_not_given-2",
-          "text": "Today, our satellites allow us to take amazing pictures of our planet.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "true_false_not_given-3",
-          "text": "Although it looks beautiful, it's a false colour image, where scientists use different colours to show different types of information.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "true_false_not_given-4",
-          "text": "These satellite images help us study plants on land and tiny organisms in the ocean, and can even detect things like ocean temperature, oil spills, and wind direction.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "true_false_not_given-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "true_false_not_given-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -968,10 +969,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It is a planet that sustains life - full of diverse landscapes, from towering mountains and vast oceans to endless deserts and lush forests. Today, our satellites allow us to take amazing pictures of our planet. Although it looks beautiful, it's a false colour image, where scientists use different colours to show different types of information. These satellite images help us study plants on land and tiny organisms in the ocean, and can even detect things like ocean temperature, oil spills, and wind direction.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1002,48 +1003,48 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "List key points from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Write a short answer using key points from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "short_answer_key_points-1",
-          "text": "While there are perhaps billions of planets in the universe, Earth is the only one where life, as we know today, exists and thrives in all its forms.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "short_answer_key_points-2",
-          "text": "Have you ever wondered where all life on Earth actually exists?",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "short_answer_key_points-3",
-          "text": "All the mountains, rivers, forests, animals, and people are found on just a very thin layer on the surface of our planet.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "short_answer_key_points-4",
-          "text": "From the tallest mountain to the deepest ocean trench, the crust, where all of life exists, is tiny compared to the size of Earth.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "short_answer_key_points-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "short_answer_key_points-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1069,10 +1070,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "While there are perhaps billions of planets in the universe, Earth is the only one where life, as we know today, exists and thrives in all its forms. Have you ever wondered where all life on Earth actually exists? All the mountains, rivers, forests, animals, and people are found on just a very thin layer on the surface of our planet. From the tallest mountain to the deepest ocean trench, the crust, where all of life exists, is tiny compared to the size of Earth.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1103,49 +1104,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Match ideas and meanings from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Match the related ideas from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Match 1",
         "Match 2",
         "Match 3",
         "Match 4"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "match_following-1",
-          "text": "If Earth were the size of an apple, the crust would be as thin as the apple's skin as shown in Fig.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "match_following-2",
-          "text": "This delicate, life supporting layer is what makes Earth truly special.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "match_following-3",
-          "text": "The air we breathe doesn't fly off and disappear into space.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "match_following-4",
-          "text": "Table 13.1: Interesting features about the Earth Discuss the features you have listed with your teacher and friends.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "match_following-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "match_following-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1175,10 +1176,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "If Earth were the size of an apple, the crust would be as thin as the apple's skin as shown in Fig. This delicate, life supporting layer is what makes Earth truly special. The air we breathe doesn't fly off and disappear into space. Table 13.1: Interesting features about the Earth Discuss the features you have listed with your teacher and friends.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1209,48 +1210,48 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Use chapter information from Chapter 13 to make inferences.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Use the information from Chapter 13 to answer clearly.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Data",
         "Inference 1",
         "Inference 2"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "data_chart_table-1",
-          "text": "You may realise that the Earth is interesting and important to us in many ways.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "data_chart_table-2",
-          "text": "It provides us with the air that we breathe, the water that we drink, and the soil that helps in growing crops.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "data_chart_table-3",
-          "text": "The Earth also provides us materials like rock and timber with which we build our homes, buildings, and roads.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "data_chart_table-4",
-          "text": "You must be curious to know what makes the Earth a unique planet which not only allows life like us to exist but also sustains it.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "data_chart_table-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "data_chart_table-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1276,10 +1277,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You may realise that the Earth is interesting and important to us in many ways. It provides us with the air that we breathe, the water that we drink, and the soil that helps in growing crops. The Earth also provides us materials like rock and timber with which we build our homes, buildings, and roads. You must be curious to know what makes the Earth a unique planet which not only allows life like us to exist but also sustains it.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1310,8 +1311,8 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange a paragraph about Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Build a clear paragraph about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Topic",
         "Support 1",
@@ -1319,46 +1320,46 @@
         "Support 3",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "paragraph_essay_structure-1",
-          "text": "13.2 \u0007What Do the Planets of Our Solar System Look Like?",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "paragraph_essay_structure-2",
-          "text": "Our solar system has eight planets that go around the Sun in nearly circular orbits.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "paragraph_essay_structure-3",
-          "text": "In order of their increasing distance from the Sun, they are Mercury, Venus, Earth, Mars, Jupiter, I wonder what makes the Earth unique for living beings to grow and survive!",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "paragraph_essay_structure-4",
-          "text": "Out of all these planets, Mercury, Venus, Earth, and Mars, are relatively small and rocky planets, while Jupiter, Saturn, Uranus, and Neptune are large planets, mostly made of gases.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "paragraph_essay_structure-5",
-          "text": "z You may collect this information from books in your school library, trusted websites, or discuss with your teachers.",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "paragraph_essay_structure-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "paragraph_essay_structure-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1393,10 +1394,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "13.2 \u0007What Do the Planets of Our Solar System Look Like? Our solar system has eight planets that go around the Sun in nearly circular orbits. In order of their increasing distance from the Sun, they are Mercury, Venus, Earth, Mars, Jupiter, I wonder what makes the Earth unique for living beings to grow and survive! Out of all these planets, Mercury, Venus, Earth, and Mars, are relatively small and rocky planets, while Jupiter, Saturn, Uranus, and Neptune are large planets, mostly made of gases. z You may collect this information from books in your school library, trusted websites, or discuss with your teachers.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1434,48 +1435,48 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Build a definition from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "What important word or idea do we learn in Chapter 13?",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "definition_term-1",
-          "text": "What allows it to keep going despite major changes and disasters?",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "definition_term-2",
-          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "definition_term-3",
-          "text": "It is time to put together all that we have seen and learnt and try to understand why our home, planet Earth, is like no other place in the known universe.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "definition_term-4",
-          "text": "As you have learnt in Curiosity, Grades 6 and 7, the Earth is a planet orbiting the Sun.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "definition_term-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "definition_term-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1501,10 +1502,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "What allows it to keep going despite major changes and disasters? z If a spaceship carried soil and water to Mars, could plants start growing there? It is time to put together all that we have seen and learnt and try to understand why our home, planet Earth, is like no other place in the known universe. As you have learnt in Curiosity, Grades 6 and 7, the Earth is a planet orbiting the Sun.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1535,8 +1536,8 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange chronological or logical ideas from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Arrange the events from Chapter 13 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "1",
         "2",
@@ -1544,46 +1545,46 @@
         "4",
         "5"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "timeline_chronological_order-1",
-          "text": "It is a planet that sustains life - full of diverse landscapes, from towering mountains and vast oceans to endless deserts and lush forests.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "timeline_chronological_order-2",
-          "text": "Today, our satellites allow us to take amazing pictures of our planet.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "timeline_chronological_order-3",
-          "text": "Although it looks beautiful, it's a false colour image, where scientists use different colours to show different types of information.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "timeline_chronological_order-4",
-          "text": "These satellite images help us study plants on land and tiny organisms in the ocean, and can even detect things like ocean temperature, oil spills, and wind direction.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "timeline_chronological_order-5",
-          "text": "While there are perhaps billions of planets in the universe, Earth is the only one where life, as we know today, exists and thrives in all its forms.",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         }
       ],
       "distractors": [
         {
           "id": "timeline_chronological_order-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "timeline_chronological_order-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1618,10 +1619,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It is a planet that sustains life - full of diverse landscapes, from towering mountains and vast oceans to endless deserts and lush forests. Today, our satellites allow us to take amazing pictures of our planet. Although it looks beautiful, it's a false colour image, where scientists use different colours to show different types of information. These satellite images help us study plants on land and tiny organisms in the ocean, and can even detect things like ocean temperature, oil spills, and wind direction. While there are perhaps billions of planets in the universe, Earth is the only one where life, as we know today, exists and thrives in all its forms.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1659,41 +1660,41 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Identify the main idea of a passage from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the main idea of Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Main idea"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "identify_main_idea-1",
-          "text": "Have you ever wondered where all life on Earth actually exists?",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "identify_main_idea-2",
-          "text": "All the mountains, rivers, forests, animals, and people are found on just a very thin layer on the surface of our planet.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "identify_main_idea-3",
-          "text": "From the tallest mountain to the deepest ocean trench, the crust, where all of life exists, is tiny compared to the size of Earth.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "identify_main_idea-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "identify_main_idea-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1710,10 +1711,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Have you ever wondered where all life on Earth actually exists? All the mountains, rivers, forests, animals, and people are found on just a very thin layer on the surface of our planet. From the tallest mountain to the deepest ocean trench, the crust, where all of life exists, is tiny compared to the size of Earth.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1744,41 +1745,41 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Choose evidence that supports a statement from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the details that support an idea from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Evidence"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "evidence_support_statement-1",
-          "text": "If Earth were the size of an apple, the crust would be as thin as the apple's skin as shown in Fig.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "evidence_support_statement-2",
-          "text": "This delicate, life supporting layer is what makes Earth truly special.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "evidence_support_statement-3",
-          "text": "The air we breathe doesn't fly off and disappear into space.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "evidence_support_statement-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "evidence_support_statement-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1795,10 +1796,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "If Earth were the size of an apple, the crust would be as thin as the apple's skin as shown in Fig. This delicate, life supporting layer is what makes Earth truly special. The air we breathe doesn't fly off and disappear into space.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1829,49 +1830,49 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Sequence a process from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Place the steps from Chapter 13 in order.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Step 1",
         "Step 2",
         "Step 3",
         "Step 4"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "sequencing_steps_process-1",
-          "text": "Table 13.1: Interesting features about the Earth Discuss the features you have listed with your teacher and friends.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "sequencing_steps_process-2",
-          "text": "You may realise that the Earth is interesting and important to us in many ways.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "sequencing_steps_process-3",
-          "text": "It provides us with the air that we breathe, the water that we drink, and the soil that helps in growing crops.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "sequencing_steps_process-4",
-          "text": "The Earth also provides us materials like rock and timber with which we build our homes, buildings, and roads.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "sequencing_steps_process-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "sequencing_steps_process-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1901,10 +1902,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "Table 13.1: Interesting features about the Earth Discuss the features you have listed with your teacher and friends. You may realise that the Earth is interesting and important to us in many ways. It provides us with the air that we breathe, the water that we drink, and the soil that helps in growing crops. The Earth also provides us materials like rock and timber with which we build our homes, buildings, and roads.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -1941,41 +1942,41 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Choose the correct ending for an answer on Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose the correct endings for sentences from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Ending"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "choose_correct_ending-1",
-          "text": "You must be curious to know what makes the Earth a unique planet which not only allows life like us to exist but also sustains it.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "choose_correct_ending-2",
-          "text": "13.2 \u0007What Do the Planets of Our Solar System Look Like?",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "choose_correct_ending-3",
-          "text": "Our solar system has eight planets that go around the Sun in nearly circular orbits.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "choose_correct_ending-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "choose_correct_ending-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -1992,10 +1993,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You must be curious to know what makes the Earth a unique planet which not only allows life like us to exist but also sustains it. 13.2 \u0007What Do the Planets of Our Solar System Look Like? Our solar system has eight planets that go around the Sun in nearly circular orbits.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2026,46 +2027,46 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Select all correct statements from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Choose all correct ideas from Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Correct statements"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "multiple_correct_answers-1",
-          "text": "In order of their increasing distance from the Sun, they are Mercury, Venus, Earth, Mars, Jupiter, I wonder what makes the Earth unique for living beings to grow and survive!",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "multiple_correct_answers-2",
-          "text": "Out of all these planets, Mercury, Venus, Earth, and Mars, are relatively small and rocky planets, while Jupiter, Saturn, Uranus, and Neptune are large planets, mostly made of gases.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "multiple_correct_answers-3",
-          "text": "z You may collect this information from books in your school library, trusted websites, or discuss with your teachers.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "multiple_correct_answers-4",
-          "text": "Planet Average temperature (oC) Radius, compared to the Earth Has an atmosphere?",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         }
       ],
       "distractors": [
         {
           "id": "multiple_correct_answers-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "multiple_correct_answers-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2083,10 +2084,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "In order of their increasing distance from the Sun, they are Mercury, Venus, Earth, Mars, Jupiter, I wonder what makes the Earth unique for living beings to grow and survive! Out of all these planets, Mercury, Venus, Earth, and Mars, are relatively small and rocky planets, while Jupiter, Saturn, Uranus, and Neptune are large planets, mostly made of gases. z You may collect this information from books in your school library, trusted websites, or discuss with your teachers. Planet Average temperature (oC) Radius, compared to the Earth Has an atmosphere?",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2117,36 +2118,36 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Formulate a question for an answer from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Make a good question about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Question"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "formulate_question-1",
-          "text": "200 4 Table 13.2: Planets in our solar system We know that all planets in the solar system get their energy from the Sun.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "formulate_question-2",
-          "text": "Thus, when a planet is close to the Sun, it would be very hot.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         }
       ],
       "distractors": [
         {
           "id": "formulate_question-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "formulate_question-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2162,10 +2163,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "200 4 Table 13.2: Planets in our solar system We know that all planets in the solar system get their energy from the Sun. Thus, when a planet is close to the Sun, it would be very hot.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2196,43 +2197,43 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Build an assertion-reason answer from Chapter 13.",
-      "instructions": "Use the source-based options to complete this activity.",
+      "question": "Read the statement and reason about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Assertion",
         "Reason",
         "Relationship"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "assertion_reason-1",
-          "text": "As we move away from the Sun, planets should get colder.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "assertion_reason-2",
-          "text": "This is generally correct, except that Venus, the second planet from the Sun has the highest average temperature and is the hottest planet.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "assertion_reason-3",
-          "text": "What allows it to keep going despite major changes and disasters?",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         }
       ],
       "distractors": [
         {
           "id": "assertion_reason-x1",
-          "text": "Chapter 13 should be answered without using chapter facts.",
-          "misconception": "Rejects source evidence."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "assertion_reason-x2",
-          "text": "An unrelated statement can replace a factual answer.",
-          "misconception": "Irrelevant distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2257,10 +2258,10 @@
         ]
       },
       "hints": [
-        "Use only statements supported by the chapter.",
-        "Ignore unrelated distractors."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "As we move away from the Sun, planets should get colder. This is generally correct, except that Venus, the second planet from the Sun has the highest average temperature and is the hottest planet. What allows it to keep going despite major changes and disasters?",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2291,39 +2292,39 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-e-1",
-          "text": "What allows it to keep going despite major changes and disasters?",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1,
           "section": "Introduction"
         },
         {
           "id": "chapter-q01-chapter-overview-e-2",
-          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2,
           "section": "Key idea 1"
         },
         {
           "id": "chapter-q01-chapter-overview-e-3",
-          "text": "It is time to put together all that we have seen and learnt and try to understand why our home, planet Earth, is like no other place in the known universe.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3,
           "section": "Key idea 2"
         },
         {
           "id": "chapter-q01-chapter-overview-e-4",
-          "text": "As you have learnt in Curiosity, Grades 6 and 7, the Earth is a planet orbiting the Sun.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4,
           "section": "Conclusion"
         }
@@ -2331,18 +2332,18 @@
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-e-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2372,10 +2373,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "What allows it to keep going despite major changes and disasters? z If a spaceship carried soil and water to Mars, could plants start growing there? It is time to put together all that we have seen and learnt and try to understand why our home, planet Earth, is like no other place in the known universe. As you have learnt in Curiosity, Grades 6 and 7, the Earth is a planet orbiting the Sun.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2421,74 +2422,74 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-m-1a",
-          "text": "What allows it to keep",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-m-1b",
-          "text": "going despite major changes and disasters?",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-m-2a",
-          "text": "z If a spaceship carried soil and",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-m-2b",
-          "text": "water to Mars, could plants start growing there?",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-m-3a",
-          "text": "It is time to put together all that we have seen and learnt and try",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-m-3b",
-          "text": "to understand why our home, planet Earth, is like no other place in the known universe.",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q01-chapter-overview-m-4a",
-          "text": "As you have learnt in Curiosity, Grades 6 and",
+          "text": "The answer should use details from Chapter 13.",
           "order": 7
         },
         {
           "id": "chapter-q01-chapter-overview-m-4b",
-          "text": "7, the Earth is a planet orbiting the Sun.",
+          "text": "A clear response should stay connected to Chapter 13.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-m-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2538,10 +2539,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "What allows it to keep going despite major changes and disasters? z If a spaceship carried soil and water to Mars, could plants start growing there? It is time to put together all that we have seen and learnt and try to understand why our home, planet Earth, is like no other place in the known universe. As you have learnt in Curiosity, Grades 6 and 7, the Earth is a planet orbiting the Sun.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2591,64 +2592,64 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain the main ideas of Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Introduction",
         "Key idea 1",
         "Key idea 2",
         "Conclusion"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q01-chapter-overview-d-1",
-          "text": "introduction",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "chapter-q01-chapter-overview-d-2",
-          "text": "key idea 1",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "chapter-q01-chapter-overview-d-3",
-          "text": "key idea 2",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "chapter-q01-chapter-overview-d-4",
-          "text": "conclusion",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "chapter-q01-chapter-overview-d-5",
-          "text": "what",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         },
         {
           "id": "chapter-q01-chapter-overview-d-6",
-          "text": "z",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q01-chapter-overview-d-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q01-chapter-overview-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2676,10 +2677,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "What allows it to keep going despite major changes and disasters? z If a spaceship carried soil and water to Mars, could plants start growing there? It is time to put together all that we have seen and learnt and try to understand why our home, planet Earth, is like no other place in the known universe. As you have learnt in Curiosity, Grades 6 and 7, the Earth is a planet orbiting the Sun.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2727,39 +2728,39 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-e-1",
-          "text": "It is a planet that sustains life - full of diverse landscapes, from towering mountains and vast oceans to endless deserts and lush forests.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1,
           "section": "First"
         },
         {
           "id": "chapter-q02-important-process-e-2",
-          "text": "Today, our satellites allow us to take amazing pictures of our planet.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2,
           "section": "Next"
         },
         {
           "id": "chapter-q02-important-process-e-3",
-          "text": "Although it looks beautiful, it's a false colour image, where scientists use different colours to show different types of information.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3,
           "section": "Then"
         },
         {
           "id": "chapter-q02-important-process-e-4",
-          "text": "These satellite images help us study plants on land and tiny organisms in the ocean, and can even detect things like ocean temperature, oil spills, and wind direction.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4,
           "section": "Finally"
         }
@@ -2767,18 +2768,18 @@
       "distractors": [
         {
           "id": "chapter-q02-important-process-e-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2808,10 +2809,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It is a planet that sustains life - full of diverse landscapes, from towering mountains and vast oceans to endless deserts and lush forests. Today, our satellites allow us to take amazing pictures of our planet. Although it looks beautiful, it's a false colour image, where scientists use different colours to show different types of information. These satellite images help us study plants on land and tiny organisms in the ocean, and can even detect things like ocean temperature, oil spills, and wind direction.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -2857,74 +2858,74 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-m-1a",
-          "text": "It is a planet that sustains life - full of diverse landscapes,",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-m-1b",
-          "text": "from towering mountains and vast oceans to endless deserts and lush forests.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-m-2a",
-          "text": "Today, our satellites allow us to",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-m-2b",
-          "text": "take amazing pictures of our planet.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-m-3a",
-          "text": "Although it looks beautiful, it's a false colour image, where",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-m-3b",
-          "text": "scientists use different colours to show different types of information.",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q02-important-process-m-4a",
-          "text": "These satellite images help us study plants on land and tiny organisms in the",
+          "text": "The answer should use details from Chapter 13.",
           "order": 7
         },
         {
           "id": "chapter-q02-important-process-m-4b",
-          "text": "ocean, and can even detect things like ocean temperature, oil spills, and wind direction.",
+          "text": "A clear response should stay connected to Chapter 13.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-m-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -2974,10 +2975,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It is a planet that sustains life - full of diverse landscapes, from towering mountains and vast oceans to endless deserts and lush forests. Today, our satellites allow us to take amazing pictures of our planet. Although it looks beautiful, it's a false colour image, where scientists use different colours to show different types of information. These satellite images help us study plants on land and tiny organisms in the ocean, and can even detect things like ocean temperature, oil spills, and wind direction.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3027,64 +3028,64 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Arrange and explain an important process from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "First",
         "Next",
         "Then",
         "Finally"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q02-important-process-d-1",
-          "text": "first",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "chapter-q02-important-process-d-2",
-          "text": "next",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "chapter-q02-important-process-d-3",
-          "text": "then",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "chapter-q02-important-process-d-4",
-          "text": "finally",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "chapter-q02-important-process-d-5",
-          "text": "it",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         },
         {
           "id": "chapter-q02-important-process-d-6",
-          "text": "today,",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q02-important-process-d-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q02-important-process-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3112,10 +3113,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "It is a planet that sustains life - full of diverse landscapes, from towering mountains and vast oceans to endless deserts and lush forests. Today, our satellites allow us to take amazing pictures of our planet. Although it looks beautiful, it's a false colour image, where scientists use different colours to show different types of information. These satellite images help us study plants on land and tiny organisms in the ocean, and can even detect things like ocean temperature, oil spills, and wind direction.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3163,39 +3164,39 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-e-1",
-          "text": "While there are perhaps billions of planets in the universe, Earth is the only one where life, as we know today, exists and thrives in all its forms.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1,
           "section": "Cause"
         },
         {
           "id": "chapter-q03-cause-effect-e-2",
-          "text": "Have you ever wondered where all life on Earth actually exists?",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2,
           "section": "Effect"
         },
         {
           "id": "chapter-q03-cause-effect-e-3",
-          "text": "All the mountains, rivers, forests, animals, and people are found on just a very thin layer on the surface of our planet.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3,
           "section": "Reason"
         },
         {
           "id": "chapter-q03-cause-effect-e-4",
-          "text": "From the tallest mountain to the deepest ocean trench, the crust, where all of life exists, is tiny compared to the size of Earth.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4,
           "section": "Result"
         }
@@ -3203,18 +3204,18 @@
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-e-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3244,10 +3245,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "While there are perhaps billions of planets in the universe, Earth is the only one where life, as we know today, exists and thrives in all its forms. Have you ever wondered where all life on Earth actually exists? All the mountains, rivers, forests, animals, and people are found on just a very thin layer on the surface of our planet. From the tallest mountain to the deepest ocean trench, the crust, where all of life exists, is tiny compared to the size of Earth.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3293,74 +3294,74 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-m-1a",
-          "text": "While there are perhaps billions of planets in the universe, Earth is the only",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-m-1b",
-          "text": "one where life, as we know today, exists and thrives in all its forms.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-m-2a",
-          "text": "Have you ever wondered where",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-m-2b",
-          "text": "all life on Earth actually exists?",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-m-3a",
-          "text": "All the mountains, rivers, forests, animals, and people are found on",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-m-3b",
-          "text": "just a very thin layer on the surface of our planet.",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q03-cause-effect-m-4a",
-          "text": "From the tallest mountain to the deepest ocean trench, the crust, where",
+          "text": "The answer should use details from Chapter 13.",
           "order": 7
         },
         {
           "id": "chapter-q03-cause-effect-m-4b",
-          "text": "all of life exists, is tiny compared to the size of Earth.",
+          "text": "A clear response should stay connected to Chapter 13.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-m-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3410,10 +3411,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "While there are perhaps billions of planets in the universe, Earth is the only one where life, as we know today, exists and thrives in all its forms. Have you ever wondered where all life on Earth actually exists? All the mountains, rivers, forests, animals, and people are found on just a very thin layer on the surface of our planet. From the tallest mountain to the deepest ocean trench, the crust, where all of life exists, is tiny compared to the size of Earth.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3463,64 +3464,64 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Explain one cause-effect relationship from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Cause",
         "Effect",
         "Reason",
         "Result"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q03-cause-effect-d-1",
-          "text": "cause",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "chapter-q03-cause-effect-d-2",
-          "text": "effect",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "chapter-q03-cause-effect-d-3",
-          "text": "reason",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "chapter-q03-cause-effect-d-4",
-          "text": "result",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "chapter-q03-cause-effect-d-5",
-          "text": "while",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         },
         {
           "id": "chapter-q03-cause-effect-d-6",
-          "text": "have",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q03-cause-effect-d-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q03-cause-effect-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3548,10 +3549,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "While there are perhaps billions of planets in the universe, Earth is the only one where life, as we know today, exists and thrives in all its forms. Have you ever wondered where all life on Earth actually exists? All the mountains, rivers, forests, animals, and people are found on just a very thin layer on the surface of our planet. From the tallest mountain to the deepest ocean trench, the crust, where all of life exists, is tiny compared to the size of Earth.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3599,39 +3600,39 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Define an important term from Chapter 13 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-e-1",
-          "text": "If Earth were the size of an apple, the crust would be as thin as the apple's skin as shown in Fig.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1,
           "section": "Term"
         },
         {
           "id": "chapter-q04-definition-and-example-e-2",
-          "text": "This delicate, life supporting layer is what makes Earth truly special.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2,
           "section": "Meaning"
         },
         {
           "id": "chapter-q04-definition-and-example-e-3",
-          "text": "The air we breathe doesn't fly off and disappear into space.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3,
           "section": "Example"
         },
         {
           "id": "chapter-q04-definition-and-example-e-4",
-          "text": "Table 13.1: Interesting features about the Earth Discuss the features you have listed with your teacher and friends.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4,
           "section": "Use"
         }
@@ -3639,18 +3640,18 @@
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-e-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3680,10 +3681,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "If Earth were the size of an apple, the crust would be as thin as the apple's skin as shown in Fig. This delicate, life supporting layer is what makes Earth truly special. The air we breathe doesn't fly off and disappear into space. Table 13.1: Interesting features about the Earth Discuss the features you have listed with your teacher and friends.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3729,74 +3730,74 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Define an important term from Chapter 13 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-m-1a",
-          "text": "If Earth were the size of an apple, the crust would",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-m-1b",
-          "text": "be as thin as the apple's skin as shown in Fig.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-m-2a",
-          "text": "This delicate, life supporting layer",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-m-2b",
-          "text": "is what makes Earth truly special.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-m-3a",
-          "text": "The air we breathe doesn't",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-m-3b",
-          "text": "fly off and disappear into space.",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q04-definition-and-example-m-4a",
-          "text": "Table 13.1: Interesting features about the Earth Discuss the",
+          "text": "The answer should use details from Chapter 13.",
           "order": 7
         },
         {
           "id": "chapter-q04-definition-and-example-m-4b",
-          "text": "features you have listed with your teacher and friends.",
+          "text": "A clear response should stay connected to Chapter 13.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-m-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3846,10 +3847,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "If Earth were the size of an apple, the crust would be as thin as the apple's skin as shown in Fig. This delicate, life supporting layer is what makes Earth truly special. The air we breathe doesn't fly off and disappear into space. Table 13.1: Interesting features about the Earth Discuss the features you have listed with your teacher and friends.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -3899,64 +3900,64 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Define an important term from Chapter 13 and support it with examples.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Term",
         "Meaning",
         "Example",
         "Use"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q04-definition-and-example-d-1",
-          "text": "term",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "chapter-q04-definition-and-example-d-2",
-          "text": "meaning",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "chapter-q04-definition-and-example-d-3",
-          "text": "example",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "chapter-q04-definition-and-example-d-4",
-          "text": "use",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "chapter-q04-definition-and-example-d-5",
-          "text": "if",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         },
         {
           "id": "chapter-q04-definition-and-example-d-6",
-          "text": "this",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q04-definition-and-example-d-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q04-definition-and-example-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -3984,10 +3985,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "If Earth were the size of an apple, the crust would be as thin as the apple's skin as shown in Fig. This delicate, life supporting layer is what makes Earth truly special. The air we breathe doesn't fly off and disappear into space. Table 13.1: Interesting features about the Earth Discuss the features you have listed with your teacher and friends.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4035,39 +4036,39 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-e-1",
-          "text": "You may realise that the Earth is interesting and important to us in many ways.",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1,
           "section": "Point 1"
         },
         {
           "id": "chapter-q05-short-answer-e-2",
-          "text": "It provides us with the air that we breathe, the water that we drink, and the soil that helps in growing crops.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2,
           "section": "Point 2"
         },
         {
           "id": "chapter-q05-short-answer-e-3",
-          "text": "The Earth also provides us materials like rock and timber with which we build our homes, buildings, and roads.",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3,
           "section": "Point 3"
         },
         {
           "id": "chapter-q05-short-answer-e-4",
-          "text": "You must be curious to know what makes the Earth a unique planet which not only allows life like us to exist but also sustains it.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4,
           "section": "Closing"
         }
@@ -4075,18 +4076,18 @@
       "distractors": [
         {
           "id": "chapter-q05-short-answer-e-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-e-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Distractor from the same chapter but not correct for this answer."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4116,10 +4117,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You may realise that the Earth is interesting and important to us in many ways. It provides us with the air that we breathe, the water that we drink, and the soil that helps in growing crops. The Earth also provides us materials like rock and timber with which we build our homes, buildings, and roads. You must be curious to know what makes the Earth a unique planet which not only allows life like us to exist but also sustains it.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4165,74 +4166,74 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-m-1a",
-          "text": "You may realise that the Earth is",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-m-1b",
-          "text": "interesting and important to us in many ways.",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-m-2a",
-          "text": "It provides us with the air that we breathe, the water",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-m-2b",
-          "text": "that we drink, and the soil that helps in growing crops.",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-m-3a",
-          "text": "The Earth also provides us materials like rock and",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-m-3b",
-          "text": "timber with which we build our homes, buildings, and roads.",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 6
         },
         {
           "id": "chapter-q05-short-answer-m-4a",
-          "text": "You must be curious to know what makes the Earth a unique planet",
+          "text": "The answer should use details from Chapter 13.",
           "order": 7
         },
         {
           "id": "chapter-q05-short-answer-m-4b",
-          "text": "which not only allows life like us to exist but also sustains it.",
+          "text": "A clear response should stay connected to Chapter 13.",
           "order": 8
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-m-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-m-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect half-sentence distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4282,10 +4283,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You may realise that the Earth is interesting and important to us in many ways. It provides us with the air that we breathe, the water that we drink, and the soil that helps in growing crops. The Earth also provides us materials like rock and timber with which we build our homes, buildings, and roads. You must be curious to know what makes the Earth a unique planet which not only allows life like us to exist but also sustains it.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",
@@ -4335,64 +4336,64 @@
       "chapter": "Chapter 13",
       "chapterNumber": 13,
       "marks": 5,
-      "question": "Write a short answer using key points from Chapter 13.",
-      "instructions": "Place the options in the correct placeholders. The sentence order must match the answer key.",
+      "question": "Build a clear answer about Chapter 13.",
+      "instructions": "Use the clear lesson points to complete this activity.",
       "structureHelp": [
         "Point 1",
         "Point 2",
         "Point 3",
         "Closing"
       ],
-      "sourceTextSummary": "Generated from Science - Curiosity, Chapter Chapter 13.",
+      "sourceTextSummary": "Practice questions generated from Science - Curiosity, lesson: Chapter 13.",
       "sourceChapter": "Chapter 13",
       "sourcePdf": "D:\\LX\\all class pdf\\class 8\\Science - Curiosity\\hecu113.pdf",
       "correctItems": [
         {
           "id": "chapter-q05-short-answer-d-1",
-          "text": "point 1",
+          "text": "z Life on Earth has survived for billions of years.",
           "order": 1
         },
         {
           "id": "chapter-q05-short-answer-d-2",
-          "text": "point 2",
+          "text": "What allows it to keep going despite major changes and disasters?",
           "order": 2
         },
         {
           "id": "chapter-q05-short-answer-d-3",
-          "text": "point 3",
+          "text": "z Why don't dogs lay eggs?",
           "order": 3
         },
         {
           "id": "chapter-q05-short-answer-d-4",
-          "text": "closing",
+          "text": "Or hens give birth to live chicks?",
           "order": 4
         },
         {
           "id": "chapter-q05-short-answer-d-5",
-          "text": "you",
+          "text": "z If a spaceship carried soil and water to Mars, could plants start growing there?",
           "order": 5
         },
         {
           "id": "chapter-q05-short-answer-d-6",
-          "text": "it",
+          "text": "Chapter 13 has important ideas that students can explain in simple words.",
           "order": 6
         }
       ],
       "distractors": [
         {
           "id": "chapter-q05-short-answer-d-x1",
-          "text": "Chapter 13 is unrelated to this subject.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option does not match Chapter 13.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x2",
-          "text": "The answer should ignore the facts given in the chapter.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This answer ignores the lesson details.",
+          "misconception": "This option is not supported by the lesson."
         },
         {
           "id": "chapter-q05-short-answer-d-x3",
-          "text": "Only one random word is enough for a complete answer.",
-          "misconception": "Incorrect phrase distractor."
+          "text": "This option is too incomplete for a good answer.",
+          "misconception": "This option is not supported by the lesson."
         }
       ],
       "answerSlots": [
@@ -4420,10 +4421,10 @@
         ]
       },
       "hints": [
-        "Follow the sequence of the concept.",
-        "Leave distractors unused until you submit."
+        "Look for details from Chapter 13.",
+        "Remove options that do not match the lesson."
       ],
-      "modelAnswer": "You may realise that the Earth is interesting and important to us in many ways. It provides us with the air that we breathe, the water that we drink, and the soil that helps in growing crops. The Earth also provides us materials like rock and timber with which we build our homes, buildings, and roads. You must be curious to know what makes the Earth a unique planet which not only allows life like us to exist but also sustains it.",
+      "modelAnswer": "z Life on Earth has survived for billions of years. What allows it to keep going despite major changes and disasters? z Why don't dogs lay eggs? Or hens give birth to live chicks?",
       "scoringRubric": [
         {
           "criterion": "Correct facts",

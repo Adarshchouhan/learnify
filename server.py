@@ -8,6 +8,8 @@ import os
 import re
 import secrets
 import sqlite3
+import subprocess
+import sys
 import time
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
@@ -17,7 +19,25 @@ from urllib.parse import parse_qs, unquote, urlparse
 
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
-DATABASE_URL = os.environ.get("LEARNIFY_DATABASE_URL", "sqlite:///data/learnify.sqlite3")
+
+
+def load_env_file(path: Path) -> None:
+    if not path.exists():
+        return
+    for raw_line in path.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+
+
+load_env_file(ROOT / ".env")
+load_env_file(ROOT / ".env.example")
+
+DATABASE_URL = os.environ.get("LEARNIFY_DATABASE_URL")
+if not DATABASE_URL:
+    DATABASE_URL = "sqlite:////tmp/learnify.sqlite3" if os.environ.get("VERCEL") else "sqlite:///data/learnify.sqlite3"
 if DATABASE_URL.startswith("sqlite:///"):
     configured_db = Path(DATABASE_URL.removeprefix("sqlite:///"))
     DB_PATH = configured_db if configured_db.is_absolute() else ROOT / configured_db
@@ -27,13 +47,19 @@ PRACTICE_JSON = DATA_DIR / "practice" / "class-7" / "science-curiosity" / "life-
 MANIFEST_JSON = DATA_DIR / "manifest" / "class-6-12-pdf-manifest.json"
 CATALOG_JSON = DATA_DIR / "catalog" / "content-catalog.json"
 ACTIVE_DATASETS_JSON = DATA_DIR / "catalog" / "active-datasets.json"
+MIN_CLASS_LEVEL = 1
+MAX_CLASS_LEVEL = 12
 HOST = os.environ.get("LEARNIFY_HOST", "127.0.0.1")
 PORT = int(os.environ.get("LEARNIFY_PORT", "5173"))
 SESSION_TTL_SECONDS = int(os.environ.get("LEARNIFY_SESSION_TTL_SECONDS", str(60 * 60 * 24 * 7)))
 MAX_BODY_BYTES = 128 * 1024
+IMAGE_GENERATOR_SCRIPT = ROOT / "scripts" / "generate_sdxl_lightning.py"
+IMAGE_OUTPUT_DIR = ROOT / os.environ.get("LEARNIFY_IMAGE_OUTPUT_DIR", "assets/generated/sdxl-lightning")
+IMAGE_PYTHON = os.environ.get("LEARNIFY_IMAGE_PYTHON", sys.executable)
+IMAGE_GENERATION_TIMEOUT_SECONDS = int(os.environ.get("LEARNIFY_IMAGE_TIMEOUT_SECONDS", "900"))
 STUDENT_CATALOG_STATUSES = {
     status.strip()
-    for status in os.environ.get("LEARNIFY_STUDENT_CATALOG_STATUSES", "active,generated").split(",")
+    for status in os.environ.get("LEARNIFY_STUDENT_CATALOG_STATUSES", "active").split(",")
     if status.strip()
 }
 
@@ -334,6 +360,8 @@ class LearnifyHandler(BaseHTTPRequestHandler):
             return self.handle_save_review()
         if parsed.path == "/api/teacher/assignments":
             return self.handle_create_assignment()
+        if parsed.path == "/api/admin/image-generation":
+            return self.handle_admin_image_generation()
         return self.send_json({"error": "Not found"}, HTTPStatus.NOT_FOUND)
 
     def check_rate_limit(self, path: str) -> bool:
@@ -466,8 +494,8 @@ class LearnifyHandler(BaseHTTPRequestHandler):
         password_errors = validate_password(password)
         if password_errors:
             errors["password"] = password_errors
-        if class_level < 6 or class_level > 12:
-            errors["classLevel"] = "Choose a class from 6 to 12."
+        if class_level < MIN_CLASS_LEVEL or class_level > MAX_CLASS_LEVEL:
+            errors["classLevel"] = f"Choose a class from {MIN_CLASS_LEVEL} to {MAX_CLASS_LEVEL}."
         if errors:
             return self.send_json({"error": "Validation failed.", "fields": errors}, HTTPStatus.BAD_REQUEST)
 
@@ -637,7 +665,7 @@ class LearnifyHandler(BaseHTTPRequestHandler):
         dataset_path = str(body.get("datasetPath", "")).strip()[:240]
         class_level = int(body.get("classLevel", 7) or 7)
         due_at = body.get("dueAt")
-        if not title or not dataset_path or class_level < 6 or class_level > 12:
+        if not title or not dataset_path or class_level < MIN_CLASS_LEVEL or class_level > MAX_CLASS_LEVEL:
             return self.send_json({"error": "Invalid assignment payload."}, HTTPStatus.BAD_REQUEST)
         if not resolve_dataset_path(dataset_path):
             return self.send_json({"error": "Dataset not found."}, HTTPStatus.BAD_REQUEST)
@@ -650,6 +678,79 @@ class LearnifyHandler(BaseHTTPRequestHandler):
                 (user["id"], title, dataset_path, class_level, int(due_at) if due_at else None, now()),
             )
         return self.send_json({"ok": True, "id": cursor.lastrowid}, HTTPStatus.CREATED)
+
+    def handle_admin_image_generation(self) -> None:
+        auth = self.require_reviewer()
+        if not auth:
+            return
+        _user, session = auth
+        if not self.require_csrf(session):
+            return
+        body = self.read_json_body()
+        if body is None:
+            return
+
+        prompt = str(body.get("prompt", "")).strip()
+        negative_prompt = str(body.get("negativePrompt", "")).strip()
+        name = str(body.get("name", "")).strip()
+        try:
+            width = int(body.get("width", 1024))
+            height = int(body.get("height", 1024))
+            steps = int(body.get("steps", 4))
+            seed_value = body.get("seed", None)
+            seed = int(seed_value) if seed_value not in (None, "") else None
+        except (TypeError, ValueError):
+            return self.send_json({"error": "Invalid image generation settings."}, HTTPStatus.BAD_REQUEST)
+
+        if not prompt or len(prompt) > 1200:
+            return self.send_json({"error": "Prompt must be between 1 and 1200 characters."}, HTTPStatus.BAD_REQUEST)
+        if width < 512 or height < 512 or width > 1536 or height > 1536 or width % 8 or height % 8:
+            return self.send_json({"error": "Width and height must be multiples of 8 between 512 and 1536."}, HTTPStatus.BAD_REQUEST)
+        if steps not in {2, 4, 8}:
+            return self.send_json({"error": "SDXL-Lightning steps must be 2, 4, or 8."}, HTTPStatus.BAD_REQUEST)
+
+        IMAGE_OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+        command = [
+            IMAGE_PYTHON,
+            str(IMAGE_GENERATOR_SCRIPT),
+            prompt,
+            "--negative-prompt",
+            negative_prompt,
+            "--name",
+            name,
+            "--out-dir",
+            str(IMAGE_OUTPUT_DIR),
+            "--width",
+            str(width),
+            "--height",
+            str(height),
+            "--steps",
+            str(steps),
+        ]
+        if seed is not None:
+            command.extend(["--seed", str(seed)])
+
+        try:
+            result = subprocess.run(
+                command,
+                cwd=ROOT,
+                check=False,
+                capture_output=True,
+                text=True,
+                timeout=IMAGE_GENERATION_TIMEOUT_SECONDS,
+            )
+        except subprocess.TimeoutExpired:
+            return self.send_json({"error": "Image generation timed out. Try a smaller size or use CUDA."}, HTTPStatus.REQUEST_TIMEOUT)
+
+        if result.returncode != 0:
+            message = (result.stderr or result.stdout or "Image generation failed.").strip()
+            return self.send_json({"error": message[-1200:]}, HTTPStatus.INTERNAL_SERVER_ERROR)
+
+        try:
+            payload = json.loads(result.stdout.strip().splitlines()[-1])
+        except (IndexError, json.JSONDecodeError):
+            return self.send_json({"error": "Image generator returned an invalid response."}, HTTPStatus.INTERNAL_SERVER_ERROR)
+        return self.send_json({"ok": True, "image": payload}, HTTPStatus.CREATED)
 
     def handle_save_review(self) -> None:
         auth = self.require_reviewer()
@@ -766,10 +867,12 @@ class LearnifyHandler(BaseHTTPRequestHandler):
 
 
 def main() -> None:
+    print("Initializing Learnify...", flush=True)
     init_db()
     cleanup_sessions()
+    print(f"Opening server on {HOST}:{PORT}...", flush=True)
     httpd = ThreadingHTTPServer((HOST, PORT), LearnifyHandler)
-    print(f"Learnify running at http://{HOST}:{PORT}")
+    print(f"Learnify running at http://{HOST}:{PORT}", flush=True)
     httpd.serve_forever()
 
 

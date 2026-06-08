@@ -1,0 +1,2443 @@
+{
+  "version": 2,
+  "generatedBy": "scripts/generate_accountancy_topic_table_practice.py",
+  "generatedAt": 1780556830,
+  "source": {
+    "root": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce",
+    "pdfPath": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+    "classLevel": 12,
+    "stream": "Commerce",
+    "subject": "Accountancy",
+    "book": "Accountancy - Financial Accounting - 1",
+    "chapter": "Fundamentals of Partnership and Goodwill",
+    "chapterNumber": 102,
+    "pageCount": null,
+    "extractedCharacterCount": null,
+    "extractionPreview": "Topic-wise table practice for Fundamentals of Partnership and Goodwill.",
+    "questionDesignReferences": [
+      {
+        "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+        "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+      },
+      {
+        "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+        "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+      },
+      {
+        "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+        "url": "https://www.icbse.com/answers/4yg2.html"
+      }
+    ]
+  },
+  "coverage": {
+    "classes": [
+      12
+    ],
+    "streams": [
+      "Commerce"
+    ],
+    "questionTypeCount": 1,
+    "activityCount": 12,
+    "tablePracticeMode": "continuous-table-drag-drop",
+    "topicFocus": "Fundamentals of Partnership and Goodwill"
+  },
+  "chapterQuestions": [
+    {
+      "number": 1,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q01",
+      "question": "Complete the P and L Appropriation table for partners A and B sharing profits 3:2.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    },
+    {
+      "number": 2,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q02",
+      "question": "Use the product method to complete the interest on drawings table for partner C.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    },
+    {
+      "number": 3,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q03",
+      "question": "Complete the fixed capital system table and decide which account records each item.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    },
+    {
+      "number": 4,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q04",
+      "question": "Complete the fluctuating capital account table for partner D.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    },
+    {
+      "number": 5,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q05",
+      "question": "Complete the guarantee table where A guarantees B a minimum profit of Rs 40,000. Profit is Rs 90,000 shared 2:1.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    },
+    {
+      "number": 6,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q06",
+      "question": "Complete the past adjustment table when interest on capital was omitted. A and B share profits 3:2; capitals Rs 1,00,000 and Rs 80,000; interest 10%.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    },
+    {
+      "number": 7,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q07",
+      "question": "Complete the goodwill valuation table using 3 years' purchase of average profit.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    },
+    {
+      "number": 8,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q08",
+      "question": "Complete the weighted average goodwill table using weights 1, 2 and 3 and 2 years' purchase.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    },
+    {
+      "number": 9,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q09",
+      "question": "Complete the super profit goodwill table. Capital employed Rs 5,00,000, normal return 12%, average profit Rs 90,000, goodwill at 4 years' purchase.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    },
+    {
+      "number": 10,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q10",
+      "question": "Complete the capitalisation of average profit table. Average profit Rs 96,000; normal rate 12%; actual capital Rs 6,20,000.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    },
+    {
+      "number": 11,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q11",
+      "question": "Complete the capitalisation of super profit table. Average profit Rs 1,10,000; normal profit Rs 80,000; normal rate 10%.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    },
+    {
+      "number": 12,
+      "groupId": "c12-acc-fundamentals-goodwill-table-q12",
+      "question": "Complete the hidden goodwill table. New partner C brings Rs 1,20,000 for 1/4 share of capital; total actual capital after admission is Rs 4,20,000.",
+      "questionIdentifier": {
+        "label": "Accountancy Table Drag Drop",
+        "primaryType": "data_chart_table",
+        "slotStrategy": "drop-values-in-table-cells",
+        "layout": "calculation table with direct blank cells",
+        "id": "accountancy_table_drag_drop"
+      }
+    }
+  ],
+  "activities": [
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-01",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Complete the P and L Appropriation table for partners A and B sharing profits 3:2.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-c1",
+          "text": "Rs 1,20,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-c2",
+          "text": "Rs 9,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-c3",
+          "text": "Rs 12,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-c4",
+          "text": "Rs 99,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-c5",
+          "text": "Rs 59,400"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-c6",
+          "text": "Rs 39,600"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-x1",
+          "text": "Rs 1,29,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-x2",
+          "text": "Rs 21,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-x3",
+          "text": "Rs 60,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-x4",
+          "text": "Rs 40,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-x5",
+          "text": "Rs 96,000"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-slot-1",
+          "label": "Net profit"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-slot-2",
+          "label": "Interest on capital"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-slot-3",
+          "label": "Salary"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-slot-4",
+          "label": "Residual profit"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-slot-5",
+          "label": "A share"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-01-slot-6",
+          "label": "B share"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-01-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-01-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-01-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-01-c2"
+        ],
+        "c12-acc-fundamentals-goodwill-table-01-slot-3": [
+          "c12-acc-fundamentals-goodwill-table-01-c3"
+        ],
+        "c12-acc-fundamentals-goodwill-table-01-slot-4": [
+          "c12-acc-fundamentals-goodwill-table-01-c4"
+        ],
+        "c12-acc-fundamentals-goodwill-table-01-slot-5": [
+          "c12-acc-fundamentals-goodwill-table-01-c5"
+        ],
+        "c12-acc-fundamentals-goodwill-table-01-slot-6": [
+          "c12-acc-fundamentals-goodwill-table-01-c6"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "Net profit: Rs 1,20,000, Interest on capital: Rs 9,000, Salary: Rs 12,000, Residual profit: Rs 99,000, A share: Rs 59,400, B share: Rs 39,600",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Profit and Loss Appropriation Account",
+        "dropMode": "table-cells",
+        "headers": [
+          "Particular",
+          "Given data",
+          "Working / blank",
+          "Treatment"
+        ],
+        "rows": [
+          [
+            "Net profit",
+            "Rs 1,20,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-01-slot-1",
+              "label": "Net profit"
+            },
+            "Start with profit before appropriations"
+          ],
+          [
+            "Interest on capital",
+            "A Rs 50,000 at 10%; B Rs 40,000 at 10%",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-01-slot-2",
+              "label": "Interest on capital"
+            },
+            "Debit appropriation account"
+          ],
+          [
+            "Partner salary",
+            "A salary Rs 12,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-01-slot-3",
+              "label": "Salary"
+            },
+            "Debit appropriation account"
+          ],
+          [
+            "Residual profit",
+            "Profit after above appropriations",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-01-slot-4",
+              "label": "Residual profit"
+            },
+            "Divide in 3:2"
+          ],
+          [
+            "A share of residual profit",
+            "Residual profit in 3:2",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-01-slot-5",
+              "label": "A share"
+            },
+            "Credit A capital/current account"
+          ],
+          [
+            "B share of residual profit",
+            "Residual profit in 3:2",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-01-slot-6",
+              "label": "B share"
+            },
+            "Credit B capital/current account"
+          ]
+        ],
+        "question": "Complete the P and L Appropriation table for partners A and B sharing profits 3:2."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    },
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-02",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Use the product method to complete the interest on drawings table for partner C.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-c1",
+          "text": "72,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-c2",
+          "text": "36,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-c3",
+          "text": "30,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-c4",
+          "text": "1,38,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-c5",
+          "text": "Rs 1,150"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-x1",
+          "text": "Rs 13,800"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-x2",
+          "text": "1,50,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-x3",
+          "text": "54,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-x4",
+          "text": "Rs 1,250"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-x5",
+          "text": "1,08,000"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-slot-1",
+          "label": "Product 1"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-slot-2",
+          "label": "Product 2"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-slot-3",
+          "label": "Product 3"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-slot-4",
+          "label": "Total product"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-02-slot-5",
+          "label": "Interest on drawings"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-02-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-02-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-02-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-02-c2"
+        ],
+        "c12-acc-fundamentals-goodwill-table-02-slot-3": [
+          "c12-acc-fundamentals-goodwill-table-02-c3"
+        ],
+        "c12-acc-fundamentals-goodwill-table-02-slot-4": [
+          "c12-acc-fundamentals-goodwill-table-02-c4"
+        ],
+        "c12-acc-fundamentals-goodwill-table-02-slot-5": [
+          "c12-acc-fundamentals-goodwill-table-02-c5"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "Product 1: 72,000, Product 2: 36,000, Product 3: 30,000, Total product: 1,38,000, Interest on drawings: Rs 1,150",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Interest on Drawings Product Method",
+        "dropMode": "table-cells",
+        "headers": [
+          "Date",
+          "Drawings",
+          "Months to year end",
+          "Product",
+          "Interest blank"
+        ],
+        "rows": [
+          [
+            "1 Apr",
+            "Rs 6,000",
+            "12",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-02-slot-1",
+              "label": "Product 1"
+            },
+            "Use amount x months"
+          ],
+          [
+            "1 Jul",
+            "Rs 4,000",
+            "9",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-02-slot-2",
+              "label": "Product 2"
+            },
+            "Use amount x months"
+          ],
+          [
+            "1 Oct",
+            "Rs 5,000",
+            "6",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-02-slot-3",
+              "label": "Product 3"
+            },
+            "Use amount x months"
+          ],
+          [
+            "Total product",
+            "Rate 10% p.a.",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-02-slot-4",
+              "label": "Total product"
+            },
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-02-slot-5",
+              "label": "Interest on drawings"
+            },
+            "Interest = product x 10 / 12 / 100"
+          ]
+        ],
+        "question": "Use the product method to complete the interest on drawings table for partner C."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    },
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-03",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Complete the fixed capital system table and decide which account records each item.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-c1",
+          "text": "Capital A/c"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-c2",
+          "text": "Current A/c"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-c3",
+          "text": "Current A/c"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-c4",
+          "text": "Current A/c"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-c5",
+          "text": "Rs 50,000"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-x1",
+          "text": "Revaluation A/c"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-x2",
+          "text": "Rs 30,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-x3",
+          "text": "Bank A/c"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-x4",
+          "text": "Rs 65,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-x5",
+          "text": "Goodwill A/c"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-slot-1",
+          "label": "Capital account"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-slot-2",
+          "label": "Interest account"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-slot-3",
+          "label": "Drawings account"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-slot-4",
+          "label": "Profit account"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-03-slot-5",
+          "label": "Net credit"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-03-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-03-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-03-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-03-c2"
+        ],
+        "c12-acc-fundamentals-goodwill-table-03-slot-3": [
+          "c12-acc-fundamentals-goodwill-table-03-c3"
+        ],
+        "c12-acc-fundamentals-goodwill-table-03-slot-4": [
+          "c12-acc-fundamentals-goodwill-table-03-c4"
+        ],
+        "c12-acc-fundamentals-goodwill-table-03-slot-5": [
+          "c12-acc-fundamentals-goodwill-table-03-c5"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "Capital account: Capital A/c, Interest account: Current A/c, Drawings account: Current A/c, Profit account: Current A/c, Net credit: Rs 50,000",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Fixed Capital Accounts",
+        "dropMode": "table-cells",
+        "headers": [
+          "Item",
+          "Amount",
+          "Account to use",
+          "Effect"
+        ],
+        "rows": [
+          [
+            "Opening capital A",
+            "Rs 2,00,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-03-slot-1",
+              "label": "Capital account"
+            },
+            "Fixed balance normally unchanged"
+          ],
+          [
+            "Interest on capital A",
+            "Rs 20,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-03-slot-2",
+              "label": "Interest account"
+            },
+            "Record in current account"
+          ],
+          [
+            "Drawings A",
+            "Rs 15,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-03-slot-3",
+              "label": "Drawings account"
+            },
+            "Record in current account"
+          ],
+          [
+            "Share of profit A",
+            "Rs 45,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-03-slot-4",
+              "label": "Profit account"
+            },
+            "Record in current account"
+          ],
+          [
+            "A current account net credit",
+            "20,000 - 15,000 + 45,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-03-slot-5",
+              "label": "Net credit"
+            },
+            "Closing current account balance"
+          ]
+        ],
+        "question": "Complete the fixed capital system table and decide which account records each item."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    },
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-04",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Complete the fluctuating capital account table for partner D.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-c1",
+          "text": "Rs 1,80,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-c2",
+          "text": "Rs 18,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-c3",
+          "text": "Rs 25,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-c4",
+          "text": "Rs 1,500"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-c5",
+          "text": "Rs 36,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-c6",
+          "text": "Rs 2,07,500"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-x1",
+          "text": "Rs 1,72,500"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-x2",
+          "text": "Rs 2,22,500"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-x3",
+          "text": "Rs 43,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-x4",
+          "text": "Rs 26,500"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-x5",
+          "text": "Rs 1,98,500"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-slot-1",
+          "label": "Opening"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-slot-2",
+          "label": "Interest capital"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-slot-3",
+          "label": "Drawings"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-slot-4",
+          "label": "Interest drawings"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-slot-5",
+          "label": "Profit share"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-04-slot-6",
+          "label": "Closing capital"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-04-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-04-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-04-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-04-c2"
+        ],
+        "c12-acc-fundamentals-goodwill-table-04-slot-3": [
+          "c12-acc-fundamentals-goodwill-table-04-c3"
+        ],
+        "c12-acc-fundamentals-goodwill-table-04-slot-4": [
+          "c12-acc-fundamentals-goodwill-table-04-c4"
+        ],
+        "c12-acc-fundamentals-goodwill-table-04-slot-5": [
+          "c12-acc-fundamentals-goodwill-table-04-c5"
+        ],
+        "c12-acc-fundamentals-goodwill-table-04-slot-6": [
+          "c12-acc-fundamentals-goodwill-table-04-c6"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "Opening: Rs 1,80,000, Interest capital: Rs 18,000, Drawings: Rs 25,000, Interest drawings: Rs 1,500, Profit share: Rs 36,000, Closing capital: Rs 2,07,500",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Fluctuating Capital Accounts",
+        "dropMode": "table-cells",
+        "headers": [
+          "Particular",
+          "Amount",
+          "Blank to fill",
+          "Capital account effect"
+        ],
+        "rows": [
+          [
+            "Opening capital",
+            "Rs 1,80,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-04-slot-1",
+              "label": "Opening"
+            },
+            "Credit balance brought down"
+          ],
+          [
+            "Interest on capital",
+            "Rs 18,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-04-slot-2",
+              "label": "Interest capital"
+            },
+            "Credit partner"
+          ],
+          [
+            "Drawings",
+            "Rs 25,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-04-slot-3",
+              "label": "Drawings"
+            },
+            "Debit partner"
+          ],
+          [
+            "Interest on drawings",
+            "Rs 1,500",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-04-slot-4",
+              "label": "Interest drawings"
+            },
+            "Debit partner"
+          ],
+          [
+            "Share of profit",
+            "Rs 36,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-04-slot-5",
+              "label": "Profit share"
+            },
+            "Credit partner"
+          ],
+          [
+            "Closing capital",
+            "Compute",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-04-slot-6",
+              "label": "Closing capital"
+            },
+            "Final credit balance"
+          ]
+        ],
+        "question": "Complete the fluctuating capital account table for partner D."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    },
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-05",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Complete the guarantee table where A guarantees B a minimum profit of Rs 40,000. Profit is Rs 90,000 shared 2:1.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-c1",
+          "text": "Rs 60,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-c2",
+          "text": "Debit Rs 10,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-c3",
+          "text": "Rs 50,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-c4",
+          "text": "Rs 30,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-c5",
+          "text": "Credit Rs 10,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-c6",
+          "text": "Rs 40,000"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-x1",
+          "text": "Rs 45,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-x2",
+          "text": "Credit Rs 5,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-x3",
+          "text": "Debit Rs 20,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-x4",
+          "text": "Rs 55,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-x5",
+          "text": "Rs 35,000"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-slot-1",
+          "label": "A normal"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-slot-2",
+          "label": "A adjustment"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-slot-3",
+          "label": "A final"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-slot-4",
+          "label": "B normal"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-slot-5",
+          "label": "B adjustment"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-05-slot-6",
+          "label": "B final"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-05-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-05-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-05-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-05-c2"
+        ],
+        "c12-acc-fundamentals-goodwill-table-05-slot-3": [
+          "c12-acc-fundamentals-goodwill-table-05-c3"
+        ],
+        "c12-acc-fundamentals-goodwill-table-05-slot-4": [
+          "c12-acc-fundamentals-goodwill-table-05-c4"
+        ],
+        "c12-acc-fundamentals-goodwill-table-05-slot-5": [
+          "c12-acc-fundamentals-goodwill-table-05-c5"
+        ],
+        "c12-acc-fundamentals-goodwill-table-05-slot-6": [
+          "c12-acc-fundamentals-goodwill-table-05-c6"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "A normal: Rs 60,000, A adjustment: Debit Rs 10,000, A final: Rs 50,000, B normal: Rs 30,000, B adjustment: Credit Rs 10,000, B final: Rs 40,000",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Guarantee of Profit",
+        "dropMode": "table-cells",
+        "headers": [
+          "Partner",
+          "Normal share",
+          "Guarantee adjustment",
+          "Final share"
+        ],
+        "rows": [
+          [
+            "A",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-05-slot-1",
+              "label": "A normal"
+            },
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-05-slot-2",
+              "label": "A adjustment"
+            },
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-05-slot-3",
+              "label": "A final"
+            }
+          ],
+          [
+            "B",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-05-slot-4",
+              "label": "B normal"
+            },
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-05-slot-5",
+              "label": "B adjustment"
+            },
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-05-slot-6",
+              "label": "B final"
+            }
+          ]
+        ],
+        "question": "Complete the guarantee table where A guarantees B a minimum profit of Rs 40,000. Profit is Rs 90,000 shared 2:1."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    },
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-06",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Complete the past adjustment table when interest on capital was omitted. A and B share profits 3:2; capitals Rs 1,00,000 and Rs 80,000; interest 10%.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-c1",
+          "text": "Rs 10,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-c2",
+          "text": "Rs 10,800 debit"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-c3",
+          "text": "Debit Rs 800"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-c4",
+          "text": "Rs 8,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-c5",
+          "text": "Rs 7,200 debit"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-c6",
+          "text": "Credit Rs 800"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-x1",
+          "text": "Credit Rs 800"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-x2",
+          "text": "Rs 9,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-x3",
+          "text": "Debit Rs 1,800"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-x4",
+          "text": "Rs 18,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-x5",
+          "text": "Rs 6,000"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-slot-1",
+          "label": "A interest"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-slot-2",
+          "label": "A profit effect"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-slot-3",
+          "label": "A net"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-slot-4",
+          "label": "B interest"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-slot-5",
+          "label": "B profit effect"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-06-slot-6",
+          "label": "B net"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-06-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-06-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-06-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-06-c2"
+        ],
+        "c12-acc-fundamentals-goodwill-table-06-slot-3": [
+          "c12-acc-fundamentals-goodwill-table-06-c3"
+        ],
+        "c12-acc-fundamentals-goodwill-table-06-slot-4": [
+          "c12-acc-fundamentals-goodwill-table-06-c4"
+        ],
+        "c12-acc-fundamentals-goodwill-table-06-slot-5": [
+          "c12-acc-fundamentals-goodwill-table-06-c5"
+        ],
+        "c12-acc-fundamentals-goodwill-table-06-slot-6": [
+          "c12-acc-fundamentals-goodwill-table-06-c6"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "A interest: Rs 10,000, A profit effect: Rs 10,800 debit, A net: Debit Rs 800, B interest: Rs 8,000, B profit effect: Rs 7,200 debit, B net: Credit Rs 800",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Past Adjustment",
+        "dropMode": "table-cells",
+        "headers": [
+          "Partner",
+          "Interest omitted",
+          "Already profit effect",
+          "Net adjustment"
+        ],
+        "rows": [
+          [
+            "A",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-06-slot-1",
+              "label": "A interest"
+            },
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-06-slot-2",
+              "label": "A profit effect"
+            },
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-06-slot-3",
+              "label": "A net"
+            }
+          ],
+          [
+            "B",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-06-slot-4",
+              "label": "B interest"
+            },
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-06-slot-5",
+              "label": "B profit effect"
+            },
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-06-slot-6",
+              "label": "B net"
+            }
+          ]
+        ],
+        "question": "Complete the past adjustment table when interest on capital was omitted. A and B share profits 3:2; capitals Rs 1,00,000 and Rs 80,000; interest 10%."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    },
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-07",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Complete the goodwill valuation table using 3 years' purchase of average profit.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-c1",
+          "text": "Rs 80,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-c2",
+          "text": "Rs 1,00,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-c3",
+          "text": "Rs 1,20,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-c4",
+          "text": "Rs 1,00,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-c5",
+          "text": "Rs 3,00,000"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-x1",
+          "text": "Rs 2,00,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-x2",
+          "text": "Rs 90,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-x3",
+          "text": "Rs 3,60,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-x4",
+          "text": "Rs 1,50,000"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-slot-1",
+          "label": "2021"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-slot-2",
+          "label": "2022"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-slot-3",
+          "label": "2023"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-slot-4",
+          "label": "Average"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-07-slot-5",
+          "label": "Goodwill"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-07-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-07-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-07-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-07-c2"
+        ],
+        "c12-acc-fundamentals-goodwill-table-07-slot-3": [
+          "c12-acc-fundamentals-goodwill-table-07-c3"
+        ],
+        "c12-acc-fundamentals-goodwill-table-07-slot-4": [
+          "c12-acc-fundamentals-goodwill-table-07-c4"
+        ],
+        "c12-acc-fundamentals-goodwill-table-07-slot-5": [
+          "c12-acc-fundamentals-goodwill-table-07-c5"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "2021: Rs 80,000, 2022: Rs 1,00,000, 2023: Rs 1,20,000, Average: Rs 1,00,000, Goodwill: Rs 3,00,000",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Average Profit Method of Goodwill",
+        "dropMode": "table-cells",
+        "headers": [
+          "Year / step",
+          "Profit",
+          "Blank",
+          "Rule"
+        ],
+        "rows": [
+          [
+            "2021",
+            "Rs 80,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-07-slot-1",
+              "label": "2021"
+            },
+            "Include in total"
+          ],
+          [
+            "2022",
+            "Rs 1,00,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-07-slot-2",
+              "label": "2022"
+            },
+            "Include in total"
+          ],
+          [
+            "2023",
+            "Rs 1,20,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-07-slot-3",
+              "label": "2023"
+            },
+            "Include in total"
+          ],
+          [
+            "Average profit",
+            "Total / 3",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-07-slot-4",
+              "label": "Average"
+            },
+            "Calculate average"
+          ],
+          [
+            "Goodwill",
+            "Average profit x 3",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-07-slot-5",
+              "label": "Goodwill"
+            },
+            "3 years' purchase"
+          ]
+        ],
+        "question": "Complete the goodwill valuation table using 3 years' purchase of average profit."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    },
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-08",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Complete the weighted average goodwill table using weights 1, 2 and 3 and 2 years' purchase.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-c1",
+          "text": "Rs 60,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-c2",
+          "text": "Rs 1,50,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-c3",
+          "text": "Rs 2,70,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-c4",
+          "text": "Rs 80,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-c5",
+          "text": "Rs 1,60,000"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-x1",
+          "text": "Rs 75,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-x2",
+          "text": "Rs 2,25,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-x3",
+          "text": "Rs 1,80,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-x4",
+          "text": "Rs 4,80,000"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-slot-1",
+          "label": "Weighted 2021"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-slot-2",
+          "label": "Weighted 2022"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-slot-3",
+          "label": "Weighted 2023"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-slot-4",
+          "label": "Weighted average"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-08-slot-5",
+          "label": "Goodwill"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-08-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-08-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-08-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-08-c2"
+        ],
+        "c12-acc-fundamentals-goodwill-table-08-slot-3": [
+          "c12-acc-fundamentals-goodwill-table-08-c3"
+        ],
+        "c12-acc-fundamentals-goodwill-table-08-slot-4": [
+          "c12-acc-fundamentals-goodwill-table-08-c4"
+        ],
+        "c12-acc-fundamentals-goodwill-table-08-slot-5": [
+          "c12-acc-fundamentals-goodwill-table-08-c5"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "Weighted 2021: Rs 60,000, Weighted 2022: Rs 1,50,000, Weighted 2023: Rs 2,70,000, Weighted average: Rs 80,000, Goodwill: Rs 1,60,000",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Weighted Average Profit Method",
+        "dropMode": "table-cells",
+        "headers": [
+          "Year",
+          "Profit",
+          "Weight",
+          "Weighted profit"
+        ],
+        "rows": [
+          [
+            "2021",
+            "Rs 60,000",
+            "1",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-08-slot-1",
+              "label": "Weighted 2021"
+            }
+          ],
+          [
+            "2022",
+            "Rs 75,000",
+            "2",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-08-slot-2",
+              "label": "Weighted 2022"
+            }
+          ],
+          [
+            "2023",
+            "Rs 90,000",
+            "3",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-08-slot-3",
+              "label": "Weighted 2023"
+            }
+          ],
+          [
+            "Weighted average",
+            "Total weighted profit / 6",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-08-slot-4",
+              "label": "Weighted average"
+            },
+            "Goodwill = weighted average x 2"
+          ],
+          [
+            "Goodwill",
+            "2 years' purchase",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-08-slot-5",
+              "label": "Goodwill"
+            },
+            "Final value"
+          ]
+        ],
+        "question": "Complete the weighted average goodwill table using weights 1, 2 and 3 and 2 years' purchase."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    },
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-09",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Complete the super profit goodwill table. Capital employed Rs 5,00,000, normal return 12%, average profit Rs 90,000, goodwill at 4 years' purchase.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-09-c1",
+          "text": "Rs 60,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-09-c2",
+          "text": "Rs 30,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-09-c3",
+          "text": "Rs 1,20,000"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-09-x1",
+          "text": "Rs 90,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-09-x2",
+          "text": "Rs 3,60,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-09-x3",
+          "text": "Rs 50,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-09-x4",
+          "text": "Rs 1,50,000"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-09-slot-1",
+          "label": "Normal profit"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-09-slot-2",
+          "label": "Super profit"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-09-slot-3",
+          "label": "Goodwill"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-09-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-09-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-09-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-09-c2"
+        ],
+        "c12-acc-fundamentals-goodwill-table-09-slot-3": [
+          "c12-acc-fundamentals-goodwill-table-09-c3"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "Normal profit: Rs 60,000, Super profit: Rs 30,000, Goodwill: Rs 1,20,000",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Super Profit Method",
+        "dropMode": "table-cells",
+        "headers": [
+          "Step",
+          "Given / formula",
+          "Blank",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "Normal profit",
+            "5,00,000 x 12%",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-09-slot-1",
+              "label": "Normal profit"
+            },
+            "Expected profit"
+          ],
+          [
+            "Super profit",
+            "Average profit - normal profit",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-09-slot-2",
+              "label": "Super profit"
+            },
+            "Excess profit"
+          ],
+          [
+            "Goodwill",
+            "Super profit x 4",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-09-slot-3",
+              "label": "Goodwill"
+            },
+            "Value of goodwill"
+          ]
+        ],
+        "question": "Complete the super profit goodwill table. Capital employed Rs 5,00,000, normal return 12%, average profit Rs 90,000, goodwill at 4 years' purchase."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    },
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-10",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Complete the capitalisation of average profit table. Average profit Rs 96,000; normal rate 12%; actual capital Rs 6,20,000.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-10-c1",
+          "text": "Rs 8,00,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-10-c2",
+          "text": "Rs 6,20,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-10-c3",
+          "text": "Rs 1,80,000"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-10-x1",
+          "text": "Rs 1,20,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-10-x2",
+          "text": "Rs 7,16,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-10-x3",
+          "text": "Rs 2,00,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-10-x4",
+          "text": "Rs 96,000"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-10-slot-1",
+          "label": "Capitalised value"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-10-slot-2",
+          "label": "Actual capital"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-10-slot-3",
+          "label": "Goodwill"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-10-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-10-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-10-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-10-c2"
+        ],
+        "c12-acc-fundamentals-goodwill-table-10-slot-3": [
+          "c12-acc-fundamentals-goodwill-table-10-c3"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "Capitalised value: Rs 8,00,000, Actual capital: Rs 6,20,000, Goodwill: Rs 1,80,000",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Capitalisation of Average Profit",
+        "dropMode": "table-cells",
+        "headers": [
+          "Step",
+          "Formula",
+          "Blank",
+          "Rule"
+        ],
+        "rows": [
+          [
+            "Capitalised value",
+            "Average profit x 100 / normal rate",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-10-slot-1",
+              "label": "Capitalised value"
+            },
+            "Value of business"
+          ],
+          [
+            "Actual capital",
+            "Given",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-10-slot-2",
+              "label": "Actual capital"
+            },
+            "Capital employed"
+          ],
+          [
+            "Goodwill",
+            "Capitalised value - actual capital",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-10-slot-3",
+              "label": "Goodwill"
+            },
+            "Final goodwill"
+          ]
+        ],
+        "question": "Complete the capitalisation of average profit table. Average profit Rs 96,000; normal rate 12%; actual capital Rs 6,20,000."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    },
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-11",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Complete the capitalisation of super profit table. Average profit Rs 1,10,000; normal profit Rs 80,000; normal rate 10%.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-11-c1",
+          "text": "Rs 30,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-11-c2",
+          "text": "Rs 3,00,000"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-11-x1",
+          "text": "Rs 1,90,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-11-x2",
+          "text": "Rs 80,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-11-x3",
+          "text": "Rs 30,00,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-11-x4",
+          "text": "Rs 1,10,000"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-11-slot-1",
+          "label": "Super profit"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-11-slot-2",
+          "label": "Goodwill"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-11-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-11-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-11-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-11-c2"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "Super profit: Rs 30,000, Goodwill: Rs 3,00,000",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Capitalisation of Super Profit",
+        "dropMode": "table-cells",
+        "headers": [
+          "Step",
+          "Formula",
+          "Blank",
+          "Rule"
+        ],
+        "rows": [
+          [
+            "Super profit",
+            "1,10,000 - 80,000",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-11-slot-1",
+              "label": "Super profit"
+            },
+            "Excess profit"
+          ],
+          [
+            "Goodwill",
+            "Super profit x 100 / 10",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-11-slot-2",
+              "label": "Goodwill"
+            },
+            "Capitalised super profit"
+          ]
+        ],
+        "question": "Complete the capitalisation of super profit table. Average profit Rs 1,10,000; normal profit Rs 80,000; normal rate 10%."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    },
+    {
+      "id": "c12-acc-fundamentals-goodwill-table-12",
+      "type": "data_chart_table",
+      "difficulty": "numerical-table",
+      "classLevel": 12,
+      "stream": "Commerce",
+      "subject": "Accountancy",
+      "book": "Accountancy - Financial Accounting - 1",
+      "chapter": "Fundamentals of Partnership and Goodwill",
+      "chapterNumber": 102,
+      "marks": 5,
+      "question": "Complete the hidden goodwill table. New partner C brings Rs 1,20,000 for 1/4 share of capital; total actual capital after admission is Rs 4,20,000.",
+      "instructions": "Calculate the missing values, then drag the correct value chips directly into the blank cells of the table.",
+      "structureHelp": [
+        "Read data",
+        "Calculate",
+        "Place values in table",
+        "Check treatment"
+      ],
+      "sourceTextSummary": "Original Class 12 Accountancy table practice for Fundamentals of Partnership and Goodwill.",
+      "sourceChapter": "Fundamentals of Partnership and Goodwill",
+      "sourcePdf": "C:\\Users\\acer\\Downloads\\all class pdf\\all class pdf\\Class 12\\Commerce\\Accountancy - Financial Accounting - 1\\leac101.pdf",
+      "correctItems": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-12-c1",
+          "text": "Rs 4,80,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-12-c2",
+          "text": "Rs 4,20,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-12-c3",
+          "text": "Rs 60,000"
+        }
+      ],
+      "distractors": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-12-x1",
+          "text": "Rs 30,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-12-x2",
+          "text": "Rs 5,40,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-12-x3",
+          "text": "Rs 1,20,000"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-12-x4",
+          "text": "Rs 90,000"
+        }
+      ],
+      "answerSlots": [
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-12-slot-1",
+          "label": "Capitalised value"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-12-slot-2",
+          "label": "Actual capital"
+        },
+        {
+          "id": "c12-acc-fundamentals-goodwill-table-12-slot-3",
+          "label": "Hidden goodwill"
+        }
+      ],
+      "answerKey": {
+        "c12-acc-fundamentals-goodwill-table-12-slot-1": [
+          "c12-acc-fundamentals-goodwill-table-12-c1"
+        ],
+        "c12-acc-fundamentals-goodwill-table-12-slot-2": [
+          "c12-acc-fundamentals-goodwill-table-12-c2"
+        ],
+        "c12-acc-fundamentals-goodwill-table-12-slot-3": [
+          "c12-acc-fundamentals-goodwill-table-12-c3"
+        ]
+      },
+      "hints": [
+        "Use the ratio named in the row.",
+        "Place only the calculated value that matches the blank."
+      ],
+      "modelAnswer": "Capitalised value: Rs 4,80,000, Actual capital: Rs 4,20,000, Hidden goodwill: Rs 60,000",
+      "scoringRubric": [
+        {
+          "criterion": "Correct calculation",
+          "marks": 2
+        },
+        {
+          "criterion": "Correct account/treatment",
+          "marks": 1
+        },
+        {
+          "criterion": "Correct ratio or partner-wise allocation",
+          "marks": 1
+        },
+        {
+          "criterion": "No irrelevant option placed",
+          "marks": 1
+        }
+      ],
+      "tableData": {
+        "title": "Hidden Goodwill",
+        "dropMode": "table-cells",
+        "headers": [
+          "Step",
+          "Formula",
+          "Blank",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "Capitalised value of firm",
+            "C's capital x 4",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-12-slot-1",
+              "label": "Capitalised value"
+            },
+            "Implied total value"
+          ],
+          [
+            "Actual total capital",
+            "Given",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-12-slot-2",
+              "label": "Actual capital"
+            },
+            "Capital after admission"
+          ],
+          [
+            "Hidden goodwill",
+            "Capitalised value - actual capital",
+            {
+              "slotId": "c12-acc-fundamentals-goodwill-table-12-slot-3",
+              "label": "Hidden goodwill"
+            },
+            "Goodwill not directly stated"
+          ]
+        ],
+        "question": "Complete the hidden goodwill table. New partner C brings Rs 1,20,000 for 1/4 share of capital; total actual capital after admission is Rs 4,20,000."
+      },
+      "questionStyle": "class-12-accountancy-numerical-table-drag-drop",
+      "questionDesignReferences": [
+        {
+          "title": "NCERT Class 12 Accountancy, Accounting for Partnership: Basic Concepts",
+          "url": "https://cbseportal.com/ncert-books/class-12-accountancy-not-for-profit-organisation-and-partnership-accounts"
+        },
+        {
+          "title": "Learn CBSE: Change in Profit Sharing Ratio Important Questions",
+          "url": "https://www.learncbse.in/class-12-accountancy-reconstitution-of-a-partnership-firm-change-in-profit-sharing-ratio-among-the-existing-partners-important-questions-and-answers/"
+        },
+        {
+          "title": "iCBSE: Fundamentals of Partnership and Goodwill CBSE Questions",
+          "url": "https://www.icbse.com/answers/4yg2.html"
+        }
+      ]
+    }
+  ]
+}
