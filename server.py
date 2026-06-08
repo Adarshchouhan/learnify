@@ -15,6 +15,8 @@ from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, unquote, urlparse
+from urllib.error import URLError
+from urllib.request import Request, urlopen
 
 
 ROOT = Path(__file__).resolve().parent
@@ -47,6 +49,10 @@ PRACTICE_JSON = DATA_DIR / "practice" / "class-7" / "science-curiosity" / "life-
 MANIFEST_JSON = DATA_DIR / "manifest" / "class-6-12-pdf-manifest.json"
 CATALOG_JSON = DATA_DIR / "catalog" / "content-catalog.json"
 ACTIVE_DATASETS_JSON = DATA_DIR / "catalog" / "active-datasets.json"
+REMOTE_DATA_BASE = os.environ.get(
+    "LEARNIFY_REMOTE_DATA_BASE",
+    "https://raw.githubusercontent.com/Adarshchouhan/learnify/main/",
+).rstrip("/") + "/"
 MIN_CLASS_LEVEL = 1
 MAX_CLASS_LEVEL = 12
 HOST = os.environ.get("LEARNIFY_HOST", "127.0.0.1")
@@ -72,6 +78,24 @@ def now() -> int:
 
 def json_dumps(data: object) -> bytes:
     return json.dumps(data, ensure_ascii=False, separators=(",", ":")).encode("utf-8")
+
+
+def remote_data_enabled() -> bool:
+    return bool(os.environ.get("VERCEL") or os.environ.get("LEARNIFY_REMOTE_DATA_BASE"))
+
+
+def load_json_resource(path: Path) -> object:
+    if path.exists():
+        return json.loads(path.read_text(encoding="utf-8"))
+    if not remote_data_enabled():
+        raise FileNotFoundError(path)
+    relative = str(path.relative_to(ROOT)).replace("\\", "/")
+    request = Request(f"{REMOTE_DATA_BASE}{relative}", headers={"User-Agent": "Learnify/1.0"})
+    try:
+        with urlopen(request, timeout=20) as response:
+            return json.loads(response.read().decode("utf-8"))
+    except (OSError, URLError, json.JSONDecodeError) as exc:
+        raise FileNotFoundError(path) from exc
 
 
 def init_db() -> None:
@@ -238,15 +262,19 @@ def user_payload(row: sqlite3.Row) -> dict[str, object]:
 
 
 def load_active_paths() -> set[str]:
-    if not ACTIVE_DATASETS_JSON.exists():
+    try:
+        payload = load_json_resource(ACTIVE_DATASETS_JSON)
+    except FileNotFoundError:
         return {str(PRACTICE_JSON.relative_to(ROOT)).replace("\\", "/")}
-    payload = json.loads(ACTIVE_DATASETS_JSON.read_text(encoding="utf-8"))
     return {str(item.get("jsonPath", "")).replace("\\", "/") for item in payload.get("activeDatasets", [])}
 
 
 def discover_datasets(include_all: bool = False) -> list[dict[str, object]]:
-    if CATALOG_JSON.exists():
-        catalog = json.loads(CATALOG_JSON.read_text(encoding="utf-8"))
+    try:
+        catalog = load_json_resource(CATALOG_JSON)
+    except FileNotFoundError:
+        catalog = None
+    if catalog:
         datasets = [dict(item) for item in catalog.get("datasets", [])]
         if not include_all:
             datasets = [item for item in datasets if item.get("status") in STUDENT_CATALOG_STATUSES and item.get("hasJson")]
@@ -298,7 +326,7 @@ def resolve_dataset_path(dataset: str | None) -> Path | None:
     for entry in discover_datasets(include_all=True):
         if dataset in {str(entry.get("id")), str(entry.get("jsonPath"))}:
             candidate = (ROOT / str(entry.get("jsonPath"))).resolve()
-            if ROOT in candidate.parents and candidate.exists():
+            if ROOT in candidate.parents and (candidate.exists() or remote_data_enabled()):
                 return candidate
     return None
 
@@ -448,8 +476,10 @@ class LearnifyHandler(BaseHTTPRequestHandler):
 
     def handle_status(self) -> None:
         catalog = {}
-        if CATALOG_JSON.exists():
-            catalog = json.loads(CATALOG_JSON.read_text(encoding="utf-8"))
+        try:
+            catalog = load_json_resource(CATALOG_JSON)
+        except FileNotFoundError:
+            catalog = {}
         with db() as conn:
             user_count = conn.execute("SELECT COUNT(*) FROM users").fetchone()[0]
             attempt_count = conn.execute("SELECT COUNT(*) FROM progress_events").fetchone()[0]
@@ -545,9 +575,12 @@ class LearnifyHandler(BaseHTTPRequestHandler):
     def handle_practice_data(self, parsed) -> None:
         query = parse_qs(parsed.query)
         dataset_path = resolve_dataset_path(query.get("dataset", [None])[0])
-        if not dataset_path or not dataset_path.exists():
+        if not dataset_path:
             return self.send_json({"error": "Practice JSON has not been generated."}, HTTPStatus.NOT_FOUND)
-        payload = json.loads(dataset_path.read_text(encoding="utf-8"))
+        try:
+            payload = load_json_resource(dataset_path)
+        except FileNotFoundError:
+            return self.send_json({"error": "Practice JSON has not been generated."}, HTTPStatus.NOT_FOUND)
         return self.send_json(payload)
 
     def handle_admin_activities(self, parsed) -> None:
@@ -556,9 +589,12 @@ class LearnifyHandler(BaseHTTPRequestHandler):
             return
         query = parse_qs(parsed.query)
         dataset_path = resolve_dataset_path(query.get("dataset", [None])[0])
-        if not dataset_path or not dataset_path.exists():
+        if not dataset_path:
             return self.send_json({"error": "Dataset not found."}, HTTPStatus.NOT_FOUND)
-        payload = json.loads(dataset_path.read_text(encoding="utf-8"))
+        try:
+            payload = load_json_resource(dataset_path)
+        except FileNotFoundError:
+            return self.send_json({"error": "Dataset not found."}, HTTPStatus.NOT_FOUND)
         activities = payload.get("activities", [])
         return self.send_json(
             {
