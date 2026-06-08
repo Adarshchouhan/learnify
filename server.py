@@ -21,6 +21,11 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
+IS_SERVERLESS = bool(
+    os.environ.get("VERCEL")
+    or os.environ.get("AWS_LAMBDA_FUNCTION_NAME")
+    or str(ROOT).replace("\\", "/").startswith("/var/task")
+)
 
 
 def load_env_file(path: Path) -> None:
@@ -35,13 +40,9 @@ def load_env_file(path: Path) -> None:
 
 
 load_env_file(ROOT / ".env")
-load_env_file(ROOT / ".env.example")
+if not IS_SERVERLESS:
+    load_env_file(ROOT / ".env.example")
 
-IS_SERVERLESS = bool(
-    os.environ.get("VERCEL")
-    or os.environ.get("AWS_LAMBDA_FUNCTION_NAME")
-    or str(ROOT).replace("\\", "/").startswith("/var/task")
-)
 DATABASE_URL = os.environ.get("LEARNIFY_DATABASE_URL")
 if not DATABASE_URL:
     DATABASE_URL = "sqlite:////tmp/learnify.sqlite3" if IS_SERVERLESS else "sqlite:///data/learnify.sqlite3"
