@@ -509,8 +509,11 @@ function sortDatasets(datasets) {
 
 function bookPriority(book) {
   const value = String(book || "").toLowerCase();
-  if (value.includes("financial accounting - 1") || value.includes("financial accounting 1")) return 0;
-  if (value.includes("financial accounting - 2") || value.includes("financial accounting 2")) return 1;
+  if (value.includes("data abstractor question bank")) return 0;
+  if (value.includes("syllabus question bank")) return 1;
+  if (value.includes("board practice question bank")) return 1;
+  if (value.includes("financial accounting - 1") || value.includes("financial accounting 1")) return 2;
+  if (value.includes("financial accounting - 2") || value.includes("financial accounting 2")) return 3;
   return 2;
 }
 
@@ -719,12 +722,13 @@ function renderPractice() {
   els.questionMeta.textContent = `${activity.book} / Chapter ${activity.chapterNumber}: ${activity.chapter}`;
   els.marksText.textContent = activity.marks;
   els.instructionsText.textContent = activity.instructions;
-  els.progressText.textContent = `${modeNumber} / ${state.modes.length}`;
-  els.progressBar.style.width = `${(modeNumber / state.modes.length) * 100}%`;
+  const totalQuestions = Math.max(state.answerGroups.length, 1);
+  els.progressText.textContent = `${state.questionIndex + 1} / ${totalQuestions}`;
+  els.progressBar.style.width = `${((state.questionIndex + 1) / totalQuestions) * 100}%`;
   els.scoreText.textContent = `${state.score} / ${activity.marks}`;
   els.streakText.textContent = state.streak;
   els.placedCount.textContent = `${Math.min(placedCount, expectedCount)} / ${expectedCount} placed`;
-  els.questionNavText.textContent = `Question ${state.questionIndex + 1} / ${state.answerGroups.length}`;
+  els.questionNavText.textContent = `Question ${state.questionIndex + 1} / ${state.answerGroups.length} - Mode ${modeNumber} / ${state.modes.length}`;
   els.prevQuestionButton.disabled = state.answerGroups.length <= 1;
   els.nextQuestionButton.disabled = state.answerGroups.length <= 1;
   els.randomQuestionButton.disabled = state.answerGroups.length <= 1;

@@ -96,6 +96,32 @@ CORE_SUBJECTS_BY_CLASS = {
 }
 
 
+BAD_QUESTION_PATTERNS = [
+    r"\bthis question paper contains\b",
+    r"\ball questions are compulsory\b",
+    r"\bpart\s*-\s*[ab]\b.*\bcompulsory\b",
+    r"\bthere is no overall choice\b",
+    r"\binternal choice has been provided\b",
+    r"\bquestion nos?\.?\s*\d+",
+    r"\bquestions?\s+from\s+\d+",
+    r"\bquestions?\s+nos?\.?\s+from\b",
+    r"\bmaximum marks\b",
+    r"\btime allowed\b",
+    r"\bgeneral instructions\b",
+    r"\bexplain the significance of\b.*\bwith a practical example\b",
+    r"\bhow does\b.*\baffect real-life systems studied in\b",
+    r"\bdifferentiate between two important aspects related to\b",
+    r"\bidentify and correct three common grammar errors\b",
+    r"\btopic:\s*[a-z ]+\.\s*",
+    r"\brelated to\b.*\bin\s+[a-z ]+\b",
+    r"\bstay updated on exams\b",
+    r"\bnew study materials\b",
+    r"\bhindi antra\b",
+    r"\bto bank a/c\b",
+    r"\bby balance b/d\b",
+]
+
+
 def canonical_subject(subject: str) -> str:
     cleaned = re.sub(r"\s+", " ", subject or "").strip()
     return SUBJECT_ALIASES.get(cleaned, cleaned)
@@ -110,6 +136,65 @@ def clean_text(value: str | None, limit: int = 420) -> str:
     if text and text[-1] not in ".?!":
         text += "."
     return text
+
+
+def is_usable_question_row(row: sqlite3.Row, class_level: int, subject: str) -> bool:
+    question = clean_text(row["question_text"], 1200).lower()
+    solution = clean_text(row["solution_text"], 1200).lower()
+    if len(question) < 35:
+        return False
+    if not solution or solution.startswith("model solution for"):
+        return False
+    subject_names = {
+        "accountancy",
+        "biology",
+        "business studies",
+        "chemistry",
+        "economics",
+        "english",
+        "geography",
+        "history",
+        "mathematics",
+        "physics",
+        "political science",
+    }
+    if solution.strip(" .:-") in subject_names:
+        return False
+    if re.fullmatch(r"[a-z ]{3,30}", solution.strip(" .:-")):
+        return False
+    if "can be explained as a core idea in" in solution:
+        return False
+    combined = f"{question} {solution}"
+    if any(re.search(pattern, combined, re.IGNORECASE) for pattern in BAD_QUESTION_PATTERNS):
+        return False
+    if class_level >= 11 and "class 12" in solution and class_level == 11:
+        return False
+    normalized_subject = subject.lower()
+    mismatch_terms = {
+        "accountancy": ["cold war", "human geography", "plant physiology", "chemical bonding", "chemistry", "genetics", "ecology"],
+        "business studies": ["cold war", "human geography", "plant physiology", "chemical bonding", "genetics", "ecology"],
+        "physics": ["human geography", "cold war", "genetics", "ecology", "photosynthesis"],
+        "chemistry": ["human geography", "cold war", "genetics", "ecology", "photosynthesis"],
+        "biology": ["cold war", "human geography"],
+        "mathematics": ["ecology", "grammar errors"],
+        "english": ["vectors", "ecology"],
+    }
+    for key, terms in mismatch_terms.items():
+        if key in normalized_subject and any(term in combined for term in terms):
+            return False
+    other_subject_markers = [
+        "english vistas",
+        "english flamingo",
+        "human geography",
+        "cold war",
+        "ecology in physics",
+        "ecology in chemistry",
+        "ecology in biology",
+    ]
+    if not any(key in normalized_subject for key in ("english", "geography", "history", "biology")):
+        if any(marker in combined for marker in other_subject_markers):
+            return False
+    return True
 
 
 def make_points(row: sqlite3.Row, class_level: int, subject: str) -> list[str]:
@@ -165,7 +250,7 @@ def fetch_question_rows(con: sqlite3.Connection, class_level: int, raw_subjects:
     sql_limit = "" if limit <= 0 else "LIMIT ?"
     params: list[Any] = [str(class_level), *raw_subjects]
     if limit > 0:
-        params.append(limit * 4)
+        params.append(limit * 30)
     rows = con.execute(
         f"""
         SELECT q.id, p.class_level, p.subject, p.title, p.academic_session, p.paper_kind,
@@ -191,6 +276,8 @@ def fetch_question_rows(con: sqlite3.Connection, class_level: int, raw_subjects:
     seen: set[str] = set()
     picked: list[sqlite3.Row] = []
     for row in rows:
+        if not is_usable_question_row(row, class_level, canonical_subject(row["subject"])):
+            continue
         normalized = clean_text(row["question_text"], 260).lower()
         if normalized in seen:
             continue

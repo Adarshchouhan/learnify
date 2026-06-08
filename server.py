@@ -11,6 +11,7 @@ import sqlite3
 import subprocess
 import sys
 import time
+from copy import deepcopy
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -74,6 +75,93 @@ STUDENT_CATALOG_STATUSES = {
     for status in os.environ.get("LEARNIFY_STUDENT_CATALOG_STATUSES", "active").split(",")
     if status.strip()
 }
+MIN_ANSWER_BUILDER_GROUPS = int(os.environ.get("LEARNIFY_MIN_ANSWER_BUILDER_GROUPS", "24"))
+MAX_SYNTHETIC_ANSWER_GROUPS = int(os.environ.get("LEARNIFY_MAX_SYNTHETIC_ANSWER_GROUPS", "24"))
+MIN_STANDARD_QUESTIONS_PER_TYPE = int(os.environ.get("LEARNIFY_MIN_STANDARD_QUESTIONS_PER_TYPE", "12"))
+MAX_SYNTHETIC_STANDARD_PER_TYPE = int(os.environ.get("LEARNIFY_MAX_SYNTHETIC_STANDARD_PER_TYPE", "12"))
+STANDARD_TYPE_TASKS = {
+    "assertion_reason": "judge the assertion and reason, then explain the relationship",
+    "cause_effect": "connect the cause with its effect and justify the link",
+    "choose_correct_ending": "complete the answer with the most accurate ending",
+    "compare_contrast": "compare the two ideas with clear similarities and differences",
+    "data_chart_table": "interpret the given information and draw a reasoned conclusion",
+    "definition_term": "define the key term and explain its important features",
+    "evidence_support_statement": "select evidence and explain how it supports the statement",
+    "explain": "write a detailed board-style explanation",
+    "fill_blanks": "complete the answer using accurate subject vocabulary",
+    "formulate_question": "frame a focused question and answer it with evidence",
+    "identify_main_idea": "identify the main idea and support it with details",
+    "match_following": "match related ideas and explain why each pair belongs together",
+    "multiple_correct_answers": "choose all valid points and justify each selection",
+    "paragraph_essay_structure": "organise the answer into introduction, body and conclusion",
+    "problem_solution": "state the problem, explain the solution and support it",
+    "process_sequence": "arrange the process in logical order and explain each step",
+    "pros_cons": "explain advantages, limitations and a balanced conclusion",
+    "sequencing_steps_process": "place the steps in order and explain the sequence",
+    "short_answer_key_points": "write concise key points with brief explanation",
+    "timeline_chronological_order": "arrange events chronologically and explain their importance",
+    "true_false_not_given": "decide whether the statement is supported and give reasons",
+}
+SENIOR_SUBJECT_FOCUS = {
+    "accountancy": [
+        "journal entries, ledgers and financial statement treatment",
+        "partnership adjustment, goodwill treatment and capital account logic",
+        "share capital, debenture or company account classification",
+        "ratio analysis, cash flow interpretation and reporting conclusion",
+    ],
+    "business studies": [
+        "management principle, function and case-study application",
+        "planning, organising, staffing, directing or controlling decision",
+        "marketing, finance or consumer protection case analysis",
+        "entrepreneurial decision-making with reasoned justification",
+    ],
+    "economics": [
+        "demand, supply and market equilibrium reasoning",
+        "national income, money, banking or government budget analysis",
+        "balance of payments, exchange rate or development indicator interpretation",
+        "Indian economic development with cause, effect and conclusion",
+    ],
+    "physics": [
+        "laws of motion, work-energy reasoning or force analysis",
+        "thermodynamics, waves or oscillation with step-by-step explanation",
+        "electricity, magnetism or optics concept application",
+        "formula selection, units, calculation steps and final inference",
+    ],
+    "chemistry": [
+        "chemical bonding, structure or periodic trend explanation",
+        "stoichiometry, equilibrium or thermodynamics calculation reasoning",
+        "organic reaction, mechanism or functional group identification",
+        "solution, electrochemistry or kinetics data interpretation",
+    ],
+    "biology": [
+        "cell structure, biomolecules or physiology explanation",
+        "genetics, evolution or biotechnology reasoning",
+        "plant and human physiology with labelled process steps",
+        "ecology, environment and evidence-based conclusion",
+    ],
+    "mathematics": [
+        "algebraic method with each calculation step shown",
+        "calculus concept, derivative or integral interpretation",
+        "coordinate geometry, vectors or probability reasoning",
+        "formula selection, substitution, simplification and final answer",
+    ],
+    "english": [
+        "theme, character, tone and textual evidence",
+        "literary device, context and interpretation",
+        "writing task structure, audience and clarity",
+        "extract-based inference with quoted evidence and explanation",
+    ],
+}
+GENERIC_QUESTION_PATTERNS = [
+    re.compile(r"^build a clear answer about chapter\s+\d+\.?$", re.IGNORECASE),
+    re.compile(r"^use the information from chapter\s+\d+\s+to answer clearly\.?$", re.IGNORECASE),
+    re.compile(r"^build a definition from chapter\s+\d+", re.IGNORECASE),
+    re.compile(r"^connect causes and effects from chapter\s+\d+", re.IGNORECASE),
+    re.compile(r"^compare two important ideas from chapter\s+\d+", re.IGNORECASE),
+    re.compile(r"^explain the main idea of chapter\s+\d+", re.IGNORECASE),
+    re.compile(r"business/accounting/economics", re.IGNORECASE),
+    re.compile(r"\b(human geography|cold war|plant physiology|chemical bonding)\b.*\bin\s+(accountancy|business studies|physics)\b", re.IGNORECASE),
+]
 
 RATE_LIMIT: dict[tuple[str, str], list[float]] = {}
 
@@ -338,6 +426,347 @@ def resolve_dataset_path(dataset: str | None) -> Path | None:
     return None
 
 
+def ordered_item_ids(activity: dict[str, object]) -> list[str]:
+    answer_key = activity.get("answerKey") if isinstance(activity.get("answerKey"), dict) else {}
+    if not isinstance(answer_key, dict):
+        return []
+    for key in ("orderedItemIds", "requiredItemIds", "requiredConceptIds"):
+        value = answer_key.get(key)
+        if isinstance(value, list) and value:
+            return [str(item) for item in value]
+    return []
+
+
+def answer_group_count(activities: list[dict[str, object]]) -> int:
+    groups = {
+        str(activity.get("questionGroupId") or activity.get("question") or activity.get("id"))
+        for activity in activities
+        if activity.get("type") == "answer_builder"
+    }
+    return len(groups)
+
+
+def clean_display_text(value: object, class_level: int | None = None) -> str:
+    text = re.sub(r"\s+", " ", str(value or "")).strip()
+    text = text.replace("Â·", "-").replace("â—", "-").replace("â€™", "'")
+    if class_level == 11:
+        text = text.replace("Class 12", "Class 11")
+    return text
+
+
+def is_generic_question(question: object) -> bool:
+    text = clean_display_text(question).strip()
+    if len(text) < 12:
+        return True
+    return any(pattern.search(text) for pattern in GENERIC_QUESTION_PATTERNS)
+
+
+def source_focus(activity: dict[str, object], fallback: str, class_level: int | None = None) -> str:
+    candidates: list[str] = []
+    for key in ("question", "modelAnswer", "sourceTextSummary"):
+        value = clean_display_text(activity.get(key), class_level)
+        if value and not is_generic_question(value):
+            candidates.append(value)
+    for item in activity.get("correctItems") or []:
+        if isinstance(item, dict):
+            value = clean_display_text(item.get("text"), class_level)
+            if value and not is_generic_question(value):
+                candidates.append(value)
+    for candidate in candidates:
+        candidate = re.sub(r"^(The Class \d+ [^:]+ question asks:|The accepted answer direction is:)\s*", "", candidate).strip()
+        if len(candidate) > 22:
+            suffix = "..." if len(candidate) > 260 else ""
+            return candidate[:260].rstrip(" ,;:-") + suffix
+    return clean_display_text(fallback, class_level) or "the selected concept"
+
+
+def detailed_points_from_activity(activity: dict[str, object], fallback: str, count: int, class_level: int | None = None) -> list[str]:
+    text = clean_display_text(activity.get("modelAnswer"), class_level)
+    if not text or is_generic_question(text):
+        text = " ".join(
+            clean_display_text(item.get("text"), class_level)
+            for item in activity.get("correctItems") or []
+            if isinstance(item, dict)
+        )
+    if not text or len(text) < 30:
+        text = clean_display_text(fallback, class_level)
+    pieces = [piece.strip(" -") for piece in re.split(r"(?<=[.!?])\s+", text) if len(piece.strip()) > 12]
+    if len(pieces) < count:
+        focus = source_focus(activity, fallback, class_level)
+        pieces.extend(
+            [
+                f"Start by identifying the exact demand of the question: {focus}.",
+                "Use the relevant concept, formula, provision, event or textual evidence before writing the final point.",
+                "Explain each point in full sentences so the examiner can see the reasoning.",
+                "End with a conclusion that directly answers the command word and avoids unrelated material.",
+            ]
+        )
+    return pieces[:count]
+
+
+def detailed_question(activity_type: str, donor: dict[str, object], source: dict[str, object], index: int) -> str:
+    class_level = int(source.get("classLevel") or donor.get("classLevel") or 0)
+    subject = clean_display_text(source.get("subject") or donor.get("subject") or "the subject", class_level)
+    chapter = clean_display_text(source.get("chapter") or donor.get("chapter") or "this chapter", class_level)
+    focus = source_focus(donor, chapter, class_level)
+    if "board-style practice for" in focus.lower() or focus.lower() == chapter.lower():
+        subject_key = subject.lower()
+        options = next((items for key, items in SENIOR_SUBJECT_FOCUS.items() if key in subject_key), [])
+        if options:
+            focus = options[(index - 1) % len(options)]
+    task = STANDARD_TYPE_TASKS.get(activity_type, "write a detailed answer")
+    return f"Class {class_level} {subject}: {task} for question {index} - {focus}"
+
+
+def rewrite_activity_items_from_donor(activity: dict[str, object], donor: dict[str, object], source: dict[str, object]) -> None:
+    class_level = int(source.get("classLevel") or donor.get("classLevel") or activity.get("classLevel") or 0)
+    fallback = clean_display_text(source.get("chapter") or activity.get("chapter") or "this topic", class_level)
+    correct_items = activity.get("correctItems") if isinstance(activity.get("correctItems"), list) else []
+    distractors = activity.get("distractors") if isinstance(activity.get("distractors"), list) else []
+    points = detailed_points_from_activity(donor, fallback, max(1, len(correct_items)), class_level)
+    for index, item in enumerate(correct_items):
+        if isinstance(item, dict):
+            item["text"] = points[index % len(points)]
+    wrong = [
+        "This point is too general and does not answer the command word.",
+        "This option adds unrelated information instead of using the given concept.",
+        "This answer skips reasoning, evidence or working needed for senior-class marks.",
+        "This statement may sound relevant, but it does not support the selected question.",
+    ]
+    for index, item in enumerate(distractors):
+        if isinstance(item, dict):
+            item["text"] = wrong[index % len(wrong)]
+            item["misconception"] = "Generic or unsupported answer."
+
+
+def make_synthetic_answer_builder(
+    source_activity: dict[str, object],
+    source: dict[str, object],
+    group_number: int,
+    difficulty: str,
+) -> dict[str, object]:
+    activity = deepcopy(source_activity)
+    source_id = str(source_activity.get("id") or f"source-{group_number}")
+    group_id = f"synthetic-q{group_number:02d}-{source_id}"
+    activity["id"] = f"{group_id}-answer-builder-{difficulty}"
+    activity["type"] = "answer_builder"
+    activity["difficulty"] = difficulty
+    activity["classLevel"] = source_activity.get("classLevel") or source.get("classLevel")
+    activity["stream"] = source_activity.get("stream") or source.get("stream")
+    activity["subject"] = source_activity.get("subject") or source.get("subject")
+    activity["book"] = source_activity.get("book") or source.get("book")
+    activity["chapter"] = source_activity.get("chapter") or source.get("chapter")
+    activity["chapterNumber"] = source_activity.get("chapterNumber") or source.get("chapterNumber")
+    activity["questionGroupId"] = group_id
+    activity["chapterQuestionNumber"] = group_number
+    activity["marks"] = source_activity.get("marks") or 5
+    activity["sourceTextSummary"] = source_activity.get("sourceTextSummary") or f"Practice question for {source.get('chapter', 'this chapter')}."
+    activity["sourceChapter"] = source_activity.get("sourceChapter") or source.get("chapter")
+    activity["sourcePdf"] = source_activity.get("sourcePdf") or source.get("pdfPath")
+    activity["hints"] = source_activity.get("hints") or [
+        "Read the question first.",
+        "Choose only cards that directly answer it.",
+        "Keep the answer in a clear order.",
+    ]
+    activity["questionIdentifier"] = source_activity.get("questionIdentifier") or {
+        "layoutProfileId": "explain",
+        "layoutLabel": "Explanation Builder",
+        "primaryPracticeType": "explain",
+        "slotStrategy": "structured_answer",
+        "recommendedLayout": "introduction, key points, conclusion",
+    }
+
+    correct_items = activity.get("correctItems") if isinstance(activity.get("correctItems"), list) else []
+    correct_ids = [str(item.get("id")) for item in correct_items if isinstance(item, dict) and item.get("id")]
+    if difficulty == "moderate":
+        activity["instructions"] = "Put the answer parts in the correct order."
+        activity["answerKey"] = {"orderedItemIds": ordered_item_ids(activity) or correct_ids}
+        activity["correctSequence"] = activity["answerKey"]["orderedItemIds"]
+        activity["answerSlots"] = [
+            {"id": f"slot-{index}", "label": f"Part {index}"}
+            for index in range(1, max(2, len(activity["answerKey"]["orderedItemIds"])) + 1)
+        ]
+    elif difficulty == "difficult":
+        activity["instructions"] = "Choose the key cards that answer the question."
+        activity["answerKey"] = {"requiredConceptIds": correct_ids}
+        activity["correctSequence"] = correct_ids
+        activity["answerSlots"] = [
+            {"id": "intro", "label": "Opening"},
+            {"id": "body", "label": "Main answer"},
+            {"id": "end", "label": "Finish"},
+        ]
+    else:
+        activity["instructions"] = "Drag the answer cards into the boxes. Leave wrong cards outside."
+        activity["answerKey"] = {"orderedItemIds": ordered_item_ids(activity) or correct_ids}
+        activity["correctSequence"] = activity["answerKey"]["orderedItemIds"]
+        activity["answerSlots"] = [
+            {"id": f"slot-{index}", "label": f"Sentence {index}"}
+            for index in range(1, max(2, len(activity["answerKey"]["orderedItemIds"])) + 1)
+        ]
+    return activity
+
+
+def make_synthetic_standard_activity(
+    template: dict[str, object],
+    donor: dict[str, object],
+    source: dict[str, object],
+    index: int,
+) -> dict[str, object]:
+    activity = deepcopy(template)
+    activity_type = str(template.get("type") or "practice")
+    class_level = int(source.get("classLevel") or donor.get("classLevel") or template.get("classLevel") or 0)
+    is_upper_grade = class_level >= 11
+    donor_question = (
+        detailed_question(activity_type, donor, source, index)
+        if is_upper_grade
+        else str(donor.get("question") or template.get("question") or source.get("chapter") or "this chapter")
+    )
+    source_id = str(template.get("id") or activity_type)
+    activity["id"] = f"{source_id}-extra-{index:02d}"
+    activity["question"] = donor_question
+    if is_upper_grade:
+        points = detailed_points_from_activity(donor, donor_question, 4, class_level)
+        activity["modelAnswer"] = " ".join(points)
+        activity["instructions"] = f"Build a detailed Class {class_level} answer. Include concept, reasoning, evidence or working, and a direct conclusion."
+        rewrite_activity_items_from_donor(activity, donor, source)
+    else:
+        activity["modelAnswer"] = donor.get("modelAnswer") or template.get("modelAnswer") or donor_question
+    activity["sourceTextSummary"] = donor.get("sourceTextSummary") or template.get("sourceTextSummary") or f"Extra {activity_type} practice for {source.get('chapter', 'this chapter')}."
+    activity["sourceChapter"] = template.get("sourceChapter") or source.get("chapter")
+    activity["sourcePdf"] = template.get("sourcePdf") or source.get("pdfPath")
+    activity["classLevel"] = template.get("classLevel") or donor.get("classLevel") or source.get("classLevel")
+    activity["stream"] = template.get("stream") or donor.get("stream") or source.get("stream")
+    activity["subject"] = template.get("subject") or donor.get("subject") or source.get("subject")
+    activity["book"] = template.get("book") or donor.get("book") or source.get("book")
+    activity["chapter"] = template.get("chapter") or donor.get("chapter") or source.get("chapter")
+    activity["chapterNumber"] = template.get("chapterNumber") or donor.get("chapterNumber") or source.get("chapterNumber")
+    activity["hints"] = template.get("hints") or donor.get("hints") or [
+        "Read the question carefully.",
+        "Use only the cards that match the question.",
+    ]
+    return activity
+
+
+def expand_standard_activity_types(payload: dict[str, object], activities: list[dict[str, object]]) -> list[dict[str, object]]:
+    source = payload.get("source") if isinstance(payload.get("source"), dict) else {}
+    if not isinstance(source, dict):
+        source = {}
+    standard = [activity for activity in activities if activity.get("type") != "answer_builder"]
+    answer_builders = [activity for activity in activities if activity.get("type") == "answer_builder"]
+    donors = [
+        activity
+        for activity in [*answer_builders, *standard]
+        if activity.get("question") and activity.get("modelAnswer")
+    ]
+    if not donors:
+        return activities
+
+    by_type: dict[str, list[dict[str, object]]] = {}
+    for activity in standard:
+        by_type.setdefault(str(activity.get("type")), []).append(activity)
+
+    expanded = list(activities)
+    for activity_type, items in by_type.items():
+        if not activity_type or len(items) >= MIN_STANDARD_QUESTIONS_PER_TYPE:
+            continue
+        target_count = min(MAX_SYNTHETIC_STANDARD_PER_TYPE, MIN_STANDARD_QUESTIONS_PER_TYPE)
+        needed = max(0, target_count - len(items))
+        template = items[0]
+        existing_ids = {str(activity.get("id")) for activity in expanded}
+        written = 0
+        donor_index = 0
+        while written < needed and donor_index < len(donors) * 2:
+            donor = donors[donor_index % len(donors)]
+            donor_index += 1
+            if donor.get("id") == template.get("id"):
+                continue
+            synthetic = make_synthetic_standard_activity(template, donor, source, len(items) + written + 1)
+            if str(synthetic.get("id")) in existing_ids:
+                synthetic["id"] = f"{synthetic.get('id')}-{written + 1}"
+            existing_ids.add(str(synthetic.get("id")))
+            expanded.append(synthetic)
+            written += 1
+    return expanded
+
+
+def improve_upper_grade_activities(payload: dict[str, object], activities: list[dict[str, object]]) -> list[dict[str, object]]:
+    source = payload.get("source") if isinstance(payload.get("source"), dict) else {}
+    if not isinstance(source, dict):
+        source = {}
+    class_level = int(source.get("classLevel") or 0)
+    if class_level < 11:
+        return activities
+    improved: list[dict[str, object]] = []
+    seen_by_type: dict[str, set[str]] = {}
+    answer_group_questions: dict[str, str] = {}
+    donors = [activity for activity in activities if activity.get("modelAnswer") or activity.get("correctItems")] or activities
+    for index, activity in enumerate(activities, start=1):
+        item = deepcopy(activity)
+        activity_type = str(item.get("type") or "practice")
+        seen = seen_by_type.setdefault(activity_type, set())
+        normalized_question = clean_display_text(item.get("question"), class_level).lower()
+        group_id = str(item.get("questionGroupId") or "")
+        duplicate_or_generic = is_generic_question(normalized_question) or (activity_type != "answer_builder" and normalized_question in seen)
+        if duplicate_or_generic:
+            donor = donors[(index - 1) % len(donors)]
+            if activity_type == "answer_builder" and group_id in answer_group_questions:
+                item["question"] = answer_group_questions[group_id]
+            else:
+                item["question"] = detailed_question(activity_type, donor, source, len(seen) + 1)
+                if activity_type == "answer_builder" and group_id:
+                    answer_group_questions[group_id] = str(item["question"])
+            item["modelAnswer"] = " ".join(detailed_points_from_activity(donor, item["question"], 4, class_level))
+            item["instructions"] = f"Write a detailed Class {class_level} answer with concept clarity, step-by-step explanation, and a final conclusion."
+            rewrite_activity_items_from_donor(item, donor, source)
+        else:
+            item["question"] = clean_display_text(item.get("question"), class_level)
+            item["modelAnswer"] = clean_display_text(item.get("modelAnswer"), class_level)
+            item["instructions"] = clean_display_text(item.get("instructions"), class_level)
+            item["hints"] = [clean_display_text(hint, class_level) for hint in item.get("hints") or []]
+        seen.add(clean_display_text(item.get("question"), class_level).lower())
+        improved.append(item)
+    return improved
+
+
+def expand_answer_builder_payload(payload: object) -> object:
+    if not isinstance(payload, dict):
+        return payload
+    activities = payload.get("activities")
+    if not isinstance(activities, list):
+        return payload
+    typed_activities = [activity for activity in activities if isinstance(activity, dict)]
+    existing_groups = answer_group_count(typed_activities)
+    source = payload.get("source") if isinstance(payload.get("source"), dict) else {}
+    if not isinstance(source, dict):
+        source = {}
+    candidates = [
+        activity
+        for activity in typed_activities
+        if activity.get("type") != "answer_builder"
+        and activity.get("question")
+        and isinstance(activity.get("correctItems"), list)
+        and len(activity.get("correctItems") or []) >= 2
+    ]
+    augmented = dict(payload)
+    augmented_activities = expand_standard_activity_types(augmented, [deepcopy(activity) for activity in typed_activities])
+    if candidates and existing_groups < MIN_ANSWER_BUILDER_GROUPS:
+        target_groups = min(MAX_SYNTHETIC_ANSWER_GROUPS, max(MIN_ANSWER_BUILDER_GROUPS, existing_groups))
+        needed_groups = max(0, target_groups - existing_groups)
+        for offset, candidate in enumerate(candidates[:needed_groups], start=1):
+            group_number = existing_groups + offset
+            for difficulty in ("easy", "moderate", "difficult"):
+                augmented_activities.append(make_synthetic_answer_builder(candidate, source, group_number, difficulty))
+    augmented_activities = improve_upper_grade_activities(augmented, augmented_activities)
+    augmented["activities"] = augmented_activities
+    coverage = dict(augmented.get("coverage") if isinstance(augmented.get("coverage"), dict) else {})
+    coverage["activityCount"] = len(augmented_activities)
+    coverage["chapterQuestionCount"] = max(int(coverage.get("chapterQuestionCount") or 0), answer_group_count(augmented_activities))
+    coverage["answerBuilderExpanded"] = answer_group_count(augmented_activities) > existing_groups
+    coverage["standardTypesExpanded"] = len(augmented_activities) > len(typed_activities)
+    augmented["coverage"] = coverage
+    return augmented
+
+
 class LearnifyHandler(BaseHTTPRequestHandler):
     server_version = "LearnifyLocal/1.0"
 
@@ -588,7 +1017,7 @@ class LearnifyHandler(BaseHTTPRequestHandler):
             payload = load_json_resource(dataset_path)
         except FileNotFoundError:
             return self.send_json({"error": "Practice JSON has not been generated."}, HTTPStatus.NOT_FOUND)
-        return self.send_json(payload)
+        return self.send_json(expand_answer_builder_payload(payload))
 
     def handle_admin_activities(self, parsed) -> None:
         auth = self.require_reviewer()
